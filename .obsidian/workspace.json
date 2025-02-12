@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "8cec94d446b8439e",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ecc124df4f041ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "74cc7dbd3d826b8e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "932549d9ad7ea97d",
+    "type": "split",
+    "children": [
+      {
+        "id": "363f2d33302b344f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37ac9f35bf4fca65",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5f69c2a1cc631a95",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "60bdc4a97c55a6e3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 382.5
+  },
+  "right": {
+    "id": "46d6bb0d7a9b7e91",
+    "type": "split",
+    "children": [
+      {
+        "id": "4957913705f940d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a7521c9eab8d2d9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "ffd6ed079d50c246",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "2bcc224348e1ea30",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d0f963cfef2c8bcc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Notas/Untitled.canvas"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Untitled"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "37ac9f35bf4fca65",
+  "lastOpenFiles": [
+    "Old",
+    "Old/Recursos/Geografia/1. Continentes.md",
+    "Old/Recursos/Geografia/Regiões/Fullet.md",
+    "Old/Recursos/Habilidades/Agilidade/Artilharia.md",
+    "Old/Recursos/Geografia/4. Abismos.md",
+    "Old/Recursos/Geografia/Notas (old).md",
+    "Old/Recursos/Geografia/3. Céus.md",
+    "Old/Recursos/Geografia/2. Mares.md",
+    "Old/Recursos/Criaturas/Notas.md",
+    "Recursos/Geografia/6. Civilizações.md",
+    "Recursos/Geografia/Regiões/5. Regiões.md",
+    "Recursos/Geografia/Untitled/7. Masmorras.md",
+    "Old/Recursos/Geografia/Regiões",
+    "Old/Geral/Dicas.md",
+    "Old/Geral/Curiosidades.md",
+    "Old/Outros/Dev/Dicas (construção de mundo).md",
+    "Old/Outros/Dev/Referências.md",
+    "Old/Outros/Dev",
+    "Old/Outros/Dev/Game Design/Arquétipos de Jogadores.md",
+    "Old/Outros/Dev/Game Design/Habilidades Principais.md",
+    "Old/Recursos/Itens/Materiais.md",
+    "Old/Recursos/Itens/Equipamentos.md",
+    "Old/Recursos/Itens/Munição.md",
+    "Old/Recursos/Criaturas",
+    "Old/Recursos/Habilidades/Inteligência/Elemental.md",
+    "Old/Recursos/Habilidades/Inteligência/Sagrado.md",
+    "Old/Recursos/Habilidades/Inteligência/Primal.md",
+    "Old/Recursos/Habilidades/Inteligência/Alquimia.md",
+    "Old/Recursos/Habilidades/Inteligência/Arcano.md",
+    "Outros/Old/História/~$nha do Tempo.docx",
+    "Outros/Old/História/~$eam Mountain 2.docx",
+    "Old/Recursos/Geografia",
+    "Pasted image 20250106145205.png",
+    "Old/Recursos/Itens",
+    "Outros/Old/Recursos/Itens/Equipamentos.txt",
+    "Outros/Old/Recursos/Outros/Atributos.txt",
+    "Outros/Old/História/Dream Mountain 2.docx",
+    "Notas/Untitled.canvas"
+  ]
+}
