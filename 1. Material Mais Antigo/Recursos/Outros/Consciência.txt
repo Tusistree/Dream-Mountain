@@ -84,51 +84,6 @@
     ↪ Intelectual (Possui um conhecimento em classe especial).
 
 
-
-//
-//	///	Interpretação
-//
-
-↪ Ações (Modificadores)
-
-	↪ Força
-
-		↪ Provocação (STR): iniciar conflitos.
-
-		↪ Resistência (STR): suportar uma dificuldade.
-
-		↪ Intimidação (STR): assutar um ser.
-
-		↪ Exercício (STR): exercer uma atividade física.
-
-		↪ Superação (STR): quebrar limitações.
-
-	↪ Agilidade
-
-		↪ Roubo (AGI): adquirir a posse de um item sem o consentimento.
-
-		↪ Trapaça (AGI): cofundir os sentidos de seres.
-
-		↪ Furtividade (AGI): não ser detectado.
-
-		↪ Mobilidade (AGI): poder se movimentar.
-
-		↪ Persuasão (AGI): convencer e manipular seres.
-
-    ↪ Inteligência
-
-		↪ Escrita (INT): habilidade de escrever em qualquer linguagem, ou produzir propriedade intelectual.
-
-		↪ Solução (INT): resolver problemas e enigmas.
-
-		↪ Leitura (INT): ler um texto em alguma linguagem antiga ou desconhecida.
-
-		↪ Criação (INT): produção de algo.
-
-		↪ Percepção (INT): identificar detalhes importantes.
-
-
-
 ///
 ///	///	Hostilidade
 ///

@@ -1,70 +1,59 @@
-↪ O que é Dream Mountain Remastered?
+# O que é Dream Mountain?
 
-    ↪ É um RPG de mesa semi-medieval baseado em um universo de obras que eu escrevo. A proposta é ser um jogo que possa ter várias modalidades como histórias, lutas, aventuras e enigmas.
+É um **RPG de Mesa** baseado em um universo fictício sobre uma **Montanha que realiza desejos**. A proposta é ser um jogo que possa ter várias modalidades como histórias, lutas, aventuras, enigmas e entre outros, com foco na diversidade de estratégias, estilos de jogo e personagem.
 
-    ↪ Dream Mountain é feito para poder incentivar qualquer pessoa a jogar a sua própria maneira, dando recursos para isso, seja habilidades estranhas para personagens exóticos ou itens sérios para fichas mais bem construídas.
+O jogo é feito para poder incentivar qualquer pessoa a jogar a sua própria maneira, dando recursos para isso, seja habilidades estranhas para personagens exóticos ou itens sérios para fichas mais bem construídas.
 
-    ↪ Um dos focos principais de cada campanha é a história, sendo apenas um recurso narrativo para juntar e direcionar o grupo de jogadores, mas os mesmos podem fazer objetivos secundários ou explorar áreas que nem fazem parte do enredo principal.
+Um dos focos principais de cada campanha é a história, sendo apenas um recurso narrativo para juntar e direcionar o grupo de jogadores, mas os mesmos podem fazer objetivos secundários ou explorar áreas que nem fazem parte do enredo principal.
 
-    ↪ Observação: o "Remastered" no nome é porque essa história	existe desde 2014, mas só em 2023 foi realmente escrita e sistematizada, sendo posto em prática na sua primeira campanha: Sul Oculto.
+# Como jogar?
 
+Existem alguns requisitos básicos para poder jogar:
 
-↪ Como jogar?
+* Um bom editor de texto (Visual Studio Code, Sublime Text, Obsidian ou outros).
 
-    ↪ Existem alguns requisitos básicos para poder jogar:
+Também é necessário criar um personagem (que será mais detalhado nos próximos tópicos) e entender como funciona os turnos, principalmente a diferença entre **Plano de Interpretação** e **Plano de Combate**.
 
-        ↪ Um bom editor de texto (Visual Studio Code, Sublime Text, etc).
+# Plano de Interpretação
 
-        ↪ Uma conta no Google
+Inicialmente os personagens começam no "Plano de Interpretação", um modo de jogo onde diálogos e tomadas de decisões são o ponto chave.
 
-    ↪ Para começar a jogar também é necessário criar um personagem (mais detalhado nos próximos tópicos) 
+Nesse modo os jogadores tem liberdade para poder realizar qualquer ação, sem restrições como turnos ou tempo (raramente tendo turnos para todos poderem jogar igualmente, ou tempo se nada estiver progredindo).
 
-    ↪ Entender como funciona os turnos é fundamental para a jogabilidade, principalmente a diferença entre "Plano de Interpretação" e "Plano de Combate".
+Nesse plano os jogadores podem usar qualquer item ou habilidade, desde as **Interpretativas** até as de **Combate**.
 
+As **Ações Interpretativas** podem ser qualquer uma baseadas na **Imaginação do Jogador**, porém sempre essas ações são englobadas em alguns tipos, que podem ser consultados em [[Interpretação]] para mais detalhes. É possível notar que elas são separadas em três atributos, **Força**, **Agilidade** e **Inteligência**, isso é por conta das habilidades e itens que podem melhorar o desempenho dessas ações.
 
-↪ Plano de Interpretação.
+Essas ações podem ter variações criativas, dependendo de como um **Jogador** consegue convencer a **Mesa** e o **Mestre**. Por exemplo: pular um buraco.
 
-    ↪ Inicialmente os personagens começam no "Plano de Interpretação", um modo de jogo onde diálogos e tomadas de decisões são o ponto chave.
+* Um **Jogador** baseado em **Força**, pode tentar convencer a todos que atravessou aquele obstáculo graças ao seu nível de **Exercício**.
+* Um **Jogador** baseado em **Agilidade**, pode tentar convencer a todos que atravessou aquele mesmo obstáculo graças ao seu nível de **Mobilidade**.
 
-    ↪ Nesse modo os jogadores tem liberdade para poder realizar qualquer ação, sem restrições como turnos ou tempo (raramente tendo turnos para todos poderem jogar igualmente, ou tempo se nada estiver progredindo).
-
-    ↪ Nesse plano os jogadores podem usar itens e habilidades desde interpretativas a de Combate.
-
-    ↪ As ações interpretativas podem ser qualquer uma, mas sempre são englobadas em alguns tipos (localizado em "Recursos/Outros/Consciência/Interpretação").
-
-    ↪ Por exemplo: ações interpretativas que envolvam Força vão ser sempre do tipo Provocação, Resistência, Intimidação, Exercício ou Superação. Então se um personagem querer levantar algum objeto muito pesado ele teria que realizar algum teste de dados na ação de Exercício.
-
-    ↪ Qualquer ação feita que seja do "Plano de Combate" ou caso algum evento indesejado ocorra,  esse plano é quebrado e todo o grupo é movido para o Plano de Combate.
+Qualquer **Ação** realizada que seja do **Plano de Combate** ou caso algum evento indesejado ocorra, esse plano pode ser quebrado e todo o grupo movido para o **Plano de Combate**.
 
 
-↪ Plano de Combate.
+# Plano de Combate
 
-    ↪ Diferente do "Plano de Interpretação", o "Plano de Combate" possui mais limitações e regras.
+Diferente do **Plano de Interpretação**, o **Plano de Combate** possui mais **Regras**.
 
-        ↪ Só são permitidas habilidades do Plano de Combate.
+A **Primeira Regra** é que: existem uma ordem de turnos, baseado no **Atributo** de **Velocidade** dos **Jogadores**, do mais rápido para o mais lento, depois o turno dos **Oponentes**, também seguindo a mesma ordem.
 
-        ↪ Existem uma ordem de turnos, baseado no Atributo de Velocidade dos jogadores, do mais rápido para o mais lento, depois o turno dos oponentes, também seguindo a mesma ordem.
+**Segunda Regra**: cada turno de um **Jogador**, **NPC** ou **Monstro** possui três **Ações Controladas** em que sua ordem pode ser decidida livremente por seu **Usuário**.
 
-    ↪ Fora isso cada turno de um jogador, NPC ou monstro possui três ações controladas em que sua ordem pode ser decidida livremente por seu usuário:
+* **Movimento**: pode se mover pelo tabuleiro em "casas" igual ao seu **Atributo** de **Velocidade** (as casas do tabuleiro correspondem a 1 metro quadrado).
+* **Ataque Básico**: causa **Dano Físico** em um **Alvo** igual ao seu **Atributo** de **Ataque**, em um **Alcance** de 1 metro caso esteja **Desequipado** ou **Corpo a Corpo**.
+* **Principal**: pode usar uma **Habilidade** ou **Item**.
 
-        ↪ Ação de Movimentação: pode se mover pelo tabuleiro em "casas" igual ao seu Atributo de Velocidade (as casas do tabuleiro correspondem a 1 metro).
+Existe uma observação, assim como quem está jogando pode decidir passar o **Turno**, ele também pode decidir só realizar **Ações** que quiser.
 
-        ↪ Ação de Ataque Básico: causa Dano Físico em um alvo igual ao seu Atributo de Ataque, em um Alcance de 1 metro caso esteja desequipado ou Corpo a Corpo.
+**Terceira Regra**: Além das **Ações Controladas** existem duas **Fases**.
 
-        ↪ Ação Principal: pode usar uma habilidade ou item.
+* **Início de turno**: onde os efeitos, sejas positivos ou negativos, ocorrem.
+* **Fim de turno**: onde todos os efeitos são reduzidos em **Um** a sua **Duração**.
 
-    ↪ Observação: o usuário não é obrigado a fazer todas essas ações.
+**Última Regra**: no fim do **Combate**, seja por um lado vitorioso ou uma interrupção, todos voltam para o **Plano de Interpretação**. 
 
-    ↪ Além das ações controladas existem 2 fases que o seu usuário não pode controlar a ordem:
-
-        ↪ Fase de efeitos: que ocorre no começo do turno daquele jogador, NPC ou monstro, fazendo com que todos os efeitos, seja positivos ou negativos, ocorram. 
-
-        ↪ Fase de limpeza: que ocorre no final do turno, no momento que seu usuário passa o turno, fazendo com que todos os marcadores e efeitos sejam reduzidos em 1 em cada um deles.
-
-    ↪ No fim do Combate, seja por um lado vitorioso ou uma interrupção do mesmo, todos voltam para o "Plano de Interpretação". 
-
-
-↪ Criação de Personagem.
+# Criação de Personagem
 
     ↪ Há alguns documentos para auxiliar na "Criação de Personagem" como é possível ver a seguir.
 
@@ -113,7 +102,7 @@
             ↪ Todas as habilidade e Talentos adquiridos nos conhecimentos ficam nessa parte.
 
 
-↪ Progressão.
+# Progressão
 
     ↪ Como um teste nessa mesa não haverá pontos de experiência. O progresso vai ser definido por feitos, que podem ser desde combates a interações interpretativas.
 
@@ -126,7 +115,7 @@
     ↪ Ao subir de nível o personagem ganha 3 pontos para poder distribuir entre os Atributos (STR, AGI e INT), assim como na criação da ficha, além de 1 ponto adicional que sempre vai para o Atributo principal do personagem.
 
 
-↪ Peculiaridades.
+# Peculiaridades
 
     ↪ Regra de ouro: qualquer outra regra ou fundamento pode ser quebrado para melhorar a experiência ou diversão dos jogadores.
 
@@ -161,7 +150,7 @@
             ↪ Um jogador, monstro ou NPC sempre pode responder uma Ação ou efeito com outra Ação, se ela permitir jogar fora de seu turno, tendo prioridade na resolução (a menos que também desencadeie outra Ação ou efeito).
 
 
-↪ Dicas.
+# Dicas
 
     ↪ Para Novatos:
 

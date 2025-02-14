@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "99ae8af753f19fb7",
+        "id": "8ef40452d6dbb243",
         "type": "tabs",
         "children": [
           {
-            "id": "a5dc5918d75e05ad",
+            "id": "9b2ff4aed1b5adf6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "3. Funcional/0. Guia/Introdução.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Introdução"
             }
           }
         ]
@@ -157,24 +161,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a5dc5918d75e05ad",
+  "active": "9b2ff4aed1b5adf6",
   "lastOpenFiles": [
+    "3. Funcional/Sistema/Interpretação.md",
+    "3. Funcional/0. Guia/Introdução.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "3. Funcional/Sistema/Ficha/Ficha Base.md",
+    "3. Funcional/Sistema/Untitled",
+    "1. Material Mais Antigo/Recursos/Outros/Atributos.txt",
+    "3. Funcional/0. Guia",
+    "2. Rascunhos/Referências/Imagens/Pasted image 20250212170251.png",
     "2. Rascunhos/Referências/Fontes de como jogar RPG.md",
     "2. Rascunhos/Referências/Criação de Linguagens.md",
     "2. Rascunhos/Referências/Fontes de Foundry VTT.md",
     "2. Rascunhos/Referências/Criação de Criaturas.md",
-    "1. Material Mais antigo ainda/dev/Ideias Vento.txt",
-    "1. Material Mais antigo ainda/dev/Ideias Terra.txt",
-    "1. Material Mais antigo ainda/dev/Ideias Fogo.txt",
-    "1. Material Mais antigo ainda/dev/Ideias Agua.txt",
-    "1. Material Mais antigo ainda/dev/ideia_de_skills.txt",
-    "1. Material Mais antigo ainda/dev/4. Aqua.docx",
-    "1. Material Mais antigo ainda/dev/3. Ignis.docx",
-    "1. Material Mais antigo ainda/dev/2. Ventus.docx",
-    "1. Material Mais antigo ainda/dev/1. Gaia.docx",
-    "1. Material Mais antigo ainda/dev/0. Geral (INT).docx",
-    "2. Rascunhos/Referências/Imagens/Pasted image 20250212170251.png",
-    "3. Funcional/Sistema/Ficha/Ficha Base.md",
+    "1. Material Mais Antigo/dev/Ideias Vento.txt",
+    "1. Material Mais Antigo/dev/Ideias Terra.txt",
+    "1. Material Mais Antigo/dev/Ideias Fogo.txt",
+    "1. Material Mais Antigo/dev/Ideias Agua.txt",
+    "1. Material Mais Antigo/dev/ideia_de_skills.txt",
+    "1. Material Mais Antigo/dev/4. Aqua.docx",
+    "1. Material Mais Antigo/dev/3. Ignis.docx",
     "0. Material Antigo/Outros/Dev/Game Design/Habilidades Principais.md",
     "0. Material Antigo/Outros/Dev/Game Design/Arquétipos de Jogadores.md",
     "2. Funcional/Untitled 1.md",
@@ -192,9 +200,6 @@
     "0. Material Antigo/Recursos/Habilidades/Inteligência/Arcano.md",
     "0. Material Antigo/Recursos/Habilidades/Inteligência/Elemental.md",
     "0. Material Antigo/Sistema/Níveis de Poder.md",
-    "0. Material Antigo/Recursos/Habilidades/Agilidade/Artilharia.md",
-    "0. Material Antigo/Recursos/Habilidades/Força/Armamento.md",
-    "0. Material Antigo/Recursos/Habilidades/Inteligência/Alquimia.md",
     "Pasted image 20250106145205.png",
     "Notas/Untitled.canvas"
   ]
