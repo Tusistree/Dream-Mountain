@@ -1,6 +1,6 @@
 Qualquer ação que não seja de **Combate** pode ser enquadrada como **Interpretação**, sendo qualquer ato a partir da **Imaginação** do **Jogador**. Porém essa ações são sempre englobadas em algum tipo e em muitos casos há um teste no **d20**.
  
-# Modificador de Força (STR)
+# Modificador de Força
 
 **Exercício**: exercer uma atividade física.
 
@@ -8,15 +8,15 @@ Qualquer ação que não seja de **Combate** pode ser enquadrada como **Interpre
 
 **Superação**: quebrar limitações.
 
-# Modificador de Agilidade (AGI)
+# Modificador de Agilidade
 
 **Trapaça**: confundir os sentidos de seres.
 
 **Mobilidade**: poder se movimentar.
 
-**Carisma**: convencer e manipular seres.
+**Persuasão**: convencer e manipular seres.
 
-# Modificador de Inteligência (INT)
+# Modificador de Inteligência
 
 **Leitura**: ler e escrever textos ou símbolos.
 

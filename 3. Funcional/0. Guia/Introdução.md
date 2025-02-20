@@ -55,51 +55,51 @@ Existe uma observação, assim como quem está jogando pode decidir passar o **T
 
 # Criação de Personagem
 
-    ↪ Há alguns documentos para auxiliar na "Criação de Personagem" como é possível ver a seguir.
+Há alguns documentos para auxiliar na "Criação de Personagem" como é possível ver a seguir.
 
-    ↪ Use a "Ficha Base" em "Sistema":
+Use a "Ficha Base" em "Sistema":
 
-        ↪ "Personagem"
+"Personagem"
 
-            ↪ Escolha Nome e Apelido que achar melhor.
+Escolha Nome e Apelido que achar melhor.
 
-            ↪ "Qualidades" e "Defeitos" escolha os disponíveis em "Recursos/Outros/Consciência/Qualidades e Defeitos". Ambíguos podem ser escohidos em ambos os campos.
+"Qualidades" e "Defeitos" escolha os disponíveis em "Recursos/Outros/Consciência/Qualidades e Defeitos". Ambíguos podem ser escohidos em ambos os campos.
 
-            ↪ Um personagem no mínimo precisa ter um Defeito e duas Qualidades.
+Um personagem no mínimo precisa ter um Defeito e duas Qualidades.
 
-            ↪ A história do personagem pode ser qualquer uma, apenas tendo o bom senso de suas limitações no nível inicial. Para agregar esse enredo é bom deixar esse campo por último.
+A história do personagem pode ser qualquer uma, apenas tendo o bom senso de suas limitações no nível inicial. Para agregar esse enredo é bom deixar esse campo por último.
 
-        ↪ "Atributos"
+ "Atributos"
 
-            ↪ Escolha um atributo entre Força, Agilidade e Inteligência. Essa escolha faz com que você possa aprender habilidades ou desenvolver talentos daquele Atributo.
+Escolha um atributo entre Força, Agilidade e Inteligência. Essa escolha faz com que você possa aprender habilidades ou desenvolver talentos daquele Atributo.
 
-            ↪ Todos os personagens começam no nível 1.
+Todos os personagens começam no nível 1.
 
-            ↪ Para decidir os próximos campos como Vida, Mana é necessário distribuir pontos entre os Atributos Força, Agilidade e Inteligência. Cada um deles aumenta em 1 os seus respectivos Subatributos.
+Para decidir os próximos campos como Vida, Mana é necessário distribuir pontos entre os Atributos Força, Agilidade e Inteligência. Cada um deles aumenta em 1 os seus respectivos Subatributos.
 
-            ↪ Consulte o que cada Atributo significa em "Recursos/Outros/Atributos/Atributos Principais".
+Consulte o que cada Atributo significa em "Recursos/Outros/Atributos/Atributos Principais".
             
-            ↪ São 18 pontos iniciais para serem distribuídos.
+São 18 pontos iniciais para serem distribuídos.
 
-        ↪ "Conhecimentos"
+"Conhecimentos"
 
-            ↪ Um personagem recém-criado tem direito a escolher inicialmente um Conhecimento do seu Atributo principal.
+Um personagem recém-criado tem direito a escolher inicialmente um Conhecimento do seu Atributo principal.
 
-            ↪ Conhecimentos são conjuntos de Habilidades e Talentos a respeito de um tema, onde podem ser encontrados em "Recursos/Habilidades".
+Conhecimentos são conjuntos de Habilidades e Talentos a respeito de um tema, onde podem ser encontrados em "Recursos/Habilidades".
 
-            ↪ O personagem já começa na Classe Resh (9 ou Regular) do Conhecimento escohido, fazendo com que ele automáticamente ganhe todas as Habilidades e Talentos da Classe Shin (10 ou Novato).
+O personagem já começa na Classe Resh (9 ou Regular) do Conhecimento escohido, fazendo com que ele automáticamente ganhe todas as Habilidades e Talentos da Classe Shin (10 ou Novato).
 
-            ↪ Além disso ele também pode adquirir gratuitamente uma habilidade ou Talento na Classe Resh.
+Além disso ele também pode adquirir gratuitamente uma habilidade ou Talento na Classe Resh.
 
-        ↪ "Itens"
+"Itens"
 
-            ↪ Um personagem recém-criado tem direito a escolher inicialmente três Equipamentos e três Consumíveis ("Recursos/Itens").
+Um personagem recém-criado tem direito a escolher inicialmente três Equipamentos e três Consumíveis ("Recursos/Itens").
 
-            ↪ Ambos os itens tem que ser da Classe Shin. Equipamentos não podem ser repetidos nessa escolha inicial.
+Ambos os itens tem que ser da Classe Shin. Equipamentos não podem ser repetidos nessa escolha inicial.
 
-        ↪ "Habilidades e Talentos"
+"Habilidades e Talentos"
 
-            ↪ Todas as habilidade e Talentos adquiridos nos conhecimentos ficam nessa parte.
+Todas as habilidade e Talentos adquiridos nos conhecimentos ficam nessa parte.
 
 
 # Progressão
