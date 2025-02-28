@@ -16,6 +16,8 @@
 
 **Nível**: 0
 
+Pontos de Experiência: 0/0
+
 **Pontos de Vida**: 0/0
 
 **Pontos de Mana**: 0/0

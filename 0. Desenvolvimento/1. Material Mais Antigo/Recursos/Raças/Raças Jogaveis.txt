@@ -37,7 +37,7 @@
 
 ↪ Raças Mágicas:
 
-	↪ Hupel (Inversão).
+	↪ Upel (Inversão).
 
 		↪ Talento (Inversão de Corpo): Dano recebido é invertido entre Magíco e Físico.
 
@@ -57,7 +57,7 @@
 
 		↪ Talento (Travessura): Esquiva aumentada em 2 contra Magias conjuradas por unidade inimigas.
 
-	↪ Shinui (Polimorfismo).
+	↪ Hinui (Polimorfismo).
 
 		↪ Talento (Memória Genética): Pode armazenar informações de seres. Só é possível armazenar uma espécie por dia.
 

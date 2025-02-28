@@ -4,21 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "45b20785fcc40ed5",
+        "id": "f56ebb347ced2581",
         "type": "tabs",
         "children": [
           {
-            "id": "3a3ff41bc0cd7017",
+            "id": "945d4f4ba332d77b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Rascunhos/Referências/Jogo.md",
+                "file": "1. Funcional/Recursos/Unidades/Raças Jogáveis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Jogo"
+              "title": "Raças Jogáveis"
+            }
+          }
+        ]
+      },
+      {
+        "id": "b8dd3892fec0b0ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a7ee2ab5f9157b2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Funcional/Sistema/Interpretação.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Interpretação"
             }
           }
         ]
@@ -161,45 +181,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3a3ff41bc0cd7017",
+  "active": "945d4f4ba332d77b",
   "lastOpenFiles": [
-    "2. Rascunhos/Referências/Fontes de Foundry VTT.md",
-    "2. Rascunhos/Referências/Jogo.md",
-    "2. Rascunhos/Referências/Fontes de como jogar RPG.md",
-    "2. Rascunhos/Referências/Criação de Linguagens.md",
-    "2. Rascunhos/Referências/Criação de Criaturas.md",
-    "3. Funcional/Sistema/Ficha/Ficha Base.md",
-    "3. Funcional/0. Guia/Introdução.md",
-    "3. Funcional/Sistema/Interpretação.md",
+    "1. Funcional/Sistema/Interpretação.md",
+    "1. Funcional/Recursos/Unidades/Raças Jogáveis.md",
+    "1. Funcional/Sistema/Ficha/Ficha Base.md",
+    "1. Funcional/Recursos/Unidades/Raças.md",
+    "0. Desenvolvimento/0. Material Antigo/Recursos/Habilidades/Inteligência/Primal.md",
+    "1. Funcional/0. Guia/1. Introdução.md",
+    "0. Desenvolvimento/0. Material Antigo/Recursos/Habilidades/Agilidade/Artilharia.md",
+    "1. Funcional/Recursos/Unidades",
+    "1. Funcional/Recursos",
+    "0. Desenvolvimento",
+    "0. Desenvolvimento/2. Rascunhos/Referências/Jogo.md",
+    "0. Desenvolvimento/2. Rascunhos/Referências/Fontes de Foundry VTT.md",
+    "0. Desenvolvimento/2. Rascunhos/Referências/Fontes de como jogar RPG.md",
+    "0. Desenvolvimento/2. Rascunhos/Referências/Criação de Linguagens.md",
+    "0. Desenvolvimento/2. Rascunhos/Referências/Criação de Criaturas.md",
     "Untitled 1.md",
     "Untitled.md",
     "3. Funcional/Sistema/Untitled",
-    "1. Material Mais Antigo/Recursos/Outros/Atributos.txt",
-    "3. Funcional/0. Guia",
-    "2. Rascunhos/Referências/Imagens/Pasted image 20250212170251.png",
-    "1. Material Mais Antigo/dev/Ideias Vento.txt",
-    "1. Material Mais Antigo/dev/Ideias Terra.txt",
-    "1. Material Mais Antigo/dev/Ideias Fogo.txt",
-    "1. Material Mais Antigo/dev/Ideias Agua.txt",
-    "1. Material Mais Antigo/dev/ideia_de_skills.txt",
-    "1. Material Mais Antigo/dev/4. Aqua.docx",
-    "1. Material Mais Antigo/dev/3. Ignis.docx",
-    "0. Material Antigo/Outros/Dev/Game Design/Habilidades Principais.md",
-    "0. Material Antigo/Outros/Dev/Game Design/Arquétipos de Jogadores.md",
+    "0. Desenvolvimento/1. Material Mais Antigo/Recursos/Outros/Atributos.txt",
+    "1. Funcional/0. Guia",
+    "0. Desenvolvimento/2. Rascunhos/Referências/Imagens/Pasted image 20250212170251.png",
+    "0. Desenvolvimento/1. Material Mais Antigo/dev/Ideias Vento.txt",
+    "0. Desenvolvimento/1. Material Mais Antigo/dev/Ideias Terra.txt",
+    "0. Desenvolvimento/1. Material Mais Antigo/dev/Ideias Fogo.txt",
+    "0. Desenvolvimento/1. Material Mais Antigo/dev/Ideias Agua.txt",
+    "0. Desenvolvimento/0. Material Antigo/Outros/Dev/Game Design/Habilidades Principais.md",
+    "0. Desenvolvimento/0. Material Antigo/Outros/Dev/Game Design/Arquétipos de Jogadores.md",
     "2. Funcional/Untitled 1.md",
     "2. Funcional/Untitled.md",
     "2. Funcional/Untitled 2.md",
     "2. Funcional/Untitled 1 1.md",
-    "0. Material Antigo/Recursos/Habilidades/Força/Proteção.md",
-    "0. Material Antigo/Recursos/Habilidades/Agilidade/Exploração.md",
-    "0. Material Antigo/Recursos/Habilidades/Inteligência/Necromancia.md",
-    "0. Material Antigo/Recursos/Criaturas/Notas.md",
-    "0. Material Antigo/Recursos/Itens/Equipamentos.md",
-    "0. Material Antigo/Recursos/Itens/Munição.md",
-    "0. Material Antigo/Recursos/Itens/Materiais.md",
-    "0. Material Antigo/Recursos/Habilidades/Agilidade/Forja.md",
-    "0. Material Antigo/Recursos/Habilidades/Inteligência/Arcano.md",
-    "0. Material Antigo/Recursos/Habilidades/Inteligência/Elemental.md",
+    "0. Desenvolvimento/0. Material Antigo/Recursos/Habilidades/Força/Proteção.md",
+    "0. Desenvolvimento/0. Material Antigo/Recursos/Habilidades/Agilidade/Exploração.md",
+    "0. Desenvolvimento/0. Material Antigo/Recursos/Habilidades/Inteligência/Necromancia.md",
+    "0. Desenvolvimento/0. Material Antigo/Recursos/Criaturas/Notas.md",
+    "0. Desenvolvimento/0. Material Antigo/Recursos/Itens/Equipamentos.md",
+    "0. Desenvolvimento/0. Material Antigo/Recursos/Itens/Munição.md",
     "Pasted image 20250106145205.png",
     "Notas/Untitled.canvas"
   ]
