@@ -8,7 +8,9 @@ São os primeiros povos a habitar **Salon'Gar**, tendo várias origens, desde cr
 
 ### Humanos
 
-**Sobre**: sendo detentor do **Reino dos Homens**, os humanos são os maiores exploradores e conquistadores dos **Reinos Conhecidos**. Mesmo sua origem sendo comum, uma evolução dos primatas, o contato com os **Deuses de Baixo**, durante a **Era sem Sol**, deram a alguns indivíduos capacidades sobre-humanas.
+**Sobre**: sendo detentores do **Reino dos Homens**, os humanos são os maiores exploradores e conquistadores dos **Reinos Conhecidos**. Mesmo sua origem sendo comum, uma evolução dos primatas, o contato com os **Deuses de Baixo**, durante a **Era sem Sol**, deram a alguns indivíduos capacidades sobre-humanas.
+
+**Habilidades** e **Talentos**:
 
 ##### Versátil
 
@@ -22,11 +24,13 @@ Talento, Utilidade, Interpretação.
 
 Sua habilidade de criar e inovar é fora do comum, fazendo com que em atividades de **Interpretação** que envolvam **Criação** o **Acerto crítico** e **Precisão** sejam aumentados em **1**.
 
-##### Texto
+##### Identificar Padrões
 
-Habilidade.
+Habilidade, Controle, Individual.
 
-Texto.
+**Requer** que um **Alvo** afetado por essa **Habilidade** seja derrotado ou o **Plano** finalizado para poder marcar um novo **Alvo**. 
+
+Através do .
 
 ##### Texto
 
@@ -37,6 +41,8 @@ Texto.
 ### Elfos
 
 **Sobre**: 
+
+**Habilidades** e **Talentos**:
 
 ##### Texto
 
@@ -64,21 +70,191 @@ Texto.
 
 ### Helyr
 
+**Sobre**: 
+
+**Habilidades** e **Talentos**:
+
+##### Texto
+
+Talento.
+
+Texto.
+
+##### Texto
+
+Talento.
+
+Texto.
+
+##### Texto
+
+Habilidade.
+
+Texto.
+
+##### Texto
+
+Habilidade.
+
+Texto.
+
 ### Cael
+
+**Sobre**: 
+
+**Habilidades** e **Talentos**:
+
+##### Texto
+
+Talento.
+
+Texto.
+
+##### Texto
+
+Talento.
+
+Texto.
+
+##### Texto
+
+Habilidade.
+
+Texto.
+
+##### Texto
+
+Habilidade.
+
+Texto.
 
 # Criaturas Mágicas
 
 ### Upel
 
+**Sobre**: 
+
+**Habilidades** e **Talentos**:
+
+##### Texto
+
+Talento.
+
+Texto.
+
+##### Texto
+
+Talento.
+
+Texto.
+
+##### Texto
+
+Habilidade.
+
+Texto.
+
+##### Texto
+
+Habilidade.
+
+Texto.
+
 ### Nufia
+
+**Sobre**: 
+
+**Habilidades** e **Talentos**:
+
+##### Texto
+
+Talento.
+
+Texto.
+
+##### Texto
+
+Talento.
+
+Texto.
+
+##### Texto
+
+Habilidade.
+
+Texto.
+
+##### Texto
+
+Habilidade.
+
+Texto.
 
 ### Hinui 
 
+**Sobre**: 
+
+**Habilidades** e **Talentos**:
+
+##### Texto
+
+Talento.
+
+Texto.
+
+##### Texto
+
+Talento.
+
+Texto.
+
+##### Texto
+
+Habilidade.
+
+Texto.
+
+##### Texto
+
+Habilidade.
+
+Texto.
+
 ### Ravari
+
+**Sobre**: 
+
+**Habilidades** e **Talentos**:
+
+##### Texto
+
+Talento.
+
+Texto.
+
+##### Texto
+
+Talento.
+
+Texto.
+
+##### Texto
+
+Habilidade.
+
+Texto.
+
+##### Texto
+
+Habilidade.
+
+Texto.
 
 ### Kehara
 
 **Sobre**: 
+
+**Habilidades** e **Talentos**:
 
 ##### Texto
 
@@ -107,6 +283,8 @@ Texto.
 ### Nodonte
 
 **Sobre**: 
+
+**Habilidades** e **Talentos**:
 
 ##### Texto
 

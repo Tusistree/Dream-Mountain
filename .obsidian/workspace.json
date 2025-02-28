@@ -4,41 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f56ebb347ced2581",
+        "id": "f1949ff6c19e368b",
         "type": "tabs",
         "children": [
           {
-            "id": "945d4f4ba332d77b",
+            "id": "35b5dee9bf3bb3dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Funcional/Recursos/Unidades/Raças Jogáveis.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Raças Jogáveis"
-            }
-          }
-        ]
-      },
-      {
-        "id": "b8dd3892fec0b0ae",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a7ee2ab5f9157b2a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Funcional/Sistema/Interpretação.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Interpretação"
+              "title": "New tab"
             }
           }
         ]
@@ -181,14 +157,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "945d4f4ba332d77b",
+  "active": "35b5dee9bf3bb3dc",
   "lastOpenFiles": [
     "1. Funcional/Sistema/Interpretação.md",
     "1. Funcional/Recursos/Unidades/Raças Jogáveis.md",
-    "1. Funcional/Sistema/Ficha/Ficha Base.md",
-    "1. Funcional/Recursos/Unidades/Raças.md",
-    "0. Desenvolvimento/0. Material Antigo/Recursos/Habilidades/Inteligência/Primal.md",
     "1. Funcional/0. Guia/1. Introdução.md",
+    "1. Funcional/Recursos/Unidades/Raças.md",
+    "1. Funcional/Sistema/Ficha/Ficha Base.md",
+    "0. Desenvolvimento/0. Material Antigo/Recursos/Habilidades/Inteligência/Primal.md",
     "0. Desenvolvimento/0. Material Antigo/Recursos/Habilidades/Agilidade/Artilharia.md",
     "1. Funcional/Recursos/Unidades",
     "1. Funcional/Recursos",
