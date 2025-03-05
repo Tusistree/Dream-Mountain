@@ -1,3 +1,8 @@
+# Principal
+
+Raças
+Classes
+
 # Pendente da Primeira Campanha
 
 Recuperar e retrabalhar material antigo da primeira sessão.
@@ -11,5 +16,4 @@ Arena PVP
 Ganho de Pontos
 Ambientação
 Reliquias do RPG
-
 Desenvolver Lore

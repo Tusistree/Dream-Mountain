@@ -2,23 +2,21 @@
 //	///	Dissipação (e simplificação de classe)
 //
 
-↪ Fraca
+	↪ Fraca
 
-	↪ Classe Samek ou inferior (efeitos não-debilitante ou de performance).
+		↪ Classe Samek ou inferior (efeitos não-debilitante ou de performance).
 
-↪ Média
+	↪ Média
 
-	↪ Classe Tet ou inferior (efeitos debilitante ou de probabilidade).
+		↪ Classe Tet ou inferior (efeitos debilitante ou de probabilidade).
 
-↪ Superior
+	↪ Superior
 
-	↪ Classe Dalet ou inferior (efeitos inutilizantes e de resistência).
+		↪ Classe Dalet ou inferior (efeitos inutilizantes e de resistência).
 
-↪ Verdadeira
+	↪ Verdadeira
 
-	↪ Classe Aleph ou inferior (efeitos de classe especial).
-
-
+		↪ Classe Aleph ou inferior (efeitos de classe especial).
 
 //
 //	///	Traços

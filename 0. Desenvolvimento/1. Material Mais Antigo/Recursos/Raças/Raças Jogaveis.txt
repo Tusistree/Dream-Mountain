@@ -1,13 +1,5 @@
 ↪ As 5 Raças Primordiais:
 
-	↪ Humano (Alta Inteligência)
-
-		↪ Talento (Versátil): Recebe 1 Ponto Adicional em todos os Atributos, mais um ponto adicional por nível.
-
-		↪ Talento (Criatividade): habilidades de Suporte, Utilidade e Invocação custam metade dos recursos e pontos de Mana.
-
-		↪ Talento (Barganha): Aumenta Comunicação pela metade com seres racionais como alvos (companheiros de equipe e NPCs).
-
 	↪ Elfo (Mobilidade e Sabedoria)
 
 		↪ Talento (Sábio): Recebe mais Pontos de Mana máximo igual ao Domínio. No começo de turno restaura Pontos de Mana igual a um quarto do Alcance.

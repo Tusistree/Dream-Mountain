@@ -1,6 +1,6 @@
 # Shin (Novato)
 
-### Principal: Munição.
+### Principal: Munição
 
 Talento Principal.
 
