@@ -1,13 +1,5 @@
 ↪ As 5 Raças Primordiais:
 
-	↪ Elfo (Mobilidade e Sabedoria)
-
-		↪ Talento (Sábio): Recebe mais Pontos de Mana máximo igual ao Domínio. No começo de turno restaura Pontos de Mana igual a um quarto do Alcance.
-
-		↪ Talento (Olhar da Mata): Recebe acerto garantido em Ataques Básicos, Magias e Habilidades quando no alcance máximo.
-
-		↪ Talento (Rastro Silvestre): Acima da metade dos Pontos de Vida, Pode se mover ao dobro da Velocidade, mas apenas para Ação de Movimento.
-
 	↪ Helyr (Dano contra Alvos Vulneraveis)
 
 		↪ Habilidade (Soberania Primordial): Checa um atributo da unidade alvo, caso o seu seja superior ganha 2 de Esquiva e Chance de Acerto Crítico permanentemente contra essa unidade.

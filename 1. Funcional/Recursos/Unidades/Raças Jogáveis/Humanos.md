@@ -1,4 +1,6 @@
-Sendo detentores do **Reino dos Homens**, os humanos são os maiores exploradores e conquistadores dos **Reinos Conhecidos**. Mesmo sua origem sendo comum, uma simples evolução de primatas, o contato com os **Deuses de Baixo**, durante a **Era sem Sol**, deram a alguns indivíduos capacidades sobre-humanas para poder lidar com os desafios de **Salon'Gar**.
+**Aparência**: comum.
+**Origem**: origem comum, uma simples evolução de primatas.
+**Sobre**: Sendo detentores do **Reino dos Homens**, os humanos são os maiores exploradores e conquistadores dos **Reinos Conhecidos**. O contato com os **Deuses de Baixo**, durante a **Era sem Sol**, deram a alguns indivíduos capacidades sobre-humanas para poder lidar com os desafios de **Salon'Gar**.
 
 # Habilidades e Talentos
 ### Versátil.

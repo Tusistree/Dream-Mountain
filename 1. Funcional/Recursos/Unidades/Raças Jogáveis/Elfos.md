@@ -1,4 +1,6 @@
-Arrogantes e quase imortais, os elfos sãos um dos grandes povos que habitam o **Reino dos Homens**. Eles habitam lugares enigmáticos e místicos, raramente tendo interação com outros povos, muito menos conflitos, porém tendo grandes participações em qualquer assunto que envolva a natureza e principalmente a magia.
+**Aparência**: são semelhantes a humanos, porém com corpos altos e esguios, além de orelhas longas e pontiagudas.
+**Origem**: Foram criados como filhos de **Gaia**, o **Elemental Primordial** da **Terra**, também designados como **Guardiões da Vida**
+**Sobre**: Arrogantes e quase imortais, os elfos sãos um dos grandes povos que habitam o **Reino dos Homens**. Eles habitam lugares enigmáticos e místicos, raramente tendo interação com outros povos, muito menos conflitos, porém tendo grandes participações em qualquer assunto que envolva a natureza e principalmente a magia.
 # Habilidades e Talentos
 
 ### Sabedoria.
@@ -25,4 +27,4 @@ Por também ser da natureza, assim como os animais você tem a habilidade de se 
 
 Habilidade Interpretativa, Utilidade.
 
-Seu conhecimento sobre a natureza é fora do comum. A qualquer momento você pode identificar **Monstros**, **Plantas** e **Ambientes** **Naturais**, fazendo com que suas informações possam ser consultadas, como **Atributos**, **Habilidades** e etc.
+Seu conhecimento sobre a natureza é fora do comum. A qualquer momento você pode identificar **Monstros**, **Plantas** e **Ambientes** **Naturais**, fazendo com que suas informações possam ser consultadas, como **Atributos**, **Habilidades** e etc. Isso também se aplica a valores variáveis, como bônus de **Atributo** e **Pontos de Vida** e **Mana** atuais.
