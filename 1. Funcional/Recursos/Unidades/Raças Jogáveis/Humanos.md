@@ -1,5 +1,5 @@
 **Aparência**: comum.
-**Origem**: origem comum, uma simples evolução de primatas.
+**Origem**: dentre todas as raças, os humanos possuem a origem mais simples que é a evolução natural dos primatas.
 **Sobre**: Sendo detentores do **Reino dos Homens**, os humanos são os maiores exploradores e conquistadores dos **Reinos Conhecidos**. O contato com os **Deuses de Baixo**, durante a **Era sem Sol**, deram a alguns indivíduos capacidades sobre-humanas para poder lidar com os desafios de **Salon'Gar**.
 
 # Habilidades e Talentos
@@ -7,13 +7,13 @@
 
 Talento, Utilidade.
 
-Através da tentativa e erro você é capaz de se desenvolver em qualquer atividade, recebendo **1** ponto adicional em **Todos** atributos primários para cada **Nível**.
+Através da tentativa e erro os **Humanos** são capazes de se desenvolver em qualquer atividade. Recebendo **1** ponto adicional de **Atributo** primário a sua escolha em cada **Nível**.
 
 ### Invenção.
 
 Talento, Utilidade, Interpretação.
 
-Sua habilidade de criar e inovar é fora do comum, fazendo com que em atividades de **Interpretação** que envolvam **Criação** o **Acerto crítico** e **Precisão** sejam aumentados em **1**.
+Os **Humanos** são mestres em enxergar soluções inovadoras para qualquer problema. Em **Ações de Interpretação** que envolvam **Criação** o **Acerto crítico** e **Precisão** são aumentados em **1**.
 
 ### Identificar Padrões.
 
@@ -21,7 +21,7 @@ Habilidade, Controle, Individual.
 
 **Requer** que um **Alvo** afetado por essa **Habilidade** seja derrotado ou o **Plano** finalizado para poder marcar um novo **Alvo**.
 
-Através de uma profunda análise sobre um alvo você começa a entender suas ações e posteriores, fazendo com que sua **Precisão** e chance de **Acerto Crítico** seja aumentado em 1 contra ele. Esses mesmos valores são reduzidos em 1 desse alvo em relação a você. 
+Através de uma profunda análise o **Humano** pode entender as ações atuais e posteriores de um oponente. Marca um **Alvo**, aumentando sua **Precisão** e chance de **Acerto Crítico** em 1 contra ele. Esses mesmos valores são reduzidos em 1 desse alvo em relação a você. 
 
 ### Barganha.
 
@@ -29,4 +29,4 @@ Habilidade, Utilidade, Individual, Interpretação.
 
 **Requer** estar no **Plano de Interpretação** e só pode ser usada uma vez por **Plano**.
 
-Através das suas experiências sociais você é capaz de convencer qualquer pessoa, fazendo com que ao ativar essa **Habilidade** a sua próxima **Ação Interpretativa** de **Persuasão** tenho os modificadores dobrados (ou aumentado em 1 caso não haja nenhum).
+A lábia e conhecimento social do **Humano** é capaz de convencer qualquer ser racional. Ao ativar essa **Habilidade** a sua próxima **Ação Interpretativa** de **Persuasão** terá o dobro dos seus modificadores, ou aumentado em 1 caso não haja nenhum.
