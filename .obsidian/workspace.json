@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4c0316a302d8c2aa",
+        "id": "ad54d223160df431",
         "type": "tabs",
         "children": [
           {
-            "id": "33d91a88ba3cbfea",
+            "id": "573010a271363b3a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "1. Funcional/Recursos/Unidades/Raças Jogáveis/Elfos.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Elfos"
             }
           }
         ]
@@ -157,17 +161,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "33d91a88ba3cbfea",
+  "active": "573010a271363b3a",
   "lastOpenFiles": [
-    "0. Desenvolvimento/A fazer.md",
-    "1. Funcional/Recursos/Habilidades/Agilidade/Artilharia.md",
     "1. Funcional/Recursos/Unidades/Raças Jogáveis/Helyr.md",
     "1. Funcional/Recursos/Unidades/Raças Jogáveis.md",
+    "1. Funcional/Sistema/Ficha/Ficha Base.md",
+    "1. Funcional/0. Guia/1. Introdução.md",
+    "1. Funcional/Recursos/Unidades/Raças Jogáveis/Humanos.md",
+    "1. Funcional/Recursos/Unidades/Raças Jogáveis/Elfos.md",
+    "1. Funcional/Sistema/Interpretação.md",
+    "0. Desenvolvimento/A fazer.md",
+    "1. Funcional/Recursos/Habilidades/Agilidade/Artilharia.md",
     "0. Desenvolvimento/2. Rascunhos/Referências/Imagens/Pasted image 20250212170251.png",
     "0. Desenvolvimento/2. Rascunhos/Referências/Criação de Criaturas.md",
     "0. Desenvolvimento/2. Rascunhos/Referências/Criação de Linguagens.md",
-    "1. Funcional/Recursos/Unidades/Raças Jogáveis/Humanos.md",
-    "1. Funcional/Recursos/Unidades/Raças Jogáveis/Elfos.md",
     "1. Funcional/Recursos/Unidades/Raças Jogáveis/Untitled 2.md",
     "1. Funcional/Recursos/Unidades/Raças Jogáveis/Untitled 6.md",
     "1. Funcional/Recursos/Unidades/Raças Jogáveis/Untitled 5.md",
@@ -178,9 +185,6 @@
     "1. Funcional/Recursos/Habilidades/Força/Construção.md",
     "1. Funcional/Recursos/Habilidades/Força/Armamento.md",
     "1. Funcional/Recursos/Habilidades/Agilidade/Composição.md",
-    "1. Funcional/Sistema/Interpretação.md",
-    "1. Funcional/Sistema/Ficha/Ficha Base.md",
-    "1. Funcional/0. Guia/1. Introdução.md",
     "1. Funcional/Recursos/Unidades/Raças Jogáveis",
     "1. Funcional/Recursos/Unidades/Raças.md",
     "1. Funcional/Recursos/Habilidades/Inteligência/Primal.md",
