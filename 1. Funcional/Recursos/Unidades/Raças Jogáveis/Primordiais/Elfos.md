@@ -1,4 +1,5 @@
 **Aparência**: são semelhantes a humanos, porém possuindo corpos altos e esguios, além de orelhas longas e pontiagudas. Seu rosto costumam ser delicados, tendo uma aparência divina e um ar místico devido a sabedoria de eras.
+
 **Origem**: Foram criados como filhos de **Gaia**, o **Elemental Primordial** da **Terra**, designados como **Guardiões da Vida**. Eles compartilham uma ligação profunda com a natureza e a magia, mantendo-se como seus protetores e estudiosos desde tempos esquecidos.
 
 **Sobre**: Arrogantes e quase imortais, os elfos são um dos grandes povos que habitam o **Reino dos Homens**, embora raramente se envolvam nos assuntos das outras civilizações. Preferem habitar locais místicos e enigmáticos, onde a magia flui livremente e a natureza segue seu curso sem interferências. Apesar de evitarem conflitos desnecessários, eles não hesitam em agir quando a vida ou o equilíbrio natural estão ameaçados.

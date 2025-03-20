@@ -1,6 +1,8 @@
 **Aparência**: comum.
-**Origem**: dentre todas as raças, os humanos possuem a origem mais simples que é a evolução natural dos primatas.
-**Sobre**: Sendo detentores do **Reino dos Homens**, os humanos são os maiores exploradores e conquistadores dos **Reinos Conhecidos**. O contato com os **Deuses de Baixo**, durante a **Era sem Sol**, deram a alguns indivíduos capacidades sobre-humanas para poder lidar com os desafios de **Salon'Gar**.
+
+**Origem**: Foram criados como filhos de **Ventus**, o **Elemental Primordial** do **Ar**, designados como um "agitador do mundo". Sua curiosidade e ambição sem fim fazem dos **Humanos** o motor de grandes mudanças em **Salon'Gar**.
+
+**Sobre**: Sendo detentores do **Reino dos Homens**, os humanos são os maiores exploradores e conquistadores dos **Reinos Conhecidos**. O contato com os **Deuses de Baixo**, durante toda a **Era sem Sol**, deram a alguns indivíduos capacidades sobre-humanas para poder lidar com os desafios de **Salon'Gar**.
 
 # Habilidades e Talentos
 ### Versátil.
