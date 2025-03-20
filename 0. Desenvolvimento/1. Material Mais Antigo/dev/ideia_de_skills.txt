@@ -8,14 +8,6 @@
 
 // Sem nome
 
-●	 esquecer essa habilidade e fazer o oponente esquecer a habilidade usada
-
-●	 esquecer outras 2 habilidades e fazer o oponente esquecer a habilidade usada,
-mantendo assim essa habilidade
-
-●	 esquecer todas as habilidades que NÃO SÃO suas e uma que seja sua, roubar uma
-habilidade e colocar em um dos slots esquecidas
-
 ●	 Restringir um uso de tipo de habilidade
 
 ●	 Cria uma área mágica que permite ao jogador que está nela realizar um habilidade de ataque duas vezes (Victor)

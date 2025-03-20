@@ -13,7 +13,7 @@ Através da tentativa e erro os **Humanos** são capazes de se desenvolver em qu
 
 ### Invenção.
 
-Talento, Utilidade, Interpretação.
+Talento Interpretativo, Utilidade.
 
 Os **Humanos** são mestres em enxergar soluções inovadoras para qualquer problema. Em **Ações de Interpretação** que envolvam **Criação** o **Acerto crítico** e **Precisão** são aumentados em **1**.
 
@@ -27,7 +27,7 @@ Através de uma profunda análise o **Humano** pode entender as ações atuais e
 
 ### Barganha.
 
-Habilidade, Utilidade, Individual, Interpretação.
+Habilidade Interpretativa, Utilidade, Individual.
 
 **Requer** estar no **Plano de Interpretação** e só pode ser usada uma vez por **Plano**.
 

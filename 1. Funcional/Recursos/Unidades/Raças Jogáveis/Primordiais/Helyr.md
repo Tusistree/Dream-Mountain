@@ -1,23 +1,33 @@
-**Aparência**: lembram vagamente os **Elfos**, por contas das orelhas, porém possuem chifres e caudas, além de caninos longos e afiados junto a olhos brilhantes de uma energia misteriosa. Sua pele pode possuir cores vivas, como carmesim e violeta, mas também existem os pálidos ou com tonalidades cinzas até o escuro.
+**Aparência**: Embora tenham orelhas pontiagudas semelhantes aos **Elfos**, os **Helyr** possuem traços diferentes, como chifres, caudas, caninos longos e afiados, além de olhos brilhantes que emanam uma energia misteriosa. Sua pele pode apresentar tons vibrantes, como carmesim e violeta, mas também variações pálidas ou sombrias, indo do cinza ao escuro.
 
-**Origem**: Foram criados a partir do poder de criação de **Gaia**, porém roubado e deturpado pelos **Demônios** durante as primeiras invasões dos **Nulos**.
+**Origem**: Gerados a partir do poder de criação de **Gaia**, os **Helyr** deveriam ter sido um reflexo da própria Criação. No entanto, seu nascimento foi um ato profano e, durante as primeiras invasões dos **Nulos**, os **Demônios** roubaram e corromperam o poder de criação, moldando-os como servos da destruição e do caos.
 
 **Sobre**: os **Helyr** são um dos povos mais antigos de **Salon'Gar**, sobrevivente até os tempos atuais. São odiados pela a maioria dos **Reinos**, considerados como grandes traidores por terem sido criados e comandados para lutarem contra a **Vida** e a própria **Criação**, além de já terem escravizados todos os povos durante a **Era sem Sol** graças aos seus poderes noturnos.
 
 # Habilidades e Talentos
 
+### Rastreamento.
+
+Talento, Ofensivo e Utilidade.
+
+Os **Helyr** foram criados para perseguir e eliminar outros povos, fazendo com que em sua caça eles não só consiga sentir cheiro de sangue como também o de **Mana**. Você ganha **Visão Verdadeira** de **Unidades** que possuem menos da metade dos pontos de **Vida** ou **Mana**. Contra esses **Alvos** sua **Chance de Crítico** e **Precisão** são aumentados em um valor igual ao seu **Nível**.
+
+### Iniciativa.
+
+Talento Interpretativo, Ofensivo.
+
+Um **Helyr** nunca perde tempo quando o assunto é um oponente. Ao sair de um **Plano de Interpretação** para um de **Combate**, você pode usar um **Ataque Básico**, **Item** ou uma **Habilidade** antes do **Plano** começar (junto a uma **Ação de Movimento** e sem consumir seu **Turno**).
+
 ### Soberania.
 
-Texto.
+Habilidade, Controle, Individual.
 
-### Habilidade.
+**Requer** que um **Alvo** afetado por essa **Habilidade** seja derrotado ou o **Plano** finalizado para poder marcar um novo **Alvo**.
 
-Texto.
+O Ego de um **Helyr** não deixa ele ser inferior a ninguém. Marca um **Alvo**, fazendo com que o melhor **Atributo** dele seja um ponto inferior ao seu melhor **Atributo**. O mesmo ocorre para o pior **Atributo**. Essa redução não pode ser maior que a metade do original.
 
-### Habilidade.
+### Aposta.
 
-Texto.
+Habilidade Interpretativa, Utilidade, Individual.
 
-### Habilidade.
-
-Texto.
+Sendo perito em tudo que há de ruim, em jogos de azar os **Helyr** não são uma exceção. Essa habilidade não consome uma **Ação**. Você pode apostar com um alvo sobre qualquer assunto, quem ganhar pode roubar permanentemente um **Ponto de Atributo** a escolha. Uma **Aposta** não pode ser feito enquanto outra estiver aberta, ao mesmo tempo que se uma foi perdida nesse **Plano** outras só poderão ser abertas em outros **Planos**.
