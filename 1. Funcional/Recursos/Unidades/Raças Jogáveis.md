@@ -1,35 +1,3 @@
-### Cael
-
-**Sobre**: 
-
-**Habilidades** e **Talentos**:
-
-##### Texto
-
-Talento.
-
-Texto.
-
-##### Texto
-
-Talento.
-
-Texto.
-
-##### Texto
-
-Habilidade.
-
-Texto.
-
-##### Texto
-
-Habilidade.
-
-Texto.
-
-# Criaturas Mágicas
-
 ### Upel
 
 **Sobre**: 

@@ -30,4 +30,8 @@ O Ego de um **Helyr** não deixa ele ser inferior a ninguém. Marca um **Alvo**,
 
 Habilidade Interpretativa, Utilidade, Individual.
 
-Sendo perito em tudo que há de ruim, em jogos de azar os **Helyr** não são uma exceção. Essa habilidade não consome uma **Ação**. Você pode apostar com um alvo sobre qualquer assunto, quem ganhar pode roubar permanentemente um **Ponto de Atributo** a escolha. Uma **Aposta** não pode ser feito enquanto outra estiver aberta, ao mesmo tempo que se uma foi perdida nesse **Plano** outras só poderão ser abertas em outros **Planos**.
+Sendo perito em tudo que há de ruim, em jogos de azar os **Helyr** não são uma exceção. Essa habilidade não consome uma **Ação**. Você pode apostar com um alvo sobre qualquer assunto:
+* O alvo precisa consentir.
+* Quem ganhar pode roubar permanentemente um **Ponto de Atributo** a escolha.
+* Uma **Aposta** não pode ser feito enquanto outra estiver aberta.
+* Se uma **Aposta** foi perdida nesse **Plano**, outras só poderão ser abertas em outros **Planos**.

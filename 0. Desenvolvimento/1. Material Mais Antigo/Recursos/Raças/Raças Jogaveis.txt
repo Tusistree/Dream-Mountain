@@ -1,13 +1,5 @@
 ↪ As 5 Raças Primordiais:
 
-	↪ Helyr (Dano contra Alvos Vulneraveis)
-
-		↪ Habilidade (Soberania Primordial): Checa um atributo da unidade alvo, caso o seu seja superior ganha 2 de Esquiva e Chance de Acerto Crítico permanentemente contra essa unidade.
-
-		↪ Talento (Vinha Vil): Pode detectar seres ao seu redor através do solo, usando Alcance, revelando unidades com efeitos de Camuflagem ou Invisibilidade.
-
-		↪ Talento (Malevolência): Chance de Acertos Críticos aumentados em 1 contra alvos com marcadores negativos.
-
 	↪ Cael (Alta Proteção)
 
 		↪ Talento (Planar Celestial): Evita dano de queda e pode planar de qualquer altura.
@@ -15,8 +7,6 @@
 		↪ Talento (Penas Blindadas): Defesa e Noção são aumentadas em 2 pontos a cada Nível.
 
 		↪ Talento (Benção Divina): Dobra a Resistência e Noção com a fonte de Itens.
-
-	↪ Estilhaço (Indisponível)
 
 
 ↪ Raças Mágicas:

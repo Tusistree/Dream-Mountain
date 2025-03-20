@@ -38,35 +38,13 @@
 
 	↪ Invocação.
 
-	↪ Interrupção.
-
 ↪ Tipos de Dano
 
 	↪ Físico
 
-		↪ Corte.
-
-		↪ Perfuração.
-
-		↪ Contusão (Pancada).
-
 	↪ Mágico
 
-		↪ Fogo.
-
-		↪ Gélido.
-
-		↪ Sombrio.
-
-		↪ Químico.
-
-		↪ Sagrado.
-
-		↪ Elétrico.
-
 	↪ Puro
-
-		↪ Especial (Ignora Redução de Dano).
 
 ↪ Área de efeito
 
