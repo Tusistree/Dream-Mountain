@@ -2,10 +2,6 @@
 
 	↪ Cael (Alta Proteção)
 
-		↪ Talento (Planar Celestial): Evita dano de queda e pode planar de qualquer altura.
-
-		↪ Talento (Penas Blindadas): Defesa e Noção são aumentadas em 2 pontos a cada Nível.
-
 		↪ Talento (Benção Divina): Dobra a Resistência e Noção com a fonte de Itens.
 
 

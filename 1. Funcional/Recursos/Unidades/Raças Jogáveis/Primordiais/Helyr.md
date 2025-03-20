@@ -4,6 +4,8 @@
 
 **Sobre**: os **Helyr** são um dos povos mais antigos de **Salon'Gar**, sobrevivente até os tempos atuais. São odiados pela a maioria dos **Reinos**, considerados como grandes traidores por terem sido criados e comandados para lutarem contra a **Vida** e a própria **Criação**, além de já terem escravizados todos os povos durante a **Era sem Sol** graças aos seus poderes noturnos.
 
+**Aviso**: São odiado por todos na maioria das vezes e preferem trabalhar sozinhos.
+
 # Habilidades e Talentos
 
 ### Rastreamento.
@@ -24,7 +26,7 @@ Habilidade, Controle, Individual.
 
 **Requer** que um **Alvo** afetado por essa **Habilidade** seja derrotado ou o **Plano** finalizado para poder marcar um novo **Alvo**.
 
-O Ego de um **Helyr** não deixa ele ser inferior a ninguém. Marca um **Alvo**, fazendo com que o melhor **Atributo** dele seja um ponto inferior ao seu melhor **Atributo**. O mesmo ocorre para o pior **Atributo**. Essa redução não pode ser maior que a metade do original.
+O Ego de um **Helyr** não deixa ele ser inferior a ninguém. Marca um **Alvo**, fazendo com que o melhor **Atributo** dele seja um ponto inferior ao seu melhor **Atributo**. O mesmo ocorre para o pior **Atributo**. Essa redução não pode ser maior que a metade do original e é arredondada para baixo.
 
 ### Aposta.
 
@@ -32,6 +34,6 @@ Habilidade Interpretativa, Utilidade, Individual.
 
 Sendo perito em tudo que há de ruim, em jogos de azar os **Helyr** não são uma exceção. Essa habilidade não consome uma **Ação**. Você pode apostar com um alvo sobre qualquer assunto:
 * O alvo precisa consentir.
-* Quem ganhar pode roubar permanentemente um **Ponto de Atributo** a escolha.
+* Quem ganhar pode roubar permanentemente um **Ponto de Atributo** a escolha do vencedor.
 * Uma **Aposta** não pode ser feito enquanto outra estiver aberta.
 * Se uma **Aposta** foi perdida nesse **Plano**, outras só poderão ser abertas em outros **Planos**.

@@ -4,6 +4,8 @@
 
 **Sobre**: Arrogantes e quase imortais, os elfos são um dos grandes povos que habitam o **Reino dos Homens**, embora raramente se envolvam nos assuntos das outras civilizações. Preferem habitar locais místicos e enigmáticos, onde a magia flui livremente e a natureza segue seu curso sem interferências. Apesar de evitarem conflitos desnecessários, eles não hesitam em agir quando a vida ou o equilíbrio natural estão ameaçados.
 
+**Aviso**: Se acham superior as outros povos.
+
 # Habilidades e Talentos
 
 ### Sabedoria.
