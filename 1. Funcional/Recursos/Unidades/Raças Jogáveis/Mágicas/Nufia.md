@@ -1,10 +1,10 @@
-**Aparência**: São pequenos humanoides com braços muito compridos, com o costume de arrastar as costas das mãos e do antebraço ao chão quando andam, e até mesmo correr com os braços deixando o torso e pernas suspenso. Suas principais características também incluem não ter nariz, além de membros flexíveis que não parecem ter ossos, e por fim pelagens coloridas que lembram vagamente algum mamífero. 
+**Aparência**: Pequenos e esquisitos, os **Nufia** são humanoides de braços exageradamente longos, arrastando os antebraços e as costas das mãos ao caminhar. É comum vê-los se correndo apenas com os braços, deixando o tronco e as pernas suspensos no ar. Não possuem nariz, têm membros flexíveis como se não tivessem ossos, e sua pelagem colorida lembra vagamente a de alguns mamíferos.
 
-**Origem**: De onde eles vieram é incerto. As única informação existente é o seu habitat natural, o **Sul Violeta** no **Reino dos Monstros**. Graças as suas interações com as **Fadas** e outros **Monstros Mágicos** serem milenares, estudiosos acreditam que esse seja o motivo principal da sua aptidão com **Magia**. Muitos até teorizam que foram o primeiro povo a dominar a **Mana**.
+**Origem**: A origem dos **Nufia** é um mistério. A única certeza é que habitam o **Sul Violeta**, uma região do **Reino dos Monstros**. Sua convivência milenar com **Fadas** e outros **seres mágicos** é apontada como a razão de sua natural afinidade com a **Mana**. Muitos estudiosos acreditam que foram o primeiro povo a dominar a **Magia**.
 
-**Sobre**: Por seu convívio com criaturas mágicas brincalhonas os **Nufia** adquiriam um instinto de querer interagir com tudo e todos, principalmente com jogos e truques, fazendo-os extremamente insuportáveis. Eles vivem em terras remotas com alta concentrações de **Mana**, mas podem ser visto infernizando em cada canto do mundo.
+**Sobre**: Vivendo entre criaturas brincalhonas e arcanas, os **Nufia** desenvolveram um instinto natural de interagir com tudo, principalmente por meio de truques, pegadinhas e jogos. Embora carismáticos, são conhecidos por testarem a paciência de qualquer um. Eles vivem em terras remotas com alta concentrações de **Mana**, mas podem ser vistos infernizando em cada canto do mundo.
 
-**Aviso**: São levemente odiados por todos.
+**Aviso**: São levemente odiados por todos. E com razão.
 
 # Habilidades e Talentos
 
@@ -32,4 +32,4 @@ Habilidade Interpretativa, Utilidade.
 
 Só pode ser usada uma vez por **Plano**.
 
-Sendo mestres do truques, um **Nufia** sempre consegue fazer com que algum detalhe passe despercebido. A próxima **Ação de Interpretação** que envolva **Trapaça** tem **Acerto Crítico** garantido.
+Sendo mestres do truques, um **Nufia** sempre consegue fazer com que algum detalhe passe despercebido. Ao ativar essa **Habilidade** a sua próxima **Ação de Interpretação** que envolva **Trapaça** tem **Acerto Crítico** garantido.

@@ -33,4 +33,4 @@ Habilidade Interpretativa, Utilidade, Individual.
 
 **Requer** estar no **Plano de Interpretação** e só pode ser usada uma vez por **Plano**.
 
-A lábia e conhecimento social do **Humano** é capaz de convencer qualquer ser racional. Ao ativar essa **Habilidade** a sua próxima **Ação Interpretativa** de **Persuasão** terá o dobro dos seus modificadores, ou aumentado em 1 caso não haja nenhum.
+A lábia e conhecimento social do **Humano** é capaz de convencer qualquer ser racional. Ao ativar essa **Habilidade** a sua próxima **Ação de Interpretação** em **Persuasão** terá o dobro dos seus modificadores, ou aumentado em 1 caso não haja nenhum.

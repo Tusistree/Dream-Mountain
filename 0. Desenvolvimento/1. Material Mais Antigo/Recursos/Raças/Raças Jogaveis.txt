@@ -1,35 +1,5 @@
-↪ Raças Mágicas:
+↪ Nodonte (alto nível de resistência).
 
-	↪ Nufia (Multiplicação).
+	↪ Talento (Escama Reativa): recebe marcadores de Armadura igual a metade do Dano Físico sofrido não mitigado. O mesmo se aplica a Dano Mágico e Marcadores de Barreira.
 
-		↪ Habilidade (Divisão): Se divide em 2 clones com metades dos aspectos físicos como Tamanho, Atributos, Secundários e Marcadores arrendondados para baixo (não interfere o ganho de xp).
-
-		↪ Habilidade (Fusão): Une 2 clones em um ser só.
-
-		↪ Talento (Impeto Gêmeo): Uma das copias de Divisão ganha um turno extra (O próximo).
-
-		↪ Talento (Travessura): Esquiva aumentada em 2 contra Magias conjuradas por unidade inimigas.
-
-	↪ Ravari (Combate).
-
-		↪ Talento (Mestre das Feras): Começa com uma criatura domesticada, pode ter mascostes adicionais baseado no seu nível.
-
-		↪ Talento (Conexão Selvagem): Comunicação aumentada pela metade quando relacionado a Monstros.
-
-		↪ Talento (Barbaridade): Se você for um Ravari Mamífero, Subatributos de Força oferecem o dobro dos seus status, mas os de Inteligência são divididos pela metade (arrendondado para baixo).
-
-		↪ Talento (Letalidade): Se você for um Ravari Réptil, Subatributos de Agilidade oferecem o dobro dos seus status, mas os de Inteligência são divididos pela metade (arrendondado para baixo).
-
-	↪ Kehara (Barbáros).
-
-		↪ Talento (Revitalizar): No começo de turno recupera Pontos de Vida igual a metade do dano base. Recebem 3 Pontos de Vitalidade por Nível.
-
-		↪ Talento (Berserk): Abaixo de uma certa quantia de pontos de vida ganha Pontos de Agilidade e Ataque adicional ao custo da regeneração de Revitalizar.
-
-		↪ Habilidade (Ataque Ártico): Sacrifica qualquer quantia de Pontos de Vida para causar dano igual a metade desse valor (arrendondado para baixo).
-
-	↪ Nodonte (alto nível de resistência).
-
-		↪ Talento (Escama Reativa): recebe marcadores de Armadura igual a metade do Dano Físico sofrido não mitigado. O mesmo se aplica a Dano Mágico e Marcadores de Barreira.
-
-		↪ Habilidade (Forma Ancestral): Ganha Força igual a metade aos marcadores de Armadura, Barreira e Resistência (arredondado para baixo), porém você é Silenciado. Você também só pode sair dessa forma quando descansar ou quando sofrer uma Dissipação Superior (tanto Positiva quanto Negativa).
+	↪ Habilidade (Forma Ancestral): Ganha Força igual a metade aos marcadores de Armadura, Barreira e Resistência (arredondado para baixo), porém você é Silenciado. Você também só pode sair dessa forma quando descansar ou quando sofrer uma Dissipação Superior (tanto Positiva quanto Negativa).
