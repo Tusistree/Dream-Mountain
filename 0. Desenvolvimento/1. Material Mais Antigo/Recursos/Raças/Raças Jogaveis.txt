@@ -1,11 +1,5 @@
 ↪ Raças Mágicas:
 
-	↪ Upel (Inversão).
-
-		↪ Habilidade (Inversão de Estado): Realiza uma conexão com um alvo, invertendo em quem é colocados os marcadores.
-
-		↪ Talento (Atributomorfose): No início de combate você permutar seus atributos.
-
 	↪ Nufia (Multiplicação).
 
 		↪ Habilidade (Divisão): Se divide em 2 clones com metades dos aspectos físicos como Tamanho, Atributos, Secundários e Marcadores arrendondados para baixo (não interfere o ganho de xp).
@@ -15,16 +9,6 @@
 		↪ Talento (Impeto Gêmeo): Uma das copias de Divisão ganha um turno extra (O próximo).
 
 		↪ Talento (Travessura): Esquiva aumentada em 2 contra Magias conjuradas por unidade inimigas.
-
-	↪ Hinui (Polimorfismo).
-
-		↪ Talento (Memória Genética): Pode armazenar informações de seres. Só é possível armazenar uma espécie por dia.
-
-		↪ Habilidade (Registro): Registra uma espécie que seja aliada na Memória Genética.
-
-		↪ Habilidade (Transformação): Pode se transformar completamente em um ser registrado em Memória Genética.
-
-		↪ Talento (Perda de memória): Abaixo da metade dos Pontos de Vida, toda vez que sofrer Dano não periódico faz perder uma das espécies registradas em Memória Genética de forma aleatória.
 
 	↪ Ravari (Combate).
 

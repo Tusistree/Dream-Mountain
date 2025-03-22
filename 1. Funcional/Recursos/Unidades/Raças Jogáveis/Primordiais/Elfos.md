@@ -8,19 +8,19 @@
 
 # Habilidades e Talentos
 
-### Sabedoria.
+### Sabedoria
 
 Talento, Utilidade e Recuperação.
 
 A memória dos **Elfos** atravessa gerações, carregando segredos antigos e conhecimentos perdidos. Você recebe **Pontos de Mana** máximo adicional igual ao seu **Domínio**. No inicio do seu turno você também recupera **Pontos de Mana** igual ao seu **Nível**.
 
-### Silvestre.
+### Silvestre
 
 Talento Interpretativo, Mobilidade e Utilidade.
 
 Vivendo em harmonia com a natureza, os **Elfos** se movem com fluidez pelo ambiente, tornando-se parte dele. Fora de **Plano de Combate** sua **Velocidade** e **Alcance** são aumentados pela Metade (arredondados par abaixo), porém se o ambiente for **Natural**, ao invés disso esses valores são dobrados.
 
-### Camuflagem.
+### Camuflagem
 
 Habilidade, Utilidade.
 
@@ -28,7 +28,7 @@ Só pode ser usada uma vez por **Plano**.
 
 Como parte da natureza o **Elfo** sabe como se mesclar a ela, desaparecendo da vista de seus inimigos. Você sai do **Plano de Combate** para o **Plano de Interpretação** sem ser visto por inimigos. A primeira **Ação** cancela a **Camuflagem** no final do turno. 
 
-### Consultar o Bestiário.
+### Consultar o Bestiário
 
 Habilidade Interpretativa, Utilidade.
 

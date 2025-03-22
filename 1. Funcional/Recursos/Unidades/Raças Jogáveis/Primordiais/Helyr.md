@@ -4,23 +4,23 @@
 
 **Sobre**: os **Helyr** são um dos povos mais antigos de **Salon'Gar**, sobrevivente até os tempos atuais. São odiados pela a maioria dos **Reinos**, considerados como grandes traidores por terem sido criados e comandados para lutarem contra a **Vida** e a própria **Criação**, além de já terem escravizados todos os povos durante a **Era sem Sol** graças aos seus poderes noturnos.
 
-**Aviso**: São odiado por todos na maioria das vezes e preferem trabalhar sozinhos.
+**Aviso**: São extremamente odiado por todos na maioria das vezes e preferem trabalhar sozinhos.
 
 # Habilidades e Talentos
 
-### Rastreamento.
+### Rastreamento
 
 Talento, Ofensivo e Utilidade.
 
-Os **Helyr** foram criados para perseguir e eliminar outros povos, fazendo com que em sua caça eles não só consiga sentir cheiro de sangue como também o de **Mana**. Você ganha **Visão Verdadeira** de **Unidades** que possuem menos da metade dos pontos de **Vida** ou **Mana**. Contra esses **Alvos** sua **Chance de Crítico** e **Precisão** são aumentados em um valor igual ao seu **Nível**.
+Os **Helyr** foram criados para perseguir e eliminar outros povos, fazendo com que em sua caça eles não só consiga sentir cheiro de sangue como também o de **Mana**. Você ganha **Visão Verdadeira** de **Unidades** que possuem menos da metade dos pontos de **Vida** ou **Mana**, e também pode consultar o valor atual quando abaixo do limiar. Contra esses **Alvos** sua **Chance de Crítico** e **Precisão** são aumentados em um valor igual metade do seu **Nível**, arredondado para cima.
 
-### Iniciativa.
+### Iniciativa
 
 Talento Interpretativo, Ofensivo.
 
 Um **Helyr** nunca perde tempo quando o assunto é um oponente. Ao sair de um **Plano de Interpretação** para um de **Combate**, você pode usar um **Ataque Básico**, **Item** ou uma **Habilidade** antes do **Plano** começar (junto a uma **Ação de Movimento** e sem consumir seu **Turno**).
 
-### Soberania.
+### Soberania
 
 Habilidade, Controle, Individual.
 
@@ -28,7 +28,7 @@ Habilidade, Controle, Individual.
 
 O Ego de um **Helyr** não deixa ele ser inferior a ninguém. Marca um **Alvo**, fazendo com que o melhor **Atributo** dele seja um ponto inferior ao seu melhor **Atributo**. O mesmo ocorre para o pior **Atributo**. Essa redução não pode ser maior que a metade do original e é arredondada para baixo.
 
-### Aposta.
+### Aposta
 
 Habilidade Interpretativa, Utilidade, Individual.
 

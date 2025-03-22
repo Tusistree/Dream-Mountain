@@ -8,25 +8,25 @@
 
 # Habilidades e Talentos
 
-### Pena Blindada.
+### Pena Blindada
 
 Talento, Defensivo.
 
 As penas dos **Cael** são tão resistentes quanto aço, fazendo com que seu corpo seja. Sua **Defesa** e **Noção** são aumentados em 2 por **Nível**, o que é dobrado enquanto não estiver no **Chão**, e sua única asa podem equipar um **Escudo** sem ocupar as **Duas Mãos**.
 
-### Pouso.
+### Pouso
 
 Talento Interpretativo, Defensivo e Utilidade.
 
 Mesmo tendo apenas uma asa os **Cael** ainda podem planar e pousar com segurança. Você não toma **Dano de Queda** e plana ao cair, além de dobrar seus modificadores de **Mobilidade** em **Ações de Interpretação**.
 
-### Elevar.
+### Elevar
 
 Habilidade, Mobilidade, Individual.
 
 A força da garras e de sua única asa é o suficiente para um **Cael** saltar grandes distâncias. Você salta uma distância em metros igual ao seu **Nível**, **Oponentes** no **Alcance** de **Toque** são afastados a direção oposta pela mesma distância. A primeira **Ação** que não for de **Movimento** faz você **Pousar** imediatamente. Enquanto estiver no céu por essa **Habilidade** diminui a **Precisão** de **Unidades** que te alvejarem em um valor igual a **Diferença** entre você e o **Chão**.
 
-### Benzer.
+### Benzer
 
 Habilidade Interpretativa, Defensivo e Utilidade, Toque.
 

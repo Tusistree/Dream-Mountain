@@ -12,7 +12,7 @@
 
 **História**: Texto.
 
-# Atributos.
+# Atributos
 
 **Nível**: 0
 
@@ -40,10 +40,10 @@ Pontos de Experiência: 0/0
 * **Noção**: 0
 * **Domínio**: 0
 
-# Itens.
+# Itens
 
 **Texto**: Texto.
 
-# Habilidades e Talentos.
+# Habilidades e Talentos
 
 **Texto**: Texto.

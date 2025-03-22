@@ -6,18 +6,26 @@
 
 # Habilidades e Talentos
 
-### Habilidade.
+### Habilidade
 
 Texto.
 
-### Habilidade.
+Texto.
+
+### Habilidade
 
 Texto.
 
-### Habilidade.
+Texto.
+
+### Habilidade
 
 Texto.
 
-### Habilidade.
+Texto.
+
+### Habilidade
+
+Texto.
 
 Texto.

@@ -7,19 +7,19 @@
 **Aviso**: Tem péssimas relações com povos pouco civilizados.
 
 # Habilidades e Talentos
-### Versátil.
+### Versátil
 
 Talento, Utilidade.
 
 Através da tentativa e erro os **Humanos** são capazes de se desenvolver em qualquer atividade. Recebendo **1** ponto adicional de **Atributo** primário a sua escolha em cada **Nível**.
 
-### Invenção.
+### Invenção
 
 Talento Interpretativo, Utilidade.
 
 Os **Humanos** são mestres em enxergar soluções inovadoras para qualquer problema. Em **Ações de Interpretação** que envolvam **Criação** o **Acerto crítico** e **Precisão** são aumentados em **1**.
 
-### Identificar Padrões.
+### Identificar Padrões
 
 Habilidade, Controle, Individual.
 
@@ -27,7 +27,7 @@ Habilidade, Controle, Individual.
 
 Através de uma profunda análise o **Humano** pode entender as ações atuais e posteriores de um oponente. Marca um **Alvo**, aumentando sua **Precisão** e chance de **Acerto Crítico** em 1 contra ele. Esses mesmos valores são reduzidos em 1 desse alvo em relação a você. 
 
-### Barganha.
+### Barganha
 
 Habilidade Interpretativa, Utilidade, Individual.
 
