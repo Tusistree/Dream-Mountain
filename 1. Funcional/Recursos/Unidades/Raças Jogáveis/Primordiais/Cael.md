@@ -1,4 +1,4 @@
-**Aparência**: São aves humanoides, sendo bem altos e extremamente robustos. Uma de suas características marcantes é o fato que além de possuir um par de braços, eles tem apenas uma asa oposta ao seu braço dominante, que usam para se defender.
+**Aparência**: São aves humanoides, conhecidos por sua estatura elevada e corpos extremamente robustos. Seu traço mais marcante é a presença de apenas **uma única asa**, sempre oposta ao braço dominante, que utilizam como um escudo natural. Suas penas são tão resistentes quanto aço, e seu olhar carrega o peso de um povo que já habitou os céus, mas que agora foi condenado ao solo.
 
 **Origem**: O poder de criação de Gaia foi emprestado aos **Anjos** de bom grado para que criassem um povo **Bom** e **Justo**, assim como uma resposta a criação profana que seriam os **Helyr**, e lutando ao lado dos defensores de **Salon'Gar** contra os **Nulos** e seus serviçais.
 

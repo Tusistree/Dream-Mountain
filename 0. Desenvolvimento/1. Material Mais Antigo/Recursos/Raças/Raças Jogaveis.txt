@@ -1,19 +1,8 @@
-↪ As 5 Raças Primordiais:
-
-	↪ Cael (Alta Proteção)
-
-		↪ Talento (Benção Divina): Dobra a Resistência e Noção com a fonte de Itens.
-
-
 ↪ Raças Mágicas:
 
 	↪ Upel (Inversão).
 
-		↪ Talento (Inversão de Corpo): Dano recebido é invertido entre Magíco e Físico.
-
-		↪ Talento (Inversão de Espírito): Recuperação de Pontos de Vida e Mana são invertidas.
-
-		↪ Habilidade (Inversão de Estado) : Realiza uma conexão com um alvo, invertendo em quem é colocados os marcadores.
+		↪ Habilidade (Inversão de Estado): Realiza uma conexão com um alvo, invertendo em quem é colocados os marcadores.
 
 		↪ Talento (Atributomorfose): No início de combate você permutar seus atributos.
 

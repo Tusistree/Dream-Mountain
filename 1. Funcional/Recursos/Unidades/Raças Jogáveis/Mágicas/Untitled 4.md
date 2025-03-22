@@ -1,6 +1,9 @@
 **Aparência**: 
+
 **Origem**: 
+
 **Sobre**: 
+
 # Habilidades e Talentos
 
 ### Habilidade.
