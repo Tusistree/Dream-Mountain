@@ -4,7 +4,7 @@
 
 **Sobre**: Sendo detentores do **Reino dos Homens**, os humanos são os maiores exploradores e conquistadores dos **Reinos Conhecidos**. O contato com os **Deuses de Baixo**, durante toda a **Era sem Sol**, deram a alguns indivíduos capacidades sobre-humanas para poder lidar com os desafios de **Salon'Gar**.
 
-**Aviso**: Tem péssimas relações com povos pouco civilizados.
+**Aviso**: Tem péssimas relações com **Povos** de **Raça Mágica**.
 
 # Habilidades e Talentos
 ### Versátil

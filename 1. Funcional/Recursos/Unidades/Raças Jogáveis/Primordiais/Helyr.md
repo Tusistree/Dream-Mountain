@@ -4,7 +4,7 @@
 
 **Sobre**: os **Helyr** são um dos povos mais antigos de **Salon'Gar**, sobrevivente até os tempos atuais. São odiados pela a maioria dos **Reinos**, considerados como grandes traidores por terem sido criados e comandados para lutarem contra a **Vida** e a própria **Criação**, além de já terem escravizados todos os povos durante a **Era sem Sol** graças aos seus poderes noturnos.
 
-**Aviso**: São extremamente odiado por todos na maioria das vezes e preferem trabalhar sozinhos.
+**Aviso**: São extremamente odiados por todos e preferem trabalhar sozinhos.
 
 # Habilidades e Talentos
 

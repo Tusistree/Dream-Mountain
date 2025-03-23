@@ -1,5 +1,0 @@
-↪ Nodonte (alto nível de resistência).
-
-	↪ Talento (Escama Reativa): recebe marcadores de Armadura igual a metade do Dano Físico sofrido não mitigado. O mesmo se aplica a Dano Mágico e Marcadores de Barreira.
-
-	↪ Habilidade (Forma Ancestral): Ganha Força igual a metade aos marcadores de Armadura, Barreira e Resistência (arredondado para baixo), porém você é Silenciado. Você também só pode sair dessa forma quando descansar ou quando sofrer uma Dissipação Superior (tanto Positiva quanto Negativa).

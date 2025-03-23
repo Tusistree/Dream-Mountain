@@ -4,6 +4,8 @@
 
 **Sobre**: veneram a bestialidade como forma de vida e quanto mais próximos do animal mais puros são considerados. Em sua cultura, instinto é força e razão é fraqueza. Embora não desprezem completamente a intelectualidade, indivíduos que demonstrem inteligência excessiva são evitados ou exilados, para evitar que esses traços sejam herdados por futuras gerações e corrompam o ideal da tribo.
 
+**Aviso**: Odeiam os **Povos** que sejam **Primordiais** ou todos que habitam o **Reino dos Homens**.
+
 # Habilidades e Talentos
 
 ### Fera Interior
@@ -18,7 +20,7 @@ Esse **Talento** é desativado ao equipar **Itens** que não sejam **Armas** aci
 
 ### Mestre das Feras
 
-Talento Interpretativo, Utilidade.
+Talento Interpretativo, Invocação.
 
 Um **Ravari** sempre caça junto de sua fera leal. Começa a **Campanha** com uma **Unidade** do tipo **Monstro** de **Nível** 2 ou **Inferior** a sua escolha. Essa **Unidade** sobe de nível junto ao de seu **Dono**, mas não pode passar o **Nível Máximo**. 
 

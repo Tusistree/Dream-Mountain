@@ -24,7 +24,7 @@
 
 ↪ Dissipação Superior (Resistência).
 
-    ↪ Barreira (Suporta certas quantias de damo mágico).
+    ↪ Barreira (Suporta certas quantias de dano mágico).
 
     ↪ Armadura (Suporta certas quantias de dano físico).
 

@@ -4,6 +4,8 @@
 
 **Sobre**: Apesar de sua aparência brutal, os **Kehara** são criaturas simples e neutras. No entanto, carregam uma maldição natural, de que quando gravemente feridos, perdem totalmente o controle e atacam tudo ao redor, desde aliados, inimigos ou membros da própria espécie. Por essa razão, mesmo sendo dóceis na maior parte do tempo, são temidos e evitados pela maioria dos **Povos**.
 
+**Aviso**: Todos os evitam, até os da própria espécie.
+
 # Habilidades e Talentos
 
 ### Revitalizar
@@ -16,7 +18,9 @@ A hostilidade da terra natal fez com que os **Kehara** desenvolvessem uma das me
 
 Talento Interpretativo, Defensivo.
 
-Sendo o motivo de ser tão evitado, ao sofrer feridas graves o **Kehara** entra em um estado de frenesi até todas as ameaças serem neutralizadas. Ao ficar com pontos de **Vida** inferior a metade, arredondado para baixo, você perde o controle. Não pode usar nenhuma **Ação**, e ira se **Mover** em direção e realizar **Ataques Básicos** contras as **Unidades** mais próximas, sendo aliados, inimigos ou jogadores. Você só volta ao controle quando não tiver mais **Unidades** vivas no **Plano de Combate** ou ao ter os pontos de **Vida** totalmente preenchidos.
+Sendo o motivo de ser tão evitado, ao sofrer feridas graves o **Kehara** entra em um estado de frenesi até todas as ameaças serem neutralizadas. Ao ficar com pontos de **Vida** inferior a metade, arredondado para baixo, você perde o controle. Não pode usar nenhuma **Ação**, e ira se **Mover** em direção e realizar **Ataques Básicos** contras as **Unidades** mais próximas, sendo aliados, inimigos ou jogadores.
+
+Você só volta ao controle quando não tiver mais **Unidades** vivas no **Plano de Combate** ou ao ter os pontos de **Vida** totalmente preenchidos.
 
 ### Arremessar
 
