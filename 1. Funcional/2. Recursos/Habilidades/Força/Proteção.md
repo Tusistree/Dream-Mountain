@@ -1,4 +1,4 @@
-# Shin (Novato)
+# Nível Inicial (Novato)
 
 ### Principal: Vanguarda.
 
@@ -10,22 +10,22 @@ Seu corpo é tão resistente quanto a uma armadura, fazendo com que ao sofrer da
 
 Texto.
 
-# Resh (Regular)
+# Nível 1 (Regular)
 
-# Ayin (Entusiasta)
+# Nível 2 (Entusiasta)
 
-# Samek (Especialista)
+# Nível 3 (Especialista)
 
-# Kaph (Veterano)
+# Nível 4 (Veterano)
 
-# Yod (Mestre)
+# Nível 5 (Mestre)
 
-# Tet (Gênio)
+# Nível 6 (Gênio)
 
-# Het (Lorde)
+# Nível 7 (Lorde)
 
-# Zayin (Rei)
+# Nível 8 (Rei)
 
-# Dalet (Lenda)
+# Nível 9 (Lenda)
 
-# Aleph (Deus)
+# Nível 10 (Deus)

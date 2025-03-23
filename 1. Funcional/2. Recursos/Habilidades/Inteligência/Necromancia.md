@@ -1,4 +1,4 @@
-# Shin (Novato)
+# Nível Inicial (Novato)
 
 ### Principal: Morto-Vivo.
 
@@ -10,13 +10,13 @@ Você pode invocar uma **Unidade** sobre seu controle, esta tendo um adicional d
 
 Só é possível invocar **Unidades** de nível semelhante ou inferior ao seu nível de **Necromancia**. O número máximo de **Unidades** por está habilidade é igual ao seu nível de **Necromancia**, porém para cada nível de **Unidade** a contagem é independente.
 
-# Resh (Regular)
+# Nível 1 (Regular)
 
-# Ayin (Entusiasta)
+# Nível 2 (Entusiasta)
 
-# Samek (Especialista)
+# Nível 3 (Especialista)
 
-# Kaph (Veterano)
+# Nível 4 (Veterano)
 
 ### Necrose.
 
@@ -24,7 +24,7 @@ Talento, Utilidade.
 
 Feridas causados por você necrosam, fazendo com que ao causar dano em um alvo abaixo da metade de sua Vida Máxima aplique um efeito: remoção de metade dos marcadores de Regeneração, arredondado para cima, e a próxima recuperação de vida que aquele alvo receber tenha metade da eficiência (exceto por marcadores).
 
-# Yod (Mestre)
+# Nível 5 (Mestre)
 
 ### Ceifar.
 
@@ -32,13 +32,12 @@ Talento, Utilidade.
 
 Seu poder é renovado ao ceifar vidas, fazendo com que você perca Marcadores Negativos e recupere pontos de Vida e Mana sempre que finalizar uma unidade. A quantia de Marcadores e pontos restaurados é igual ao nível da unidade eliminada.
 
-# Tet (Gênio)
+# Nível 6 (Gênio)
 
-# Het (Lorde)
+# Nível 7 (Lorde)
 
-# Zayin (Rei)
+# Nível 8 (Rei)
 
-# Dalet (Lenda)
+# Nível 9 (Lenda)
 
-# Aleph (Deus)
-
+# Nível 10 (Deus)

@@ -1,4 +1,4 @@
-# Shin (Novato)
+# Nível Inicial (Novato)
 
 ### Principal: Estado Natural.
 
@@ -11,7 +11,7 @@ Esse talento só funciona ao não ter nenhum **Item** equipado.
 
 Texto.
 
-# Resh (Regular)
+# Nível 1 (Regular)
 ### Julgo Ancestral.
 
 Habilidade, Invocação, Individual.
@@ -28,7 +28,7 @@ Custo: 5 Pontos de Mana, Alcance de 3 metros, Adicionar 1 Marcador de Desgaste.
 
 Através de um poder um espírito da natureza você retorna um alvo ao seu estágio natural, removendo todos os Marcadores Negativos, mas apenas os Não-Debilitante.
 
-# Ayin (Entusiasta)
+# Nível 2 (Entusiasta)
 
 ### Benção dos Espinhos.
 
@@ -38,19 +38,18 @@ Custo: 6 pontos de Mana, Adicionar 1 Marcador de Desgaste.
 
 Envolve um alvo com uma proteção de raízes, plantas e espinhos. Ele recebe 1d6 Marcadores de Resistência. Até o final do seu próximo turno, qualquer dano mitigado do alvo protegido é redirecionado para o atacante.
 
-# Samek (Especialista)
+# Nível 3 (Especialista)
 
-# Kaph (Veterano)
+# Nível 4 (Veterano)
 
-# Yod (Mestre)
+# Nível 5 (Mestre)
 
-# Tet (Gênio)
+# Nível 6 (Gênio)
 
-# Het (Lorde)
+# Nível 7 (Lorde)
 
-# Zayin (Rei)
+# Nível 8 (Rei)
 
-# Dalet (Lenda)
+# Nível 9 (Lenda)
 
-# Aleph (Deus)
-
+# Nível 10 (Deus)

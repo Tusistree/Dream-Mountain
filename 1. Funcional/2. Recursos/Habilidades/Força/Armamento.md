@@ -1,4 +1,4 @@
-# Shin (Novato)
+# Nível Inicial (Novato)
 
 ### Principal: Combate.
 
@@ -10,11 +10,11 @@ Tendo participado de várias brigas você sempre aprende algo novo a cada luta, 
 
 Texto.
 
-# Resh (Regular)
+# Nível 1 (Regular)
 
-# Ayin (Entusiasta)
+# Nível 2 (Entusiasta)
 
-# Samek (Especialista)
+# Nível 3 (Especialista)
 
 ### Abrir Defesas.
 
@@ -24,16 +24,16 @@ Aumenta a Força e Agilidade em 1.
 
 O poder de seus golpes desestabilizam os oponentes, fazendo com que esses oponentes fiquem marcados. Aliados tem 1 Ponto de Dano e Maestria aumentado quando atacar ou usar habilidades contra esses oponentes.
 
-# Kaph (Veterano)
+# Nível 4 (Veterano)
 
-# Yod (Mestre)
+# Nível 5 (Mestre)
 
-# Tet (Gênio)
+# Nível 6 (Gênio)
 
-# Het (Lorde)
+# Nível 7 (Lorde)
 
-# Zayin (Rei)
+# Nível 8 (Rei)
 
-# Dalet (Lenda)
+# Nível 9 (Lenda)
 
-# Aleph (Deus)
+# Nível 10 (Deus)

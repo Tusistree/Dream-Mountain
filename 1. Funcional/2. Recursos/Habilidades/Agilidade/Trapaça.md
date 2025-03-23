@@ -1,4 +1,4 @@
-# Shin (Novato)
+# Nível Inicial (Novato)
 
 ### Principal: Baralho dos Nove.
 
@@ -21,22 +21,22 @@ Acompanhado de um jogo de azar viciado, sempre que usar uma habilidade de **Trap
 
 Texto.
 
-# Resh (Regular)
+# Nível 1 (Regular)
 
-# Ayin (Entusiasta)
+# Nível 2 (Entusiasta)
 
-# Samek (Especialista)
+# Nível 3 (Especialista)
 
-# Kaph (Veterano)
+# Nível 4 (Veterano)
 
-# Yod (Mestre)
+# Nível 5 (Mestre)
 
-# Tet (Gênio)
+# Nível 6 (Gênio)
 
-# Het (Lorde)
+# Nível 7 (Lorde)
 
-# Zayin (Rei)
+# Nível 8 (Rei)
 
-# Dalet (Lenda)
+# Nível 9 (Lenda)
 
-# Aleph (Deus)
+# Nível 10 (Deus)
