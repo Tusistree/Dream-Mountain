@@ -1,8 +1,8 @@
-**Aparência**: Os **Nodonte** tem uma base quadrupede, o que lembra vagamente um centauro, além de ter escamas metálicas que lembram a um dragão. Possuem dentes afiados, pequenos chifres, cauda e olhos sem íris e pupila. Mesmo com uma aparência sinistra sempre tentam conquistar laços e aliados.
+**Aparência**: Os **Nodonte** possuem corpo quadrúpede e aparência que lembra vagamente a um centauro dracônico. Suas escamas metálicas refletem luz como armaduras vivas, e seus olhos sem pupilas somam à sua expressão sinistra. Têm dentes afiados, pequenos chifres e uma longa cauda, reforçando sua natureza predatória. Apesar disso, são criaturas empáticas, que buscam constantemente alianças e laços duradouros com outras espécies.
 
-**Origem**: São do norte do **Reino dos Monstros**, exilados de uma das regiões mais primitivas e hostis de toda **Salon'Gar**, agora vagam pelo mundo em busca de melhores condições.
+**Origem**: Originários do norte do **Reino dos Monstros**, os **Nodonte** foram exilados de uma das regiões mais primitivas e hostis de **Salon’Gar**. Desde então, vagam pelo mundo buscando melhores condições para viver, se integrar e preservar seu legado.
 
-**Sobre**: Os **Nodonte** são um dos seres mais resistentes, ao mesmo tempo que sempre buscam por manter sua espécie, seu legado e cultura. Dão muito valor a tradição e família, mesmo que esses valores sejam encontrados em cultos de outros **Povos**.
+**Sobre**: Valorizando profundamente a família, a tradição e a continuidade de sua espécie. Os **Nodonte** fazem de tudo para proteger seus laços culturais. Seu comportamento respeitoso e adaptativo os tornou bem-vindos entre quase todas as raças conhecidas.
 
 **Aviso**: possuem boas relações com todos os **Povos**.
 
