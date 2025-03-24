@@ -1,4 +1,4 @@
-# Nível Inicial (Novato)
+# Nível Inicial (Inferior)
 
 ### Item
 
@@ -25,7 +25,7 @@ Texto.
 Texto.
 
 
-# Nível 1 (Regular)
+# Nível 1 (Comun)
 
 ### Item
 
@@ -49,9 +49,9 @@ Texto.
 
 ### Item
 
-Texto
+Texto.
 
-# Nível 2 (Entusiasta)
+# Nível 2 (Incomun)
 
 ### Item
 
@@ -75,9 +75,9 @@ Texto.
 
 ### Item
 
-Texto
+Texto.
 
-# Nível 3 (Especialista)
+# Nível 3 (Raro)
 
 ### Item
 
@@ -101,9 +101,9 @@ Texto.
 
 ### Item
 
-Texto
+Texto.
 
-# Nível 4 (Veterano)
+# Nível 4 (Encantado)
 
 ### Item
 
@@ -127,9 +127,9 @@ Texto.
 
 ### Item
 
-Texto
+Texto.
 
-# Nível 5 (Mestre)
+# Nível 5 (Mágico)
 
 ### Item
 
@@ -153,9 +153,9 @@ Texto.
 
 ### Item
 
-Texto
+Texto.
 
-# Nível 6 (Gênio)
+# Nível 6 (Rúnico)
 
 ### Item
 
@@ -179,9 +179,9 @@ Texto.
 
 ### Item
 
-Texto
+Texto.
 
-# Nível 7 (Lorde)
+# Nível 7 (Lendário)
 
 ### Item
 
@@ -205,9 +205,9 @@ Texto.
 
 ### Item
 
-Texto
+Texto.
 
-# Nível 8 (Rei)
+# Nível 8 (Divino)
 
 ### Item
 
@@ -231,9 +231,9 @@ Texto.
 
 ### Item
 
-Texto
+Texto.
 
-# Nível 9 (Lenda)
+# Nível 9 (Demoníaco)
 
 ### Item
 
@@ -257,9 +257,9 @@ Texto.
 
 ### Item
 
-Texto
+Texto.
 
-# Nível 10 (Deus)
+# Nível 10 (Eterno)
 
 ### Item
 
@@ -283,4 +283,4 @@ Texto.
 
 ### Item
 
-Texto
+Texto.
