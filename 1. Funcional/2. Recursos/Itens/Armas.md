@@ -25,7 +25,7 @@ Texto.
 Texto.
 
 
-# Nível 1 (Comun)
+# Nível 1 (Comum)
 
 ### Item
 
@@ -51,7 +51,7 @@ Texto.
 
 Texto.
 
-# Nível 2 (Incomun)
+# Nível 2 (Incomum)
 
 ### Item
 

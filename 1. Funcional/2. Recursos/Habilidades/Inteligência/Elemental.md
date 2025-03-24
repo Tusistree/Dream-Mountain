@@ -1,6 +1,6 @@
 # Nível Inicial (Novato)
 
-### Principal: Instabilidade.
+### Principal: Instabilidade
 
 Talento Principal.
 
@@ -8,7 +8,7 @@ O controle de diversos elementos da natureza sobrecarregam sua **Mana**, fazendo
 
 Quando anotar novamente o mesmo elemento todas as anotações são limpas e sua Maestria bônus por este **Talento** é perdida. 
 
-### Habilidade.
+### Habilidade
 
 Texto.
 

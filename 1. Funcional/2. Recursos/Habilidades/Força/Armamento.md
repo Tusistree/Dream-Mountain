@@ -1,12 +1,12 @@
 # Nível Inicial (Novato)
 
-### Principal: Combate.
+### Principal: Combate
 
 Talento Principal.
 
 Tendo participado de várias brigas você sempre aprende algo novo a cada luta, fazendo que sempre que vença uma **Sessão de Combate** seu **Ataque** seja aumentado permanentemente em 1. Esse bônus adicional não pode ser maior que 5 vezes o seu nível de **Armamento**.
 
-### Habilidade.
+### Habilidade
 
 Texto.
 
@@ -16,7 +16,7 @@ Texto.
 
 # Nível 3 (Especialista)
 
-### Abrir Defesas.
+### Abrir Defesas
 
 Talento, Ofensivo.
 

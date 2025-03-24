@@ -1,6 +1,6 @@
 # Nível Inicial (Novato)
 
-### Principal: Sinfonia.
+### Principal: Sinfonia
 
 Talento Principal.
 
@@ -10,13 +10,13 @@ Sua **Comunicação** é aumentada em número igual ao seus marcadores de **Nota
 
 Esses marcadores duram até o final do **Combate** ou **Sessão Menor**.
 
-### Canto.
+### Canto
 
 Talento, Utilidade.
 
 Texto.
 
-### Habilidade.
+### Habilidade
 
 Texto.
 

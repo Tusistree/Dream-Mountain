@@ -8,7 +8,7 @@ Para nunca faltar flechas ou balas em qualquer situação você sempre carrega c
 
 Sempre que usar alguma **Habilidade** ou **Ataque Básico** que necessite de **Munição**, antes de o realizar você pode equipar e desequipar suas **Munições** sem consumir o seu turno.
 
-### Habilidade.
+### Habilidade
 
 Texto.
 

@@ -1,6 +1,6 @@
 # Nível Inicial (Novato)
 
-### Principal: Transmutação.
+### Principal: Transmutação
 
 Talento Principal.
 
@@ -13,7 +13,7 @@ Seu conhecimento da matéria faz com que você possa mudar as suas propriedades.
 
 O custo de Mana da **Transmutação** é igual ao nível do **Material** e só pode ser feita fora de **Combate**.
 
-### Habilidade.
+### Habilidade
 
 Texto.
 

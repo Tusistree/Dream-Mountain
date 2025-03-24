@@ -1,6 +1,6 @@
 # Nível Inicial (Novato)
 
-### Principal: Baralho dos Nove.
+### Principal: Baralho dos Nove
 
 Talento Principal.
 
@@ -17,7 +17,7 @@ Acompanhado de um jogo de azar viciado, sempre que usar uma habilidade de **Trap
 9. **Rainha de Copas**, você recupera 9 **Pontos de Vida**.
 10. **Rei de Baixo**, seu turno é finalizado e todas as **Habilidades** e **Ataques** usados nele são anulados.
 
-### Habilidade.
+### Habilidade
 
 Texto.
 

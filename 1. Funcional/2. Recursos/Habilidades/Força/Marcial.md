@@ -1,6 +1,6 @@
 # Nível Inicial (Novato)
 
-### Principal: Sequência.
+### Principal: Sequência
 
 Talento Principal.
 
@@ -8,7 +8,7 @@ Treinando movimentos de luta ao extremo você aprendeu sequência de golpes perf
 
 Esse talento só funciona ao não ter nenhuma **Arma** equipada.
 
-### Habilidade.
+### Habilidade
 
 Texto.
 

@@ -1,12 +1,12 @@
 **Itens** do tipo **Material** são usados para criação de outros **Itens** como **Equipamentos**, **Armas**, **Consumíveis** e **Munições**. Também podem ser usadas em **Rituais**, **Encantamentos** e **Estruturas**. Normalmente eles concedem propriedades especiais ao que é fabricado. Eles são acumuláveis, ou seja, dois ou mais **Itens** do mesmo **Material** ocupam apenas um espaço no inventário. Atualmente existem 6 tipos de **Materiais**. 
 
-Três são de origem biológica (Orgânicos):
+Três são de origem biológica (**Orgânicos**):
 
 1. **Animalia**.
 2. **Plantae**.
 3. **Fungi**.
 
-Três são de origem não biológica (Inorgânicos):
+Três são de origem não biológica (**Inorgânicos**):
 
 1. **Mineral**.
 2. **Substância**.
@@ -39,7 +39,7 @@ Texto.
 Texto.
 
 
-# Nível 1 (Comun)
+# Nível 1 (Comum)
 
 ### Item
 
@@ -65,7 +65,7 @@ Texto.
 
 Texto.
 
-# Nível 2 (Incomun)
+# Nível 2 (Incomum)
 
 ### Item
 

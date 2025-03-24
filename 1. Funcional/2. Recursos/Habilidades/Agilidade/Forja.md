@@ -1,12 +1,12 @@
 # Nível Inicial (Novato)
 
-### Principal: Artesão.
+### Principal: Artesão
 
 Talento Principal.
 
 A cada obra prima fabricada, sua habilidade de criação é aprimorada fazendo que um item sempre tenha um ponto de **Atributo** adicional em relação ao seu anterior. A quantidade de atributos extras por essa habilidade não pode ser superior a 5 vezes o seu nível de **Forja**.
 
-### Habilidade.
+### Habilidade
 
 Texto.
 

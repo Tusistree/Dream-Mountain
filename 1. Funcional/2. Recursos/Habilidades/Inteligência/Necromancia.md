@@ -1,6 +1,6 @@
 # Nível Inicial (Novato)
 
-### Principal: Morto-Vivo.
+### Principal: Morto-Vivo
 
 Talento Principal.
 
@@ -18,7 +18,7 @@ Só é possível invocar **Unidades** de nível semelhante ou inferior ao seu n�
 
 # Nível 4 (Veterano)
 
-### Necrose.
+### Necrose
 
 Talento, Utilidade.
 
@@ -26,7 +26,7 @@ Feridas causados por você necrosam, fazendo com que ao causar dano em um alvo a
 
 # Nível 5 (Mestre)
 
-### Ceifar.
+### Ceifar
 
 Talento, Utilidade.
 

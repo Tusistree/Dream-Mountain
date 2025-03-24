@@ -1,12 +1,12 @@
 # Nível Inicial (Novato)
 
-### Principal: Arquitetura.
+### Principal: Arquitetura
 
 Talento Principal.
 
 Suas obras são tão robustas quanto o próprio criador, fazendo com que suas estruturas tenham **Pontos de Vida** extra igual a **Defesa** e **Noção** do dono somados. Ganha 1 Ponto de **Defesa** e **Noção** para cada estrutura criada.
 
-### Habilidade.
+### Habilidade
 
 Texto.
 

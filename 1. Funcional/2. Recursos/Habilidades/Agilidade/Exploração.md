@@ -1,6 +1,6 @@
 # Nível Inicial (Novato)
 
-### Principal: Novos Horizontes.
+### Principal: Novos Horizontes
 
 Talento Principal.
 
@@ -8,7 +8,7 @@ Você tem uma conquista a cada nova terra descoberta, sempre que explorar todos 
 
 Sua **Velocidade** é aumentada em número igual ao seus marcadores de **Descoberta** vezes o seu nível de **Exploração**.
 
-### Habilidade.
+### Habilidade
 
 Texto.
 

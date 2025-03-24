@@ -1,6 +1,6 @@
 # Nível Inicial (Novato)
 
-### Principal: Benevolência.
+### Principal: Benevolência
 
 Talento Principal.
 
@@ -32,7 +32,7 @@ Texto.
 
 # Nível 10 (Deus)
 
-### Última Graça.
+### Última Graça
 
 Talento, Defensivo.
 
