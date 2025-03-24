@@ -24,12 +24,12 @@ Vivendo em harmonia com a natureza, os **Elfos** se movem com fluidez pelo ambie
 
 Habilidade, Utilidade.
 
-Só pode ser usada uma vez por **Plano**.
+Só pode ser usada uma vez por **Plano**. **Precisão Garantida**.
 
 Como parte da natureza o **Elfo** sabe como se mesclar a ela, desaparecendo da vista de seus inimigos. Você sai do **Plano de Combate** para o **Plano de Interpretação** sem ser visto por inimigos. A primeira **Ação** cancela a **Camuflagem** no final do turno. 
 
 ### Consultar o Bestiário
 
-Habilidade Interpretativa, Utilidade.
+Habilidade Interpretativa, Utilidade. **Precisão Garantida**.
 
 O conhecimento do **Elfo** sobre a fauna, flora e ecossistemas do mundo é incomparável, permitindo que você compreenda detalhes ocultos sobre criaturas e ambientes. A qualquer momento você pode identificar **Monstros**, **Plantas** e **Ambientes** **Naturais**, fazendo com que suas informações possam ser consultadas, como **Atributos**, **Habilidades** e etc. Isso também se aplica a valores variáveis, como bônus de **Atributo** e **Pontos de Vida** e **Mana** atuais.

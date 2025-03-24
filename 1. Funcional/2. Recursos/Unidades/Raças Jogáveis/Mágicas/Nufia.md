@@ -16,19 +16,19 @@ Arcanistas e intelectuais são os alvos preferidos das trapaças de um **Nufia**
 
 ### Afinidade Mágica
 
-Talento Interpretativo.
+Talento Interpretativo, Utilidade.
 
 Por sua terra natal e convívio com seres arcanos, os **Nufia** desenvolveram aptidão a assuntos ocultos. Em **Ações de Interpretação** que envolvam **Magia** ou coisas **Mágicas** o **Acerto crítico** e **Precisão** são aumentados em **1**.
 
 ### Cópia Imperfeita
 
-Habilidade.
+Habilidade, Utilidade. **Precisão Garantida**.
 
 Mesmo não entendendo muito bem o **Nufia** pode replicar uma magia que tenha sofrido, um costume entre os seres arcanos. Usa a ultima **Habilidade** de **Dano Mágico** que você sofreu, mas as condições da **Habilidade** original ainda precisam ser respeitadas, porém não são reveladas a você.
 
 ### Travessura
 
-Habilidade Interpretativa, Utilidade.
+Habilidade Interpretativa, Utilidade. **Precisão Garantida**.
 
 Só pode ser usada uma vez por **Plano**.
 

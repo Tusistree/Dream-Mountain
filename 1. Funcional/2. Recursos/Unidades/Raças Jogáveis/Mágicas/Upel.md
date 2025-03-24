@@ -29,13 +29,13 @@ Habilidade, Controle, Área.
 
 Só poder ser uma vez por **Sessão** ou após **Descansar** em um local seguro.
 
-O **Alcance Base** é igual ao seu **Nível**.
+O **Alcance Base** é igual ao seu **Nível**. **Precisão Garantida**.
 
 Um **Upel** pode reverter uma situação negativa para uma positiva usando a abstração sinistra de seu ser. Rouba metade de cada **Efeito Positivo**, arredondado para baixo, de todos os **Oponentes** ao seu redor, e também redistribui metade de cada **Efeito Negativo** seu entre eles a sua escolha, também arrendado para baixo.
 
 ### Atributo-Morfose
 
-Habilidade Interpretativa, Utilidade, Individual.
+Habilidade Interpretativa, Utilidade, Individual. **Precisão Garantida**.
 
 Só poder ser uma vez por **Sessão** ou após **Descansar** em um local seguro.
 

@@ -21,7 +21,7 @@ Os **Humanos** são mestres em enxergar soluções inovadoras para qualquer prob
 
 ### Identificar Padrões
 
-Habilidade, Controle, Individual.
+Habilidade, Controle, Individual. **Precisão Garantida**.
 
 **Requer** que um **Alvo** afetado por essa **Habilidade** seja derrotado ou o **Plano** finalizado para poder marcar um novo **Alvo**.
 
@@ -29,7 +29,7 @@ Através de uma profunda análise o **Humano** pode entender as ações atuais e
 
 ### Barganha
 
-Habilidade Interpretativa, Utilidade, Individual.
+Habilidade Interpretativa, Utilidade, Individual. **Precisão Garantida**.
 
 **Requer** estar no **Plano de Interpretação** e só pode ser usada uma vez por **Plano**.
 

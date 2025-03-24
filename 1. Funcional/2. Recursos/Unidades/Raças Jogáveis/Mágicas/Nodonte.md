@@ -28,7 +28,7 @@ Em busca de integrar a qualquer sociedade, os **Nodonte** estão disposto a se a
 
 ### Forma Ancestral
 
-Habilidade, Defensivo.
+Habilidade, Defensivo. **Precisão Garantida**.
 
 Os **Nodonte** em momentos de crise podem assumir sua verdadeira forma, perdendo seus únicos traços humanoides e se transformando em um basilisco de seis patas. Você assume uma nova forma onde está completamente silenciado, sem poder usar **Habilidades** e **Itens**. Nessa forma você ganha **Defesa** igual ao seus **Marcadores** de **Armadura** e **Noção** igual aos de **Barreira**. O mesmo ocorre com **Vitalidade** e **Marcadores de Resistência**.
 
@@ -38,6 +38,6 @@ Essa forma só é encerrada ao descansar em um **Local Seguro** ou sofrer alguma
 
 Habilidade Interpretativa, Utilidade.
 
-Só pode ser usada uma vez por **Sessão**.
+Só pode ser usada uma vez por **Sessão**. **Precisão Garantida**.
 
 Caso seja necessário, um **Nodonte** pode apenas mudar sua profissão e seu circulo social caso seja a melhor decisão para sua sobrevivência e sua família. Ao ativar essa **Habilidade** você altera o seu **Talento** de **Adaptação Cultural** para uma outra **Raça** e **Modalidade**.

@@ -42,8 +42,6 @@
 
     ↪ Imunidade (Não sofre dano nem efeitos negativos, menos puro).
 
-
-
 //
 //	///	Efeitos Negativos (marcadores)
 //

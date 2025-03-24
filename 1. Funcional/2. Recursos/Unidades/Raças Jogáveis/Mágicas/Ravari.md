@@ -26,7 +26,7 @@ Um **Ravari** sempre caça junto de sua fera leal. Começa a **Campanha** com um
 
 ### Brutalizar
 
-Habilidade, Ofensiva.
+Habilidade, Ofensiva. **Precisão Garantida**.
 
 Essa **Habilidade** não consome uma **Ação** e só pode ser usada uma vez por **Plano**
 
@@ -34,7 +34,7 @@ O ódio primitivo dos **Ravari** os tornam verdadeiros predadores nos campos de 
 
 ### Conexão Selvagem
 
-Habilidade Interpretativa, Utilidade, Individual.
+Habilidade Interpretativa, Utilidade, Individual. **Precisão Garantida**.
 
 Só pode ser usada uma vez por **Plano**.
 

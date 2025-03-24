@@ -24,7 +24,7 @@ Você só volta ao controle quando não tiver mais **Unidades** vivas no **Plano
 
 ### Arremessar
 
-Habilidade, Ofensivo e Mobilidade.
+Habilidade, Ofensivo e Mobilidade. **Precisão Garantida**.
 
 O **Alcance Base** é igual ao seu **Nível**.
 
@@ -34,7 +34,7 @@ O **Kehara** pode deslocar juntas de seu corpo para arremessar coisas a distânc
 
 ### Acalmar
 
-Habilidade Interpretativa, Recuperação.
+Habilidade Interpretativa, Recuperação. **Precisão Garantida**.
 
 Essa **Habilidade** só pode ser usada durante **Perder Controle**.
 

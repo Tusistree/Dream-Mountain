@@ -22,7 +22,7 @@ Um **Helyr** nunca perde tempo quando o assunto é um oponente. Ao sair de um **
 
 ### Soberania
 
-Habilidade, Controle, Individual.
+Habilidade, Controle, Individual. **Precisão Garantida**.
 
 **Requer** que um **Alvo** afetado por essa **Habilidade** seja derrotado ou o **Plano** finalizado para poder marcar um novo **Alvo**.
 
@@ -30,7 +30,7 @@ O Ego de um **Helyr** não deixa ele ser inferior a ninguém. Marca um **Alvo**,
 
 ### Aposta
 
-Habilidade Interpretativa, Utilidade, Individual.
+Habilidade Interpretativa, Utilidade, Individual. **Precisão Garantida**.
 
 Sendo perito em tudo que há de ruim, em jogos de azar os **Helyr** não são uma exceção. Essa habilidade não consome uma **Ação**. Você pode apostar com um alvo sobre qualquer assunto:
 * O alvo precisa consentir.
