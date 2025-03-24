@@ -1,19 +1,23 @@
+# Feito
+
+Raças. ✔️
+Sistema. ✔️
+
 # Principal
 
-Raças
-Classes
+Materiais.
+Outros Itens.
+Classes.
 
 # Pendente da Primeira Campanha
 
 Recuperar e retrabalhar material antigo da primeira sessão.
 
-* Elementalista
-* Sistema e Tabela de XP
+* Elementalista.
+# Extras
 
-Desenvolver NPCs
-Desenvolver Itens
-Arena PVP
-Ganho de Pontos
-Ambientação
-Reliquias do RPG
-Desenvolver Lore
+Desenvolver Lore.
+Desenvolver NPCs.
+Arena PVP.
+Relíquias do RPG.
+Caminhada Temporal.
