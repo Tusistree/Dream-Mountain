@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Desenvolvimento/A fazer.md",
+                "file": "1. Funcional/2. Recursos/Itens/Armas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "A fazer"
+              "title": "Armas"
             }
           }
         ]
@@ -163,13 +163,21 @@
   },
   "active": "60bac315f7a8b3c5",
   "lastOpenFiles": [
+    "0. Desenvolvimento/A fazer.md",
+    "1. Funcional/0. Guia/3. Curiosidades_.md",
+    "1. Funcional/0. Guia/2. Dicas_.md",
     "1. Funcional/0. Guia/1. Introdução.md",
+    "0. Desenvolvimento/1. Material Antigo/Recursos/Criaturas/Notas.md",
+    "0. Desenvolvimento/0. Rascunhos/Game Design/Referências.md",
+    "0. Desenvolvimento/0. Rascunhos/Game Design/Dicas (construção de mundo).md",
+    "0. Desenvolvimento/0. Rascunhos/Game Design/Arquétipos de Jogadores.md",
+    "0. Desenvolvimento/0. Rascunhos/Game Design/Habilidades Principais.md",
+    "1. Funcional/2. Recursos/Itens/Materiais.md",
     "1. Funcional/1. Sistema/Mecânicas/Efeitos.md",
     "0. Desenvolvimento/1. Material Mais Antigo/Recursos/Efeitos.txt",
-    "0. Desenvolvimento/1. Material Mais Antigo/Recursos/Ficha Exemplo.txt",
+    "0. Desenvolvimento/2. Material Mais Antigo/Recursos/Ficha Exemplo.txt",
     "1. Funcional/1. Sistema/Mecânicas/Atributos.md",
     "1. Funcional/1. Sistema/Mecânicas/Habilidades.md",
-    "0. Desenvolvimento/A fazer.md",
     "1. Funcional/1. Sistema/Mecânicas/Interpretação.md",
     "1. Funcional/2. Recursos/Unidades/Raças Jogáveis/Raças Jogáveis.md",
     "1. Funcional/2. Recursos/Unidades/Raças Jogáveis/Mágicas/Kehara.md",
@@ -181,24 +189,17 @@
     "1. Funcional/2. Recursos/Unidades/Raças Jogáveis/Primordiais/Elfos.md",
     "1. Funcional/2. Recursos/Unidades/Raças Jogáveis/Mágicas/Ravari.md",
     "1. Funcional/2. Recursos/Unidades/Raças Jogáveis/Mágicas/Nodonte.md",
-    "0. Desenvolvimento/0. Material Antigo/Geral/Dicas.md",
-    "0. Desenvolvimento/0. Material Antigo/Geral/Curiosidades.md",
-    "1. Funcional/2. Recursos/Itens/Materiais.md",
     "1. Funcional/2. Recursos/Itens/Munição.md",
     "1. Funcional/2. Recursos/Itens/Equipamentos.md",
-    "1. Funcional/2. Recursos/Itens/Consumíveis.md",
-    "1. Funcional/2. Recursos/Itens/Armas.md",
-    "1. Funcional/2. Recursos/Habilidades/Inteligência/Alquimia.md",
-    "1. Funcional/2. Recursos/Habilidades/Inteligência/Sagrado.md",
     "1. Funcional/2. Recursos/Itens/Untitled",
     "1. Funcional/Recursos/Itens/Untitled 2",
     "1. Funcional/Recursos/Itens/Untitled 1",
     "1. Funcional/Recursos/Itens/Untitled",
     "1. Funcional/2. Recursos/Itens",
     "1. Funcional/1. Sistema/Mecânicas",
-    "0. Desenvolvimento/1. Material Mais Antigo/Recursos/Itens/Equipamentos.txt",
+    "0. Desenvolvimento/2. Material Mais Antigo/Recursos/Itens/Equipamentos.txt",
     "1. Funcional/2. Recursos/Unidades/Raças Jogáveis/Mágicas",
-    "0. Desenvolvimento/2. Rascunhos/Referências/Imagens/Pasted image 20250212170251.png",
+    "0. Desenvolvimento/0. Rascunhos/Referências/Imagens/Pasted image 20250212170251.png",
     "Pasted image 20250106145205.png",
     "Notas/Untitled.canvas"
   ]
