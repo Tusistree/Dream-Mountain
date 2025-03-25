@@ -4,11 +4,11 @@ Os **Atributos** são divididos em duas categorias: os normais ou **Secundários
 
 Quando um **Atributo Primário** é aumentado, ele sempre incrementa em todos os seus **Secundários**. Por exemplo:
 
-* Ao equipar uma luva que concede 3 pontos de **Força**, ela também concede 3 pontos em **Ataque**, **Defesa** e **Vitalidade**.
+* Ao equipar uma luva que concede 3 pontos de **Força**, ela também concede **3** pontos em **Ataque**, **Defesa** e **Vitalidade**.
 
 Mas se um **Item** aumentar apenas **Atributos Secundários**, então nesse caso ele só será incrementado normalmente. Por exemplo:
 
-* Ao equipar uma luva que conceda 3 pontos de **Velocidade**, você só recebera 3 pontos de **Velocidade**.
+* Ao equipar uma luva que conceda 3 pontos de **Velocidade**, você só recebera **3** pontos de **Velocidade**.
 
 # Força
 
@@ -34,7 +34,7 @@ O atributo responsável pelo comportamento do ser ou objeto em relação ao mund
 
 O atributo responsável pela consciência do ser ou objeto. Muito comum entre magos, inventores e estudiosos.
 
-**Maestria**: cada ponto corresponde a 1 ponto de **Dano Adicional** em **Habilidades**.
+**Maestria**: cada ponto corresponde a 1 ponto de **Dano Adicional** ou **Cura Adicional** em **Habilidades**.
 
 **Noção**: cada 2 pontos correspondem 1 de **Dano Mágico** reduzido ao sofrer **Ataques**, **Itens** e **Habilidades**.
 

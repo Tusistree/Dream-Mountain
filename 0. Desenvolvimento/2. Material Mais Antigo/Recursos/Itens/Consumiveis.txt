@@ -6,24 +6,24 @@
 
         ↪ Aplica 3 Marcadores de Regeneração.
 
-    ↪ Pedra Pequena
-
-        ↪ Munição, Diversos.
-
-        ↪ 2 de Dano Base.
-
     ↪ Boleadeira
 
         ↪ Armadilha.
 
         ↪ Aplica no Alvo 2 Marcadores de Enraizamento.
-
+        
     ↪ Espetinho de Lebre
 
         ↪ Comida.
 
         ↪ Aplica 3 Marcadores de Velocidade, removendo também até 6 Marcadores de Lentidão e 1 de Enraizamento.
 
+    ↪ Pedra Pequena
+
+        ↪ Munição, Diversos.
+
+        ↪ 2 de Dano Base.
+        
     ↪ Sopa de Cogumelos
 
         ↪ Comida.

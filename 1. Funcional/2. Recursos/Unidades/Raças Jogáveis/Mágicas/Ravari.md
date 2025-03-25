@@ -22,7 +22,7 @@ Esse **Talento** é desativado ao equipar **Itens** que não sejam **Armas** aci
 
 Talento Interpretativo, Invocação.
 
-Um **Ravari** sempre caça junto de sua fera leal. Começa a **Campanha** com uma **Unidade** do tipo **Monstro** de **Nível** 2 ou **Inferior** a sua escolha. Essa **Unidade** sobe de nível junto ao de seu **Dono**, mas não pode passar o **Nível Máximo**. 
+Um **Ravari** sempre caça junto de sua fera leal. Começa a **Campanha** com uma **Unidade** do tipo **Monstro** de **Nível** 2 ou **Inferior** a sua escolha, independente do **Carisma** de ambos. Essa **Unidade** sobe de nível junto ao de seu **Dono**, mas não pode passar o **Nível Máximo**. 
 
 ### Brutalizar
 

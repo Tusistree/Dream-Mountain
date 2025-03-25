@@ -1,8 +1,10 @@
 # Nível Inicial (Inferior)
 
-### Item
+### Chapéu de Palha
 
-Texto.
+Equipamento, Elmo.
+
+O maior símbolo de um fazendeiro. Aumenta a **Velocidade** em 1. Você tem uma chance adicional de receber um **Material Orgânico** ao **Saquear**, sendo **Precisão Improvável**.
 
 ### Item
 
