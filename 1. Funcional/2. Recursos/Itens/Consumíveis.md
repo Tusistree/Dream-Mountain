@@ -1,10 +1,12 @@
 # Nível Inicial (Inferior)
 
-### Item
+### Bandagens
 
-Texto.
+Consumível, Diversos.
 
-### Item
+Não é o melhor tratamento, mas já salvou milhares de vidas. Ao **Toque** aplica 3 [[Efeitos]] de **Regeneração**.
+
+### Boleadeira
 
 Texto.
 

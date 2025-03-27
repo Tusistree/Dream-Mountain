@@ -34,6 +34,8 @@ Embora não faça sentido, é uma casa confortável para pequenas criaturas. Aum
 
 ### Machadinha
 
+Arma de uma Mão, Machado.
+
 Um pequeno machado para cortar lenha. Aumenta o **Ataque** em 2 e a **Velocidade** em 1. Causar **Dano**, que não seja por **Efeitos**, aplica 1 **Efeito** de **Sangramento** ao **Oponente**.
 
 # Nível 1 (Comum)

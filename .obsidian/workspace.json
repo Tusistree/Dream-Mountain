@@ -48,9 +48,23 @@
               "icon": "lucide-file",
               "title": "Consumíveis"
             }
+          },
+          {
+            "id": "efcaa9f262052af0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Funcional/2. Recursos/Itens/Materiais.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Materiais"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "ff1235453dfd6f69",
@@ -97,9 +111,23 @@
               "icon": "lucide-file",
               "title": "Atributos"
             }
+          },
+          {
+            "id": "ebb8d4c0b86151d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Funcional/1. Sistema/Mecânicas/Efeitos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Efeitos"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -156,7 +184,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 382.5
+    "width": 382.5,
+    "collapsed": true
   },
   "right": {
     "id": "46d6bb0d7a9b7e91",
@@ -239,16 +268,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "67e60a6e78d7f793",
+  "active": "86741a9536bd3287",
   "lastOpenFiles": [
+    "1. Funcional/2. Recursos/Itens/Equipamentos.md",
     "1. Funcional/2. Recursos/Itens/Armas.md",
+    "1. Funcional/2. Recursos/Itens/Consumíveis.md",
+    "1. Funcional/2. Recursos/Itens/Materiais.md",
+    "1. Funcional/2. Recursos/Unidades/Raças Jogáveis/Mágicas/Upel.md",
+    "1. Funcional/2. Recursos/Unidades/Raças Jogáveis/Mágicas/Kehara.md",
+    "1. Funcional/2. Recursos/Unidades/Raças Jogáveis/Mágicas/Nodonte.md",
+    "1. Funcional/2. Recursos/Unidades/Raças Jogáveis/Mágicas/Ravari.md",
+    "1. Funcional/2. Recursos/Unidades/Raças Jogáveis/Mágicas/Nufia.md",
+    "1. Funcional/2. Recursos/Unidades/Raças Jogáveis/Primordiais/Cael.md",
+    "1. Funcional/2. Recursos/Unidades/Raças Jogáveis/Primordiais/Elfos.md",
+    "1. Funcional/2. Recursos/Unidades/Raças Jogáveis/Primordiais/Helyr.md",
+    "1. Funcional/2. Recursos/Unidades/Raças Jogáveis/Primordiais/Humanos.md",
+    "1. Funcional/1. Sistema/Mecânicas/Efeitos.md",
     "1. Funcional/1. Sistema/Mecânicas/Atributos.md",
     "1. Funcional/1. Sistema/Mecânicas/Habilidades.md",
-    "1. Funcional/2. Recursos/Itens/Equipamentos.md",
     "1. Funcional/2. Recursos/Unidades/Raças Jogáveis/Raças Jogáveis.md",
-    "1. Funcional/2. Recursos/Unidades/Raças Jogáveis/Mágicas/Ravari.md",
-    "1. Funcional/1. Sistema/Mecânicas/Efeitos.md",
-    "1. Funcional/2. Recursos/Itens/Consumíveis.md",
     "1. Funcional/1. Sistema/Mecânicas/Interpretação.md",
     "1. Funcional/0. Guia/1. Introdução.md",
     "0. Desenvolvimento/A fazer.md",
@@ -258,17 +296,8 @@
     "0. Desenvolvimento/0. Rascunhos/Game Design/Referências.md",
     "0. Desenvolvimento/0. Rascunhos/Game Design/Dicas (construção de mundo).md",
     "0. Desenvolvimento/0. Rascunhos/Game Design/Arquétipos de Jogadores.md",
-    "0. Desenvolvimento/0. Rascunhos/Game Design/Habilidades Principais.md",
-    "1. Funcional/2. Recursos/Itens/Materiais.md",
     "0. Desenvolvimento/1. Material Mais Antigo/Recursos/Efeitos.txt",
     "0. Desenvolvimento/2. Material Mais Antigo/Recursos/Ficha Exemplo.txt",
-    "1. Funcional/2. Recursos/Unidades/Raças Jogáveis/Mágicas/Kehara.md",
-    "1. Funcional/2. Recursos/Unidades/Raças Jogáveis/Mágicas/Nufia.md",
-    "1. Funcional/2. Recursos/Unidades/Raças Jogáveis/Mágicas/Upel.md",
-    "1. Funcional/2. Recursos/Unidades/Raças Jogáveis/Primordiais/Cael.md",
-    "1. Funcional/2. Recursos/Unidades/Raças Jogáveis/Primordiais/Humanos.md",
-    "1. Funcional/2. Recursos/Unidades/Raças Jogáveis/Primordiais/Helyr.md",
-    "1. Funcional/2. Recursos/Unidades/Raças Jogáveis/Primordiais/Elfos.md",
     "1. Funcional/2. Recursos/Itens/Untitled",
     "1. Funcional/Recursos/Itens/Untitled 2",
     "1. Funcional/Recursos/Itens/Untitled 1",

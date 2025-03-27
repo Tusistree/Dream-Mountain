@@ -1,11 +1,5 @@
 ↪ Shin (Classe 10 ou Básica, Itens Inferiores)
 
-    ↪ Bandagens Velhas
-
-        ↪ Diversos.
-
-        ↪ Aplica 3 Marcadores de Regeneração.
-
     ↪ Boleadeira
 
         ↪ Armadilha.
@@ -23,7 +17,7 @@
         ↪ Munição, Diversos.
 
         ↪ 2 de Dano Base.
-        
+
     ↪ Sopa de Cogumelos
 
         ↪ Comida.

@@ -12,14 +12,7 @@
 
 Talento, Defensivo.
 
-A medida que é ferido, o corpo de um **Nodonte** gera mais escamas para aumentar sua sobrevivência. Ao sofrer **Dano Físico** recebe metade daquele dano, pós mitigado, de **Marcadores** de **Armadura**. O mesmo ocorre de **Dano Mágico** para **Marcadores** de **Barreira**, e **Dano Puro** com **Marcadores** de **Resistência**.
-
-*Armadura (Dissipação Superior): Suporta certas quantias de dano físico.*
-
-*Barreira (Dissipação Superior): Suporta certas quantias de dano mágico.*
-
-*Resistência (Dissipação Superior): Suporta certas quantias de qualquer dano.*
-
+A medida que é ferido, o corpo de um **Nodonte** gera mais escamas para aumentar sua sobrevivência. Ao sofrer **Dano Físico** recebe metade daquele dano, pós mitigado, de [[Efeitos]] de **Armadura**. O mesmo ocorre de **Dano Mágico** para **Barreira**, e **Dano Puro** com **Resistência**.
 ### Adaptação Cultural
 
 Talento Interpretativo, Utilidade.

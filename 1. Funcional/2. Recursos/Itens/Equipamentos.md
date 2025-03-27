@@ -6,17 +6,23 @@ Equipamento, Elmo.
 
 O maior símbolo de um fazendeiro. Aumenta a **Velocidade** em 1. Você tem uma chance adicional de receber um **Material Orgânico** ao **Saquear**, sendo **Precisão Improvável**.
 
-### Item
+### Luvas do Lenhador
 
-Texto.
+Equipamento, Mãos.
 
-### Item
+Essas luvas costumam proteger a palma das mãos ao cortar madeira. Aumenta a **Defesa** em 2, e mais 2 caso esteja equipado com uma **Arma** de **Duas Mãos** ou **Duas Armas**.
 
-Texto.
+### Manto Sujo
 
-### Item
+Equipamento, Costas.
 
-Texto.
+Fede mas infelizmente protege. Aumenta a **Velocidade** em 1, também dificulta a **Precisão** de **Oponentes** contra você em 1.
+
+### Sacola Rasgada
+
+Equipamento, Mochila.
+
+É necessário cuidado para não deixar nada cair. Oferece 3 espaços de **Item** sem precisar estar equipado, porém perde 1 **Velocidade** e **Alcance** para cada **Item** armazenado nessa **Mochila**.
 
 ### Item
 

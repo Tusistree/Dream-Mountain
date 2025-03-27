@@ -6,28 +6,6 @@
 
         ↪ Aumenta o Domínio em 3.
 
-    ↪ Luvas do Lenhador
-
-        ↪ Equipamento, Mãos.
-
-        ↪ Aumenta o Ataque em 2, incrementado para 4 ao usar armas de Duas Mãos.
-    
-    ↪ Manto Sujo
-
-        ↪ Equipamento, Costas.
-
-        ↪ Aumenta a Noção em 2.
-
-        ↪ Aumenta a Esquiva em 1.
-
-    ↪ Sacola Rasgada
-
-        ↪ Equipamento, Bolsa.
-
-        ↪ Aumenta o número máximo de Itens no Inventário em 2.
-
-        ↪ Perde 1 ponto de Velocidade e Alcance para cada Item extra armazenado.
-
 
 ↪ Resh (Classe 9, Itens Comuns)
 
