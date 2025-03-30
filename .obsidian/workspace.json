@@ -4,102 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "593924f5091d1f25",
+        "id": "e8b37b1ced5ce48f",
         "type": "tabs",
         "children": [
           {
-            "id": "c3b269c30e0f85ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Funcional/2. Recursos/Itens/Armas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Armas"
-            }
-          },
-          {
-            "id": "67e60a6e78d7f793",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Funcional/2. Recursos/Itens/Equipamentos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Equipamentos"
-            }
-          },
-          {
-            "id": "86741a9536bd3287",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Funcional/2. Recursos/Itens/Consumíveis.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Consumíveis"
-            }
-          },
-          {
-            "id": "efcaa9f262052af0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Funcional/2. Recursos/Itens/Materiais.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Materiais"
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "ff1235453dfd6f69",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "60bac315f7a8b3c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Funcional/1. Sistema/Mecânicas/Habilidades.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Habilidades"
-            }
-          },
-          {
-            "id": "bf944e9f404ea20f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Funcional/1. Sistema/Mecânicas/Interpretação.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Interpretação"
-            }
-          },
-          {
-            "id": "de3cb54a157e2ede",
+            "id": "722f52000594b949",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -111,23 +20,8 @@
               "icon": "lucide-file",
               "title": "Atributos"
             }
-          },
-          {
-            "id": "ebb8d4c0b86151d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Funcional/1. Sistema/Mecânicas/Efeitos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Efeitos"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 382.5,
-    "collapsed": true
+    "width": 382.5
   },
   "right": {
     "id": "46d6bb0d7a9b7e91",
@@ -268,12 +161,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "86741a9536bd3287",
+  "active": "722f52000594b949",
   "lastOpenFiles": [
+    "1. Funcional/1. Sistema/Mecânicas/Efeitos.md",
+    "1. Funcional/1. Sistema/Mecânicas/Atributos.md",
+    "1. Funcional/1. Sistema/Ficha/Ficha Base.md",
     "1. Funcional/2. Recursos/Itens/Equipamentos.md",
-    "1. Funcional/2. Recursos/Itens/Armas.md",
-    "1. Funcional/2. Recursos/Itens/Consumíveis.md",
+    "Pasted image 20250330143144.png",
+    "1. Funcional/0. Guia/1. Introdução.md",
     "1. Funcional/2. Recursos/Itens/Materiais.md",
+    "1. Funcional/2. Recursos/Itens/Consumíveis.md",
+    "1. Funcional/2. Recursos/Itens/Armas.md",
     "1. Funcional/2. Recursos/Unidades/Raças Jogáveis/Mágicas/Upel.md",
     "1. Funcional/2. Recursos/Unidades/Raças Jogáveis/Mágicas/Kehara.md",
     "1. Funcional/2. Recursos/Unidades/Raças Jogáveis/Mágicas/Nodonte.md",
@@ -283,19 +181,14 @@
     "1. Funcional/2. Recursos/Unidades/Raças Jogáveis/Primordiais/Elfos.md",
     "1. Funcional/2. Recursos/Unidades/Raças Jogáveis/Primordiais/Helyr.md",
     "1. Funcional/2. Recursos/Unidades/Raças Jogáveis/Primordiais/Humanos.md",
-    "1. Funcional/1. Sistema/Mecânicas/Efeitos.md",
-    "1. Funcional/1. Sistema/Mecânicas/Atributos.md",
     "1. Funcional/1. Sistema/Mecânicas/Habilidades.md",
     "1. Funcional/2. Recursos/Unidades/Raças Jogáveis/Raças Jogáveis.md",
     "1. Funcional/1. Sistema/Mecânicas/Interpretação.md",
-    "1. Funcional/0. Guia/1. Introdução.md",
     "0. Desenvolvimento/A fazer.md",
     "1. Funcional/0. Guia/3. Curiosidades_.md",
     "1. Funcional/0. Guia/2. Dicas_.md",
     "0. Desenvolvimento/1. Material Antigo/Recursos/Criaturas/Notas.md",
     "0. Desenvolvimento/0. Rascunhos/Game Design/Referências.md",
-    "0. Desenvolvimento/0. Rascunhos/Game Design/Dicas (construção de mundo).md",
-    "0. Desenvolvimento/0. Rascunhos/Game Design/Arquétipos de Jogadores.md",
     "0. Desenvolvimento/1. Material Mais Antigo/Recursos/Efeitos.txt",
     "0. Desenvolvimento/2. Material Mais Antigo/Recursos/Ficha Exemplo.txt",
     "1. Funcional/2. Recursos/Itens/Untitled",
