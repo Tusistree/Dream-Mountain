@@ -4,29 +4,29 @@
 
 # Efeitos Positivos
 
-**Efeitos** de **Performance** (**Dissipação Fraca**): 
+**Efeitos** de **Interpretação** (**Dissipação Fraca**): 
+
+* **Noção**: pode ser consumido para evitar erros **Críticos** em **Ações de Interpretação**.
+* **Foco**: melhora sua **Precisão** em **Ações de Interpretação**. 
+* **Sorte**: aumenta a chance de **Crítico** em **Ações de Interpretação**.
+
+**Efeitos** de **Combate** (**Dissipação Normal**): 
 
 * **Aumento**: melhora um **Atributo**.
 * **Concentração**: restaura pontos de **Mana**.
 * **Regeneração**: restaura pontos de **Vida**.
 
-**Efeitos** de **Probabilidade** (**Dissipação Normal**): 
-
-* **Esquiva**: dificulta a **Precisão** de **Oponentes** contra você.
-* **Foco**: melhora sua **Precisão**.
-* **Sorte**: aumenta a chance de **Crítico**.
-
 **Efeitos** de **Tolerância** (**Dissipação Forte**): 
 
-* **Armadura**: é consumido para reduzir pontos de **Dano Físico**.
-* **Barreira**: é consumido para reduzir pontos de **Dano Mágico**
-* **Resistência**: é consumido para reduzir pontos de qualquer **Dano**, exceto por **Puro**.
+* **Equilíbrio**: pode ser consumido ao invés de alguns pontos de **Mana**.
+* **Barreira**: é consumido para mitigar pontos de **Dano**.
+* **Resistência**: pode ser consumido para anular **Efeitos Inutilizantes** ou inferior.
 
 **Efeitos Especiais** (**Dissipação Verdadeira**): 
 
+* **Audácia**: é consumido para jogar novamente algum **d20** ao controle da **Unidade** afetada.
 * **Imunidade**: não sofre **Efeitos** e **Dano**.
 * **Proteção**: é **Imune** a algo especifico, sendo consumido todas vez que sofrer um **Ataque** ou **Habilidade** do mesmo.
-* **Audácia**: é consumido para jogar novamente algum **Dado** ao controle da **Unidade** afetada.
 
 # Efeitos Negativos
 
