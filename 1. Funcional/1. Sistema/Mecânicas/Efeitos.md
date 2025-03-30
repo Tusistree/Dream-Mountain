@@ -18,8 +18,8 @@
 
 **Efeitos** de **Tolerância** (**Dissipação Forte**): 
 
-* **Equilíbrio**: pode ser consumido ao invés de alguns pontos de **Mana**.
-* **Barreira**: é consumido para mitigar pontos de **Dano**.
+* **Equilíbrio**: pode ser consumido ao invés de gastar alguns pontos de **Mana**.
+* **Barreira**: é consumido para mitigar pontos de **Dano**, exceto por **Efeitos**.
 * **Resistência**: pode ser consumido para anular **Efeitos Inutilizantes** ou inferior.
 
 **Efeitos Especiais** (**Dissipação Verdadeira**): 

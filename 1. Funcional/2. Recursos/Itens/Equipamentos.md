@@ -1,3 +1,5 @@
+**Equipamentos** são **Itens** que podem ser anexados em partes do corpo de **Jogadores** ou **NPCs**, e até alguns casos também por **Monstros**. Não é possível equipar um **Item** em uma parte se outro já estiver equipado naquele mesmo anexo.
+
 # Nível Inicial (Inferior)
 
 ### Chapéu de Palha
@@ -10,13 +12,13 @@ O maior símbolo de um fazendeiro. Aumenta a **Velocidade** em 1. Você tem uma 
 
 Equipamento, Mãos.
 
-Essas luvas costumam proteger a palma das mãos ao cortar madeira. Aumenta a **Defesa** em 2, e mais 2 caso esteja equipado com uma **Arma** de **Duas Mãos** ou **Duas Armas**.
+Essas luvas costumam proteger a palma das mãos ao cortar madeira. Aumenta a **Defesa** em 1, ou em **2** caso esteja equipado com uma **Arma** de **Duas Mãos** ou **Duas Armas**.
 
 ### Manto Sujo
 
 Equipamento, Costas.
 
-Fede mas infelizmente protege. Aumenta a **Velocidade** em 1, também dificulta a **Precisão** de **Oponentes** contra você em 1.
+Fede, mas infelizmente protege. Aumenta a **Velocidade** e **Esquiva** em 1.
 
 ### Sacola Rasgada
 

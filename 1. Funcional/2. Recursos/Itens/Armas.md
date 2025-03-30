@@ -12,13 +12,13 @@ Uma simples ferramenta de um pastor para guiar o seu rebanho. Aumenta o **Alcanc
 
 Arma de uma Mão, Escudo.
 
-Um amontoado de tábuas de madeira que por coincidência dá um bom escudo. Aumenta a **Defesa** em 3, além de reduzir em 1 o **Dano Físico** recebido, exceto por **Efeitos**.
+Um amontoado de tábuas de madeira que por coincidência dá um bom escudo. Aumenta a **Defesa** em 1, além de reduzir em **1d4** o **Dano** recebido, exceto por **Efeitos**.
 
 ### Espada Enferrujada
 
 Arma de Duas Mãos, Espada.
 
-Uma arma que suas feridas contam sua história. Aumenta o **Ataque** em 9, mas erros **Críticos** reduzem permanentemente o **Ataque** desse **Item** em 1.
+Uma arma que suas feridas contam sua história. Aumenta o **Ataque** em 9, mas perde 1 de **Precisão** e erros **Críticos** reduzem permanentemente o **Ataque** desse **Item** em 1.
 
 ### Estilingue
 
@@ -26,11 +26,11 @@ Arma de Duas Mãos, Longo Alcance, Diverso.
 
 Uma ferramenta que treina futuros atiradores. Consome **Munição** para realizar seus **Ataques Básicos** em até 6 metros distância, porém com a metade do **Dano**.
 
-### Gaiola Velha
+### Grimório Rasgado
 
-Arma de uma Mão, Diverso.
+Arma de Uma Mão, Tomo.
 
-Embora não faça sentido, é uma casa confortável para pequenas criaturas. Aumenta o **Carisma** em 3 em relação a **Monstros**, ou em 6 relação ao controle deles. Pode armazenar **Monstros** de **Nível** 2 ou inferior ao **Toque**, sendo uma **Habilidade** do tipo **Utilidade**.
+As páginas que sobraram ainda são bem úteis. Aumenta o domínio em 3, a primeira **Habilidade** usada em um **Plano de Combate** custa **1d4** de **Mana** a menos.
 
 ### Machadinha
 
@@ -44,7 +44,11 @@ Um pequeno machado para cortar lenha. Aumenta o **Ataque** em 2 e a **Velocidade
 
 Texto.
 
+Texto.
+
 ### Item
+
+Texto.
 
 Texto.
 
@@ -52,7 +56,11 @@ Texto.
 
 Texto.
 
+Texto.
+
 ### Item
+
+Texto.
 
 Texto.
 
@@ -60,7 +68,11 @@ Texto.
 
 Texto.
 
+Texto.
+
 ### Item
+
+Texto.
 
 Texto.
 
@@ -70,7 +82,11 @@ Texto.
 
 Texto.
 
+Texto.
+
 ### Item
+
+Texto.
 
 Texto.
 
@@ -78,7 +94,11 @@ Texto.
 
 Texto.
 
+Texto.
+
 ### Item
+
+Texto.
 
 Texto.
 
@@ -86,7 +106,11 @@ Texto.
 
 Texto.
 
+Texto.
+
 ### Item
+
+Texto.
 
 Texto.
 
@@ -96,7 +120,11 @@ Texto.
 
 Texto.
 
+Texto.
+
 ### Item
+
+Texto.
 
 Texto.
 
@@ -104,7 +132,11 @@ Texto.
 
 Texto.
 
+Texto.
+
 ### Item
+
+Texto.
 
 Texto.
 
@@ -112,7 +144,11 @@ Texto.
 
 Texto.
 
+Texto.
+
 ### Item
+
+Texto.
 
 Texto.
 
@@ -122,7 +158,11 @@ Texto.
 
 Texto.
 
+Texto.
+
 ### Item
+
+Texto.
 
 Texto.
 
@@ -130,7 +170,11 @@ Texto.
 
 Texto.
 
+Texto.
+
 ### Item
+
+Texto.
 
 Texto.
 
@@ -138,7 +182,11 @@ Texto.
 
 Texto.
 
+Texto.
+
 ### Item
+
+Texto.
 
 Texto.
 
@@ -148,7 +196,11 @@ Texto.
 
 Texto.
 
+Texto.
+
 ### Item
+
+Texto.
 
 Texto.
 
@@ -156,7 +208,11 @@ Texto.
 
 Texto.
 
+Texto.
+
 ### Item
+
+Texto.
 
 Texto.
 
@@ -164,7 +220,11 @@ Texto.
 
 Texto.
 
+Texto.
+
 ### Item
+
+Texto.
 
 Texto.
 
@@ -174,7 +234,11 @@ Texto.
 
 Texto.
 
+Texto.
+
 ### Item
+
+Texto.
 
 Texto.
 
@@ -182,7 +246,11 @@ Texto.
 
 Texto.
 
+Texto.
+
 ### Item
+
+Texto.
 
 Texto.
 
@@ -190,7 +258,11 @@ Texto.
 
 Texto.
 
+Texto.
+
 ### Item
+
+Texto.
 
 Texto.
 
@@ -200,7 +272,11 @@ Texto.
 
 Texto.
 
+Texto.
+
 ### Item
+
+Texto.
 
 Texto.
 
@@ -208,7 +284,11 @@ Texto.
 
 Texto.
 
+Texto.
+
 ### Item
+
+Texto.
 
 Texto.
 
@@ -216,7 +296,11 @@ Texto.
 
 Texto.
 
+Texto.
+
 ### Item
+
+Texto.
 
 Texto.
 
@@ -226,7 +310,11 @@ Texto.
 
 Texto.
 
+Texto.
+
 ### Item
+
+Texto.
 
 Texto.
 
@@ -234,7 +322,11 @@ Texto.
 
 Texto.
 
+Texto.
+
 ### Item
+
+Texto.
 
 Texto.
 
@@ -242,7 +334,11 @@ Texto.
 
 Texto.
 
+Texto.
+
 ### Item
+
+Texto.
 
 Texto.
 
@@ -252,7 +348,11 @@ Texto.
 
 Texto.
 
+Texto.
+
 ### Item
+
+Texto.
 
 Texto.
 
@@ -260,7 +360,11 @@ Texto.
 
 Texto.
 
+Texto.
+
 ### Item
+
+Texto.
 
 Texto.
 
@@ -268,7 +372,11 @@ Texto.
 
 Texto.
 
+Texto.
+
 ### Item
+
+Texto.
 
 Texto.
 
@@ -278,7 +386,11 @@ Texto.
 
 Texto.
 
+Texto.
+
 ### Item
+
+Texto.
 
 Texto.
 
@@ -286,7 +398,11 @@ Texto.
 
 Texto.
 
+Texto.
+
 ### Item
+
+Texto.
 
 Texto.
 
@@ -294,6 +410,10 @@ Texto.
 
 Texto.
 
+Texto.
+
 ### Item
+
+Texto.
 
 Texto.
