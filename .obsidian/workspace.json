@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Funcional/1. Sistema/Mecânicas/Efeitos.md",
+                "file": "1. Funcional/1. Sistema/Mecânicas/Interpretação.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Efeitos"
+              "title": "Interpretação"
             }
           }
         ]
@@ -163,8 +163,9 @@
   },
   "active": "722f52000594b949",
   "lastOpenFiles": [
-    "1. Funcional/1. Sistema/Mecânicas/Atributos.md",
+    "1. Funcional/1. Sistema/Mecânicas/Habilidades.md",
     "1. Funcional/1. Sistema/Mecânicas/Efeitos.md",
+    "1. Funcional/1. Sistema/Mecânicas/Atributos.md",
     "1. Funcional/1. Sistema/Ficha/Ficha Base.md",
     "1. Funcional/2. Recursos/Itens/Equipamentos.md",
     "Pasted image 20250330143144.png",
@@ -181,7 +182,6 @@
     "1. Funcional/2. Recursos/Unidades/Raças Jogáveis/Primordiais/Elfos.md",
     "1. Funcional/2. Recursos/Unidades/Raças Jogáveis/Primordiais/Helyr.md",
     "1. Funcional/2. Recursos/Unidades/Raças Jogáveis/Primordiais/Humanos.md",
-    "1. Funcional/1. Sistema/Mecânicas/Habilidades.md",
     "1. Funcional/2. Recursos/Unidades/Raças Jogáveis/Raças Jogáveis.md",
     "1. Funcional/1. Sistema/Mecânicas/Interpretação.md",
     "0. Desenvolvimento/A fazer.md",

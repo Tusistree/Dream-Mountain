@@ -4,8 +4,8 @@ As **Habilidades** são o coração de **Dream Mountain**, graças ao fator de s
 
 É muito comum uma **Habilidade** aplicar [[Efeitos]], tanto **Positivos** quanto **Negativos**. No entanto, esses mesmos **Efeitos** também podem ser anulados por outras **Habilidades**. No processo de **Dissipação** a fonte causadora decide o que e quanto vai ser removido, mas com certos limites:
 
-* **Dissipação Fraca**: Remove **Efeitos** de **Performance** ou **Não-Debilitante**.
-* **Dissipação Normal**: Remove **Efeitos** de **Probabilidade** ou **Debilitantes**.
+* **Dissipação Fraca**: Remove **Efeitos** de **Interpretação** ou **Não-Debilitante**.
+* **Dissipação Normal**: Remove **Efeitos** de **Combate** ou **Debilitantes**.
 * **Dissipação Forte**: Remove **Efeitos** de **Tolerância** ou **Inutilizantes**.
 * **Dissipação Verdadeira**: Remove qualquer **Efeito** de qualquer **Nível**.
 
