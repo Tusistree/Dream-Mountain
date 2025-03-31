@@ -704,7 +704,6 @@
 
         ↪ Conjunto Completo: Um quarto do Dano não periódico causado pelo usuário é aplicado como Marcadores de Veneno. Marcadores de Veneno em inimigos não podem ser evitados por Efeitos, Itens, Magias ou Habilidades, também precisando de uma Dissipação Superior ao invés de Fraca para serem removidos.
 
-
 ↪ Dalet (Classe 1, Itens Demoníacos)
 
     ↪
@@ -746,7 +745,6 @@
     ↪
 
         ↪
-
 
 ↪ Aleph (Classe Especial, Itens dos Sonhos, Itens criados na Montanha dos Sonhos)
 
