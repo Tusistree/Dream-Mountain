@@ -1,37 +1,3 @@
-    ↪ Fragmento do Saber
-
-        ↪ Consumível Divino.
-
-        ↪ Você pode escolher uma Magia, Habilidade, Maldição ou Milagre que ele conhece, perdendo-a. A unidade ou Companheiro de Equipe que consumir esse item ganhara esse conhecimento.
-
-    ↪ Talismã da Humildade
-
-        ↪ Consumível Divino.
-
-        ↪ Você sobe dois pontos de Nível. Só pode ser usado pelo Companheiro de Equipe com menos Nível e Pontos de Experiência, e esse efeito não aumenta o Nível para um superior ao Companheiro de Equipe com mais Nível ou Pontos de Experiência.
-
-    ↪ Talismã do Orgulho
-
-        ↪ Consumível Divino.
-
-        ↪ Você sobe 1 ponto de Nível.
-
-↪ Aleph (Classe 0 ou Especial, Itens dos Sonhos, Itens criados na Montanha dos Sonhos)
-
-    ↪ Baú do Outro Mundo
-
-        ↪ Consumível Abstrato.
-
-        ↪ Ganha uma Carga sempre que um ou mais Marcadores são aplicados nesse Combate.
-
-        ↪ Você pode consumir uma Carga para colocar qualquer Marcador em qualquer Alvo, esse efeito não pode adicionar Cargas a nenhum Baú do Outro Mundo.
-
-    ↪ Poção do Renascimento
-
-        ↪ Poção Abstrata;
-
-        ↪ Aplica uma Dissipação Verdadeira em todos os Marcadores Positivos e Negativos, Restaura todos os Pontos de Vida e de Mana, e caso o alvo esteja Morto ele é ressucitado (ainda respeitando as regras de ressureição).
-
     ↪ Selo da Agilidade
 
         ↪ Consumível Abstrato.
@@ -55,11 +21,3 @@
         ↪ Pode ser usado para conceder Permanentemente 30 Pontos de Inteligência a uma Arma ou Equipamento. Este efeito pode ser revertido pelo o dono do Item com o Efeito, destruindo o Item caso seja de Classe Zayin ou Inferior, e recuperando ao dono o seu Selo.
 
         ↪ Pode ser combinado com o Selo da Força e da Agilidade, consumindo os 3, para criar um Eco dos Sonhos.
-
-↪ Ifest (Classe ?, Itens Eternos, Itens que existem desde a Origem)
-
-    ↪ Eco dos Sonhos
-
-        ↪ Consumível ?.
-
-        ↪ Teletransporta você para a Montanha dos Sonhos.

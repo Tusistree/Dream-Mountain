@@ -245,7 +245,7 @@ Para o mestre de runas sempre viver. Ao consumir aplica 1 **Efeito** de **Imunid
 
 Runa, 3 Cargas.
 
-Para o mestre de runas sempre se divertir. Consome 1 **Carga** para usar uma **Runa** **Aleatória**.
+Para o mestre de runas sempre se divertir. Consome 1 **Carga** para usar uma **Runa** **Aleatória**, mas apenas no **Nível Rúnico**.
 
 ### Runa da Barganha
 
@@ -295,7 +295,7 @@ A solução de magos lendários para não serem assassinados no sono. Esse **Ite
 
 Consumível Lendário, Poção.
 
-Estudiosos descobriam os segredos de filhos da noite e os colocaram em frascos. Ao consumir ganha um **Efeito Único** e permanente até o fim do **Combate** ou sofrer uma **Dissipação Forte**. O **Efeito** é que todo dano causado pelo usuário ele também recebe um terço como **Vida** recuperada, arredondado para cima.
+Estudiosos descobriam os segredos de filhos da noite e os colocaram em frascos. Ao consumir ganha um **Efeito Único** e permanente até o fim do **Combate** ou até sofrer uma **Dissipação Forte**. O **Efeito** é que todo dano causado pelo usuário ele também recebe um terço como **Vida** recuperada, arredondado para cima.
 
 ### Runa das Runas
 
@@ -329,58 +329,72 @@ Runa Divina.
 
 Com o fim dos mestres de runas os estudiosos tiveram que encontrar outro meio de desvendar seus segredos. Ao consumir você pode aprender qualquer **Habilidade** de **Nível** 8 ou inferior. Se não for da sua **Classe** você também aprende seu **Talento Principal**.
 
+### Poção da Gnose
+
+Consumível Divino, Poção.
+
+Os relatos dos poucos que beberam é que por instantes se sentiam como deus. Ao consumir ganha um **Efeito Único** e permanente até o fim do **Combate** ou até sofrer uma **Dissipação Forte**. O **Efeito** é que a **Mana** nunca é gasta, como se fosse infinita.
+
 ### Talismã da Humildade
 
-Texto.
+Consumível Lendário, Diversos.
 
-Texto.
+Humildade personificada em um objeto. Ao consumir sobe 1 ponto de **Nível** de todos os **Jogadores** presentes.
 
 ### Talismã do Orgulho
 
-Texto.
+Consumível Lendário, Diversos.
 
-Texto.
-
-### Item
-
-Texto.
-
-Texto.
+Orgulho personificado em um objeto. Ao consumir sobe 2 ponto de **Nível**, só pode ser usada por **Jogadores** com o maior **Nível** da **Campanha**.
 
 # Nível 9 (Eterno)
 
-### Item
+### Baú do Mundo
 
-Texto.
+Consumível Eterno, Diversos, Cargas Infinitas.
 
-Texto.
+Neste baú há todas as benções e maldições do mundo. Consome 1 **Carga** para colocar um **Efeito Negativo** sua a escolha em um **Oponente**. O mesmo pode ser feito para **Efeitos Positivos** e **Aliados**. Até o final do **Plano** o mesmo **Efeito** não pode ser escolhido novamente.
 
-### Item
+### Poção do Renascimento
 
-Texto.
+Consumível Eterno, Poção.
 
-Texto.
+O objetivo do grande alquimista era o elixir da vida, e ele conseguiu algo bem próximo disso. Ao consumir você zera a sua **Ficha** de **Jogador** e a reconstrói com todo o progresso até então.
 
-### Item
+### Selo do Céu
 
-Texto.
+Runa Eterna.
 
-Texto.
+Os dez céus a palma da mão. Pode ser consumida para conceder a 1 **Equipamento** ou **Arma** permanentemente um aumento de 30 de **Velocidade**. O **Item** afetado, quando seu dono está **Morto** ou **Derrotado**, pode ser extraído novamente o **Selo**, assim removendo seus bônus.
 
-### Item
+Pode ser combinado com os outros 3 **Selos** para fazer o ?.
 
-Texto.
+### Selo do Mar
 
-Texto.
+Runa Eterna.
 
-### Item
+Os dez mares a palma da mão. Pode ser consumida para conceder a 1 **Equipamento** ou **Arma** permanentemente um aumento de 30 de **Domínio**. O **Item** afetado, quando seu dono está **Morto** ou **Derrotado**, pode ser extraído novamente o **Selo**, assim removendo seus bônus.
 
-Texto.
+Pode ser combinado com os outros 3 **Selos** para fazer o ?.
 
-Texto.
+### Selo da Terra
 
-### Item
+Runa Eterna.
 
-Texto.
+Os dez **Reinos** a palma da mão. Pode ser consumida para conceder a 1 **Equipamento** ou **Arma** permanentemente um aumento de 30 de **Vitalidade**. O **Item** afetado, quando seu dono está **Morto** ou **Derrotado**, pode ser extraído novamente o **Selo**, assim removendo seus bônus.
 
-Texto.
+Pode ser combinado com os outros 3 **Selos** para fazer o ?.
+
+### Selo das Profundezas
+
+Runa Eterna.
+
+Os seis **Infernos** a palma da mão. Pode ser consumida para conceder a 1 **Equipamento** ou **Arma** permanentemente um aumento de 30 de **Vitalidade**. O **Item** afetado, quando seu dono está **Morto** ou **Derrotado**, pode ser extraído novamente o **Selo**, assim removendo seus bônus.
+
+# Nível ?
+
+### ?
+
+?, ?.
+
+?. ?.
