@@ -342,45 +342,7 @@ Texto.
 
 Texto.
 
-# Nível 9 (Demoníaco)
-
-### Item
-
-Texto.
-
-Texto.
-
-### Item
-
-Texto.
-
-Texto.
-
-### Item
-
-Texto.
-
-Texto.
-
-### Item
-
-Texto.
-
-Texto.
-
-### Item
-
-Texto.
-
-Texto.
-
-### Item
-
-Texto.
-
-Texto.
-
-# Nível 10 (Eterno)
+# Nível 9 (Eterno)
 
 ### Item
 

@@ -45,7 +45,7 @@
 **Efeitos Inutilizantes** (**Dissipação Forte**): 
 
 * **Atordoamento**: não pode fazer nada durante o seu **Turno**.
-* **Banimento**: não pode fazer nada durante o seu **Turno**, ao mesmo tempo que é considerado como se não existisse.
+* **Banimento**: não pode fazer nada durante o seu **Turno**, ao mesmo tempo que é considerado como se não existisse, também não podendo sofrer nada.
 * **Sono**: não pode fazer nada durante o seu **Turno**, todos esses **Efeitos** são perdidos ao sofrer **Dano** que não seja por outros **Efeitos**.
 
 **Efeitos Especiais** (**Dissipação Verdadeira**): 

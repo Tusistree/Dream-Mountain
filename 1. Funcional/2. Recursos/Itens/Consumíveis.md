@@ -78,235 +78,264 @@ Quem bebe isso costuma acreditar que faz tudo melhor. Aplica 3 **Efeitos** de **
 
 # Nível 2 (Incomum)
 
-### Item
+### Bomba de Fumaça
 
-Texto.
+Armadilha, Arremessável.
 
-Texto.
+A ferramenta preferida por espiões. Aplica em uma área quadrada de 6 metros as seguintes características:
+* **Oponentes** perdem 3 de **Ataque**.
+* **Aliados** ganham 3 de **Esquiva**.
 
-### Item
+### Flecha de Ossos
 
-Texto.
+Munição, Arco.
 
-Texto.
+Ossos e presas esculpidos de forma brutal. Pode ser consumida para realizar **Ataques** com **Armas de Longo Alcance**, adicionando 6 de **Dano Base**, além de aplicar nos **Oponentes** acertados 2 **Efeitos** de **Sangramento**.
 
-### Item
+### Maleta de Primeiros-Socorros
 
-Texto.
+Consumível, Diversos.
 
-Texto.
+Um verdadeiro médico sempre anda com uma. Ao **Toque** aplica uma **Dissipação Fraca** em todos os **Efeitos Negativos**.
 
-### Item
+### Tônico Carmesim
 
-Texto.
+Consumível, Elixir.
 
-Texto.
+As lendas dizem que o ingrediente secreto é sangue de dragão, o que explica porque algumas pessoas não sobrevivem. Ao consumir restaura **3d12** de pontos de **Vida**, porém também 3 **Efeitos** de **Sangramento** e 1 de **Desarme**.
 
-### Item
+### Tônico Diamante
 
-Texto.
+Consumível, Elixir.
 
-Texto.
+Mesmo que essa bebida milagrosa recupere o seu foco, seus consumidores costumam ficarem em estado vegetativo por alguns instantes. Ao consumir restaura 21 pontos de **Mana**, mas aplica 1 **Efeito** de **Silêncio**.
 
-### Item
+### Vinho Élfico
 
-Texto.
+Consumível, Poção.
 
-Texto.
+Seu criador queria o vinho perfeito, e quase alcançou. Aplica 1 **Efeito** de **Aumento** em todos os **Atributos Secundários** ao consumir.
 
 # Nível 3 (Raro)
 
-### Item
+### Explosivo Rudimentar
 
-Texto.
+Armadilha.
 
-Texto.
+Ninguém sabe ao certo decidir se é um milagre ou maldição da engenharia. Planta aos seus pés em uma área quadrada de 3 metros essa armadilha:
+* O primeiro **Oponente** que pisar recebe 2d20 pontos de **Dano**, além de causar esse mesmo **Dano** em 9 metros ao redor desta **Armadilha**.
 
-### Item
+### Flechas Envenenadas
 
-Texto.
+Munição, Arco.
 
-Texto.
+Uma flecha comum, porém banhada diversas em um fluído paralisante. Pode ser consumida para realizar **Ataques** com **Armas de Longo Alcance**, adicionando 9 de **Dano Base**, além de aplicar nos **Oponentes** acertados 3 **Efeitos** de **Redução** de **Velocidade**.
 
-### Item
+### Flechas Explosivas
 
-Texto.
+Munição, Arco.
 
-Texto.
+Uma mistura entre a caça primitiva e a engenharia moderna. Pode ser consumida para realizar **Ataques** com **Armas de Longo Alcance**, adicionando 6 de **Dano Base**, além também causar um 1d6 de **Dano** em área igual ao valor do mesmo **Dano** adicional.
 
-### Item
+### Granada de Som
 
-Texto.
+Armadilha, Arremessável.
 
-Texto.
+Seu inventor não conseguiu ouvir os aplausos pela sua criação. Dentro de 18 metros aplica a um **Oponente** 1 **Efeito** de **Atordoamento**, e também em todos o **Oponentes** em raio de 3 metros do primeiro alvo.
 
-### Item
+### Maleta de Sabotagem
 
-Texto.
+Consumível, Diversos.
 
-Texto.
+É como um médico só que ao contrário. Ao **Toque** aplica uma **Dissipação Normal** em todos os **Efeitos Positivos**.
 
-### Item
+### Punhado de Ferrugem
 
-Texto.
+Armadilha, Arremessável.
 
-Texto.
+Uma estratégia covarde usada contra grandes guerreiros. Dentro de 9 metros desequipa e inutiliza completamente um **Item Equipado** de um **Oponente**. **Precisão Difícil** para **Equipamentos** e **Crítica** para **Armas**. Dura até o fim do **Plano**.
 
 # Nível 4 (Encantado)
 
-### Item
+### Berrante do Guardião
 
-Texto.
+Consumível Encantado, Diversos, 3 Cargas.
 
-Texto.
+Os guerreiros costumam inspirar seus aliados apenas com o brado de batalha. Consuma uma carga para:
+* Aplicar **Efeitos** de **Barreira** a um alvo igual ao seu **Atributo** de **Vitalidade**, independente da distância.
 
-### Item
+### Cantil Encantado
 
-Texto.
+Consumível Encantado, Poção, 6 Cargas.
 
-Texto.
+Através de pequenos encantamentos esse cantil transforma água em uma poção vermelha. Esse **Item** não é perdido ao consumir todas as **Cargas**. Você pode consumir uma **Carga** para restaurar **1d12** pontos de **Vida**. Todas as **Cargas** são restauradas ao realizar **Descansos** ou em início de **Sessões**.
 
-### Item
+### Dardo de Caça
 
-Texto.
+Munição Encantada, Arco.
 
-Texto.
+A magia e a tecnologia, juntos da precisão, fizeram desse dardo algo que ignora até a armadura mais pesada. Pode ser consumida para realizar **Ataques** com **Armas de Longo Alcance**, adicionando 12 de **Dano Base**, além de reduzir até o fim do **Combate** a **Defesa** dos **Oponentes** acertados em 1.
 
-### Item
+### Fundo Falso
 
-Texto.
+Armadilha Encantada.
 
-Texto.
+Um papel com um fosso pintado em tinta encantada, e alguns dizem ser realista de mais. Planta aos seus pés essa armadilha:
+* O primeiro **Oponente** que pisar sofre 1 **Efeito** de **Banimento**.
 
-### Item
+### Orbe Estático
 
-Texto.
+Consumível Encantado, Diversos, 0 Cargas.
 
-Texto.
+Essa esfera metálica por algum motivo desconhecido rouba traços de guerra e os converte para a paz. Esse **Item** não é perdido ao consumir todas as **Cargas**. Ganha uma **Carga** sempre que um **Oponente** usar uma **Habilidade**, até um limite de 9. Você pode consumir todas as **Cargas** para recuperar pontos de **Vida** e **Mana** igual número de **Carga** vezes 3.
 
-### Item
+### Pergaminho Anti-Magia
 
-Texto.
+Consumível Encantado, Diversos.
 
-Texto.
+Uma das primeiras formas conhecidas de conter a magia. Pode ser usado fora de seu **Turno** para refletir **Habilidade** que você for receber nesse **Combate**, se for alguma **Área** você escolhe o novo posicionamento a partir da sua **Localização**.
 
 # Nível 5 (Mágico)
 
-### Item
+### Orbe Dinâmico
 
-Texto.
+Consumível Mágico, Diversos, 0 Cargas.
 
-Texto.
+Essa esfera de sangue, que não desmancha ou suja as mãos, acumula e intensifica o sofrimento. Esse **Item** não é perdido ao consumir todas as **Cargas**. Ganha uma **Carga** sempre que um **Oponente** usar um **Ataque**, até um limite de 9. Com o limite atingido você pode consumir todas as **Cargas** para que, sem gastar uma **Ação**, você ganhe nesse **Turno** mais uma **Ação Principal**.
 
-### Item
+### Poção do Banimento
 
-Texto.
+Consumível Mágico, Poção.
 
-Texto.
+Quem bebe costuma deixar de existir, uma pena durar alguns instantes. Ao consumir aplica 3 **Efeitos** de **Banimento**. Pode ser usado fora do **Turno**.
 
-### Item
+### Poção das Sombras
 
-Texto.
+Consumível Mágico, Poção.
 
-Texto.
+Não foi criado por um motivo nobre. Ao consumir você sai do **Plano de Combate** para o **Plano de Interpretação** sem ser visto por inimigos. A primeira **Ação** cancela esse **Efeito** no final do turno. 
 
-### Item
+### Poção da Translocação
 
-Texto.
+Consumível Mágico, Poção.
 
-Texto.
+Infelizmente ninguém nunca encontrou seu inventor. Ao consumir você teletransporta para algum ponto aleatório da **Região**, caso em **Plano de Interpretação**, ou para uma coordenada aleatória, caso em **Plano de Combate**.
 
-### Item
+### Punhado de Poeira Mágica
 
-Texto.
+Consumível e Armadilha Mágica, Arremessável.
 
-Texto.
+Resquícios de artefatos mágicos que surpreendentemente obedece quem os carrega. Dentro de 15 metros aplica a um alvo uma **Dissipação Normal**. Pode ser de **Efeitos** **Negativos**, **Positivos** ou ambos a escolha do lançador.
 
-### Item
+### Sal do Mar Indomado
 
-Texto.
+Armadilha Mágica, Arremessável.
 
-Texto.
+Uma lembrança das praias mortas de um lugar que ninguém quer mencionar. Ao **Toque** executa uma **Unidade** ou **NPC** de **Nível** 3 ou inferior.
 
 # Nível 6 (Rúnico)
 
-### Item
+### Runa da Alma
 
-Texto.
+Runa.
 
-Texto.
+Para o mestre de runas sempre viver. Ao consumir aplica 1 **Efeito** de **Imunidade**.
 
-### Item
+### Runa da Aleatoriedade
 
-Texto.
+Runa, 3 Cargas.
 
-Texto.
+Para o mestre de runas sempre se divertir. Consome 1 **Carga** para usar uma **Runa** **Aleatória**.
 
-### Item
+### Runa da Barganha
 
-Texto.
+Runa, Cargas Infinitas.
 
-Texto.
+Para o mestre das runas sempre trabalhar. Consome 1 **Carga** você pode escolher um **Número**, perdendo pontos de **Vida** e restaurando pontos de **Mana** igual a **1d20** vezes o **Número** escolhido, com uma jogada de **Dados** diferente para cada um deles.
 
-### Item
+### Runa da Invencibilidade
 
-Texto.
+Runa, 6 Cargas.
 
-Texto.
+Para o mestre de runas sempre subjugar. Consome 1 **Carga** para, fora de seu **Turno**, anular uma **Habilidade** que tenha você como **Alvo** ou na **Área** afetada.
 
-### Item
+### Runa da Mentira
 
-Texto.
+Runa.
 
-Texto.
+Para o mestre de runas sempre se esconder. Ao consumir você e até 2 **Aliados** saem do **Plano de Combate** para o **Plano de Interpretação** sem ser visto por inimigos. A primeira **Ação** cancela esse **Efeito** no final do turno, além de um **Aliado** aleatório não afetado receber essa **Runa** como **Item**. Não afeta novamente os mesmos indivíduos no mesmo **Plano**.
 
-### Item
+### Runa do Teletransporte
 
-Texto.
+Runa, 9 Cargas.
 
-Texto.
+Para o mestre de runas sempre caminhar. Consome 1 **Carga** para, fora de **Combate**, se teletransportar para uma **Civilização**, **Comercio** ou **Zona Segura** já visitada.
 
 # Nível 7 (Lendário)
 
-### Item
+### Elixir da Insanidade
 
-Texto.
+Consumível Lendário, Elixir.
 
-Texto.
+O veloz enxerga apenas um mundo de sombras, enquanto os outros nem o reconhecem mais. Ao consumir recebe 99 **Efeitos** de **Velocidade**.
 
-### Item
+### Orbe do Tempo
 
-Texto.
+Consumível Lendário, Diversos, Cargas Infinitas.
 
-Texto.
+Assim como lendas persistem no tempo esse orbe permite que novas nasçam. Consome 1 **Carga** para conceder um **Turno** extra. Essa **Ação Principal** é recuperada e só pode ser usada uma vez por **Sessão**.
 
-### Item
+### Pergaminho do Sereno
 
-Texto.
+Consumível Lendário, Diversos.
 
-Texto.
+A solução de magos lendários para não serem assassinados no sono. Esse **Item** não pode ser manualmente usado. Quando você sofrer algum Dano que abaixe seus pontos de **Vida** para metade ou inferior este **Item** é automaticamente consumido, restaurando os Pontos de Vida para o Máximo.
 
-### Item
+### Poção Vampírica
 
-Texto.
+Consumível Lendário, Poção.
 
-Texto.
+Estudiosos descobriam os segredos de filhos da noite e os colocaram em frascos. Ao consumir ganha um **Efeito Único** e permanente até o fim do **Combate** ou sofrer uma **Dissipação Forte**. O **Efeito** é que todo dano causado pelo usuário ele também recebe um terço como **Vida** recuperada, arredondado para cima.
 
-### Item
+### Runa das Runas
 
-Texto.
+Runa Lendária, Cargas Infinitas.
 
-Texto.
+Para o mestre de runas deixar de existir. Consome 1 **Carga** para produzir no seu inventário 3 **Runas da Aleatoriedade**. Só pode ser usada uma vez por **Sessão**.
 
-### Item
+### Talismã da Diligência
 
-Texto.
+Consumível Lendário, Diversos.
 
-Texto.
+Progresso personificado em um objeto. Ao consumir sobe 1 ponto de **Nível**.
 
 # Nível 8 (Divino)
 
-### Item
+### Dobrão da Casa das Riquezas
+
+Consumível Divino, Diversos.
+
+Ninguém nega a moeda do deus de todo ouro desse mundo. Pode ser usada como moeda para comprar qualquer **Item** ou **Serviço** independente do valor. Exceto **Itens Eternos** e **Ações de Interpretação** que necessitem de **Precisão Crítica**.
+
+### Flecha Purificada
+
+Munição Lendária, Arco.
+
+O **Deus da Feras** não precisa de um arco para predar sua caça. Não precisa e não pode ser usada por uma **Arma de Longo Alcance**. Pode ser consumida para realizar **Ataques** independente da distância, adicionando 27 de **Dano Base** e 9 de **Letalidade**.
+
+### Fragmento do Saber
+
+Runa Divina.
+
+Com o fim dos mestres de runas os estudiosos tiveram que encontrar outro meio de desvendar seus segredos. Ao consumir você pode aprender qualquer **Habilidade** de **Nível** 8 ou inferior. Se não for da sua **Classe** você também aprende seu **Talento Principal**.
+
+### Talismã da Humildade
+
+Texto.
+
+Texto.
+
+### Talismã do Orgulho
 
 Texto.
 
@@ -318,69 +347,7 @@ Texto.
 
 Texto.
 
-### Item
-
-Texto.
-
-Texto.
-
-### Item
-
-Texto.
-
-Texto.
-
-### Item
-
-Texto.
-
-Texto.
-
-### Item
-
-Texto.
-
-Texto.
-
-# Nível 9 (Demoníaco)
-
-### Item
-
-Texto.
-
-Texto.
-
-### Item
-
-Texto.
-
-Texto.
-
-### Item
-
-Texto.
-
-Texto.
-
-### Item
-
-Texto.
-
-Texto.
-
-### Item
-
-Texto.
-
-Texto.
-
-### Item
-
-Texto.
-
-Texto.
-
-# Nível 10 (Eterno)
+# Nível 9 (Eterno)
 
 ### Item
 
