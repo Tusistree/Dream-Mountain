@@ -13,8 +13,8 @@
 Talento, Utilidade.
 
 Ao negar a mente, um **Ravari** está mais próximo de seus instintos primitivos. Você escolhe entre ser um **Mamífero** ou **Réptil**, ganhando as seguintes características:
-* **Mamífero**: Valores concedidos por **Subatributos** de **Força** são dobrados, mas os de **Inteligência** são divididos pela metade, arredondado para baixo.
-* **Réptil**: Valores concedidos por **Subatributos** de **Agilidade** são dobrados, mas os de **Inteligência** são divididos pela metade, arredondado para baixo.
+* **Mamífero**: Valores concedidos por **Ataque** e **Vitalidade** são dobrados, mas os de **Domínio** e **Maestria** são divididos pela metade, arredondado para baixo.
+* **Réptil**: Valores concedidos por **Alcance** e **Velocidade** são dobrados, mas os de **Domínio** e **Maestria** são divididos pela metade, arredondado para baixo.
 
 Esse **Talento** é desativado ao equipar **Itens** que não sejam **Armas** acima do **Cinto**.
 
@@ -22,7 +22,9 @@ Esse **Talento** é desativado ao equipar **Itens** que não sejam **Armas** aci
 
 Talento Interpretativo, Invocação.
 
-Um **Ravari** sempre caça junto de sua fera leal. Começa a **Campanha** com uma **Unidade** do tipo **Monstro** de **Nível** 2 ou **Inferior** a sua escolha, independente do **Carisma** de ambos. Essa **Unidade** sobe de nível junto ao de seu **Dono**, mas não pode passar o **Nível Máximo**. 
+Um **Ravari** sempre caça junto de sua fera leal. Começa a **Campanha** com uma **Unidade** do tipo **Monstro** de mesmo **Nível** que você.
+
+Essa **Unidade** sobe de nível junto ao de seu **Dono**, pode ser qualquer criatura de médio ou pequeno porte, além de ter uma ficha própria, porém apenas com os **Atributos Primários** de **Ataque**, **Velocidade** e **Vitalidade**. Esses **Atributos**, assim como de um **Jogador** ou **NPC**, já começam com valor mínimo de 3, mas há 9 pontos para distribuir.
 
 ### Brutalizar
 
@@ -38,4 +40,4 @@ Habilidade Interpretativa, Utilidade, Individual. **Precisão Garantida**.
 
 Só pode ser usada uma vez por **Plano**.
 
-A bestialidade de um **Ravari** concede ele a habilidade de poder entender e se comunicar com os **Monstros**. Ao ativar essa **Habilidade** a sua próxima **Ação de Interpretação** de que envolva **Monstros** terá o dobro dos seus modificadores, ou aumentado em 1 caso não haja nenhum.
+A bestialidade de um **Ravari** concede ele a habilidade de poder entender e se comunicar com os **Monstros**. Ao ativar essa **Habilidade** a sua próxima **Ação de Interpretação** que envolva **Monstros** terá o dobro dos seus modificadores, ou aumentado em 1 caso não haja nenhum.

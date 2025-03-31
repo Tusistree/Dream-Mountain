@@ -12,19 +12,19 @@
 
 Talento, Defensivo.
 
-Arcanistas e intelectuais são os alvos preferidos das trapaças de um **Nufia**. Você não pode receber **Dano Mágico** **Crítico**, ele é recebido da forma original, além disso a **Precisão** de **Ações** que causariam **Dano Mágico** em você é reduzida em um valor igual metade do seu **Nível**, arredondado para cima.
+Arcanistas e intelectuais são os alvos preferidos das trapaças de um **Nufia**. Você não pode receber **Dano** **Crítico** de **Habilidades**, ele é feito da forma original, além disso a **Precisão** de **Habilidades** é reduzida em um valor igual metade do seu **Nível**, arredondado para cima.
 
 ### Afinidade Mágica
 
 Talento Interpretativo, Utilidade.
 
-Por sua terra natal e convívio com seres arcanos, os **Nufia** desenvolveram aptidão a assuntos ocultos. Em **Ações de Interpretação** que envolvam **Magia** ou coisas **Mágicas** o **Acerto crítico** e **Precisão** são aumentados em **1**.
+Por sua terra natal e convívio com seres arcanos, os **Nufia** desenvolveram aptidão a assuntos ocultos. Em **Ações de Interpretação** que envolvam **Magia** ou coisas **Mágicas** o **Crítico** e **Precisão** são aumentados em **1**.
 
 ### Cópia Imperfeita
 
 Habilidade, Utilidade. **Precisão Garantida**.
 
-Mesmo não entendendo muito bem o **Nufia** pode replicar uma magia que tenha sofrido, um costume entre os seres arcanos. Usa a ultima **Habilidade** de **Dano Mágico** que você sofreu, mas as condições da **Habilidade** original ainda precisam ser respeitadas, porém não são reveladas a você.
+Mesmo não entendendo muito bem, o **Nufia** pode replicar algo que tenha achado divertido, um costume entre os seres arcanos. Usa a ultima **Habilidade** que você sofreu de um **Oponente**, mas as condições da **Habilidade** original ainda precisam ser respeitadas, porém não são reveladas.
 
 ### Travessura
 

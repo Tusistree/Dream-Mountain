@@ -11,7 +11,7 @@
 
 Talento, Utilidade.
 
-Através da tentativa e erro os **Humanos** são capazes de se desenvolver em qualquer atividade. Recebendo **1** ponto adicional de **Atributo** primário a sua escolha em cada **Nível**.
+Através da tentativa e erro os **Humanos** são capazes de se desenvolver em qualquer atividade. Recebendo **1** ponto de **Atributo** adicional a sua escolha em cada **Nível**.
 
 ### Invenção
 
@@ -25,7 +25,7 @@ Habilidade, Controle, Individual. **Precisão Garantida**.
 
 **Requer** que um **Alvo** afetado por essa **Habilidade** seja derrotado ou o **Plano** finalizado para poder marcar um novo **Alvo**.
 
-Através de uma profunda análise o **Humano** pode entender as ações atuais e posteriores de um oponente. Marca um **Alvo**, aumentando sua **Precisão** e chance de **Acerto Crítico** em 1 contra ele. Esses mesmos valores são reduzidos em 1 desse alvo em relação a você. 
+Através de uma profunda análise os **Humanos** podem entender as ações atuais e posteriores de um oponente. Marca um **Alvo**, aumentando sua **Precisão** e chance de **Crítico** em 1 contra ele. Esses mesmos valores são reduzidos em 1 desse alvo em relação a você. 
 
 ### Barganha
 

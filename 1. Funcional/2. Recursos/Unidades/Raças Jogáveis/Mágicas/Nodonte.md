@@ -12,18 +12,18 @@
 
 Talento, Defensivo.
 
-A medida que é ferido, o corpo de um **Nodonte** gera mais escamas para aumentar sua sobrevivência. Ao sofrer **Dano Físico** recebe metade daquele dano, pós mitigado, de [[Efeitos]] de **Armadura**. O mesmo ocorre de **Dano Mágico** para **Barreira**, e **Dano Puro** com **Resistência**.
+A medida que é ferido, o corpo de um **Nodonte** gera mais escamas para aumentar sua sobrevivência. Ao sofrer **Dano** recebe metade daquele dano, pós mitigado, de [[Efeitos]] de **Barreira**, porém você não pode equipar nada abaixo do **Cinto**.
 ### Adaptação Cultural
 
 Talento Interpretativo, Utilidade.
 
-Em busca de integrar a qualquer sociedade, os **Nodonte** estão disposto a se adaptar a qualquer trabalho. Você pode escolher uma **Raça** e um tipo de **Ação de Interpretação**, você ganha **1** ponto de **Precisão** e **Acerto Crítico** em **Ações de Interpretação** sobre aquela **Raça** ou **Modalidade**. 
+Em busca de integrar a qualquer sociedade, os **Nodonte** estão disposto a se adaptar a qualquer trabalho. Você pode escolher uma **Raça** e um tipo de **Ação de Interpretação**, você ganha **1** ponto de **Precisão** e **Crítico** em **Ações de Interpretação** sobre aquela **Raça** ou **Modalidade**. 
 
 ### Forma Ancestral
 
 Habilidade, Defensivo. **Precisão Garantida**.
 
-Os **Nodonte** em momentos de crise podem assumir sua verdadeira forma, perdendo seus únicos traços humanoides e se transformando em um basilisco de seis patas. Você assume uma nova forma onde está completamente silenciado, sem poder usar **Habilidades** e **Itens**. Nessa forma você ganha **Defesa** igual ao seus **Marcadores** de **Armadura** e **Noção** igual aos de **Barreira**. O mesmo ocorre com **Vitalidade** e **Marcadores de Resistência**.
+Os **Nodonte** em momentos de crise podem assumir sua verdadeira forma, perdendo seus únicos traços humanoides e se transformando em um basilisco de seis patas. Você assume uma nova forma onde está completamente silenciado, sem poder usar **Habilidades** e **Itens**. Nessa forma você ganha **Defesa** igual ao seus **Marcadores** de **Barreira**.
 
 Essa forma só é encerrada ao descansar em um **Local Seguro** ou sofrer alguma **Dissipação Verdadeira**, tanto aliada quanto inimiga.
 

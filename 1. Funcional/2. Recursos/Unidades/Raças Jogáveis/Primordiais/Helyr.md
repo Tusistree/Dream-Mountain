@@ -12,7 +12,7 @@
 
 Talento, Ofensivo e Utilidade.
 
-Os **Helyr** foram criados para perseguir e eliminar outros povos, fazendo com que em sua caça eles não só consiga sentir cheiro de sangue como também o de **Mana**. Você ganha **Visão Verdadeira** de **Unidades** que possuem menos da metade dos pontos de **Vida** ou **Mana**, e também pode consultar o valor atual quando abaixo do limiar. Contra esses **Alvos** sua **Chance de Crítico** e **Precisão** são aumentados em um valor igual metade do seu **Nível**, arredondado para cima.
+Os **Helyr** foram criados para perseguir e eliminar outros povos, fazendo com que em sua caça eles não só consiga sentir cheiro de sangue como também o de **Mana**. Você ganha **Visão Verdadeira** de **Unidades** que possuem menos da metade dos pontos de **Vida** ou **Mana**, e também pode consultar o valor atual quando abaixo do limiar. Contra esses **Alvos** seu **Crítico** e sua **Precisão** são aumentados em um valor igual metade do seu **Nível**, arredondado para cima.
 
 ### Iniciativa
 

@@ -13,7 +13,6 @@
 Talento, Defensivo e Utilidade.
 
 A Inversão do **Upel** consegue manipular a realidade ao ponto do seu corpo se comportar de formas diferentes contra ameaças. Você tem as seguintes características: 
-* O **Dano Físico** recebido se torna **Mágico**, e vice-versa. 
 * Recuperar ou perder pontos de **Vida** ocorrem nos seus pontos de **Mana**, e vice-versa.
 * Aumento ou diminuição de pontos máximos de **Vida** são realizados na **Mana**, e vice-versa.
 
