@@ -216,39 +216,43 @@ Conjunto Completo: Ganha **Ataque** igual a um terço do seu **Atributo** de **V
 
 Equipamento Mágico, Mochila.
 
-Um pequeno bolso bordado a tecido etéreo, alterando o espaço para seus fins. Oferece 9 espaços de **Item** no **Inventário**, Porém aumenta o espaço em 1 para cada **Item** que não repetir todos os seus **Tipos** com todos de outro.
+Um pequeno bolso bordado a tecido etéreo, alterando o espaço para seus fins. Oferece 9 espaços de **Item** no **Inventário**, porém aumenta o espaço em 1 para cada **Item** que não repetir todos os seus **Tipos** com todos de outro.
 
-### Item
+### Cartola Mágica
 
-Equipamentos Encantados, Compostos por: Elmo, Torso, Ombreiras, Mãos, Pernas, Pés.
+Equipamento Mágico, Elmo ou Mochila.
 
-Texto. Cada parte aumenta.
+O primeiro magico a tirar um coelho da cartola evoluiu seu truque um pouco de mais. Esse **Item** pode ser equipado de ambas as formas. Oferece 12 espaços de **Item** no **Inventário**. **Monstros** de **Nível** 6 ou inferior podem ser armazenados ao **Toque**, como uma **Habilidade**, e invocados destes espaços, mas não necessariamente sobre seu controle.
 
-Conjunto Completo: Texto.
+### Conjunto: Quimono do Campeão Clandestino
 
-### Item
+Equipamentos Mágicos, Compostos por: Elmo, Torso, Ombreiras, Mãos, Pernas, Pés.
 
-Texto.
+Mesmo sendo um traje formal sua composição mágica transforma a intenção de seu portador em poder. Cada parte aumenta o **Ataque** em 4 e a **Defesa** em 1.
 
-Texto.
+Conjunto Completo: Enquanto sem equipar nenhuma **Arma** seus **Ataques** e **Habilidades** sempre acertam e possuem **Crítico** garantido.
 
-### Item
+### Conjunto: Traje do Diretor de Magia
 
-Texto.
+Equipamentos Mágicos, Compostos por: Elmo, Torso, Ombreiras, Mãos, Pernas, Pés.
 
-Texto.
+Os diretores da **Academia Violeta** costumam trapacear em jogos. Cada parte aumenta o **Alcance**, **Domínio** e **Maestria** em 3.
 
-### Item
+Conjunto Completo: Pode usar uma **Habilidade** fora de seu **Turno** sem consumir **Ações**, mas só pode ser feito em turnos ímpares das **Unidades** interrompidas.
 
-Texto.
+### Conjunto: Uniforme do Caçador de Dragões
 
-Texto.
+Equipamentos Mágicos, Compostos por: Elmo, Torso, Ombreiras, Mãos, Pernas, Pés.
 
-### Item
+Os mortais entenderam que para caçar os **Primordiais** deveriam lidar com sua invencibilidade. Cada parte aumenta o **Ataque**, **Maestria** e **Letalidade** em 3.
 
-Texto.
+Conjunto Completo: Seus **Ataques** e **Habilidades** sempre causam um décimo da **Vida** atual, arredondado para cima.
 
-Texto.
+### Faixa do Sábio
+
+Equipamento Mágico, Cinto.
+
+É notável que um sábio aprende com os erros do próximo. Aumenta o **Crítico** e **Esquiva** em 1. Você não pode sofrer **Dano** ou **Efeitos** da mesma **Habilidade** usada no **Turno** anterior daquela **Unidade** (você não precisa ter sido atingido).
 
 # Nível 6 (Rúnico)
 

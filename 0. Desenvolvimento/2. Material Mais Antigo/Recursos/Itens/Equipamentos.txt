@@ -8,40 +8,6 @@
 
         ↪ Sempre que realizar um Ataque Básico em um alvo, esse mesmo Ataque também é aplicado em todos inimigos dentro do seu Atributo de Alcance.
 
-↪ Kaph (Classe 6, Itens Encantados)
-
-    ↪ Conjunto: Kimono do Campeão Clandestino
-
-        ↪ Equipamentos: Elmo, Torso, Ombreiras, Mãos, Pernas, Pés.
-
-        ↪ Cada parte aumenta a Força, Agilidade e Inteligência em 1, incrementado para 2 ao usuário estar Desarmado.
-
-        ↪ Conjunto Completo: Enquanto desarmado, ao causar dano em um alvo faz com que a vítima cause um quarto a menos de Dano não periódico em você até o fim do combate (arredondado para baixo).
-
-    ↪ Conjunto: Traje do Diretor de Magia
-
-        ↪ Equipamentos: Elmo, Torso, Ombreiras, Mãos, Pernas, Pés.
-
-        ↪ Cada parte aumenta a Inteligência, Domínio e Noção em 4.
-
-        ↪ Conjunto Completo: Magias do tipo Defensivo, Mobilidade, Controle, Utilidade e Invocação podem se feitas uma vez fora do turno, assim como Magias do tipo Interrupção. Nesse efeito essas Magias também serão consideradas do Tipo Interrupção e só podem ser conjuradas uma vez por combate com essas propriedades adicionais.
-
-    ↪ Conjunto: Uniforme do Caçador de Dragões
-
-        ↪ Equipamentos: Elmo, Torso, Ombreiras, Mãos, Pernas, Pés.
-
-        ↪ Cada parte aumenta Agilidade, Maestria e Ataque em 2. Ao Usar Arma de Longo Alcance também aumenta o Alcance e Velocidade em 2.
-
-        ↪ Conjunto Completo: Ao utilizar Arma de Longo Alcance causa Dano Mágico adicional do Tipo Fogo igual a um quarto da distância do alvo (arredondado para baixo), e também causa dano dobrado em unidades que não sejam racionais (Monstros, Estruturas e etc).
-
-    ↪ Conjunto: Vestes do Assassino de Aluguel
-
-        ↪ Equipamentos: Elmo, Torso, Ombreiras, Mãos, Pernas, Pés.
-
-        ↪ Cada parte aumenta a Agilidade e Ataque em 2, também a Vitalidade, Defesa e Noção em 2.
-
-        ↪ Conjunto Completo: Ganha Ataque e Alcance adicional igual a um quarto da Velocidade (arredondado para baixo).
-
     ↪ Vanguarda dos Lamentos
 
         ↪ Equipamento, Escudo.
