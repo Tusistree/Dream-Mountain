@@ -49,7 +49,8 @@
               "title": "1. Introdução"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "061f4f8f7a12a48b",
@@ -111,7 +112,8 @@
               "title": "Interpretação"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -251,11 +253,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "722f52000594b949",
+  "active": "32de872abad967c5",
   "lastOpenFiles": [
+    "1. Funcional/1. Sistema/Mecânicas/Habilidades.md",
     "1. Funcional/2. Recursos/Itens/Armas.md",
     "1. Funcional/2. Recursos/Itens/Equipamentos.md",
     "1. Funcional/0. Guia/1. Introdução.md",
+    "1. Funcional/1. Sistema/Mecânicas/Efeitos.md",
     "1. Funcional/2. Recursos/Unidades/Raças Jogáveis/Raças Jogáveis.md",
     "1. Funcional/2. Recursos/Unidades/Raças Jogáveis/Mágicas/Upel.md",
     "1. Funcional/2. Recursos/Unidades/Raças Jogáveis/Mágicas/Ravari.md",
@@ -269,8 +273,6 @@
     "1. Funcional/2. Recursos/Itens/Consumíveis.md",
     "1. Funcional/1. Sistema/Ficha/Ficha Base.md",
     "1. Funcional/1. Sistema/Mecânicas/Atributos.md",
-    "1. Funcional/1. Sistema/Mecânicas/Efeitos.md",
-    "1. Funcional/1. Sistema/Mecânicas/Habilidades.md",
     "1. Funcional/1. Sistema/Mecânicas/Interpretação.md",
     "1. Funcional/2. Recursos/Classes/Mago.md",
     "1. Funcional/2. Recursos/Classes/Ladino.md",

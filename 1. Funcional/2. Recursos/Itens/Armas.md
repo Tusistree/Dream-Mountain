@@ -4,13 +4,13 @@
 
 ### Cajado de Pastoreio
 
-Arma de Duas Mãos, Cetro.
+Arma de Uma Mão, Cetro.
 
 Uma simples ferramenta de um pastor para guiar o seu rebanho. Aumenta o **Alcance** e **Maestria** em 1, ou em **2** ao usar **Habilidades** do tipo **Recuperação** e **Utilidade**. Também aumenta a **Persuasão** em 1.
 
 ### Escudo de Tábuas
 
-Arma de uma Mão, Escudo.
+Arma de Uma Mão, Escudo.
 
 Um amontoado de tábuas de madeira que por coincidência dá um bom escudo. Aumenta a **Defesa** em 1, além de reduzir em **1d4** o **Dano** recebido, exceto por **Efeitos**.
 
@@ -24,17 +24,17 @@ Uma arma que suas feridas contam sua história. Aumenta o **Ataque** em 9, mas p
 
 Arma de Duas Mãos, Longo Alcance, Diverso.
 
-Uma ferramenta que treina futuros atiradores. Consome **Munição** para realizar seus **Ataques Básicos** em até 6 metros distância, porém com a metade do **Dano**.
+Uma ferramenta que treina futuros atiradores. Consome **Munição** para realizar seus **Ataques** em até 6 metros distância, porém com a metade do **Dano**.
 
 ### Grimório Rasgado
 
 Arma de Uma Mão, Tomo.
 
-As páginas que sobraram ainda são bem úteis. Aumenta o domínio em 3, a primeira **Habilidade** usada em um **Plano de Combate** custa **1d4** de **Mana** a menos.
+As páginas que sobraram ainda são bem úteis. Aumenta o **Domínio** em 3, a primeira **Habilidade** usada em um **Plano de Combate** custa **1d4** de **Mana** a menos.
 
 ### Machadinha
 
-Arma de uma Mão, Machado.
+Arma de Uma Mão, Machado.
 
 Um pequeno machado para cortar lenha. Aumenta o **Ataque** em 2 e a **Velocidade** em 1. Causar **Dano**, que não seja por **Efeitos**, aplica 1 **Efeito** de **Sangramento** ao **Oponente**.
 
@@ -42,7 +42,7 @@ Um pequeno machado para cortar lenha. Aumenta o **Ataque** em 2 e a **Velocidade
 
 ### Adaga do Ladrão
 
-Arma de uma Mão, Espada.
+Arma de Uma Mão, Espada.
 
 Muito comum entre os gatunos ao emboscar. Aumenta o **Ataque** em 4 e a **Velocidade** em 2. **Ataques** concedem 1 **Moeda de Cobre**.
 
@@ -50,69 +50,69 @@ Muito comum entre os gatunos ao emboscar. Aumenta o **Ataque** em 4 e a **Veloci
 
 Arma de Duas Mãos, Longo Alcance, Arco.
 
-Um arco simples para caça. Aumenta **Ataque**, **Alcance** e **Velocidade** em 1. Consome **Munição** para realizar seus **Ataques Básicos** em até 9 metros de distância.
+Um arco simples para caça. Aumenta **Ataque**, **Alcance** e **Velocidade** em 1. Consome **Munição** para realizar seus **Ataques** em até 9 metros de distância.
+
+### Escudo de Cobre
+
+Arma de Uma Mão, Escudo.
+
+Cobre não é o melhor material, mas ainda salva vidas. Aumenta a **Defesa** em 3, além de reduzir em **1d6** o **Dano** recebido, exceto por **Efeitos**.
 
 ### Forcado do Fazendeiro
 
-Texto.
+Arma de Duas Mãos, Lança.
 
-Texto.
+Texto. Toda vez que acertar um **Ataque** ou **Habilidade** com **Alcance** de **Toque**, você ganha 2 **Efeitos** de **Concentração**.
 
 ### Grimório do Bruxo Aprendiz
 
-Texto.
+Arma de Uma Mão, Tomo.
 
-Texto.
+Há muito conhecimento do oculto, mas os rabiscos de seu antigo dono dificultam a leitura. Aumenta a **Maestria** em 6 e o **Domínio** em 3.
 
-### Item
+### Machado Cego
 
-Texto.
+Arma de Duas Mãos.
 
-Texto.
-
-### Item
-
-Texto.
-
-Texto.
+As vezes é afiado e as vezes não. Aumenta o **Ataque** em 15, mas perde 1 de **Precisão**.
 
 # Nível 2 (Incomum)
 
-### Item
+### Arco Longo
 
-Texto.
+Arma de Duas Mãos, Longo Alcance, Arco.
 
-Texto.
+Sua estrutura extensa e acabamentos no alongamento permitem disparos a grandes distâncias. Aumenta **Ataque**, **Alcance** e **Velocidade** em 3. Consome **Munição** para realizar seus **Ataques** em até 15 metros de distância. Ganha 2 **Efeitos** de **Aumento** de **Alcance** para cada acerto.
 
-### Item
+### Cetro do Incendiário
 
-Texto.
+Arma de Uma Mão, Cetro.
 
-Texto.
+Puro ódio concentrado como chamas em apenas uma ferramenta. Aumenta a **Maestria** em 9, e mais 6 caso para **Habilidades** do **Tipo** **Ofensivo**.
 
-### Item
+### Cutelo Ensanguentado
 
-Texto.
+Arma de Uma Mão, Machado.
 
-Texto.
+Costumam perguntar se esse sangue todo é apenas de animais. Aumenta o **Ataque** em 7. Causar **Dano** com esta **Arma** causa nos **Oponentes** 2 **Efeitos** de **Sangramento**.
 
-### Item
+### Escudo de Ferro
 
-Texto.
+Arma de Uma Mão, Escudo.
 
-Texto.
+Quem golpeia sua placa de metal costuma a sentir os próprios ossos. Aumenta a **Defesa** em 5 e a **Letalidade** em 1. Reduz em **1d6** o **Dano** recebido, exceto por **Efeitos**, refletindo-os para seu **Agressor** caso seja de **Alcance** ao **Toque**.
 
-### Item
+### Lança Imperial
 
-Texto.
+Arma de Duas Mãos, Lança.
 
-Texto.
+Usado por guardas reais esta arma brilha no combate a média distância. Aumenta o **Ataque** em 12 e a **Velocidade** em 3. **Alcance** de **Toque** é ampliado em 1 para **Ações**.
 
-### Item
+### Tambor do Xamã
 
-Texto.
+Arma de Duas Mãos, Diversos.
 
-Texto.
+Quem escuta suas histórias costumam ver palavras se tornando reais. Ao realizar **Ataques** que sejam **Básicos** você pode ao invés disso usar uma **Habilidade** de **Nível** 1 aleatória, ainda respeitando seus **Custos** e **Condições**.
 
 # Nível 3 (Raro)
 

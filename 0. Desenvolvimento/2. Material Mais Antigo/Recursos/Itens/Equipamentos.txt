@@ -1,33 +1,5 @@
-↪ Resh (Classe 9, Itens Comuns)
-
-    ↪ Forcado do Fazendeiro 
-
-        ↪ Arma de Duas Mãos, Lança.
-
-        ↪ Aumenta o Ataque em 6 e a Vitalidade em 3.
-
-        ↪ Toda vez que acertar um Ataque Corpo a Corpo ou Habilidade com Alcance de Toque, Ganhe 2 Marcadores de Sorte e Saque.
-
-    ↪ Grimório do Bruxo Aprendiz
-
-        ↪ Arma, Diversos.
-
-        ↪ Aumenta o Domínio e a Maestria em 2.
-
-        ↪ Toda vez que realizar uma Magia do Tipo Ofensivo, Defensivo ou Recuperação, ganhe 2 Marcadores de Maestria.
-
 ↪ Ayin (Classe 8, Itens Incomuns)
         
-    ↪ Arco Longo do Franco-atirador
-
-        ↪ Arma de Longo Alcance, Arco.
-
-        ↪ Aumenta a Agilidade em 6, a Força e Inteligência em 2.
-
-        ↪ O Dano de um Ataque Básico com este Equipamento não pode passar de 15, com Alcance Básico 20 metros de distância.
-
-        ↪ Ataques Básicos causados com esta arma adicionam 3 Marcadores de Alcance e Comunicação.
-
     ↪ Bolsa do Alquimista
 
         ↪ Equipamento, Bolsa.
@@ -35,14 +7,6 @@
         ↪ Aumenta o número máximo de Itens no Inventário em 5, porém apenas para Itens do tipo Poção e Elixir.
 
         ↪ Aumenta o Domínio em 1 para cada Item extra armazenado.
-
-    ↪ Cetro do Incendiário
-
-        ↪ Arma de Duas Mãos, Cajado.
-
-        ↪ Aumenta a Inteligência em 4.
-
-        ↪ A Maestria é aumentada em 4 para Magias do tipo Ofensivo, Defensivo, Mobilidade e Controle. Esse efeito também ocorre para qualquer Magia da escola Ignis.
 
     ↪ Conjunto: Armadura de Aço
 
@@ -67,14 +31,6 @@
         ↪ Cada parte aumenta a Força em 1 e a Inteligência em 1.
 
         ↪ Conjunto Completo: Acertos Críticos de Magias tem o seu Custo de Mana restituídos, curando até uma unidade aliada ou companheiro de equipe pela mesma quantia.
-
-    ↪ Cutelo Ensanguentado
-
-        ↪ Arma, Machado.
-
-        ↪ Aumenta o Ataque e Velocidade em 4.
-
-        ↪ Ataques Corpo a Corpo e Habilidade com Alcance de Toque ignoram até 5 de Defesa do alvo e aplicam 1 Marcador de Sangramento.
 
     ↪ Escudo de Prata
 

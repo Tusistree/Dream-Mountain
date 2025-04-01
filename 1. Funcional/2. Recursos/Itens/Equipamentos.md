@@ -78,7 +78,7 @@ Uma peça de armadura preferida tanto por duelistas quanto os astutos. Aumenta o
 
 # Nível 2 (Incomum)
 
-### Item
+### Bolsa do Alquimista
 
 Texto.
 
