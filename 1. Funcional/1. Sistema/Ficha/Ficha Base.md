@@ -37,6 +37,6 @@
 
 **Texto**: Texto.
 
-# Habilidades e Talentos
+# Habilidades e Talentos: Classe
 
 **Texto**: Texto.

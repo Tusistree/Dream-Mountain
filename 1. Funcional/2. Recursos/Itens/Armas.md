@@ -40,25 +40,25 @@ Um pequeno machado para cortar lenha. Aumenta o **Ataque** em 2 e a **Velocidade
 
 # Nível 1 (Comum)
 
-### Item
+### Adaga do Ladrão
+
+Arma de uma Mão, Espada.
+
+Muito comum entre os gatunos ao emboscar. Aumenta o **Ataque** em 4 e a **Velocidade** em 2. **Ataques** concedem 1 **Moeda de Cobre**.
+
+### Arco do Caçador
+
+Arma de Duas Mãos, Longo Alcance, Arco.
+
+Um arco simples para caça. Aumenta **Ataque**, **Alcance** e **Velocidade** em 1. Consome **Munição** para realizar seus **Ataques Básicos** em até 9 metros de distância.
+
+### Forcado do Fazendeiro
 
 Texto.
 
 Texto.
 
-### Item
-
-Texto.
-
-Texto.
-
-### Item
-
-Texto.
-
-Texto.
-
-### Item
+### Grimório do Bruxo Aprendiz
 
 Texto.
 

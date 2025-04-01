@@ -1,18 +1,4 @@
 ↪ Resh (Classe 9, Itens Comuns)
-
-    ↪ Adaga do Ladrão
-
-        ↪ Arma, Adaga.
-
-        ↪ Aumenta a Agilidade em 2 e o Ataque em 4.
-
-    ↪ Arco do Caçador
-
-        ↪ Arma de Longo Alcance, Arco.
-
-        ↪ Aumenta a Força e o Ataque em 1, além da Agilidade em 5.
-
-        ↪ O Dano de um Ataque Básico com este Equipamento não pode passar de 10, com Alcance Básico 15 metros de distância.
     
     ↪ Colar de Conchas
 
