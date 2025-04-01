@@ -80,39 +80,45 @@ Uma peça de armadura preferida tanto por duelistas quanto os astutos. Aumenta o
 
 ### Bolsa do Alquimista
 
-Texto.
+Equipamento, Mochila.
 
-Texto.
+Há um série de compartimentos extras para não faltar nada. Oferece 6 espaços de **Item** no **Inventário**, e mais 6 espaços exclusivamente para **Itens** do **Tipo** **Consumível**.
 
-### Item
+### Conjunto: Armadura de Ferro
 
-Texto.
+Equipamentos, Composto por: Elmo, Torso, Ombreiras, Mãos, Pernas, Pés.
 
-Texto.
+O arsenal completo de um soldado. Cada parte aumenta o **Ataque** em 1 e a **Defesa** em 2.
 
-### Item
+Conjunto Completo: acertos **Críticos** de **Ataques** e **Habilidades** ao **Alcance** de **Toque** causam o triplo do **Dano** ao invés de em dobro.
 
-Texto.
+### Conjunto: Traje do Mercenário
 
-Texto.
+Equipamentos, Composto por: Elmo, Torso, Ombreiras, Mãos, Pernas, Pés.
 
-### Item
+O arsenal completo de um vigarista. Cada parte aumenta o **Ataque** em 1 e a **Velocidade** em 2.
 
-Texto.
+Conjunto Completo: O primeiro acerto **Crítico** em um **Combate** concede um **Turno** adicional.
 
-Texto.
+### Conjunto: Uniforme da Academia Violeta
 
-### Item
+Equipamentos, Composto por: Elmo, Torso, Ombreiras, Mãos, Pernas, Pés.
 
-Texto.
+O arsenal completo de um estudante da magia. Cada parte aumenta o **Domínio** em 1 e o **Maestria** em 1.
 
-Texto.
+Conjunto Completo: acertos **Críticos** de **Habilidades** tem o seu **Custo** restituídos, curando um **Aliado** pela mesma quantia de **Mana** gasta.
 
-### Item
+### Mochila de Expedição
 
-Texto.
+Equipamento, Mochila.
 
-Texto.
+As técnicas e tecnologias por trás dessa obra prima fazem ela parecer mais leve a medida do aumento de seu peso. Oferece 6 espaços de **Item** no **Inventário**, aumentando a **Velocidade** em 1 para cada **Item** armazenado nela.
+
+### Pingente Prateado
+
+Equipamento, Pescoço.
+
+Tudo o que é necessário, esculpido em prata. Aumenta o **Carisma**, **Defesa** e **Crítico** em 1.
 
 # Nível 3 (Raro)
 
@@ -146,11 +152,11 @@ Texto.
 
 Texto.
 
-### Item
+### Pingente Dourado
 
-Texto.
+Equipamento, Pescoço.
 
-Texto.
+Tudo em um, esculpido a ouro. Aumenta o **Carisma**, **Crítico**, **Defesa**, **Esquiva**, **Precisão** e **Letalidade** em 1.
 
 # Nível 4 (Encantado)
 

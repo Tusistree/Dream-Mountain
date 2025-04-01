@@ -1,37 +1,3 @@
-↪ Ayin (Classe 8, Itens Incomuns)
-        
-    ↪ Bolsa do Alquimista
-
-        ↪ Equipamento, Bolsa.
-
-        ↪ Aumenta o número máximo de Itens no Inventário em 5, porém apenas para Itens do tipo Poção e Elixir.
-
-        ↪ Aumenta o Domínio em 1 para cada Item extra armazenado.
-
-    ↪ Conjunto: Armadura de Aço
-
-        ↪ Equipamentos: Elmo, Torso, Ombreiras, Mãos, Pernas, Pés.
-
-        ↪ Cada parte aumenta a Força em 2.
-
-        ↪ Conjunto Completo: Acertos Críticos de Ataques Corpo a Corpo e Habilidades com Alcance de Toque causam o Triplo do dano ao invés de em Dobro.
-
-    ↪ Conjunto: Traje do Mercenário
-
-        ↪ Equipamentos: Elmo, Torso, Ombreiras, Mãos, Pernas, Pés.
-
-        ↪ Cada parte aumenta a Força em 1 e Agilidade em 1.
-
-        ↪ Conjunto Completo: O primeiro Acerto Crítico em um combate concede um Turno Adicional.
-
-    ↪ Conjunto: Uniforme da Academia Violeta
-
-        ↪ Equipamentos: Elmo, Torso, Ombreiras, Mãos, Pernas, Pés.
-
-        ↪ Cada parte aumenta a Força em 1 e a Inteligência em 1.
-
-        ↪ Conjunto Completo: Acertos Críticos de Magias tem o seu Custo de Mana restituídos, curando até uma unidade aliada ou companheiro de equipe pela mesma quantia.
-
     ↪ Escudo de Prata
 
         ↪ Equipamento, Escudo.
@@ -41,24 +7,6 @@
         ↪ Aumenta a Maestria em 3 ao usar Habilidades e Magias do tipo Defensivo, Recuperação e Utilidade.
 
         ↪ Ao sofrer Dano Mágico não periódico, usa Metade da Defesa como Noção adicional, o mesmo ocorre para Dano Físico, utilizando Metade da Noção como Defesa adicional.
-
-    ↪ Lança Imperial
-
-        ↪ Arma de Duas Mãos, Lança
-
-        ↪ Aumenta o Ataque em 8, além da Defesa e Noção em 4.
-
-        ↪ O Alcance de Ataques Corpo a Corpo e Habilidades com Alcance de Toque é aumentado em 2 metros.
-
-    ↪ Tambor do Xamã
-
-        ↪ Arma de Duas Mãos, Diversos.
-
-        ↪ Aumenta a Comunicação em 5 e o Domínio em 5.
-
-        ↪ Maestria aumentada em 5 para Magias e habilidades do tipo Recuperação, Invocação e Utilidade.
-
-        ↪ No início do seu turno, você e cada unidade que controlar recuperam vida igual ao número de unidades que você controla.
 
 ↪ Samek (Classe 7, Itens Raros)
 
