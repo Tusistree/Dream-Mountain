@@ -2,6 +2,12 @@
 
 # Nível Inicial (Inferior)
 
+### Berloque Perdido
+
+Equipamento, Pulsos.
+
+Talvez seja caro, talvez seja falsificado, e ninguém consegue dar um valor exato para essa pulseira. Aumenta o **Domínio** e **Maestria** em 1.
+
 ### Chapéu de Palha
 
 Equipamento, Elmo.
@@ -24,53 +30,51 @@ Fede, mas infelizmente protege. Aumenta a **Velocidade** e **Esquiva** em 1.
 
 Equipamento, Mochila.
 
-É necessário cuidado para não deixar nada cair. Oferece 3 espaços de **Item** sem precisar estar equipado, porém perde 1 **Velocidade** e **Alcance** para cada **Item** armazenado nessa **Mochila**.
+É necessário cuidado para não deixar nada cair. Oferece 3 espaços de **Item** no **Inventário**, porém perde 1 de **Velocidade** e 1 de **Alcance** para cada **Item** armazenado nessa **Mochila**.
 
-### Item
+### Trapos da Nobreza
 
-Texto.
+Equipamento, Torso.
 
-### Item
-
-Texto.
+Foi descartado tão rápido quanto comprado. Aumenta a **Maestria** em 3.
 
 # Nível 1 (Comum)
 
-### Item
+### Colar de Conchas
 
-Texto.
+Equipamento, Pescoço.
 
-Texto.
+As conchas costumam carregar os mistérios dos mares. Aumenta o **Domínio** e **Maestria** em 3, além de reduzir custos de **Mana** em 1.
 
-### Item
+### Colete de Couro
 
-Texto.
+Equipamento, Torso.
 
-Texto.
+A pele é de um monstro que fica mais invulnerável quanto mais resiste. Aumenta a **Defesa** em 1. Toda vez que você sofrer **Dano** por **Habilidades** recebe 2 **Efeitos** de **Aumento** de **Defesa**.
 
-### Item
+### Elmo Desgastado
 
-Texto.
+Equipamento, Elmo.
 
-Texto.
+Não há nenhum encantamento, porém todos sentem resquícios de seu espírito de luta. Aumenta a **Defesa** em 3, em 6 quando os pontos de **Vida** estiverem a baixo da metade, ou a 9 quando abaixo de um quarto.
 
-### Item
+### Manto de Folhas
 
-Texto.
+Equipamento, Costas.
 
-Texto.
+Não é um amontado de folhas comum, quem o veste costuma dizer que se move como o vento. Aumenta a **Velocidade** em 1. **Acertar** um **Ataque** ou **Habilidade** concede 2 **Efeitos** de **Aumento** de **Velocidade**.
 
-### Item
+### Mochila Simples
 
-Texto.
+Equipamento, Mochila.
 
-Texto.
+Um forma robusta de guardar suas coisas, mas ainda é pesada. Oferece 6 espaços de **Item** no **Inventário**, porém perde 1 de **Velocidade** para cada **Item** armazenado nessa **Mochila**.
 
-### Item
+### Perneiras de Bronze
 
-Texto.
+Equipamento, Pernas.
 
-Texto.
+Uma peça de armadura preferida tanto por duelistas quanto os astutos. Aumenta o **Ataque** em 1 e **Defesa** em 2. Enquanto estiver com os pontos de **Vida** igual ou superior a metade também recebe 1 de **Alcance** e 3 de **Velocidade**.
 
 # Nível 2 (Incomum)
 

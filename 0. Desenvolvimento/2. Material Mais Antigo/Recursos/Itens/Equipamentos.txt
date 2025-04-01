@@ -1,26 +1,4 @@
 ↪ Resh (Classe 9, Itens Comuns)
-    
-    ↪ Colar de Conchas
-
-        ↪ Equipamento, Pescoço.
-
-        ↪ Aumenta a Noção em 6.
-
-        ↪ Toda vez que o usuário conjurar uma Magia, ele restaura 1 Ponto de Vida.
-
-    ↪ Colete de Couro
-
-        ↪ Equipamento, Torso.
-
-        ↪ Aumenta a Defesa em 4.
-
-        ↪ Toda vez que sofrer Dano Mágico que não seja periódico, recebe 2 Marcadores de Barreira.
-
-    ↪ Elmo Desgastado
-
-        ↪ Equipamento, Elmo.
-
-        ↪ Aumenta a Defesa em 6, incrementado para 10 quando estiver com metade dos pontos de vida.
 
     ↪ Forcado do Fazendeiro 
 
@@ -37,30 +15,6 @@
         ↪ Aumenta o Domínio e a Maestria em 2.
 
         ↪ Toda vez que realizar uma Magia do Tipo Ofensivo, Defensivo ou Recuperação, ganhe 2 Marcadores de Maestria.
-    
-    ↪ Manto de Folhas
-
-        ↪ Equipamento, Costas.
-
-        ↪ Aumenta a Agilidade em 2.
-
-        ↪ Toda vez que acertar um Ataque ou uma Magia, ganhe 2 Marcadores de Agilidade.
-
-    ↪ Mochila Simples
-
-        ↪ Equipamento, Bolsa.
-
-        ↪ Aumenta o número máximo de Itens no Inventário em 3.
-
-        ↪ Perde 1 ponto de Velocidade para cada Item extra armazenado.
-
-    ↪ Perneiras de Bronze
-
-        ↪ Equipamento, Pernas.
-
-        ↪ Aumenta a Força em 2.
-
-        ↪ Enquanto estiver com Pontos de Vida Igual ou Superior a metade, aumenta a Agilidade em 2.
 
 ↪ Ayin (Classe 8, Itens Incomuns)
         
