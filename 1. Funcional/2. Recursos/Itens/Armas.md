@@ -62,7 +62,7 @@ Cobre não é o melhor material, mas ainda salva vidas. Aumenta a **Defesa** em 
 
 Arma de Duas Mãos, Lança.
 
-Texto. Toda vez que acertar um **Ataque** ou **Habilidade** com **Alcance** de **Toque**, você ganha 2 **Efeitos** de **Concentração**.
+Muito útil para fazenda e a caça de bruxas. Aumenta o **Ataque** em 9. Toda vez que acertar um **Ataque** ou **Habilidade** com **Alcance** de **Toque**, você ganha 2 **Efeitos** de **Concentração**.
 
 ### Grimório do Bruxo Aprendiz
 
@@ -116,45 +116,45 @@ Quem escuta suas histórias costumam ver palavras se tornando reais. Ao realizar
 
 # Nível 3 (Raro)
 
-### Item
+### Báculo do Afogado
 
-Texto.
+Arma de Uma Mão, Cetro.
 
-Texto.
+Mesmo encontrado no fundo do mar, está arma ainda pulsa um poder nobre. Aumenta a **Maestria** em 9 e o **Domínio** em 6. Sempre que uma **Habilidade** sua colocar um **Efeito Positivo** em um **Aliado**, ao invés disso coloca 1 **Efeito** adicional.
 
-### Item
+### Besta Anti-Gigantes
 
-Texto.
+Arma de Duas Mãos, Longo Alcance, Arco e Diversos.
 
-Texto.
+É lento, mas sempre acerta em cheio o seu alvo. Aumenta **Ataque**, **Alcance** em 6, porém reduz a **Velocidade** em 3. Consome **Munição** para realizar seus **Ataques** em até 30 metros de distância. Sempre que acerta realiza **Críticos**, mas também te aplica 2 **Efeitos** de **Desarme**.
 
-### Item
+### Chicote do Aventureiro
 
-Texto.
+Arma de uma Mão, Diversos.
 
-Texto.
+Prático para roubar artefatos. Aumenta o **Velocidade** em 6. Você pode realizar **Ações** com **Toque** de **Alcance** dentro de 6 metros.
 
-### Item
+### Escudo de Prata
 
-Texto.
+Arma de Uma Mão, Escudo.
 
-Texto.
+Quem golpeia sua placa de metal costuma a sentir os próprios ossos. Aumenta a **Defesa** em 6 e a **Esquiva** em 1. Reduz em **1d6** o **Dano** recebido, exceto por **Efeitos**, também o curando nesse mesmo valor.
 
-### Item
+### Machado do Bárbaro
 
-Texto.
+Arma de Duas Mãos, Machado.
 
-Texto.
+Mesmo sem nenhuma forma de se defender os bárbaros são os últimos a cair. Aumenta o **Ataque** e **Vitalidade** em 9, além da **Defesa** em 3.
 
-### Item
+### Punhal do Pântano Nevoeiro
 
-Texto.
+Arma de Uma Mão, Espada.
 
-Texto.
+No pântano serve para tudo, tudo mesmo. Aumenta o **Alcance**, **Ataque**, **Domínio**, **Maestria**, **Velocidade** e **Vitalidade** em 2.
 
 # Nível 4 (Encantado)
 
-### Item
+### Foice da Necrópole Central
 
 Texto.
 

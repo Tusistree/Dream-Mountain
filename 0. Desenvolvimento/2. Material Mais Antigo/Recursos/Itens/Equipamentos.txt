@@ -1,34 +1,4 @@
-    ↪ Escudo de Prata
-
-        ↪ Equipamento, Escudo.
-
-        ↪ Aumenta a Defesa e Noção em 6.
-
-        ↪ Aumenta a Maestria em 3 ao usar Habilidades e Magias do tipo Defensivo, Recuperação e Utilidade.
-
-        ↪ Ao sofrer Dano Mágico não periódico, usa Metade da Defesa como Noção adicional, o mesmo ocorre para Dano Físico, utilizando Metade da Noção como Defesa adicional.
-
 ↪ Samek (Classe 7, Itens Raros)
-
-    ↪ Báculo do Afogado
-
-        ↪ Arma de Duas Mãos, Cajado.
-
-        ↪ Aumenta a Inteligência em 4 e a Força em 2.
-
-        ↪ Sempre que uma Magia conjurada por você colocar um Marcador em uma unidade, companheiro ou inimigo, o usuário pode colocar aquela quantia mais 1 Marcador.
-
-    ↪ Besta Anti-Gigantes.
-
-        ↪ Arma de Longo Alcance, Diversos.
-
-        ↪ Pode usar Munição de Arco.
-
-        ↪ Aumenta a Agilidade em 6 e a Força em 4.
-
-        ↪ O Dano de um Ataque Básico com este Equipamento não pode passar de 20, com Alcance Básico 25 metros de distância.
-
-        ↪ Dano Causado com esta Arma ignora um quarto da Defesa e Noção do alvo (arredondado para baixo).
 
     ↪ Bolso sem Fundo
 
@@ -37,14 +7,6 @@
         ↪ Aumenta o número máximo de Itens no Inventário em 4.
 
         ↪ Aumenta 1 número máximo de Itens no Inventário para cada Tipo Principal de Item adicional armazenado (Exemplo: Arma, Equipamento, Poção, Etc).
-
-    ↪ Chicote do Antigo Aventureiro
-
-        ↪ Arma de Duas Mãos, Diversos.
-
-        ↪ Aumenta a Agilidade em 7.
-
-        ↪ Alcance de 14 Metros, seus Ataques e Habilidades são considerados Corpo a Corpo tanto quanto de Longo Alcance: O Alcance também pode ser somado pelo seu Atributo, assim como armas de Longo Alcance, e também pode ser usados Habilidades com Alcance de Toque, assim como armas Corpo a Corpo.
 
     ↪ Foice da Necrópole Central
 
@@ -67,14 +29,6 @@
         ↪ O Alcance de Ataques Corpo a Corpo e Habilidades com Alcance de Toque é aumentado em 1 metros.
 
         ↪ A primeira vez que causar Dano não periódico em mais de uma unidade inimiga nesse turno, você pode realizar mais um Ataque Básico nesse turno.
-        
-    ↪ Machado do Barbáro
-
-        ↪ Arma de Duas Mãos, Machado.
-
-        ↪ Aumenta a Força em 8, Porém também diminui o Domínio em 4.
-
-        ↪ Toda vez que acertar um Ataque Corpo a Corpo ou Habilidade com Alcance de Toque, Ganhe 2 Marcadores de Força e Fervor.
 
     ↪ Manto do Liberto
 
