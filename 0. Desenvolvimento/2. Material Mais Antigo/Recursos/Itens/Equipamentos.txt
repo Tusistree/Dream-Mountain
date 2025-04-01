@@ -1,13 +1,3 @@
-↪ Samek (Classe 7, Itens Raros)
-
-    ↪ Bolso sem Fundo
-
-        ↪ Equipamento Mágico, Bolsa.
-
-        ↪ Aumenta o número máximo de Itens no Inventário em 4.
-
-        ↪ Aumenta 1 número máximo de Itens no Inventário para cada Tipo Principal de Item adicional armazenado (Exemplo: Arma, Equipamento, Poção, Etc).
-
     ↪ Foice da Necrópole Central
 
         ↪ Arma de Duas Mãos, Diversos.
@@ -18,75 +8,7 @@
 
         ↪ Sempre que realizar um Ataque Básico em um alvo, esse mesmo Ataque também é aplicado em todos inimigos dentro do seu Atributo de Alcance.
 
-    ↪ Garra de Urso
-
-        ↪ Arma de Punho, Diversos.
-
-        ↪ Mesmo sendo uma arma, ao equipar o usuário ainda é considerado Desarmado.
-
-        ↪ Aumenta a Força e Agilidade em 4.
-
-        ↪ O Alcance de Ataques Corpo a Corpo e Habilidades com Alcance de Toque é aumentado em 1 metros.
-
-        ↪ A primeira vez que causar Dano não periódico em mais de uma unidade inimiga nesse turno, você pode realizar mais um Ataque Básico nesse turno.
-
-    ↪ Manto do Liberto
-
-        ↪ Equipamento, Costas.
-
-        ↪ Aumenta a Força, Agilidade e Inteligência em 1.
-
-        ↪ Habilidade: Enquanto este item é equipado concede 2 Pontos de Força. Essa habilidade pode ser ativada para alterar esse Pontos para Agilidade, Inteligência ou até Força de volta.
-
-    ↪ Punhal do Pantano Nevoeiro
-
-        ↪ Arma, Adaga.
-
-        ↪ Aumenta a Força, Agilidade e Inteligência em 3.
-
-        ↪ Ataques Corpo a Corpo e Habilidade com Alcance de Toque aplica 3 Marcadores de Veneno e 4 Marcadores de Lentidão.
-
-    ↪ Tomo Esquecido
-
-        ↪ Arma, Diversos.
-
-        ↪ Aumenta o Domínio em 6.
-
-        ↪ No início de turno se o usuário estiver com menos da metade dos Pontos de Mana, restaure 1d4 de Pontos de Mana.
-
 ↪ Kaph (Classe 6, Itens Encantados)
-
-    ↪ Conjunto: Armação do Mago de Guerra
-
-        ↪ Equipamentos: Elmo, Torso, Ombreiras, Mãos, Pernas, Pés.
-
-        ↪ Cada parte aumenta a Inteligência em 3, além da Força em 2.
-
-        ↪ Conjunto Completo: Magias do tipo Ofensivo, Defensivo, Mobilidade e Controle custam metade dos Pontos de Mana. Magias da escola de Ignis e Nekro custam apenas um terço (ambos arredondados para baixo).
-
-    ↪ Conjunto: Armadura do Primeiro Gladiador
-
-        ↪ Equipamentos: Elmo, Torso, Ombreiras, Mãos, Pernas, Pés.
-
-        ↪ Cada parte aumenta a Força, Velocidade e Comunicação em 3.
-
-        ↪ Conjunto Completo: Ganha Maestria e Defesa igual a metade do pontos de Ataque (arredondado para baixo).
-
-    ↪ Conjunto: Blindagens do Verdadeiro Guardião
-
-        ↪ Equipamentos: Elmo, Torso, Ombreiras, Mãos, Pernas, Pés.
-
-        ↪ Cada parte aumenta a Vitalidade, Defesa e Noção em 3.
-
-        ↪ Conjunto Completo: Quando uma Unidade Aliada ou Companheiro morrer pela primeira vez na Campanha, ele é Ressuscitado (Ressureição não pode ser usada em alvos que já foram ressuscitados nesta Campanha, e o corpo do alvo precisa ser um alvo válido). Os Pontos de Vida atual do alvo é igual Defesa do usuário, o mesmo ocorre para Pontos de Mana e Noção. 
-
-    ↪ Conjunto: Fardo do Guarda Florestal
-
-        ↪ Equipamentos: Elmo, Torso, Ombreiras, Mãos, Pernas, Pés.
-
-        ↪ Cada parte aumenta a Agilidade, Defesa e Vitalidade em 2. Ao usar Arma de Longo Alcance também aumenta o Ataque em 2.
-
-        ↪ Conjunto Completo: Ao utilizar Arma de Longo Alcance, unidades controladas por você recebem um aumento de um quinto dos seus Atributos (arredondado para baixo).
 
     ↪ Conjunto: Kimono do Campeão Clandestino
 
@@ -95,14 +17,6 @@
         ↪ Cada parte aumenta a Força, Agilidade e Inteligência em 1, incrementado para 2 ao usuário estar Desarmado.
 
         ↪ Conjunto Completo: Enquanto desarmado, ao causar dano em um alvo faz com que a vítima cause um quarto a menos de Dano não periódico em você até o fim do combate (arredondado para baixo).
-
-    ↪ Conjunto: Revestimento do Sumo Sacerdote
-
-        ↪ Equipamentos: Elmo, Torso, Ombreiras, Mãos, Pernas, Pés.
-
-        ↪ Cada parte aumenta a Inteligência, Vitalidade e Comunicação em 3.
-
-        ↪ Conjunto Completo: Habilidades e Magias do tipo Defensivo, Recuperação e Utilidade podem ter um alvo adicional. Caso seja em Área, o Raio será incrementado seu valor original mais a metade, o mesmo ocorre para Auras.
 
     ↪ Conjunto: Traje do Diretor de Magia
 
@@ -120,6 +34,14 @@
 
         ↪ Conjunto Completo: Ao utilizar Arma de Longo Alcance causa Dano Mágico adicional do Tipo Fogo igual a um quarto da distância do alvo (arredondado para baixo), e também causa dano dobrado em unidades que não sejam racionais (Monstros, Estruturas e etc).
 
+    ↪ Conjunto: Vestes do Assassino de Aluguel
+
+        ↪ Equipamentos: Elmo, Torso, Ombreiras, Mãos, Pernas, Pés.
+
+        ↪ Cada parte aumenta a Agilidade e Ataque em 2, também a Vitalidade, Defesa e Noção em 2.
+
+        ↪ Conjunto Completo: Ganha Ataque e Alcance adicional igual a um quarto da Velocidade (arredondado para baixo).
+
     ↪ Vanguarda dos Lamentos
 
         ↪ Equipamento, Escudo.
@@ -129,14 +51,6 @@
         ↪ Aumenta A Defesa e Noção igual a metade dos Pontos de Vida perdidos. O Limite desse efeito é até de 7.
 
         ↪ Um quarto do Dano não periódico sofrido é devolvido para a fonte causadora (arredondado para baixo).
-
-    ↪ Conjunto: Vestes do Assassino de Aluguel
-
-        ↪ Equipamentos: Elmo, Torso, Ombreiras, Mãos, Pernas, Pés.
-
-        ↪ Cada parte aumenta a Agilidade e Ataque em 2, também a Vitalidade, Defesa e Noção em 2.
-
-        ↪ Conjunto Completo: Ganha Ataque e Alcance adicional igual a um quarto da Velocidade (arredondado para baixo).
 
 ↪ Yod (Classe 5, Itens Mágicos)
 
@@ -501,48 +415,6 @@
         ↪ Cada parte aumenta Agilidade, Ataque e Maestria em 5.
 
         ↪ Conjunto Completo: Um quarto do Dano não periódico causado pelo usuário é aplicado como Marcadores de Veneno. Marcadores de Veneno em inimigos não podem ser evitados por Efeitos, Itens, Magias ou Habilidades, também precisando de uma Dissipação Superior ao invés de Fraca para serem removidos.
-
-↪ Dalet (Classe 1, Itens Demoníacos)
-
-    ↪
-
-        ↪
-
-    ↪
-
-        ↪
-
-    ↪
-
-        ↪
-
-    ↪
-
-        ↪
-
-    ↪
-
-        ↪
-
-    ↪
-
-        ↪
-
-    ↪
-
-        ↪
-
-    ↪
-
-        ↪
-
-    ↪
-
-        ↪
-
-    ↪
-
-        ↪
 
 ↪ Aleph (Classe Especial, Itens dos Sonhos, Itens criados na Montanha dos Sonhos)
 

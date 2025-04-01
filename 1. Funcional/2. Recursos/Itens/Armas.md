@@ -1,4 +1,4 @@
-**Armas** são as ferramentas usadas por **Jogadores** ou **NPCs**, e até alguns casos também por **Monstros**. São equipadas nas **Mãos**, mas não ocupando espaço de equipamentos de **Mãos** como **Luvas** e **Manoplas**. Podem variar de **Armas** de uma **Mão** ou de **Duas Mãos**.
+**Armas** são as ferramentas usadas por **Jogadores** ou **NPCs**, e até alguns casos também por **Monstros**. São equipadas nas **Mãos**, mas não ocupando espaço de equipamentos de **Mãos** como **Luvas** e **Manoplas**. Podem variar de **Armas** de **Uma Mão** ou de **Duas Mãos**.
 
 # Nível Inicial (Inferior)
 

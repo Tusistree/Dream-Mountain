@@ -86,23 +86,23 @@ Há um série de compartimentos extras para não faltar nada. Oferece 6 espaços
 
 ### Conjunto: Armadura de Ferro
 
-Equipamentos, Composto por: Elmo, Torso, Ombreiras, Mãos, Pernas, Pés.
+Equipamentos, Compostos por: Elmo, Torso, Ombreiras, Mãos, Pernas, Pés.
 
-O arsenal completo de um soldado. Cada parte aumenta o **Ataque** em 1 e a **Defesa** em 2.
+O arsenal completo de um soldado. Cada parte aumenta o **Ataque** em 1 e a **Defesa** em 1.
 
 Conjunto Completo: acertos **Críticos** de **Ataques** e **Habilidades** ao **Alcance** de **Toque** causam o triplo do **Dano** ao invés de em dobro.
 
 ### Conjunto: Traje do Mercenário
 
-Equipamentos, Composto por: Elmo, Torso, Ombreiras, Mãos, Pernas, Pés.
+Equipamentos, Compostos por: Elmo, Torso, Ombreiras, Mãos, Pernas, Pés.
 
-O arsenal completo de um vigarista. Cada parte aumenta o **Ataque** em 1 e a **Velocidade** em 2.
+O arsenal completo de um vigarista. Cada parte aumenta o **Ataque** em 1 e a **Velocidade** em 1.
 
 Conjunto Completo: O primeiro acerto **Crítico** em um **Combate** concede um **Turno** adicional.
 
 ### Conjunto: Uniforme da Academia Violeta
 
-Equipamentos, Composto por: Elmo, Torso, Ombreiras, Mãos, Pernas, Pés.
+Equipamentos, Compostos por: Elmo, Torso, Ombreiras, Mãos, Pernas, Pés.
 
 O arsenal completo de um estudante da magia. Cada parte aumenta o **Domínio** em 1 e o **Maestria** em 1.
 
@@ -122,35 +122,37 @@ Tudo o que é necessário, esculpido em prata. Aumenta o **Carisma**, **Defesa**
 
 # Nível 3 (Raro)
 
-### Item
+### Bolso do Explorador.
 
-Texto.
+Equipamento, Mochila.
 
-Texto.
+Sempre há espaço para mais alguma coisa. Oferece 12 espaços de **Item** no **Inventário**.
 
-### Item
+### Conjunto: Vestes do Liberto
 
-Texto.
+Equipamentos, Compostos por: Elmo, Torso, Ombreiras, Mãos, Pernas, Pés.
 
-Texto.
+Trajes completos dos primeiros democratas do continente **Liberto**. Cada parte aumenta o **Ataque**, **Maestria** e **Velocidade** em 1.
 
-### Item
+Conjunto Completo: Você pode escolher entre **Ataque**, **Maestria** ou **Velocidade**, e partir de então esse **Conjunto** irá conceder 9 daquele **Atributo**. Só pode ser alterado uma vez por **Sessão**.
 
-Texto.
+### Garra de Urso
 
-Texto.
+Equipamento, Mãos.
 
-### Item
+É como se o próprio animal mexesse suas presas. Aumenta o **Ataque** em 3 e **Velocidade** em 6. **Alcance** de **Toque** para **Ações** é aumentado em 1.
 
-Texto.
+### Manto do Liberto
 
-Texto.
+Equipamento, Costas.
 
-### Item
+Assim como os ideais de seu povo, escolha é liberdade. Aumenta todos os **Atributos Primários** em 1 (exceto de **Expansões**). Você pode escolher 1 **Atributo Secundário** e todos os **Aliados** terão um aumento de 1 dele. Só pode ser alterado uma vez por **Sessão**.
 
-Texto.
+### Cinturão de Selos
 
-Texto.
+Equipamento, Cintura.
+
+Vários selos religiosos amarrados ao cinto. Aumenta o Domínio em 6. No início do seu turno se você estiver com menos da metade dos pontos de **Mana** restaure **1d4** de pontos de **Mana**.
 
 ### Pingente Dourado
 
@@ -160,55 +162,69 @@ Tudo em um, esculpido a ouro. Aumenta o **Carisma**, **Crítico**, **Defesa**, *
 
 # Nível 4 (Encantado)
 
-### Item
+### Conjunto: Armação do Incendiário
 
-Texto.
+Equipamentos Encantados, Compostos por: Elmo, Torso, Ombreiras, Mãos, Pernas, Pés.
 
-Texto.
+Leigos não sabem dizer se é uma armadura ou traje mágico, mas sim que é feito apenas para destruir. Cada parte aumenta **Alcance**, **Defesa** e **Maestria** em 2.
 
-### Item
+Conjunto Completo: **Habilidades** do **Tipo** **Ofensivo** custam metade dos **Custos** arredondado para cima, além de terem **Crítico** aumentado em 2.
 
-Texto.
+### Conjunto: Armadura do Gladiador
 
-Texto.
+Equipamentos Encantados, Compostos por: Elmo, Torso, Ombreiras, Mãos, Pernas, Pés.
 
-### Item
+Para o pão e circo completo os lutadores da arena se importam apenas com o ataque. Cada parte aumenta **Ataque**, **Letalidade** e **Maestria** em 2.
 
-Texto.
+Conjunto Completo: Ganha **Maestria** igual a um terço do seu **Atributo** de **Ataque**, arredondado para cima.
 
-Texto.
+### Conjunto: Blindagens do Guardião
 
-### Item
+Equipamentos Encantados, Compostos por: Elmo, Torso, Ombreiras, Mãos, Pernas, Pés.
 
-Texto.
+O maior arrependimento de um guardião é não ser o primeiro a cair. Cada parte aumenta o **Carisma**, **Defesa** e **Vitalidade** em 2.
 
-Texto.
+Conjunto Completo: Você pode escolher um **Aliado** no começo de um **Combate**, todo o **Dano** que ele sofrer é redirecionado para você (isso ocorre antes da mitigação do **Aliado**).
 
-### Item
+### Conjunto: Fardo do Guarda Florestal
 
-Texto.
+Equipamentos Encantados, Compostos por: Elmo, Torso, Ombreiras, Mãos, Pernas, Pés.
 
-Texto.
+Para um patrulheiro o ciclo da natureza é a coisa mais importante de todas. Cada parte aumenta o **Alcance**, **Ataque** e **Velocidade** em 2.
 
-### Item
+Conjunto Completo: Pode domesticar um **Monstro** de **Nível** 5 ou inferior, se ele estiver com menos de um quarto dos pontos de **Vida**. Só pode ter 1 por esse efeito, os **Itens** desse **Conjunto** tem o **Monstro** anotado, porém não é necessário continuar equipado para o controlar.
 
-Texto.
+### Conjunto: Revestimento do Sacerdote
 
-Texto.
+Equipamentos Encantados, Compostos por: Elmo, Torso, Ombreiras, Mãos, Pernas, Pés.
+
+Sacerdotes estudam a vida inteira para poder ajudar o máximo de pessoas possível. Cada parte aumenta **Domínio**, **Maestria** e **Vitalidade** em 2.
+
+Conjunto Completo: suas **Habilidades** do **Tipo** **Defensivo**, **Recuperação** e **Utilidade** sempre tem um **Alvo** adicional.
+
+### Conjunto: Vestes do Assassino
+
+Equipamentos Encantados, Compostos por: Elmo, Torso, Ombreiras, Mãos, Pernas, Pés.
+
+Trapos de tecidos tão escuros quanto a noite tornando-se um com a sombra. Cada parte aumenta o **Ataque**, **Letalidade** e **Velocidade** em 2.
+
+Conjunto Completo: Ganha **Ataque** igual a um terço do seu **Atributo** de **Velocidade**, arredondado para cima.
 
 # Nível 5 (Mágico)
 
+### Bolso sem Fundo
+
+Equipamento Mágico, Mochila.
+
+Um pequeno bolso bordado a tecido etéreo, alterando o espaço para seus fins. Oferece 9 espaços de **Item** no **Inventário**, Porém aumenta o espaço em 1 para cada **Item** que não repetir todos os seus **Tipos** com todos de outro.
+
 ### Item
 
-Texto.
+Equipamentos Encantados, Compostos por: Elmo, Torso, Ombreiras, Mãos, Pernas, Pés.
 
-Texto.
+Texto. Cada parte aumenta.
 
-### Item
-
-Texto.
-
-Texto.
+Conjunto Completo: Texto.
 
 ### Item
 
