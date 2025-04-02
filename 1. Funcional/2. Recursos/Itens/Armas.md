@@ -198,111 +198,111 @@ Arma Mágica de Uma Mão, Tomo.
 
 A visão de quem sobe as montanhas é invejada, alguns até diriam que é magia. Enquanto este **Item** estiver equipado o seu **Atributo** de **Alcance** é dobrado.
 
-### Item
+### Diário do Explorador
 
-Texto.
+Arma Mágica de Uma Mão, Tomo.
 
-Texto.
+A estamina de quem explora cada canto do mundo impressiona, alguns até diriam que é magia. Enquanto este **Item** estiver equipado o seu **Atributo** de **Alcance** é dobrado.
 
-### Item
+### Punhal Etéreo
 
-Texto.
+Arma Mágica de Uma Mão, Espada.
 
-Texto.
+É desse mundo e ao mesmo tempo não, capaz de ferir tanto a alma quanto o corpo. Aumenta o **Ataque** e a **Velocidade** em 9, além do **Crítico** em 1, porém metade do **Dano** causado por estar **Arma** é feito na **Mana** do **Oponente** primeiro.
 
-### Item
+### Magiespada
 
-Texto.
+Arma Mágica de Duas Mão, Espada.
 
-Texto.
+Conseguiram ensinar magias para uma arma. Aumenta o **Ataque** para 27 e o **Domínio** para 9. No início de um **Combate** você pode anotar uma **Habilidade** de um **Aliado**. Acertos **Críticos** podem usar essa **Habilidade**, ainda respeitando seus **Custos** e **Condições**.
 
 ### Varinha Sanguinomante
 
-Texto.
+Arma Mágica de Uma Mão, Cetro e Diversos.
 
-Texto.
+Magos costumam dizer que sentem suas energias roubadas perto dessa arma nefasta. Aumenta o **Alcance**, **Domínio** e **Maestria** em 9. Toda vez um **Oponente** usar um **Habilidade** ele perde vida igual a metade do **Custo** de **Mana**, arredondado para baixo.
 
 ### Tirania Mágica
 
-Texto.
+Arma Mágica de Uma Mão, Escudo.
 
-Texto.
+A arte de repelir feitiços em um escudo. Aumenta a **Defesa** em 9 e a **Esquiva** em 3. Reduz o **Dano** sofrido por **Habilidades** em um terço, arredondado para baixo, devolvendo essa quantia contra o **Agressor**.
 
 # Nível 6 (Rúnico)
 
 ### Arco Silvestre
 
-Texto.
+Arma Rúnica de Duas Mãos, Longo Alcance, Arco.
 
-Texto.
+O melhor jeito de caçar uma fera é tendo uma. Aumenta o **Ataque**, **Alcance** em 12. Consome **Munição** para realizar seus **Ataques** em até 45 metros de distância. Sempre que derrotar um **Monstro** você pode o anotar. Acertos **Críticos** invocam uma cópia do **Monstro** na frente do **Oponente** atingido, e o turno da **Unidade** é logo após o seu.
 
 ### Brasão Anulador
 
-Texto.
+Arma Rúnica de Uma Mão, Escudo.
 
-Texto.
+Através das runas o ferreiros chegaram muito perto da invencibilidade. Aumenta a **Defesa** em 12 e a **Esquiva** em 3. Ao sofrer **Dano** de um **Ataque** você pode jogar **1d20**, se o valor for superior ao **1d20** de **Precisão** do **Oponente** você recebe apenas metade do **Dano** e **Efeitos**. Para **Ações** com **Precisão Garantida** é necessário um **Crítico** para as reduzir.
 
 ### Gládio dos Dois Tempos
 
-Texto.
+Arma Rúnica de Duas Mãos, Espada.
 
-Texto.
+O primeiro acerto pode até errar, mas nunca o segundo. Aumenta o **Ataque** e a **Velocidade** em 21. Se o seu **Turno** for par, contando apenas com você, está **Arma** ganha 99 de **Letalidade**.
 
 ### Grimório Perturbado
 
-Texto.
+Arma Rúnica de Uma Mão, Tomo.
 
-Texto.
+Esse livro simpático costuma fazer o que bem entender. Este **Item** pode jogar como um **NPC** sobre seu controle em **Planos de Interpretação**. Aumenta o **Domínio** em 30. No início de seu **Turno** uma **Habilidade** sua é conjurada de forma aleatória. Você pode escolher como ela feita, paga seus **Custos** e **Condições**, mas não consome a **Ação Principal**. 
 
 ### Quebra-magos
 
-Arma Rúnica de Uma Mão, Espada.
+Arma Rúnica de Uma Mão, Machado.
 
 O primeiro uso estratégico das armas rúnicas era manter sobre o controle os magos. Aumenta o **Ataque** em 18, porém todo o seu **Dano** causado por qualquer fonte é feito na **Mana** ao invés da **Vida**. Se subtrair a **Mana** para 0 ou menos o **Alvo** sobre 1 **Efeito** de **Banimento**. 
 
 ### Punhal do Eterno Aprendiz
 
-Texto.
+Arma Rúnica de Uma Mão, Espada.
 
-Texto.
+Esse punhal foi feito por um mestre a fim de ensinar seus alunos através da repetição. Aumenta todos os **Atributos Primários** em 3. Esta **Arma** memoriza sempre a última **Habilidade** usada por você, e a usa em acertos **Críticos**, respeitando seus **Custos** e **Condições**.
 
 # Nível 7 (Lendário)
 
-### Primeira Carabina
+### A Primeira Carabina
 
-Texto.
+Arma Lendária de Duas Mãos, Longo Alcance, Diversos.
 
-Texto.
+Esse milagre da engenharia é uma lenda viva. Essa **Arma** pode consumir **Munição** de **Arco**. Aumenta o **Ataque**, **Alcance** em 15. Consome **Munição** para realizar seus **Ataques** em até 50 metros de distância. Pode realizar um **Ataque Básico** adicional por **Turno**.
 
 ### Égide do Supremo
 
-Texto.
+Arma Lendária de Uma Mão, Escudo.
 
-Texto.
+O poder do supremo é de nunca se surpreender. Aumenta a **Defesa** em 16 e a **Esquiva** em 4. A primeira vez que for sofrer uma **Habilidade** a anote e a anule completamente. Isso não pode ocorrer com **Habilidades** já anotados, e todas as anotações são perdidas ao fim do **Combate**.
 
 ### Evangelho do Arcebispo
 
-Texto.
+Arma Lendária de Uma Mão, Tomo.
 
-Texto.
+O arcebispo sempre cura as enfermidades dos necessitados. Aumenta o **Domínio** em 21. No fim do seu turno sempre aplica uma **Dissipação Normal** nos **Efeitos Negativos** de todos os **Aliados**.
 
 ### Florete da Perfeição
 
-Texto.
+Arma Lendária de Uma Mão, Espada.
 
-Texto.
+Temido e amado por todos os duelistas. Aumenta todos os **Atributos** **Primários** e **Secundários** em 2. Seus **Ataques Básicos** não podem errar, mesmo que tirem falha **Crítica**.
 
 ### Sabre de Fogo
 
-Texto.
+Arma Lendária de Uma Mão, Espada.
 
-Texto.
+Um fogo que não queima, mas que transcende todo os princípios da luz. Ao invés dessa **Arma** causar **Dano**, você recebe **Efeitos** de **Aumento** de **Velocidade** na mesma quantia.
 
 ### Sabre de Gelo
 
-Texto.
+Arma Lendária de Uma Mão, Espada.
 
-Texto.
+Um frio que não congela, mas que para tudo a sua volta. Ao invés dessa **Arma** causar **Dano**, o **Oponente** recebe **Efeitos** de **Aumento** de **Velocidade** na mesma quantia.
 
 # Nível 8 (Divino)
 

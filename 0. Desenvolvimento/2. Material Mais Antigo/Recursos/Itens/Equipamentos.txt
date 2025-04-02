@@ -1,81 +1,3 @@
-↪ Tet (Classe 4, Itens Rúnicos)
-
-    ↪ Arco Silvestre
-
-        ↪ Arma Rúnica de Longo Alcance, Arco.
-
-        ↪ Aumenta a Agilidade em 10.
-
-        ↪ Esse Arco não usa Munição e nem pode causar Dano.
-
-        ↪ Alcance de até 35 metros de distância.
-
-        ↪ Disparos com esse arco cria uma unidade de nível Samek ou inferior no alvo acertado. Unidades criadas com essa Arma Mágica duram apenas dois turnos. Acertos Críticos criam unidades de nível Yod ou inferior. Essas unidades estão sobre o controle do usuário e o turno delas é após o do dono.
-
-    ↪ Brasão Anulador
-
-        ↪ Equipamento Rúnico, Escudo.
-
-        ↪ Aumenta a Vitalidade, Defesa, Noção, Velocidade e Alcance em 5.
-
-        ↪ O usuário ao invés de causar Dano neste turno, ele pode aplicar aquela quantia de Dano como marcadores de Remoção. Também funciona em unidades aliadas e companheiros de equipe.
-
-    ↪ Gládio dos Dois Tempos
-
-        ↪ Arma Rúnica, Espada.
-
-        ↪ Aumenta a Velocidade e o Alcance em 7.
-
-        ↪ Habilidades com Alcance de Toque causam Dano Puro adicional igual a metade do seus Custos (Dano Puro ignora qualquer mitigação de dano, seja ela por Atributo, Marcadores ou Efeitos). 
-
-        ↪ Causar Dano não periódico no mesmo alvo duas vezes no mesmo turno pode restaurar Pontos de Vida no usuário Igual a um quarto de sua Velocidade. Esse efeito só pode ocorrer duas vezes por alvo em cada Combate.
-
-    ↪ Grimório Pertubado
-
-        ↪ Arma Rúnica, Diversos.
-
-        ↪ Aumenta o Domínio em 10.
-
-        ↪ Em combate, no início do turno do usuário uma Magia ou Habilidade é conjurada de forma aleatória sem gastar Pontos de Mana, e sem consumir a Ação Principal. O alvo também é aleatório, porém para Magias do tipo Ofensivo, Controle e Interrupção a prioridade será unidades e inimigas, e Magias do tipo Defensivo Mobilidade, Recuperação e Utilidade a prioridade será o usuário, unidades aliadas ou companheiros.
-
-    ↪ O Machado-que-grita
-
-        ↪ Arma Rúnica Amaldiçoada de Duas Mãos, Machado.
-
-        ↪ Ao Equipar essa Arma Amaldiçoada é impossível desequipar, a menos que o usuário Descanse (fim de Sessão), Abata uma unidade ou sofra uma Dissipação Superior.
-
-        ↪ Enquanto equipado o usuário tem um Marcador Infinito de Silêncio (que não pode ser dissipado ou movido).
-
-        ↪ Ataques Básicos causam Dano Mágico do Tipo Sombrio igual a metade dos Pontos de Vidas faltantes do usuário.
-
-    ↪ Punhal do Eterno Aprendiz
-
-        ↪ Arma Rúnica, Adaga.
-
-        ↪ Aumenta a Maestria em 6.
-
-        ↪ No início do turno o usuário pode escolher uma Habilidade ou Magia que ele Possui. Essa Habilidade ou Magia fica gravada nesta arma até o fim do Combate, sendo conjurada toda vez que realizar um Ataque Básico, ainda respeitando as condições e custos daquela Habilidade ou Magia. A conjuração desta Arma não consome a Ação Principal. Acertos críticos do Ataque básico ou da Conjuração permitem a troca da Habilidade ou Magia gravada.
-
-    ↪ Sabre de Gelo
-
-        ↪ Arma Rúnica, Espada.
-
-        ↪ Reduz a Velocidade e o Alcance em 10.
-
-        ↪ Toda vez que o usuário causar Dano com essa Arma, ao invés disso é causado essa quantia de Dano em forma de Marcadores de Fraqueza ou Lentidão no alvo acertado (podem ser distribuídos da forma que quiser, e no caso de valores impares é arredondado para baixo).
-
-        ↪ Se uma unidade inimiga receber Marcadores Positivos, essa unidade recebe metade daqueles Marcadores (arredondado para baixo).
-
-    ↪ Varinha Sanguinomante
-
-        ↪ Arma Rúnica, Diversos.
-
-        ↪ Aumenta o Domínio igual a um terço dos Pontos de Vida perdidos (arredondado para baixo).
-
-        ↪ Toda vez que uma unidade inimiga usar a Ação de Movimentação, aplica Marcadores de Sangramento igual a um quarto da distância percorrida (arredondado para baixo).
-
-        ↪ Toda vez que uma unidade inimiga usar uma Habilidade ou Magia do Tipo Mobilidade aquela unidade recebe Marcadores de Desgaste igual a um quinto da distância percorrida (arredondado para baixo).
-
 ↪ Het (Classe 3, Itens Lendários)
 
     ↪ Bolso do Arquiteto de Reinos
@@ -85,44 +7,6 @@
         ↪ Aumenta o número máximo de Itens no Inventário em 12.
 
         ↪ Pode armazenar também até 6 Estruturas de nível Het ou inferior como Compartimentos Extras.
-
-    ↪ Carabina do Tecnomago
-
-        ↪ Arma Lendária de Longo Alcance, Unidade, Diversos.
-
-        ↪ Aumenta a Inteligência em 5 e a Agilidade em 10.
-
-        ↪ Essa Arma não usa Munição e tem o Dano Base de 10.
-
-        ↪ Alcance de até 50 metros de distância.
-
-        ↪ Essa arma possui Consciência Própria, ganhando em sua personalidade uma Qualidade aleatória, assim como um Defeito e um Ambíguo. Também tem turno próprio, segue as ordens do usuário e pode as Magias e Habilidades do usuário respeitando os seus Custos e Condições (pagos pelo usuário, assim como dano sofrido também é redirecionado para o usuário).
-
-    ↪ Égide do Supremo
-
-        ↪ Equipamento Lendário, Escudo.
-
-        ↪ Aumenta a Vitalidade, Defesa e Noção em 10.
-
-        ↪ Ataques Básicos aplicam 2 Marcadores Negativos a escolha do usuário (Lentidão, Veneno, Fraqueza, Sangramento, Cegueira, Desarme, Enraizamento, Silêncio, Sono, Desgaste, Atordoamento, Banimento, Remoção, Medo, Azar ou Polimorfia). Esse Efeito não pode repetir os mesmos Marcadores escolhidos nesse combate.
-
-    ↪ Evangelho do Arcebispo
-
-        ↪ Arma Lendária de Duas Mãos, Diversos
-
-        ↪ Aumenta o Domínio e Comunicação em 10.
-
-        ↪ Aumenta a Maestria em 10 em Magias do Tipo Defensivo, Recuperação, Utilidade e Invocação.
-
-        ↪ No fim de cada turno do usuário, até um companheiro de equipe, unidade aliada ou inimiga pode sofrer uma Dissipação Média (Positiva ou Negativa, a escolha do usuário). Caso o usuário tenha realizado um Acerto Crítico nesse turno a Dissipação será do Tipo Superior.
-
-    ↪ Florete da Perfeição
-
-        ↪ Arma Lendária, Espada.
-
-        ↪ Aumenta o Ataque em 5, a Defesa em 10 e a Velocidade em 15.
-
-        ↪ Ataques Básicos não podem errar, e caso realizem Acertos Críticos a Defesa do alvo é completamente ignorada (o mesmo ocorre para mitigação de Efeitos e Marcadores).
 
     ↪ Gaiola do Colecionador
 
@@ -146,24 +30,6 @@
 
         ↪ Ataques Básicos causam Dano Mágico adicional do Tipo Fogo igual a metade do Ataque do usuário, esse Dano adicional é em Área com raio igual ao Atributo de Alcance. Acertos Críticos convertem tanto o Dano Base como o Adicional em Dano Puro.
 
-    ↪ Sabre de Fogo
-
-        ↪ Arma Rúnica Lendária, Espada.
-
-        ↪ Reduz a Defesa, Noção	e Vitalidade em 5.
-
-        ↪ Toda vez que o usuário causar Dano com essa Arma, ao invés disso causa essa quantia de Dano em forma de Marcadores de Velocidade ou Fervor no próprio usuário (podem ser distribuídos da forma que quiser, e no caso de valores impares é arredondado para baixo).
-
-        ↪ Acerto crítico podem conceder ao usuário 2 Marcadores de Imunidade a uma Escola de Magia ou Habilidade Física (não pode ter multiplas imunidades provenientes desse efeito).
-
-    ↪ Tirania Mágica
-
-        ↪ Arma Lendária de Duas Mãos, Cajado.
-
-        ↪ Aumenta a Maestria, Noção e Comunicação em 10.
-
-        ↪ A primeira vez que o usuário sofrer uma Magia especifíca ela é anulada. Esse efeito só pode ocorrer uma vez por Magia, reiniciando no descanso (fim de Sessão).
-
     ↪ Tridente do Demônio
 
         ↪ Arma Lendária Amaldiçoada de Duas Mãos, Lança.
@@ -175,6 +41,16 @@
         ↪ Essa Arma só pode ser desequipada por Dissipação Verdadeira (Postita ou Negativa) e enquanto equipado o usuário não pode restaurar Pontos de Vida e nem ser Ressuscitado.
 
         ↪ Habilidade: Abata a unidade alvo. Se o nível do alvo for inferior o usuário perde Pontos de Vida igual a metade dos Pontos de Vida Máxima daquele alvo. Caso o nível seja igual ou superior do usuário a quantia da perda de Pontos de Vida é igual a Vida Máxima do alvo.
+
+    ↪ O Machado-que-grita
+
+        ↪ Arma Rúnica Amaldiçoada de Duas Mãos, Machado.
+
+        ↪ Ao Equipar essa Arma Amaldiçoada é impossível desequipar, a menos que o usuário Descanse (fim de Sessão), Abata uma unidade ou sofra uma Dissipação Superior.
+
+        ↪ Enquanto equipado o usuário tem um Marcador Infinito de Silêncio (que não pode ser dissipado ou movido).
+
+        ↪ Ataques Básicos causam Dano Mágico do Tipo Sombrio igual a metade dos Pontos de Vidas faltantes do usuário.
 
 ↪ Zayin (Classe 2, Itens Divinos)
 
@@ -270,7 +146,7 @@
 
 ↪ Aleph (Classe Especial, Itens dos Sonhos, Itens criados na Montanha dos Sonhos)
 
-    ↪ Arco da Fortuna
+    ↪ Arco da F ortuna
 
         ↪ Arma Abstrata de Longo Alcance, Arco.
 
