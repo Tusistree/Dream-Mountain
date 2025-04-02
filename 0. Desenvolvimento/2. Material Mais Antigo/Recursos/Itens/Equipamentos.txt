@@ -38,18 +38,6 @@
 
         ↪ Em combate, no início do turno do usuário uma Magia ou Habilidade é conjurada de forma aleatória sem gastar Pontos de Mana, e sem consumir a Ação Principal. O alvo também é aleatório, porém para Magias do tipo Ofensivo, Controle e Interrupção a prioridade será unidades e inimigas, e Magias do tipo Defensivo Mobilidade, Recuperação e Utilidade a prioridade será o usuário, unidades aliadas ou companheiros.
 
-    ↪ Lâmina Circense
-
-        ↪ Arma Mágica, Adaga.
-
-        ↪ Aumenta o Ataque, Velocidade e Noção em 5.
-
-        ↪ Sempre que o usuário equipar este item ou troca-lo de mão, pode realizar dois Ataques básicos adicionais neste turno, esse Efeito não consome a Ação Principal ou de Ataque Básico.
-
-        ↪ Ataques Críticos do usuário ao invés de causar duas vezes o Dano, realizam dois Ataques Básicos (incrementado em caso de aumento do valor do Crítico).
-
-        ↪ Acerto crítico podem causar 2 Marcadores de um efeito Debilitante a escolha do usuário (Cegueira, Desarme, Enraizamento ou Silêncio).
-
     ↪ O Machado-que-grita
 
         ↪ Arma Rúnica Amaldiçoada de Duas Mãos, Machado.
@@ -385,8 +373,6 @@
         ↪ Aumenta o Alcance em 20. 
 
         ↪ O usuário pode escolher uma escola de Magia. Enquanto o item estiver equipado ele tem conhecimento de todas as Magias daquela escola, e pode não gastar Pontos de Mana para conjurar essas Magias.
-
-//
 
     ↪ Rosa dos Quatro Ventos
 

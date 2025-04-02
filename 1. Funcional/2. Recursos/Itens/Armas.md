@@ -154,6 +154,12 @@ No pântano serve para tudo, tudo mesmo. Aumenta o **Alcance**, **Ataque**, **Do
 
 # Nível 4 (Encantado)
 
+### Aljava do Preguiçoso
+
+Arma Encantada de Duas Mãos, Longo Alcance, Arco e Diversos.
+
+Uma aljava, repleta de feitiços, que ao apontar com os dedos a flecha voa e acerta o seu alvo. Aumenta o **Ataque** em 12. Diferente de **Arcos**, este não consome **Munição** para realizar seus **Ataques**, e são independentes da distância. Você pode usar **Munição** para aplicar suas peculiaridades, mas caso não use os seus **Ataques** tem **Precisão** aumentada em 3 e **Crítico** em 1.
+
 ### Foice da Necrópole Central
 
 Arma Encantada de Duas Mãos, Lança.
@@ -166,23 +172,17 @@ Arma Encantada de Uma Mão, Cetro.
 
 Encantamentos malignos fizeram que os ferimentos causados por essa arma nunca cicatrizem. Aumenta a **Maestria** em 12, **Domínio** em 9, **Alcance** em 6, **Precisão** em 3 e **Crítico** em 1. **Oponentes** só podem recuperar metade dos pontos de **Vida** que recuperariam originalmente, arredondado para baixo.
 
-### Item
-
-Texto.
-
-Texto.
-
 ### Lâmina Circense
 
-Texto.
+Arma Encantada de Uma Mão, Espada.
 
-Texto.
+Palhaços de circo sempre dão um jeito de acertar as contas, ou falham miseravelmente. Aumenta o **Ataque** e a **Letalidade** em 5. **Ataques Básicos** com essa arma não possuem mais **1d20**, ao invés disso a **Precisão** é medida por um cara ou coroa, sendo falha ou acerto **Crítico**. O multiplicador de **Crítico** é realizado múltiplos **Ataques** ao invés **Dano** múltiplo, ambos realizando suas peculiaridades como **Efeitos**.
 
-### Item
+### Tomo Letrado
 
-Texto.
+Arma Encantada de Uma Mão, Tomo.
 
-Texto.
+Esse livro simpático costuma te alertar sobre o que você não sabe. Este **Item** pode jogar como um **NPC** sobre seu controle em **Planos de Interpretação**. Aumenta o **Domínio** e a **Maestria** em 6. Você pode escolher uma **Habilidade** de seu **Nível** que não tenha aprendido e, Até o fim do **Plano**, usá-la normalmente.
 
 ### Vanguarda dos Lamentos
 
