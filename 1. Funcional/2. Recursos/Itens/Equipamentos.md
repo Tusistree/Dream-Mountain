@@ -370,13 +370,13 @@ Texto.
 
 # Nível 9 (Eterno)
 
-### Item
+### Coroa do Herdeiro do Mundo
 
 Texto.
 
 Texto.
 
-### Item
+### Mochila Infinita
 
 Texto.
 

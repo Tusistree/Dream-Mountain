@@ -106,7 +106,7 @@ Quem golpeia sua placa de metal costuma a sentir os próprios ossos. Aumenta a *
 
 Arma de Duas Mãos, Lança.
 
-Usado por guardas reais esta arma brilha no combate a média distância. Aumenta o **Ataque** em 12 e a **Velocidade** em 3. **Alcance** de **Toque** é ampliado em 1 para **Ações**.
+Usado por guardas reais esta arma brilha no combate a média distância. Aumenta o **Ataque** em 12 e a **Velocidade** em 3. **Alcance** de **Toque** é ampliado em 1 para **Ações de Combate**.
 
 ### Tambor do Xamã
 
@@ -156,6 +156,24 @@ No pântano serve para tudo, tudo mesmo. Aumenta o **Alcance**, **Ataque**, **Do
 
 ### Foice da Necrópole Central
 
+Arma Encantada de Duas Mãos, Lança.
+
+Inscrições do **Reino dos Mortos** fizeram esta arma ceifar todos em seu caminho. Aumenta o **Ataque** em 18, a **Velocidade** em 3 e o **Crítico** em 1. **Alcance** de **Toque** é ampliado em 2 para **Ações de Combate**, além de **Ataques Básicos** também serem causados em todos os **Oponentes** dentro do **Alcance**.
+
+### Cetro Profano
+
+Arma Encantada de Uma Mão, Cetro.
+
+Encantamentos malignos fizeram que os ferimentos causados por essa arma nunca cicatrizem. Aumenta a **Maestria** em 12, **Domínio** em 9, **Alcance** em 6, **Precisão** em 3 e **Crítico** em 1. **Oponentes** só podem recuperar metade dos pontos de **Vida** que recuperariam originalmente, arredondado para baixo.
+
+### Item
+
+Texto.
+
+Texto.
+
+### Lâmina Circense
+
 Texto.
 
 Texto.
@@ -166,43 +184,19 @@ Texto.
 
 Texto.
 
-### Item
+### Vanguarda dos Lamentos
 
-Texto.
+Arma Encantada de Uma Mão, Escudo.
 
-Texto.
-
-### Item
-
-Texto.
-
-Texto.
-
-### Item
-
-Texto.
-
-Texto.
-
-### Item
-
-Texto.
-
-Texto.
+Quem enfrentou esse escudo amaldiçoado costuma dizer que a cada ataque uma parte de sua alma se vai. Aumenta a **Defesa** em 8 e a **Esquiva** em 2. Reduz em **1d6** o **Dano** recebido, exceto por **Efeitos**, também roubando pontos de **Vida** do **Agressor** nesse mesmo valor (se for **Alcance** de **Toque**).
 
 # Nível 5 (Mágico)
 
-### Item
+### Diário do Alpinista
 
-Texto.
+Arma Mágica de Uma Mão, Tomo.
 
-Texto.
-
-### Item
-
-Texto.
-
-Texto.
+A visão de quem sobe as montanhas é invejada, alguns até diriam que é magia. Enquanto este **Item** estiver equipado o seu **Atributo** de **Alcance** é dobrado.
 
 ### Item
 
@@ -222,7 +216,13 @@ Texto.
 
 Texto.
 
-### Item
+### Varinha Sanguinomante
+
+Texto.
+
+Texto.
+
+### Tirania Mágica
 
 Texto.
 
@@ -230,37 +230,37 @@ Texto.
 
 # Nível 6 (Rúnico)
 
-### Item
+### Arco Silvestre
 
 Texto.
 
 Texto.
 
-### Item
+### Brasão Anulador
 
 Texto.
 
 Texto.
 
-### Item
+### Gládio dos Dois Tempos
 
 Texto.
 
 Texto.
 
-### Item
+### Grimório Perturbado
 
 Texto.
 
 Texto.
 
-### Item
+### Quebra-magos
 
 Texto.
 
 Texto.
 
-### Item
+### Punhal do Eterno Aprendiz
 
 Texto.
 
@@ -268,37 +268,37 @@ Texto.
 
 # Nível 7 (Lendário)
 
-### Item
+### Primeira Carabina
 
 Texto.
 
 Texto.
 
-### Item
+### Égide do Supremo
 
 Texto.
 
 Texto.
 
-### Item
+### Evangelho do Arcebispo
 
 Texto.
 
 Texto.
 
-### Item
+### Florete da Perfeição
 
 Texto.
 
 Texto.
 
-### Item
+### Sabre de Fogo
 
 Texto.
 
 Texto.
 
-### Item
+### Sabre de Gelo
 
 Texto.
 
@@ -318,25 +318,25 @@ Texto.
 
 Texto.
 
-### Item
+### Gaiola do Colecionador
 
 Texto.
 
 Texto.
 
-### Item
+### O Machado-que-grita
 
 Texto.
 
 Texto.
 
-### Item
+### Rosa dos Quatro Ventos
 
 Texto.
 
 Texto.
 
-### Item
+### Tridente do Demônio
 
 Texto.
 
@@ -344,31 +344,31 @@ Texto.
 
 # Nível 9 (Eterno)
 
-### Item
+### Arco da Fortuna
 
 Texto.
 
 Texto.
 
-### Item
+### Assassina de Deuses
 
 Texto.
 
 Texto.
 
-### Item
+### Livro da Morte
 
 Texto.
 
 Texto.
 
-### Item
+### Livro da Vida
 
 Texto.
 
 Texto.
 
-### Item
+### Tomo do Primeiro Magus
 
 Texto.
 
