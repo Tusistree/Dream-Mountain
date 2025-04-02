@@ -30,18 +30,6 @@
 
         ↪ Ataques Básicos causam Dano Mágico adicional do Tipo Fogo igual a metade do Ataque do usuário, esse Dano adicional é em Área com raio igual ao Atributo de Alcance. Acertos Críticos convertem tanto o Dano Base como o Adicional em Dano Puro.
 
-    ↪ Tridente do Demônio
-
-        ↪ Arma Lendária Amaldiçoada de Duas Mãos, Lança.
-
-        ↪ Aumenta a Força, Agilidade e Inteligência em 6.
-
-        ↪ Causar Dano com essa Arma também aplica 6 Marcadores de Fraqueza, Cegueira e Desgaste.
-
-        ↪ Essa Arma só pode ser desequipada por Dissipação Verdadeira (Postita ou Negativa) e enquanto equipado o usuário não pode restaurar Pontos de Vida e nem ser Ressuscitado.
-
-        ↪ Habilidade: Abata a unidade alvo. Se o nível do alvo for inferior o usuário perde Pontos de Vida igual a metade dos Pontos de Vida Máxima daquele alvo. Caso o nível seja igual ou superior do usuário a quantia da perda de Pontos de Vida é igual a Vida Máxima do alvo.
-
     ↪ O Machado-que-grita
 
         ↪ Arma Rúnica Amaldiçoada de Duas Mãos, Machado.

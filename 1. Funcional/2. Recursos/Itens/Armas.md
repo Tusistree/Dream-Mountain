@@ -306,41 +306,41 @@ Um frio que não congela, mas que para tudo a sua volta. Ao invés dessa **Arma*
 
 # Nível 8 (Divino)
 
-### Item
+### Ego dos Mares Gêmeos
 
-Texto.
+Arma de duas Mãos Divina, Monstro e Espada.
 
-Texto.
+O primeiro mago de guerra um dia o nomeou de "Bolha". Aumenta o **Ataque** em 59. Enquanto com este **Item** equipado ou em seu **Inventário**, você pode controlar um **Monstro Divino**, **Voador** e **Aquático**, que pode usar qualquer **Habilidade** da classe **Mago**. Ele tem os mesmos **Atributos** **Primários** e **Secundários** que seu dono, além de ao morrer só ficar inativo até o fim da **Sessão**.
 
-### Item
+### Ego dos Mil Segredos
 
-Texto.
+Arma de duas Mãos Divina, Monstro e Cetro.
 
-Texto.
+Arma e mascote do último diretor de magia. Aumenta a **Maestria** em 59. Enquanto com este **Item** equipado ou em seu **Inventário**, você pode controlar um **Monstro Divino**, **Terrestre** e **Voador**, que pode usar qualquer **Habilidade** da classe **Mago**. Ele tem os mesmos **Atributos** **Primários** e **Secundários** que seu dono, além de ao morrer só ficar inativo até o fim da **Sessão**.
 
-### Item
+### Ego do Rei Exilado
 
-Texto.
+Arma de duas Mãos Divina, Monstro e Machado.
 
-Texto.
+Um aberração do submundo criado junto de um exilado do deserto. Aumenta todos os **Atributos Primários** em 9. Enquanto com este **Item** equipado ou em seu **Inventário**, você pode controlar um **Monstro Divino**, **Terrestre** e **Submerso**, que pode usar qualquer **Habilidade** da classe **Ladino**. Ele tem os mesmos **Atributos** **Primários** e **Secundários** que seu dono, além de ao morrer só ficar inativo até o fim da **Sessão**.
 
-### Gaiola do Colecionador
+### Ego do Verdadeiro Herdeiro
 
-Texto.
+Arma de duas Mãos Divina, Monstro e Lança.
 
-Texto.
+Texto. Aumenta todos os **Atributos** **Primários** e **Secundários** em 5. Enquanto com este **Item**, equipado ou em seu **Inventário**, você pode controlar um **Monstro Divino** e **Terrestre** que pode usar qualquer **Habilidade** da classe **Guerreiro**. Ele tem os mesmos **Atributos** **Primários** e **Secundários** que seu dono, além de ao morrer só ficar inativo até o fim da **Sessão**.
 
 ### O Machado-que-grita
 
-Texto.
+Arma Divina de Duas Mãos, Machado.
 
-Texto.
+Esta aberração costuma implorar por dor e sofrimento enquanto se anexa ao hospedeiro, assim enlouquecendo o seu portador. Enquanto equipado com esta **Arma** o usuário é permanentemente **Silenciado**. Os **Ataques** causam **Dano** adicional igual a metade da **Vida** perdida do **Oponente**. Só pode ser desequipado em fim de **Sessão** ou ao sofrer uma **Dissipação Verdadeira**, tanto **Positiva** quanto **Negativa**.
 
 ### Tridente do Demônio
 
-Texto.
+Arma Divina de Duas Mãos, Lança.
 
-Texto.
+As leis das trevas são muito simples, o demônio é quem segura seu tridente. Aumenta todos os **Atributos** **Primários** e **Secundários** em 3. Seus acertos **Críticos** finalizam o alvo se for um **NPC** ou **Monstro**, com exceção de **Chefes**.
 
 # Nível 9 (Eterno)
 
