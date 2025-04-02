@@ -1,55 +1,3 @@
-↪ Yod (Classe 5, Itens Mágicos)
-
-    ↪ Braceletes do Executor
-
-        ↪ Equipamento Mágico, Pulsos.
-
-        ↪ Acertos Críticos podem causar Acertos Críticos (Até um máximo de multiplicar em 4 o Dano e seus Efeitos, necessitando de uma segunda rolagem de Dados)
-
-        ↪ Habilidade: Enquanto este item é equipado concede 4 Pontos de Ataque. Essa habilidade pode ser ativada para alterar esse Pontos para Maestria, ou até Ataque de volta.
-
-    ↪ Braceletes do Salvador
-
-        ↪ Equipamento Mágico, Pulsos.
-
-        ↪ Aumenta a Noção e Defesa em 5.
-
-        ↪ Quando uma unidade aliada ou companheiro de equipe realizar um erro crítico, o usuário pode sacrificar metade dos Pontos de Vida atuais para transformar o erro em um acerto crítico (arredondado para baixo). Só pode ocorrer uma vez por aliado.
-
-    ↪ Diário do Alpinista
-
-        ↪ Arma Mágica, Diversos.
-
-        ↪ Habilidade: Enquanto este item é equipado o Atributo de Alcance é dobrado. Essa Habilidade pode ser ativada para alterar esse Atributo dobrado para o de Comunicação, ou até o Alcance de volta.
-
-    ↪ Manto do Rei de Basalto
-
-        ↪ Equipamento Mágico, Costas.
-
-        ↪ Aumenta 1 de Força, Agilidade e Inteligência em cada unidade aliada ou companheiro de equipe para cada duas unidades aliadas ou companheiros de equipe. Esse efeito não pode ser repetido por outro Equipamento idêntico na mesma equipe.
-
-    ↪ Pingente Élfico
-
-        ↪ Equipamento Mágico, Pescoço.
-
-        ↪ Reduz 4 de Noção de cada unidade inimiga nesse Combate. Ganha Metade desse valor como Noção.
-
-    ↪ Quebra-magos
-
-        ↪ Arma Mágica de Duas Mãos, Lança.
-
-        ↪ Aumenta a Noção em 10.
-
-        ↪ Ao invés de causar Dano com essa Arma, ele causa essa quantia de Dano nos Pontos de Mana do alvo. Toda vez que causar Dano ao ponto de diminuir a Mana para 0, também aplica 1 Marcador de Banimento.
-
-    ↪ Rosa dos Quatro Ventos
-
-        ↪ Arma Mágica, Diversos.
-
-        ↪ Aumenta a Velocidade em 10.
-
-        ↪ No início do turno o usuário pode escolher entro Norte, Sul, Leste ou Oeste, e se teletransportar para qualquer distância nessa direção. Esse efeito não consome a Ação principal ou a de Movimentação. 
-
 ↪ Tet (Classe 4, Itens Rúnicos)
 
     ↪ Arco Silvestre
@@ -71,14 +19,6 @@
         ↪ Aumenta a Vitalidade, Defesa, Noção, Velocidade e Alcance em 5.
 
         ↪ O usuário ao invés de causar Dano neste turno, ele pode aplicar aquela quantia de Dano como marcadores de Remoção. Também funciona em unidades aliadas e companheiros de equipe.
-
-    ↪ Coleira do Domador de Feras.
-
-        ↪ Arma Rúnica, Diversos.
-
-        ↪ Aumenta a Maestria e Comunicação em 6.
-
-        ↪ Habilidade: o usuário pode escolher uma unidade controlada por ele. Aquela unidade recebe Atributos igual aos do usuário.
 
     ↪ Gládio dos Dois Tempos
 
@@ -445,3 +385,13 @@
         ↪ Aumenta o Alcance em 20. 
 
         ↪ O usuário pode escolher uma escola de Magia. Enquanto o item estiver equipado ele tem conhecimento de todas as Magias daquela escola, e pode não gastar Pontos de Mana para conjurar essas Magias.
+
+//
+
+    ↪ Rosa dos Quatro Ventos
+
+        ↪ Arma Mágica, Diversos.
+
+        ↪ Aumenta a Velocidade em 10.
+
+        ↪ No início do turno o usuário pode escolher entro Norte, Sul, Leste ou Oeste, e se teletransportar para qualquer distância nessa direção. Esse efeito não consome a Ação principal ou a de Movimentação. 

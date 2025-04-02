@@ -158,7 +158,7 @@ Vários selos religiosos amarrados ao cinto. Aumenta o Domínio em 6. No início
 
 Equipamento, Pescoço.
 
-Tudo em um, esculpido a ouro. Aumenta o **Carisma**, **Crítico**, **Defesa**, **Esquiva**, **Precisão** e **Letalidade** em 1.
+Tudo em um, esculpido a ouro. Aumenta todos os **Atributos Secundários** em 1 (exceto de **Expansões**).
 
 # Nível 4 (Encantado)
 
@@ -256,41 +256,41 @@ Equipamento Mágico, Cinto.
 
 # Nível 6 (Rúnico)
 
-### Item
+### Braceletes do Executor
 
-Texto.
+Equipamento Rúnico, Pulsos.
 
-Texto.
+Magias de violência pura solidificadas em um bracelete. Seus acertos **Críticos** podem ser **Críticos** (dobrar o que já é dobrado).
 
-### Item
+### Braceletes do Salvador
 
-Texto.
+Equipamento Rúnico, Pulsos.
 
-Texto.
+Magias de solidariedade pura solidificadas em um bracelete. Seus erros **Críticos** podem errar **Criticamente**, se tornando um acerto **Crítico**.
 
-### Item
+### Bolso do Avarento
 
-Texto.
+Equipamento Rúnico, Mochila.
 
-Texto.
+Um pequeno bolso, porém com runas para comerciantes venderem seus pertences assim que os guardar. Oferece 15 espaços de **Item** no **Inventário**. Você pode vender **Itens** armazenados nesta **Mochila** para qualquer **Comerciante** que já tenha visitado.
 
-### Item
+### Coleira do Domador de Feras
 
-Texto.
+Equipamento Rúnico, Pescoço.
 
-Texto.
+O sonho de um colecionador é uma fera lendária em seu cárcere. Esse **Item** não pode ser equipado em você, **Jogadores** ou **NPCs**. Você pode usar ele do seu **Inventário**, como uma **Habilidade**, para equipar ao **Toque** em um **Monstro** de **Nível** 7 ou inferior. Enquanto equipado você controla aquele **Monstro**.
 
-### Item
+### Manto de Basalto
 
-Texto.
+Equipamento Rúnico, Costas.
 
-Texto.
+Mesmo de pedra se move como tecido, e mesmo sozinho representa toda a sua nação. Aumenta todos os **Atributos** **Primários** e **Secundários** em 1 (exceto de **Expansões**) de todos os **Aliados**. Não se acumula com outros itens de mesmo **Nome**.
 
-### Item
+### Pingente Élfico
 
-Texto.
+Equipamento Rúnico, Pescoço.
 
-Texto.
+E esse é o segredo por trás dos milagres nas florestas místicas. Suas **Habilidades** sempre custam **1d12** a menos de **Mana**.
 
 # Nível 7 (Lendário)
 

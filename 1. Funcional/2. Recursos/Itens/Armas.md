@@ -256,9 +256,9 @@ Texto.
 
 ### Quebra-magos
 
-Texto.
+Arma Rúnica de Uma Mão, Espada.
 
-Texto.
+O primeiro uso estratégico das armas rúnicas era manter sobre o controle os magos. Aumenta o **Ataque** em 18, porém todo o seu **Dano** causado por qualquer fonte é feito na **Mana** ao invés da **Vida**. Se subtrair a **Mana** para 0 ou menos o **Alvo** sobre 1 **Efeito** de **Banimento**. 
 
 ### Punhal do Eterno Aprendiz
 
@@ -318,6 +318,12 @@ Texto.
 
 Texto.
 
+### Item
+
+Texto.
+
+Texto.
+
 ### Gaiola do Colecionador
 
 Texto.
@@ -325,12 +331,6 @@ Texto.
 Texto.
 
 ### O Machado-que-grita
-
-Texto.
-
-Texto.
-
-### Rosa dos Quatro Ventos
 
 Texto.
 
@@ -374,7 +374,7 @@ Texto.
 
 Texto.
 
-### Item
+### Rosa dos Quatro Ventos
 
 Texto.
 
