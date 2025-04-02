@@ -391,6 +391,8 @@ Runa Eterna.
 
 Os seis **Infernos** a palma da mão. Pode ser consumida para conceder a 1 **Equipamento** ou **Arma** permanentemente um aumento de 30 de **Vitalidade**. O **Item** afetado, quando seu dono está **Morto** ou **Derrotado**, pode ser extraído novamente o **Selo**, assim removendo seus bônus.
 
+Pode ser combinado com os outros 3 **Selos** para fazer o ?.
+
 # Nível ?
 
 ### ?

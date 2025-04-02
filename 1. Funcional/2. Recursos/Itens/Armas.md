@@ -320,15 +320,15 @@ Arma e mascote do último diretor de magia. Aumenta a **Maestria** em 59. Enquan
 
 ### Ego do Rei Exilado
 
-Arma de duas Mãos Divina, Monstro e Machado.
+Arma de duas Mãos Divina, Monstro e Lança.
 
-Um aberração do submundo criado junto de um exilado do deserto. Aumenta todos os **Atributos Primários** em 9. Enquanto com este **Item** equipado ou em seu **Inventário**, você pode controlar um **Monstro Divino**, **Terrestre** e **Submerso**, que pode usar qualquer **Habilidade** da classe **Ladino**. Ele tem os mesmos **Atributos** **Primários** e **Secundários** que seu dono, além de ao morrer só ficar inativo até o fim da **Sessão**.
+Um aberração do submundo criado junto de um exilado do deserto. Aumenta todos os **Atributos Primários** em 9. Enquanto com este **Item** equipado ou em seu **Inventário**, você pode controlar um **Monstro Divino**, **Terrestre** e **Submerso**, que pode usar qualquer **Habilidade** da classe **Mago**. Ele tem os mesmos **Atributos** **Primários** e **Secundários** que seu dono, além de ao morrer só ficar inativo até o fim da **Sessão**.
 
 ### Ego do Verdadeiro Herdeiro
 
-Arma de duas Mãos Divina, Monstro e Lança.
+Arma de duas Mãos Divina, Longo Alcance, Monstro e Arco.
 
-Texto. Aumenta todos os **Atributos** **Primários** e **Secundários** em 5. Enquanto com este **Item**, equipado ou em seu **Inventário**, você pode controlar um **Monstro Divino** e **Terrestre** que pode usar qualquer **Habilidade** da classe **Guerreiro**. Ele tem os mesmos **Atributos** **Primários** e **Secundários** que seu dono, além de ao morrer só ficar inativo até o fim da **Sessão**.
+Texto. Aumenta todos os **Atributos** **Primários** e **Secundários** em 5. Enquanto com este **Item**, equipado ou em seu **Inventário**, você pode controlar um **Monstro Divino** e **Terrestre** que pode usar qualquer **Habilidade** da classe **Mago**. Ele tem os mesmos **Atributos** **Primários** e **Secundários** que seu dono, além de ao morrer só ficar inativo até o fim da **Sessão**.
 
 ### O Machado-que-grita
 
@@ -346,36 +346,36 @@ As leis das trevas são muito simples, o demônio é quem segura seu tridente. A
 
 ### Arco da Fortuna
 
-Texto.
+Arma Eterna de Duas Mãos, Longo Alcance, Arco.
 
-Texto.
+A frieza do **Deus das Riquezas** torna a fraqueza de deus inimigos em seu maior tesouro. Não precisa de **Munição**. **Ataques** e **Habilidades** podem ser feitos independente da distância. O  primeiro **Ataque** desta **Arma** causa **Dano** adicional equivalente ao total de suas **Moedas de Ouro** (ou equivalente em caso de conversão de outras **Moedas**). **Inimigos** derrotados por esta **Arma** viram um amontoado de **Moedas de Ouro** igual ao seu nível vezes **1d6**.
 
 ### Assassina de Deuses
 
-Texto.
+Arma Eterna de Duas Mãos, Lança.
 
-Texto.
+Os deuses deram aos escravos a única forma de os derrotar, assim os humanos sempre teriam humildade com os humilhados. Só pode ser desequipado na sua **Morte**, além desse **Item** desequipar todos os outros e não permitir equipar mais nada. **Ataques** matam instantaneamente os **Inimigos**.
 
 ### Livro da Morte
 
-Texto.
+Arma Eterna de Uma Mão, Tomo.
 
-Texto.
+Texto. Você pode escolher um **Jogador** de qualquer **Nível** ou **NPC** de **Nível** 7 ou inferior, que possua um arrependimento na terra, e o invocar. Essa **Unidade** é neutra se for um **NPC**, ou é controlada por um **Jogador** se já foi uma **Ficha** dele. Essa **Unidade** dura apenas até o fim da **Sessão**, e assim retornando para o **Item**. Caso o arrependimento da **Unidade** seja resolvida ela nunca mais poderá ser invocada através desse **Item**.
 
 ### Livro da Vida
 
-Texto.
+Arma Eterna de Uma Mão, Tomo.
 
-Texto.
+A origem da criação em apenas algumas páginas. Você pode escolher um **Monstro** de **Nível** 8 ou inferior e o invocar. Essa **Unidade** é neutra e dura apenas até o fim da **Sessão**, e assim retornando para o **Item**. Escolher um **Monstro** de mesmo **Nome** invoca sempre a mesma a **Unidade**. Essa **Unidade** pode ser domesticada com **Ações de Interpretação**. Com um certo **Nível** de confiança do **Monstro** ele pode sair permanentemente deste **Item**, para seguir seu dono sem limite de duração, e o próximo de mesmo **Nome** será uma nova **Unidade**.
 
 ### Tomo do Primeiro Magus
 
-Texto.
+Arma Eterna de Uma Mão, Tomo.
 
-Texto.
+Alguns dizem que o conhecimento deste livro custam a vida. Enquanto equipado com este **Item** você pode usar todas as **Habilidades** bem definidas. Ao desequipar este **Item** o usuário invoca uma **Raide** de **Nível** 9.
 
 ### Rosa dos Quatro Ventos
 
-Texto.
+Arma Eterna de Uma Mão, Diversos.
 
-Texto.
+Onipresença em todas as direções. No início do seu **Turno** você pode se locomover entre **Norte**, **Sul**, **Leste** e **Oeste**. Pode ser qualquer valor nessa distância, inclusive saindo do **Plano**, tanto de **Combate** quanto de **Interpretação**. É possível se locomover infinitamente para qualquer direção, incluindo saindo de **Regiões** e **Reinos**.

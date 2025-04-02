@@ -30,16 +30,6 @@
 
         ↪ Ataques Básicos causam Dano Mágico adicional do Tipo Fogo igual a metade do Ataque do usuário, esse Dano adicional é em Área com raio igual ao Atributo de Alcance. Acertos Críticos convertem tanto o Dano Base como o Adicional em Dano Puro.
 
-    ↪ O Machado-que-grita
-
-        ↪ Arma Rúnica Amaldiçoada de Duas Mãos, Machado.
-
-        ↪ Ao Equipar essa Arma Amaldiçoada é impossível desequipar, a menos que o usuário Descanse (fim de Sessão), Abata uma unidade ou sofra uma Dissipação Superior.
-
-        ↪ Enquanto equipado o usuário tem um Marcador Infinito de Silêncio (que não pode ser dissipado ou movido).
-
-        ↪ Ataques Básicos causam Dano Mágico do Tipo Sombrio igual a metade dos Pontos de Vidas faltantes do usuário.
-
 ↪ Zayin (Classe 2, Itens Divinos)
 
     ↪ Conjunto: Herança do Deus das Armas
@@ -134,28 +124,6 @@
 
 ↪ Aleph (Classe Especial, Itens dos Sonhos, Itens criados na Montanha dos Sonhos)
 
-    ↪ Arco da F ortuna
-
-        ↪ Arma Abstrata de Longo Alcance, Arco.
-
-        ↪ Essa Arma não usa Munição.
-
-        ↪ Aumenta o Ataque e a Velocidade em 20.
-
-        ↪ Alcance Base de 99 metros de distância.
-
-        ↪ Acertos Críticos contra alvos com Pontos de Vida Inferior a um quarto o abatem. Alvos finalizados dessa forma concedem em sua recopensa um adicional de Moedas de Ouro igual a soma de todos os Atributos do usuário.
-
-    ↪ Assassina de Deuses
-
-        ↪ Arma Abstrata Amaldiçoada de Duas Mãos, Lança.
-
-        ↪ Aumenta o Ataque em 99.
-
-        ↪ Só pode ser desequipado na Morte do usuário.
-
-        ↪ Perde todas as Magias e Habilidades (exceto por talentos, ou Magias e Habilidades com fonte de Itens ou Efeitos).
-
     ↪ Coroa do Herdeiro do Mundo
 
         ↪ Equipamento Abstrato Amaldiçoado, Elmo.
@@ -166,60 +134,6 @@
 
         ↪ O usuário	não pode conjurar Magias, mas também não pode sofrer Magias.
 
-    ↪ Ego dos Mares Gêmeos
-
-        ↪ Arma Abstrata, Espada.
-
-        ↪ Aumenta a Força em 20.
-
-        ↪ Cada Ponto de Força também aumenta 1 Ponto de Domínio.
-
-        ↪ Habilidade: pode invocar Bolha, uma Criatura Abstrata Aquática e Voadora. Bolha é imortal, possui Pontos de Mana infinitos e pode conjurar qualquer Magia da escola Aqua.
-
-    ↪ Ego das Mil Magias
-
-        ↪ Arma Abstrata de Duas Mãos, Cajado Lança.
-
-        ↪ Aumenta a Inteligência em 20.
-
-        ↪ Cada Ponto de Inteligência também aumenta 1 Ponto de Vitalidade.
-
-        ↪ Habilidade: pode invocar Zenith, uma Criatura Abstrata Terrestre e Voadora. Zenith é imortal e faz com que o usuário não possa sofrer Dano de Ataques Básicos ou de Magias de uma escola que o usuário tenha conjurado no turno anterior.
-
-    ↪ Ego do Rei Exilado
-
-        ↪ Equipamento Abstrato, Costas.
-
-        ↪ Aumenta a Agilidade em 20.
-
-        ↪ Cada Ponto de Agilidade também aumenta 1 Ponto de Ataque.
-
-        ↪ Habilidade: pode invocar o Vorme Real, uma Criatura Abstrata Terrestre. Vorme Real é imortal, seus Ataques Básicos podem destruir até uma Estrutura, Item ou Unidades Controladas de classe Zayin ou inferior do alvo (também causam Dano Físico igual ao Ataque do usuário).
-
-    ↪ Livro da Morte
-
-        ↪ Arma Abstrata, Diversos.
-
-        ↪ Aumenta a Maestria em 20.
-
-        ↪ Equipar esse Item sem utilizar algum Equipamento de Mãos teletransporta o usuário para o Pós-vida Infernal. Desequipar o Item retorna o usuário de volta ao Mundo Material.
-
-        ↪ Habilidade: Pode invocar dos mortos até uma unidade, NPC ou companheiro de equipe do Pós-vida. Se essa unidade não for um Jogador ela está sobre o seu controle. A invocação também pode ser de figuras históricas do mundo ou personagens de Campanhas passadas. Só uma invocação diferente pode ser feito no mesmo dia.
-
-        ↪ Ao equipar O Livro da Vida e o Livro da Morte ao mesmo tempo, o usuário pode criar um Portal para a Casa de Baixo.
-
-    ↪ Livro da Vida
-
-        ↪ Arma Abstrata, Diversos.
-
-        ↪ Aumenta a Vitalidade em 20.
-
-        ↪ Equipar esse Item sem utilizar algum Equipamento de Mãos teletransporta o usuário para o Pós-vida Celestial. Desequipar o Item retorna o usuário de volta ao Mundo Material.
-
-        ↪ Habilidade: Aplica no usuário ou em um alvo, aliado ou inimigo, 1 Marcador de Polimorfia permanente. Qualquer raça jogavel ou criatura do Bestiário pode ser escolhida para a mudança. Essa Habilidade pode ser usada novamente para remover o Marcador ou trocar a criatura polimorfada. Essa habilidade também pode ser usada enquanto o próprio usuário estiver polimorfado.
-
-        ↪ Ao equipar O Livro da Vida e o Livro da Morte ao mesmo tempo, o usuário pode criar um Portal para a Casa de Baixo.
-
     ↪ Mochila Infinita
 
         ↪ Equipamento Abstrato, Bolsa.
@@ -229,19 +143,3 @@
         ↪ Aumenta o número máximo de Itens no Inventário para Ilimitado. O mesmo ocorre para armazenar estruturas, unidades e até companheiros de equipe.
 
         ↪ Para armazenar companheiros de equipe é necessário o consentimento do mesmo e que ele não tenha nenhum Marcador Inutilizante com exceção de Desgaste (Sono, Atordoamento ou Banimento). Esse efeito consome a Ação Principal do usuário. Companheiros de equipe podem sair do armazenamento a qualquer momento durante o turno do usuário.
-
-    ↪ Tomo do Primeiro Magus
-
-        ↪ Arma Abstrata, Diversos.
-
-        ↪ Aumenta o Alcance em 20. 
-
-        ↪ O usuário pode escolher uma escola de Magia. Enquanto o item estiver equipado ele tem conhecimento de todas as Magias daquela escola, e pode não gastar Pontos de Mana para conjurar essas Magias.
-
-    ↪ Rosa dos Quatro Ventos
-
-        ↪ Arma Mágica, Diversos.
-
-        ↪ Aumenta a Velocidade em 10.
-
-        ↪ No início do turno o usuário pode escolher entro Norte, Sul, Leste ou Oeste, e se teletransportar para qualquer distância nessa direção. Esse efeito não consome a Ação principal ou a de Movimentação. 
