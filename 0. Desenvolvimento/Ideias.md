@@ -1,1 +1,1 @@
-Invisível verdadeiro, voltar no tempo, controlar o clima, anulador.
+Invisível verdadeiro, voltar no tempo, anulador.

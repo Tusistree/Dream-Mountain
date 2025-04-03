@@ -332,6 +332,12 @@ A preguiça de um ferreiro foi capaz de criar algo maleável para não precisar 
 
 # Nível 8 (Divino)
 
+### Aliança da Bravura
+
+Equipamento Divino, Dedos.
+
+Na ausência do grande sol os deuses precisaram criar uma nova alternativa. Aumenta a **Precisão** em 9 durante o **Dia** e a **Esquiva** em 9 durante a **Noite**. Pode trocar de **Dia** para **Noite** ou o contrário, ambos como uma **Habilidade**. As horas são sempre aceleradas em 12.
+
 ### Caixa de Armamentos
 
 Equipamento Divino, Mochila.
@@ -348,7 +354,7 @@ O mais próximo que os alquimistas chegaram do deus de todo o ouro deste mundo. 
 
 Equipamento Divino, Elmo.
 
-Texto.
+Todos serão um. Aumenta todos os **Atributos Primários** em 1 para cada **Aliado** equipado com esse mesmo **Item**. Enquanto equipado, se o **Item** for o original esse **Equipamento** irá aparecer como cópia no **Inventário** de todos os seus **Aliados** em um espaço adicional. 
 
 ### Ombreira do Deus dos Duelos
 
@@ -356,17 +362,11 @@ Equipamento Divino, Ombros.
 
 Texto. Aumenta o **Ataque** e a **Maestria** em 9, além da **Letalidade** em 6. Você pode ir a outra dimensão junto com um **Oponente** como uma **Habilidade**. Ninguém externo pode interferir, e apenas o vitorioso pode retornar. Dentro da dimensão você tem aumentado permanentemente todos os **Atributos Primários** em 1 a cada início de seu turno, mas duram até o fim do duelo. Se você sair vitorioso recupere todos os pontos de **Vida** e **Mana**.
 
-### Item
+### Manopla Flutuante
 
-Texto.
+Equipamento Divino, Mãos.
 
-Texto.
-
-### Item
-
-Texto.
-
-Texto.
+Divindades conseguem controlar diversas delas, mas para mortais apenas uma. 1 desse **Item** pode ser equipado sem consumir o espaço de **Mãos**. Você possui uma **Mão** adicional e pode equipar **Armas** nela.
 
 # Nível 9 (Eterno)
 
