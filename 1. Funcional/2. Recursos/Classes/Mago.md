@@ -2,11 +2,13 @@ Texto.
 
 # Nível Inicial (Novato)
 
-### Principal: Talento
+### Principal: Instabilidade
 
 Talento Principal.
 
-Texto.
+O controle de diversos elementos da natureza sobrecarregam a sua **Mana**, tornando as magias mais poderosas assim como instáveis. Ao uma **Habilidade** você anota o seu **Elemento** e aumenta a sua **Maestria** em um valor igual ao seu **Nível** até o fim do **Combate** ou **Sessão Menor**. O custo de **Mana** também é aumentado no mesmo valor.
+
+Quando anotar novamente o mesmo **Elemento** todas as anotações são limpas, além de sua **Maestria** e **Custo** adicional por este **Talento** ser perdido. 
 
 ### Habilidade
 
