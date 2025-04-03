@@ -35,19 +35,19 @@ Texto.
 
 ### Hiperfoco
 
-Talento, Recuperação.
+Talento Mágico, Recuperação.
 
 Sua concentração é incrível quando o assunto é magia. Todo fim de seu **Turno** você recupera 1 ponto de **Mana**.
 
 ### Reforço Positivo
 
-Talento, Ofensivo e Recuperação.
+Talento Mágico, Ofensivo e Recuperação.
 
 Um feitiço bem executado sempre refresca a mente. Quando seus pontos de **Mana** estiverem abaixo da metade você tem um **Aumento** de 1 no **Crítico**. Acertos **Críticos** restauram 2 pontos de **Mana**.
 
 ### Seta de Fogo
 
-Magia de Fogo, Ofensivo, Individual.
+Magia de Fogo, Ofensivo, Projétil.
 
 **Precisão Normal** e **Custa** 3 pontos de **Mana**.
 
@@ -55,17 +55,19 @@ Chamas se concentram na palma da sua mão se tornando uma flecha pronta para ati
 
 # Nível 1 (Regular)
 
-### Habilidade
+### Isqueiro Vivo
 
-Texto.
+Magia de Fogo, Utilidade, Individual.
 
-Texto.
+**Precisão Garantida** e **Custa** 2 pontos de **Mana**.
 
-### Habilidade
+Ninguém sabe ao certo se é um golem ou uma vida, mas ele sempre quer ajudar seu dono. Cria uma pequena **Unidade** que é uma chama de luz viva, iluminando 3 metros ao seu redor. Só pode ter uma vez invocada e ela sempre te segue sem ocupar espaço no campo. Essa **Unidade** dura até o fim o **Plano** e aumenta a sua **Precisão** em 1, além de **Ações de Interpretação** sua envolvendo **Percepção** serem também aumentados em 1.
 
-Texto.
+### Pavio Curto
 
-Texto.
+Talento Mágico de Fogo, Ofensivo.
+
+Texto. Para **Magias de Fogo** a **Letalidade** e **Maestria** são aumentadas em 1, além dos **Custos** de **Mana** também serem reduzidos em 1. 
 
 ### Habilidade
 
@@ -93,11 +95,13 @@ Texto.
 
 # Nível 2 (Entusiasta)
 
-### Habilidade
+### Sopro Incendiário
 
-Texto.
+Magia de Fogo, Ofensivo, Cone.
 
-Texto.
+**Precisão Normal** e **Custa** 6 pontos de **Mana**.
+
+É uma imitação quase perfeita de um bafo de dragão. Em uma área cônica, que não pode passar de metade do seu **Atributo** de **Alcance**, você assopra fogo causando **1d6** de **Dano**, e metade do valor do **Dado** como **Efeitos** de **Sangramento**, arredondado para cima.
 
 ### Habilidade
 
@@ -131,17 +135,19 @@ Texto.
 
 # Nível 3 (Especialista)
 
-### Habilidade
+### Criar Fogueira
 
-Texto.
+Magia de Fogo Interpretativa, Utilidade.
 
-Texto.
+**Precisão Garantida** e **Custa** 4 pontos de **Mana**.
 
-### Habilidade
+Um circulo é formado a sua frente com chamas que não se apagam, e por algum motivo é aconchegante. Cria uma fogueira em uma **Zona** onde todos os **Inimigos** principais já foram derrotados, aquela se torna uma **Zona Segura**, assim os **Jogadores** podem descansar como se fosse fim e começo de **Sessão**.
 
-Texto.
+### Faíscas
 
-Texto.
+Talento Mágico de Fogo, Ofensivo.
+
+Seu poder de fogo é tão instável que as vezes escapam algumas faíscas mesmo que esteja conjurando um outro elemento. Sempre que você usar uma **Magia**, não importando qual **Elemento**, um **Projétil** de **Fogo** sempre será disparado de você contra um **Oponente** aleatória e causando 1 ponto de **Dano**. Esse **Projétil** ignora completamente a **Defesa** e não se importa com a distância.
 
 ### Habilidade
 
@@ -169,11 +175,13 @@ Texto.
 
 # Nível 4 (Veterano)
 
-### Habilidade
+### Conflagrar
 
-Texto.
+Magia de Fogo, Ofensivo, Linha.
 
-Texto.
+**Precisão Normal** e **Custa** 6 pontos de **Mana**.
+
+Com um gesto simples de mão todos os inimigos em uma direção são incinerados. Escolhe uma direção e, em uma linha reta com distância igual ao seu **Alcance** e largura de 3, causa **1d12** de **Dano** em todos os **Oponentes** dentro da área. O dano é causado com **Letalidade** adicional igual o número de **Oponentes** afetados.
 
 ### Habilidade
 

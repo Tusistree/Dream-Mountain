@@ -2,10 +2,6 @@
 
 	nivel 0
 
-		↪ Isqueiro
-
-			↪ Pode iluminar o lugar com um pequeno fogo em seus dedos
-
 		↪ Criar Fogueira
 
 			↪ Conjura uma fogueira aconchegante permitindo o sono em lugares exóticos
@@ -135,11 +131,7 @@
 		↪ Sem Frio
 
 			↪ Dano reduzido de agua e gelo
-
-		↪ Pávio Curto
-
-			↪ efeitos debilitantes são reduzidos
-
+			
 		↪ Presença Infernal
 
 			↪ Causa dano por segundo a unidades proximas, pode ser ligado ou desligado
