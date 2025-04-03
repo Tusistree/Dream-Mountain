@@ -1,4 +1,4 @@
-Texto.
+Magos são os seres que despertaram a **Mana** para poderes **Mágicos**.
 
 # Nível Inicial (Novato)
 
