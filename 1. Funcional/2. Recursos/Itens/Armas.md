@@ -24,7 +24,7 @@ Uma arma que suas feridas contam sua história. Aumenta o **Ataque** em 9, mas p
 
 Arma de Duas Mãos, Longo Alcance, Diverso.
 
-Uma ferramenta que treina futuros atiradores. Consome **Munição** para realizar seus **Ataques** em até 6 metros distância, porém com a metade do **Dano**.
+Uma ferramenta que treina futuros atiradores. Consome **Munição** para realizar seus **Ataques** a distância, porém com a metade do **Dano**.
 
 ### Grimório Rasgado
 
@@ -50,7 +50,7 @@ Muito comum entre os gatunos ao emboscar. Aumenta o **Ataque** em 4 e a **Veloci
 
 Arma de Duas Mãos, Longo Alcance, Arco.
 
-Um arco simples para caça. Aumenta **Ataque**, **Alcance** e **Velocidade** em 1. Consome **Munição** para realizar seus **Ataques** em até 9 metros de distância.
+Um arco simples para caça. Aumenta **Ataque**, **Alcance** e **Velocidade** em 2. Consome **Munição** para realizar seus **Ataques** a distância.
 
 ### Escudo de Cobre
 
@@ -82,7 +82,7 @@ As vezes é afiado e as vezes não. Aumenta o **Ataque** em 15, mas perde 1 de *
 
 Arma de Duas Mãos, Longo Alcance, Arco.
 
-Sua estrutura extensa e acabamentos no alongamento permitem disparos a grandes distâncias. Aumenta **Ataque**, **Alcance** e **Velocidade** em 3. Consome **Munição** para realizar seus **Ataques** em até 15 metros de distância. Ganha 2 **Efeitos** de **Aumento** de **Alcance** para cada acerto.
+Sua estrutura extensa e acabamentos no alongamento permitem disparos a grandes distâncias. Aumenta **Ataque**, **Alcance** e **Velocidade** em 3. Consome **Munição** para realizar seus **Ataques** a distância. Ganha 2 **Efeitos** de **Aumento** de **Alcance** para cada acerto.
 
 ### Cetro do Incendiário
 
@@ -126,7 +126,7 @@ Mesmo encontrado no fundo do mar, está arma ainda pulsa um poder nobre. Aumenta
 
 Arma de Duas Mãos, Longo Alcance, Arco e Diversos.
 
-É lento, mas sempre acerta em cheio o seu alvo. Aumenta **Ataque**, **Alcance** em 6, porém reduz a **Velocidade** em 3. Consome **Munição** para realizar seus **Ataques** em até 30 metros de distância. Sempre que acerta realiza **Críticos**, mas também te aplica 2 **Efeitos** de **Desarme**.
+É lento, mas sempre acerta em cheio o seu alvo. Aumenta **Ataque**, **Alcance** em 6, porém reduz a **Velocidade** em 3. Consome **Munição** para realizar seus **Ataques** a distância. Sempre que acerta realiza **Críticos**, mas também te aplica 2 **Efeitos** de **Desarme**.
 
 ### Chicote do Aventureiro
 
@@ -234,7 +234,7 @@ A arte de repelir feitiços em um escudo. Aumenta a **Defesa** em 9 e a **Esquiv
 
 Arma Rúnica de Duas Mãos, Longo Alcance, Arco.
 
-O melhor jeito de caçar uma fera é tendo uma. Aumenta o **Ataque**, **Alcance** em 12. Consome **Munição** para realizar seus **Ataques** em até 45 metros de distância. Sempre que derrotar um **Monstro** você pode o anotar. Acertos **Críticos** invocam uma cópia do **Monstro** na frente do **Oponente** atingido, e o turno da **Unidade** é logo após o seu.
+O melhor jeito de caçar uma fera é tendo uma. Aumenta o **Ataque** e o **Alcance** em 12. Consome **Munição** para realizar seus **Ataques** a distância. Sempre que derrotar um **Monstro** você pode o anotar. Acertos **Críticos** invocam uma cópia do **Monstro** na frente do **Oponente** atingido, e o turno da **Unidade** é logo após o seu.
 
 ### Brasão Anulador
 
@@ -272,7 +272,7 @@ Esse punhal foi feito por um mestre a fim de ensinar seus alunos através da rep
 
 Arma Lendária de Duas Mãos, Longo Alcance, Diversos.
 
-Esse milagre da engenharia é uma lenda viva. Essa **Arma** pode consumir **Munição** de **Arco**. Aumenta o **Ataque**, **Alcance** em 15. Consome **Munição** para realizar seus **Ataques** em até 50 metros de distância. Pode realizar um **Ataque Básico** adicional por **Turno**.
+Esse milagre da engenharia é uma lenda viva. Essa **Arma** pode consumir **Munição** de **Arco**. Aumenta o **Ataque** e o **Alcance** em 15. Consome **Munição** para realizar seus **Ataques** a distância. Pode realizar um **Ataque Básico** adicional por **Turno**.
 
 ### Égide do Supremo
 
@@ -328,7 +328,7 @@ Um aberração do submundo criado junto de um exilado do deserto. Aumenta todos 
 
 Arma de duas Mãos Divina, Longo Alcance, Monstro e Arco.
 
-Texto. Aumenta todos os **Atributos** **Primários** e **Secundários** em 5. Enquanto com este **Item**, equipado ou em seu **Inventário**, você pode controlar um **Monstro Divino** e **Terrestre** que pode usar qualquer **Habilidade** da classe **Mago**. Ele tem os mesmos **Atributos** **Primários** e **Secundários** que seu dono, além de ao morrer só ficar inativo até o fim da **Sessão**.
+O verdadeiro rei do mundo em uma arma. Aumenta todos os **Atributos** **Primários** e **Secundários** em 4, e pode realizar **Ataques** a distância. Enquanto com este **Item**, equipado ou em seu **Inventário**, você pode controlar um **Monstro Divino** e **Terrestre** que pode usar qualquer **Habilidade** da classe **Mago**. Ele tem os mesmos **Atributos** **Primários** e **Secundários** que seu dono, além de ao morrer só ficar inativo até o fim da **Sessão**.
 
 ### O Machado-que-grita
 
