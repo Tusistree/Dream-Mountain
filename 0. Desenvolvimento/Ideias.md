@@ -1,0 +1,1 @@
+Polimorfia, invisível, duplicação, voltar no tempo, banimento, controlar o clima, anulador.

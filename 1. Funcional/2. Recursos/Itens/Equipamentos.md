@@ -336,7 +336,7 @@ Texto.
 
 Equipamento Divino, Mochila.
 
-Texto. Oferece 21 espaços de **Item** no **Inventário**. Você pode armazenar **Armas** e **Equipamentos** sem ocupar os espaços, assim sendo infinito.
+O ferreiro louco criou uma forma de poder armazenar suas obras primas. Oferece 18 espaços de **Item** no **Inventário**. Você pode armazenar **Armas** e **Equipamentos** sem ocupar os espaços, assim sendo infinito.
 
 ### Colete Alquímico
 
@@ -344,11 +344,11 @@ Equipamento Divino, Torso.
 
 O mais próximo que os alquimistas chegaram do deus de todo o ouro deste mundo. Toda vez que sofrer **Dano**, que não seja de **Efeitos**, um terço é absorvido e convertido para **Moedas de Ouro**, arredondado para cima.
 
-### Item
+### Ombreira do Deus dos Duelos
 
-Texto.
+Equipamento Divino, Ombros.
 
-Texto.
+Texto. Aumenta o **Ataque** e a **Maestria** em 9, além da **Letalidade** em 6. Você pode ir a outra dimensão junto com um **Oponente** como uma **Habilidade**. Ninguém externo pode interferir, e apenas o vitorioso pode retornar. Dentro da dimensão você tem aumentado permanentemente todos os **Atributos Primários** em 1 a cada início de seu turno, mas duram até o fim do duelo. Se você sair vitorioso recupere todos os pontos de **Vida** e **Mana**.
 
 ### Item
 
@@ -384,9 +384,9 @@ A manopla se ajuste perfeitamente a mão, assim dando o poder levantar qualquer 
 
 ### Mochila Infinita
 
-Texto.
+Equipamento Eterno, Mochila.
 
-Texto.
+Texto. Você não pode sofrer **Banimento** ou **Polimorfia**. Oferece infinitos espaços de **Item** no **Inventário**, podendo armazenar tanto **Itens** quanto **Monstros**, **NPCs**, **Estruturas** e **Jogadores**. **Jogadores** armazenados podem sair no momento que quiserem ou quando você quiser.
 
 ### Item
 
