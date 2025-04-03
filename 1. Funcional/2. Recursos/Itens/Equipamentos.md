@@ -312,11 +312,11 @@ Equipamento Lendário, Mãos.
 
 O dragão vivo nesse manopla estende suas juntas mágicas para sempre alcançar seus alvos. Aumenta o **Ataque** e a **Velocidade** em 9. **Alcance** de **Toque** é aumentado em 3. Concede um **Ataque Básico** adicional por **Turno** e os **Ataques** adicionais causam o mesmo **Dano** em um **Alvo** adicional.
 
-### Item
+### Pingente do Outro Mundo
 
-Texto.
+Equipamento Lendário, Pescoço.
 
-Texto.
+Esse colar costuma fazer seu portador viajar entre os dois mundos. Você pode receber o 1 **Efeito** de **Banimento**, usando como uma **Habilidade** e fora do seu **Turno**, com um máximo de usos de 5 vezes por **Combate**.
 
 ### Item
 
