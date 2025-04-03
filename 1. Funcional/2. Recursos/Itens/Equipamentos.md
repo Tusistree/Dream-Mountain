@@ -318,17 +318,17 @@ Equipamento Lendário, Pescoço.
 
 Esse colar costuma fazer seu portador viajar entre os dois mundos. Você pode receber o 1 **Efeito** de **Banimento**, usando como uma **Habilidade** e fora do seu **Turno**, com um máximo de usos de 5 vezes por **Combate**.
 
-### Item
+### Luva do Transmutador
 
-Texto.
+Equipamento Lendário, Mãos.
 
-Texto.
+O toque dos dedos dessa luva costumam enfeitiçar seus inimigos transformando-os em criaturas asquerosas. Aumenta o **Domínio** e **Maestria** em 9. A primeira vez que um **Oponente** sofrer **Dano** seu ele recebe 1 **Efeito** de **Polimorfia**, virando um **Monstro** aleatória de **Nível** 6.
 
-### Item
+### Massa Mímica
 
-Texto.
+Equipamento Lendário, Diversos.
 
-Texto.
+A preguiça de um ferreiro foi capaz de criar algo maleável para não precisar se esforçar. No início de toda toda sessão esse **Item** pode se transformar em qualquer **Equipamento** de **Nível** 6 ou inferior, também ganhando esse **Talento**.
 
 # Nível 8 (Divino)
 
@@ -344,17 +344,17 @@ Equipamento Divino, Torso.
 
 O mais próximo que os alquimistas chegaram do deus de todo o ouro deste mundo. Toda vez que sofrer **Dano**, que não seja de **Efeitos**, um terço é absorvido e convertido para **Moedas de Ouro**, arredondado para cima.
 
+### Máscara do Coletivo
+
+Equipamento Divino, Elmo.
+
+Texto.
+
 ### Ombreira do Deus dos Duelos
 
 Equipamento Divino, Ombros.
 
 Texto. Aumenta o **Ataque** e a **Maestria** em 9, além da **Letalidade** em 6. Você pode ir a outra dimensão junto com um **Oponente** como uma **Habilidade**. Ninguém externo pode interferir, e apenas o vitorioso pode retornar. Dentro da dimensão você tem aumentado permanentemente todos os **Atributos Primários** em 1 a cada início de seu turno, mas duram até o fim do duelo. Se você sair vitorioso recupere todos os pontos de **Vida** e **Mana**.
-
-### Item
-
-Texto.
-
-Texto.
 
 ### Item
 

@@ -1,1 +1,1 @@
-Polimorfia, invisível verdadeiro, duplicação, voltar no tempo, banimento, controlar o clima, anulador.
+Invisível verdadeiro, voltar no tempo, controlar o clima, anulador.
