@@ -6,6 +6,7 @@
       {
         "id": "e8b37b1ced5ce48f",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "fe8ee24e662122a9",
@@ -41,6 +42,7 @@
       {
         "id": "061f4f8f7a12a48b",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "709cf1e43476b27c",
@@ -241,12 +243,12 @@
   },
   "active": "1038307b5d261984",
   "lastOpenFiles": [
+    "1. Funcional/1. Sistema/Mecânicas/Habilidades.md",
+    "1. Funcional/2. Recursos/Classes/Mago.md",
     "0. Desenvolvimento/2. Material Mais Antigo/dev/~WRL0830.tmp",
     "0. Desenvolvimento/2. Material Mais Antigo/dev/~WRD0826.tmp",
     "0. Desenvolvimento/2. Material Mais Antigo/dev/~WRD0818.tmp",
     "1. Funcional/0. Guia/1. Introdução.md",
-    "1. Funcional/2. Recursos/Classes/Mago.md",
-    "1. Funcional/1. Sistema/Mecânicas/Habilidades.md",
     "1. Funcional/1. Sistema/Mecânicas/Interpretação.md",
     "1. Funcional/1. Sistema/Mecânicas/Efeitos.md",
     "1. Funcional/2. Recursos/Unidades/Raças Jogáveis/Primordiais/Humanos.md",
@@ -265,7 +267,6 @@
     "1. Funcional/2. Recursos/Itens/Equipamentos.md",
     "1. Funcional/2. Recursos/Itens/Armas.md",
     "1. Funcional/1. Sistema/Mecânicas/Atributos.md",
-    "0. Desenvolvimento/2. Material Mais Antigo/dev/~WRL0002.tmp",
     "0. Desenvolvimento/1. Material Antigo/Recursos/Classes/Elemental.md",
     "1. Funcional/2. Recursos/Classes/Guerreiro.md",
     "0. Desenvolvimento/Ideias.md",

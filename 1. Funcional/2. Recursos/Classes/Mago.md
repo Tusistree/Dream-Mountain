@@ -227,7 +227,7 @@ Magia de Fogo, Mobilidade e Ofensivo, Individual.
 
 **Precisão Normal** e **Custa** 8 pontos de **Mana**.
 
-Texto. Executa uma **Ação de Movimento** adicional, porém com a **Velocidade** somada ao **Alcance**. No trajetória, todos os **Oponente** que você passar sofrem **1d10** de **Dano**, ganhando 1 **Efeito** de **Aumento** de **Velocidade** por **Oponente** atingido.
+Em um piscar de olhos você se teletransporta para um novo local, deixando um rastro de destruição onde passou. Executa uma **Ação de Movimento** adicional, porém com a **Velocidade** somada ao **Alcance**. No trajetória, todos os **Oponente** que você passar sofrem **1d10** de **Dano**, ganhando 1 **Efeito** de **Aumento** de **Velocidade** por **Oponente** atingido.
 
 ### Habilidade
 
@@ -257,9 +257,11 @@ Texto.
 
 ### Bombardeio
 
-Texto.
+Magia de Fogo, Mobilidade e Ofensivo, Projétil.
 
-Texto.
+**Precisão Normal** e **Custa** 12 pontos de **Mana**.
+
+Em um frenesi violento você dispara um sequência incansável de disparos incendiários. Você joga conjura **1d6** **Setas de Fogo** em um **Oponente** sem gastar seus **Custos**. **Crítico** multiplica o número de **Magias** e não o **Dano**.
 
 ### Habilidade
 
@@ -301,9 +303,11 @@ Em alguns momentos você consegue usar o fogo da sua forma mais concentrada. Nos
 
 ### Vórtice Ardente
 
-Texto.
+Magia de Fogo, Local, Ofensivo.
 
-Texto.
+**Precisão Normal** e **Custa** 10 pontos de **Mana**.
+
+Um furacão de labaredas que explode e se mantém incendiando tudo que toca. Escolhe um **Local** quadrado, em qualquer lugar do campo de batalha mas com medidas igual o seu **Alcance**, onde causa **1d8** de **Dano** imediatamente. Você pode manter aquele local incendiado gastando 3 pontos de **Mana** no começo de cada **Turno** seu, assim causando **1d4** de **Dano** em quem estiver em cima.
 
 ### Habilidade
 
@@ -331,29 +335,37 @@ Texto.
 
 # Nível 8 (Rei)
 
+### Familiar de Água
+
+Magia de Água, Individual, Invocação.
+
+**Precisão Difícil** e **Custa** 15 pontos de **Mana**.
+
+A representação mais próxima de **Aqua**. Invoca uma **Unidade** de água em forma de uma grande serpente. Ela possui uma ficha própria como um **Jogador**, com 30 pontos de **Atributo Primário** para distribuir, além de estar sobre seu controle e poder usar todas **Magias de Água** que você tem, também tendo os **Talentos Mágicos de Água** que você tem. Dura até o fim da **Sessão** ou quando você conseguir invocar outro **Familiar** de **Mago**.
+
 ### Familiar de Fogo
 
-Texto.
+Magia de Fogo, Individual, Invocação.
 
-Texto.
+**Precisão Difícil** e **Custa** 15 pontos de **Mana**.
 
-### Habilidade
+A representação mais próxima de **Ignis**. Invoca uma **Unidade** de fogo em forma de um grande dragão. Ela possui uma ficha própria como um **Jogador**, com 30 pontos de **Atributo Primário** para distribuir, além de estar sobre seu controle e poder usar todas **Magias de Fogo** que você tem, também tendo os **Talentos Mágicos de Fogo** que você tem. Dura até o fim da **Sessão** ou quando você conseguir invocar outro **Familiar** de **Mago**.
 
-Texto.
+### Familiar de Terra
 
-Texto.
+Magia de Terra, Individual, Invocação.
 
-### Habilidade
+**Precisão Difícil** e **Custa** 15 pontos de **Mana**.
 
-Texto.
+A representação mais próxima de **Gaia**. Invoca uma **Unidade** de terra em forma de uma grande tartaruga. Ela possui uma ficha própria como um **Jogador**, com 30 pontos de **Atributo Primário** para distribuir, além de estar sobre seu controle e poder usar todas **Magias de Terra** que você tem, também tendo os **Talentos Mágicos de Terra** que você tem. Dura até o fim da **Sessão** ou quando você conseguir invocar outro **Familiar** de **Mago**.
 
-Texto.
+### Familiar de Vento
 
-### Habilidade
+Magia de Vento, Individual, Invocação.
 
-Texto.
+**Precisão Difícil** e **Custa** 15 pontos de **Mana**.
 
-Texto.
+A representação mais próxima de **Ventus**. Invoca uma **Unidade** de vento em forma um grande humanoide. Ela possui uma ficha própria como um **Jogador**, com 30 pontos de **Atributo Primário** para distribuir, além de estar sobre seu controle e poder usar todas **Magias de Vento** que você tem, também tendo os **Talentos Mágicos de Vento** que você tem. Dura até o fim da **Sessão** ou quando você conseguir invocar outro **Familiar** de **Mago**.
 
 ### Habilidade
 
@@ -371,9 +383,11 @@ Texto.
 
 ### Ignição Espontânea
 
-Texto.
+Magia de Fogo, Individual, Ofensivo.
 
-Texto.
+**Precisão Garantida** e **Custa** 10 pontos de **Mana**.
+
+Para lendas do fogo um estalar de dedos basta. Essa **Magia** só pode ser usada contra **Oponentes** com pontos de **Vida** inferior ao dobro do seu **Atributo** de **Maestria**. O **Oponente** é executado.
 
 ### Habilidade
 
