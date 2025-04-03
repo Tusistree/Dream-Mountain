@@ -1,4 +1,9 @@
-Magos são os seres que despertaram a **Mana** para poderes **Mágicos**.
+**Magos** são os seres que despertaram a **Mana** para poderes que moldam a realidade. Eles usam de poderes dos 4 **Elementos Primordiais** para poder entender as leis da natureza que regem o mundo e seus habitantes.
+
+Eles podem usar **Habilidades** para eliminar vários alvos simultâneos, controlar situações e ajudar aliados, além de serem muito úteis para situações diversas. Suas funções podem ser:
+
+* Causar **Dano**, acompanhado de controle com diversos **Efeitos**.
+* Recuperar **Recursos**, podendo se especializar como suporte para seus aliados.
 
 # Nível Inicial (Novato)
 
@@ -8,7 +13,7 @@ Talento Principal.
 
 O controle de diversos elementos da natureza sobrecarregam a sua **Mana**, tornando as magias mais poderosas assim como instáveis. Ao uma **Habilidade** você anota o seu **Elemento** e aumenta a sua **Maestria** em um valor igual ao seu **Nível** até o fim do **Combate** ou **Sessão Menor**. O custo de **Mana** também é aumentado no mesmo valor.
 
-Quando anotar novamente o mesmo **Elemento** todas as anotações são limpas, além de sua **Maestria** e **Custo** adicional por este **Talento** ser perdido. 
+Quando anotar novamente o mesmo **Elemento** todas as anotações são limpas, além de sua **Maestria** e **Custo** adicional por este **Talento** ser perdido.
 
 ### Habilidade
 
@@ -28,23 +33,25 @@ Texto.
 
 Texto.
 
-### Habilidade
+### Hiperfoco
 
-Texto.
+Talento, Recuperação.
 
-Texto.
+Sua concentração é incrível quando o assunto é magia. Todo fim de seu **Turno** você recupera 1 ponto de **Mana**.
 
-### Habilidade
+### Reforço Positivo
 
-Texto.
+Talento, Ofensivo e Recuperação.
 
-Texto.
+Um feitiço bem executado sempre refresca a mente. Quando seus pontos de **Mana** estiverem abaixo da metade você tem um **Aumento** de 1 no **Crítico**. Acertos **Críticos** restauram 2 pontos de **Mana**.
 
-### Habilidade
+### Seta de Fogo
 
-Texto.
+Magia de Fogo, Ofensivo, Individual.
 
-Texto.
+**Precisão Normal** e **Custa** 3 pontos de **Mana**.
+
+Chamas se concentram na palma da sua mão se tornando uma flecha pronta para atingir seu alvo. Dispara um **Projétil** contra um **Inimigo** causando **1d4** de **Dano**.
 
 # Nível 1 (Regular)
 
