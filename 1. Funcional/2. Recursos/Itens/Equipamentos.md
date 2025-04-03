@@ -370,38 +370,38 @@ Divindades conseguem controlar diversas delas, mas para mortais apenas uma. 1 de
 
 # Nível 9 (Eterno)
 
+### Ampulheta Real
+
+Equipamento Eterno, Pescoço.
+
+O controle total do tempo na palma da mão. Como uma **Habilidade** você pode reverter um **Turno** inteiro de um **Oponente**, mas só pode ser feito nos **Turnos** ímpares dele.
+
 ### Coroa do Herdeiro do Mundo
 
 Equipamento Eterno, Elmo.
 
-Texto. Você não pode usar **Habilidades** mas também não pode sofrer **Habilidades**. Todos os **NPCs** e **Monstros** do mundo, sendo de **Nível** 4 ou inferior, estão sob seu controle.
+Criada para governar todos os mortais. Você não pode usar **Habilidades** mas também não pode sofrer **Habilidades**. Todos os **NPCs** e **Monstros** do mundo, sendo de **Nível** 4 ou inferior, estão sob seu controle.
 
 ### Manoplas Titânicas
 
 Equipamento Eterno, Mãos.
 
-A manopla se ajuste perfeitamente a mão, assim dando o poder levantar qualquer coisa. Você pode equipar uma **Arma de Duas Mãos** em cada **Mão**.
+A manopla se ajuste perfeitamente a mão, assim dando o poder levantar qualquer coisa. Você pode equipar uma **Arma de Duas Mãos** em cada **Mão**, além de realizar 3 **Ataques Básicos** adicionais por **Turno**.
 
 ### Mochila Infinita
 
 Equipamento Eterno, Mochila.
 
-Texto. Você não pode sofrer **Banimento** ou **Polimorfia**. Oferece infinitos espaços de **Item** no **Inventário**, podendo armazenar tanto **Itens** quanto **Monstros**, **NPCs**, **Estruturas** e **Jogadores**. **Jogadores** armazenados podem sair no momento que quiserem ou quando você quiser.
+Um universo inteiro pode ser guardado nessa pequena mochila. Você não pode sofrer **Banimento** ou **Polimorfia**. Oferece infinitos espaços de **Item** no **Inventário**, podendo armazenar tanto **Itens** quanto **Monstros**, **NPCs**, **Estruturas** e **Jogadores**. **Jogadores** armazenados podem sair no momento que quiserem ou quando você quiser.
 
-### Item
+### Manto das Sombras
 
-Texto.
+Equipamento Eterno, Costas.
 
-Texto.
+Uma invisibilidade tão forte que completamente apaga a existência. Aumenta a **Esquiva** em 9. Sua localização não é revelada para **Oponentes**. Você não pode ser **Alvo** de **Ataques** ou **Habilidades** com as seguintes **Áreas de Efeito**: **Toque**, **Projétil** e **Individual**.
 
-### Item
+### Inutilizador
 
-Texto.
+Equipamento Eterno, Pescoço.
 
-Texto.
-
-### Item
-
-Texto.
-
-Texto.
+O motivo é tão cruel quanto seu desejo. Esse **Equipamento** pode ser usado do seu **Inventário** como uma **Habilidade** para equipar em um **Oponente**, independente da distância. A **Unidade** equipada é permanentemente **Atordoada** e sofre uma **Dissipação Verdadeira**, apenas em **Efeitos Positivos**, em todo seu fim de **Turno**.

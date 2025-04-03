@@ -1,1 +1,0 @@
-Invisível verdadeiro, voltar no tempo, anulador.

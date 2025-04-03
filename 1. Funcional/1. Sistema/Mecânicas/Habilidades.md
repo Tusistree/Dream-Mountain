@@ -34,6 +34,7 @@ As **Habilidades** sempre possuem algumas características que influencia em sua
 
 * **Toque**: também conhecido como **Alcance** **Corpo a Corpo**, é aplicada a um **Alvo** ao lado do **Usuário**.
 * **Projétil**: a **Habilidade** é um disparo que alcança o **Alvo**.
+* **Individual**: a **Habilidade** é aplicada no **Alvo**.
 * **Linha**: em uma linha reta ou diagonal, a **Habilidade** é aplicada em todos as **Unidades** dentro da linha.
 * **Cone**: a partir de uma linha reta e as duas diagonais, a **Habilidade** é aplicada nessa área triangular em todas as **Unidades** afetadas.
 * **Área**: escolhe uma área quadrada para aplicar a **Habilidade**.
