@@ -294,23 +294,23 @@ E esse é o segredo por trás dos milagres nas florestas místicas. Suas **Habil
 
 # Nível 7 (Lendário)
 
-### Item
+### Bolso do Arquiteto de Reinos
 
-Texto.
+Equipamento Lendário, Mochila.
 
-Texto.
+As lendas dizem que os grandes criadores carregavam mundos em seus bolsos. Oferece 18 espaços de **Item** no **Inventário**. Você pode armazenar **Estruturas** nos espaços deste **Item**.
 
-### Item
+### Gaiola do Colecionador
 
-Texto.
+Equipamento Lendário, Costas.
 
-Texto.
+Quem vê de fora não imagina que é um doce lar. Aumenta o **Carisma** em 30. Pode armazenar um **Monstro** de **Nível** 8 ou inferior ao **Toque** como uma **Habilidade**. **Monstros** que já foram armazenados são mais suscetíveis as suas **Ações de Interpretação**, com um aumento de 3.
 
-### Item
+### Mandíbula Dracônica
 
-Texto.
+Equipamento Lendário, Mãos.
 
-Texto.
+O dragão vivo nesse manopla estende suas juntas mágicas para sempre alcançar seus alvos. Aumenta o **Ataque** e a **Velocidade** em 9. **Alcance** de **Toque** é aumentado em 3. Concede um **Ataque Básico** adicional por **Turno** e os **Ataques** adicionais causam o mesmo **Dano** em um **Alvo** adicional.
 
 ### Item
 
@@ -332,23 +332,17 @@ Texto.
 
 # Nível 8 (Divino)
 
-### Item
+### Caixa de Armamentos
 
-Texto.
+Equipamento Divino, Mochila.
 
-Texto.
+Texto. Oferece 21 espaços de **Item** no **Inventário**. Você pode armazenar **Armas** e **Equipamentos** sem ocupar os espaços, assim sendo infinito.
 
-### Item
+### Colete Alquímico
 
-Texto.
+Equipamento Divino, Torso.
 
-Texto.
-
-### Item
-
-Texto.
-
-Texto.
+O mais próximo que os alquimistas chegaram do deus de todo o ouro deste mundo. Toda vez que sofrer **Dano**, que não seja de **Efeitos**, um terço é absorvido e convertido para **Moedas de Ouro**, arredondado para cima.
 
 ### Item
 
@@ -356,7 +350,13 @@ Texto.
 
 Texto.
 
-### Gaiola do Colecionador
+### Item
+
+Texto.
+
+Texto.
+
+### Item
 
 Texto.
 
@@ -372,17 +372,17 @@ Texto.
 
 ### Coroa do Herdeiro do Mundo
 
-Texto.
+Equipamento Eterno, Elmo.
 
-Texto.
+Texto. Você não pode usar **Habilidades** mas também não pode sofrer **Habilidades**. Todos os **NPCs** e **Monstros** do mundo, sendo de **Nível** 4 ou inferior, estão sob seu controle.
+
+### Manoplas Titânicas
+
+Equipamento Eterno, Mãos.
+
+A manopla se ajuste perfeitamente a mão, assim dando o poder levantar qualquer coisa. Você pode equipar uma **Arma de Duas Mãos** em cada **Mão**.
 
 ### Mochila Infinita
-
-Texto.
-
-Texto.
-
-### Item
 
 Texto.
 

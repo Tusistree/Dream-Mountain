@@ -1,47 +1,3 @@
-↪ Het (Classe 3, Itens Lendários)
-
-    ↪ Bolso do Arquiteto de Reinos
-
-        ↪ Equipamento Lendário, Bolsa.
-
-        ↪ Aumenta o número máximo de Itens no Inventário em 12.
-
-        ↪ Pode armazenar também até 6 Estruturas de nível Het ou inferior como Compartimentos Extras.
-
-    ↪ Gaiola do Colecionador
-
-        ↪ Arma Lendária de Duas Mãos, Diversos.
-
-        ↪ Aumenta a Agilidade em 15.
-
-        ↪ Ao relizar um Ataque Básico, ao invés disso o usuário pode domesticar uma criatura de classe Het ou inferior. Para caso de classe Zayin é necessário um Acerto Crítico. Só uma criatura por vez pode ser domesticada com esse Efeito.
-
-        ↪ Pode armazenar até uma unidade de qualquer classe, mesmo com o item desequipado (para invocar a criatura armazenada é necessário o item equipado).
-
-    ↪ Mandíbula Dracónica
-
-        ↪ Arma Lendária	de Punho, Diversos.
-
-        ↪ Mesmo sendo uma arma, ao equipar o usuário ainda é considerado Desarmado.
-
-        ↪ Aumenta a Força e Agilidade em 7.
-
-        ↪ O Alcance de Ataques Corpo a Corpo e Habilidades com Alcance de Toque é aumentado em 3 metros.
-
-        ↪ Ataques Básicos causam Dano Mágico adicional do Tipo Fogo igual a metade do Ataque do usuário, esse Dano adicional é em Área com raio igual ao Atributo de Alcance. Acertos Críticos convertem tanto o Dano Base como o Adicional em Dano Puro.
-
-↪ Zayin (Classe 2, Itens Divinos)
-
-    ↪ Conjunto: Herança do Deus das Armas
-
-        ↪ Estes Equipamentos pertenceram a um dos 9 Heróis, um Kehara.
-
-        ↪ Equipamentos Divinos: Elmo, Torso, Ombreiras, Mãos, Pernas, Pés.
-
-        ↪ Cada parte aumenta a Força, Velocidade e Noção em 5.
-
-        ↪ Conjunto Completo: o usuário pode usar uma Arma de Duas Mãos em cada Mão, e também não pode sofrer Marcadores de Desarme ou Silêncio.
-
     ↪ Conjunto: Herança do Deus das Feras
 
         ↪ Estes Equipamentos pertenceram a um dos 9 Heróis, um Ravari (Mamífero).
@@ -51,16 +7,6 @@
         ↪ Cada parte aumenta Agilidade em 6 e a Força em 3. 
 
         ↪ Conjunto Completo: Unidades controladas pelo usuário possuem um turno extra no começo do Combate, também não podendo sofrer Marcadores Negativos a menos que o usuário tenha os mesmos Marcadores.
-
-    ↪ Conjunto: Herança do Deus das Riquezas
-
-        ↪ Estes Equipamentos pertenceram a um dos 9 Heróis, um Humano.
-
-        ↪ Equipamentos Divinos: Elmo, Torso, Ombreiras, Mãos, Pernas, Pés.
-
-        ↪ Cada parte aumenta a Agilidade, Velocidade e o Alcance em 5.
-
-        ↪ Conjunto Completo: Toda vez que o usuário sofrer Dano não periódico, um quarto daquele Dano é mitigado e convertido para Moedas de Ouro.
 
     ↪ Conjunto: Herança do Deus dos Duelos
 
