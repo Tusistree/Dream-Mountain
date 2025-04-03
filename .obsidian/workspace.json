@@ -156,8 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 382.5,
-    "collapsed": true
+    "width": 382.5
   },
   "right": {
     "id": "46d6bb0d7a9b7e91",
@@ -242,8 +241,12 @@
   },
   "active": "1038307b5d261984",
   "lastOpenFiles": [
-    "1. Funcional/1. Sistema/Mecânicas/Habilidades.md",
+    "0. Desenvolvimento/2. Material Mais Antigo/dev/~WRL0830.tmp",
+    "0. Desenvolvimento/2. Material Mais Antigo/dev/~WRD0826.tmp",
+    "0. Desenvolvimento/2. Material Mais Antigo/dev/~WRD0818.tmp",
+    "1. Funcional/0. Guia/1. Introdução.md",
     "1. Funcional/2. Recursos/Classes/Mago.md",
+    "1. Funcional/1. Sistema/Mecânicas/Habilidades.md",
     "1. Funcional/1. Sistema/Mecânicas/Interpretação.md",
     "1. Funcional/1. Sistema/Mecânicas/Efeitos.md",
     "1. Funcional/2. Recursos/Unidades/Raças Jogáveis/Primordiais/Humanos.md",
@@ -258,14 +261,11 @@
     "1. Funcional/0. Guia/2. Outras informações.md",
     "1. Funcional/0. Guia/3. Curiosidades_.md",
     "1. Funcional/1. Sistema/Ficha/Ficha Base.md",
-    "1. Funcional/0. Guia/1. Introdução.md",
     "1. Funcional/2. Recursos/Itens/Consumíveis.md",
     "1. Funcional/2. Recursos/Itens/Equipamentos.md",
     "1. Funcional/2. Recursos/Itens/Armas.md",
     "1. Funcional/1. Sistema/Mecânicas/Atributos.md",
     "0. Desenvolvimento/2. Material Mais Antigo/dev/~WRL0002.tmp",
-    "0. Desenvolvimento/2. Material Mais Antigo/dev/~WRD0001.tmp",
-    "0. Desenvolvimento/2. Material Mais Antigo/dev/~WRL0003.tmp",
     "0. Desenvolvimento/1. Material Antigo/Recursos/Classes/Elemental.md",
     "1. Funcional/2. Recursos/Classes/Guerreiro.md",
     "0. Desenvolvimento/Ideias.md",
@@ -278,7 +278,6 @@
     "1. Funcional/2. Recursos/Unidades/Raças Jogáveis/Mágicas/Ravari.md",
     "1. Funcional/2. Recursos/Unidades/Raças Jogáveis/Mágicas/Nufia.md",
     "1. Funcional/2. Recursos/Unidades/Raças Jogáveis/Mágicas/Nodonte.md",
-    "1. Funcional/2. Recursos/Unidades/Raças Jogáveis/Mágicas/Kehara.md",
     "Pasted image 20250330143144.png",
     "0. Desenvolvimento/0. Rascunhos/Referências/Imagens/Pasted image 20250212170251.png",
     "Pasted image 20250106145205.png",

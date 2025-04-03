@@ -215,17 +215,19 @@ Texto.
 
 # Nível 5 (Mestre)
 
-### Habilidade
+### Presença Infernal
 
-Texto.
+Talento Mágico de Fogo, Aura, Ofensivo.
 
-Texto.
+Os inimigos em sua presença ficam com uma visão turva e soam sem parar. No início do seu **Turno** sempre causa 1 ponto de **Dano** em todos os **Oponentes**, ignorando totalmente a **Defesa** e não importando a distância.
 
-### Habilidade
+### Rastro de Chamas
 
-Texto.
+Magia de Fogo, Mobilidade e Ofensivo, Individual.
 
-Texto.
+**Precisão Normal** e **Custa** 8 pontos de **Mana**.
+
+Texto. Executa uma **Ação de Movimento** adicional, porém com a **Velocidade** somada ao **Alcance**. No trajetória, todos os **Oponente** que você passar sofrem **1d10** de **Dano**, ganhando 1 **Efeito** de **Aumento** de **Velocidade** por **Oponente** atingido.
 
 ### Habilidade
 
@@ -253,7 +255,7 @@ Texto.
 
 # Nível 6 (Gênio)
 
-### Habilidade
+### Bombardeio
 
 Texto.
 
@@ -291,13 +293,13 @@ Texto.
 
 # Nível 7 (Lorde)
 
-### Habilidade
+### Fogo Azul
 
-Texto.
+Talento Mágico de Fogo, Aura, Ofensivo.
 
-Texto.
+Em alguns momentos você consegue usar o fogo da sua forma mais concentrada. Nos seus **Turnos** pares as **Magias de Fogo** se tornam azuis, fazendo que quando acertem sempre sejam criticamente.
 
-### Habilidade
+### Vórtice Ardente
 
 Texto.
 
@@ -329,7 +331,7 @@ Texto.
 
 # Nível 8 (Rei)
 
-### Habilidade
+### Familiar de Fogo
 
 Texto.
 
@@ -367,7 +369,7 @@ Texto.
 
 # Nível 9 (Lenda)
 
-### Habilidade
+### Ignição Espontânea
 
 Texto.
 
