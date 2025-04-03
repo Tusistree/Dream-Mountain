@@ -41,12 +41,6 @@ As **Habilidades** sempre possuem algumas características que influencia em sua
 * **Local**: escolhe uma área quadrada para aplicar a **Habilidade**, porém aquele local continua aplicando o **Dano** e os **Efeitos** por diversos **Turnos**.
 * **Aura**: todas as unidades são afetadas, podendo ou não ter uma distância do **Usuário**, e os efeitos são aplicados uma vez a cada **Turno**.
 
-**Dano**. É o tipo da agressão aplicada, podendo ser:
-
-* **Físico**: mitigado por [[Atributos]] como **Defesa** e [[Efeitos]] como **Armadura** e **Resistência**.
-* **Mágico**: mitigado por [[Atributos]] como **Noção** e [[Efeitos]] como **Barreira** e **Resistência**.
-* **Puro**: mitigado por **Nada**.
-
 **Precisão**. É a dificuldade para acertar a **Habilidade**, podendo variar entre:
 
 * **Garantida**: sem arremesso de **Dados**.

@@ -181,7 +181,7 @@ Magia de Fogo, Ofensivo, Linha.
 
 **Precisão Normal** e **Custa** 6 pontos de **Mana**.
 
-Com um gesto simples de mão todos os inimigos em uma direção são incinerados. Escolhe uma direção e, em uma linha reta com distância igual ao seu **Alcance** e largura de 3, causa **1d12** de **Dano** em todos os **Oponentes** dentro da área. O dano é causado com **Letalidade** adicional igual o número de **Oponentes** afetados.
+Com um gesto simples de mão todos os inimigos em uma direção são incinerados. Escolhe uma direção e, em uma linha reta com distância igual ao seu **Alcance** e largura de 3 metros, causa **1d12** de **Dano** em todos os **Oponentes** dentro da área. O dano é causado com **Letalidade** adicional igual o número de **Oponentes** afetados.
 
 ### Habilidade
 
