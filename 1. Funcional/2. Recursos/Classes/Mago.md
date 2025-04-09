@@ -15,11 +15,11 @@ O controle de diversos elementos da natureza sobrecarregam a sua **Mana**, torna
 
 Quando anotar novamente o mesmo **Elemento** todas as anotações são limpas, além de sua **Maestria** e **Custo** adicional por este **Talento** ser perdido.
 
-### Habilidade
+### Terraformar
 
-Texto.
+Magia de Terra, Local e Linha, Mobilidade e Controle.
 
-Texto.
+Texto. Escolhe um local 
 
 ### Habilidade
 
