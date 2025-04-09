@@ -11,15 +11,9 @@ Eles podem usar **Habilidades** para eliminar vários alvos simultâneos, contro
 
 Talento Principal.
 
-O controle de diversos elementos da natureza sobrecarregam a sua **Mana**, tornando as magias mais poderosas assim como instáveis. Ao uma **Habilidade** você anota o seu **Elemento** e aumenta a sua **Maestria** em um valor igual ao seu **Nível** até o fim do **Combate** ou **Sessão Menor**. O custo de **Mana** também é aumentado no mesmo valor.
+O controle de diversos elementos da natureza sobrecarregam a sua **Mana**, tornando as magias mais poderosas assim como instáveis. Ao usar uma **Habilidade** você anota o seu **Elemento** e aumenta a sua **Maestria** permanentemente em um valor igual ao seu **Nível** até o fim do **Combate** ou **Sessão**. O custo de **Mana** também é aumentado no mesmo valor.
 
-Quando anotar novamente o mesmo **Elemento** todas as anotações são limpas, além de sua **Maestria** e **Custo** adicional por este **Talento** ser perdido.
-
-### Terraformar
-
-Magia de Terra, Local e Linha, Mobilidade e Controle.
-
-Texto. Escolhe um local 
+Quando anotar novamente o mesmo **Elemento** todas as anotações são limpas, além de sua **Maestria** e **Custo** adicional por este **Talento** serem perdidos.
 
 ### Habilidade
 
@@ -38,6 +32,12 @@ Texto.
 Talento Mágico, Recuperação.
 
 Sua concentração é incrível quando o assunto é magia. Todo fim de seu **Turno** você recupera 1 ponto de **Mana**.
+
+### Poeira
+
+Magia de Terra, Utilidade, Área.
+
+Manipulando pequenos grãos no chão você os manipula magicamente pelo ar, dificultando a visão de oponentes e revelando inimigos furtivos. Em uma área ao seu redor, com raio igual ao seu **Atributo** de **Alcance**, .
 
 ### Reforço Positivo
 
@@ -69,11 +69,11 @@ Talento Mágico de Fogo, Ofensivo.
 
 Texto. Para **Magias de Fogo** a **Letalidade** e **Maestria** são aumentadas em 1, além dos **Custos** de **Mana** também serem reduzidos em 1. 
 
-### Habilidade
+### Terraformar
 
-Texto.
+Magia de Terra, Local e Linha, Mobilidade e Controle.
 
-Texto.
+Texto. Escolhe um local 
 
 ### Habilidade
 
