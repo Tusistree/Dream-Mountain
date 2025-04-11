@@ -195,7 +195,7 @@ Seu poder de fogo é tão instável que as vezes escapam algumas faíscas mesmo 
 
 Talento Mágico de Água, Recuperação.
 
-A calma de seu poder de Água é tão serena que as vezes escapam algumas gotas curativas mesmo que esteja conjurando um outro elemento. Sempre que você usar uma **Magia**, não importando qual **Elemento**, um **Projétil** de **Água** sempre será disparado de você para um **Aliado** aleatório, o recuperando 2 ponto de **Vida**. Esse **Projétil** não escala com **Maestria** e não se importa com a distância.
+A calma de seu poder de água é tão serena que as vezes escapam algumas gotas curativas mesmo que esteja conjurando um outro elemento. Sempre que você usar uma **Magia**, não importando qual **Elemento**, um **Projétil** de **Água** sempre será disparado de você para um **Aliado** aleatório, o recuperando 2 ponto de **Vida**. Esse **Projétil** não escala com **Maestria** e não se importa com a distância.
 
 ### Posto de Vento
 
@@ -213,37 +213,45 @@ Magia de Fogo, Ofensivo, Linha.
 
 **Precisão Normal** e **Custa** 6 pontos de **Mana**.
 
-Com um gesto simples de mão todos os inimigos em uma direção são incinerados. Escolhe uma direção e, em uma linha reta com distância igual ao seu **Alcance** e largura de 3 metros, causa **1d12** de **Dano** em todos os **Oponentes** dentro da área. O dano é causado com **Letalidade** adicional igual o número de **Oponentes** afetados.
+Com um gesto simples de mão todos os inimigos em uma direção são incinerados. Escolha uma direção e, em uma linha reta com distância igual ao seu **Alcance** e largura de 3 metros, causa **1d12** de **Dano** em todos os **Oponentes** dentro da área. O dano é causado com **Letalidade** adicional igual o número de **Oponentes** afetados.
 
-### Habilidade
+### Congelar Chão
 
-Texto.
+Magia de Gelo, Local, Controle.
 
-Texto.
+**Precisão Normal** e **Custa** 8 pontos de **Mana**.
 
-### Habilidade
+Uma nevasca repentina congela o local, gelo prende os pés dos oponentes e dificulta sua movimentação. Escolhe um **Local** quadrado, em qualquer lugar do campo de batalha mas com medidas igual o seu **Alcance**, onde os **Oponentes** recebem 1 **Efeito** de **Enraizamento**. **Oponentes** em cima do local tem distância das **Ações** que envolvem **Movimento** reduzidas pela metade, arredondado para cima.
 
-Texto.
+Só pode haver um chão congelado por vez.
 
-Texto.
+### Muralha
 
-### Habilidade
+Magia de Terra, Defensivo, Linha.
 
-Texto.
+**Precisão Normal** e **Custa** 6 pontos de **Mana**.
 
-Texto.
+Pisa no chão criando uma grande fortaleza, separando completamente o confronto. Cria uma estrutura em **Linha**, o seu início pode ser qualquer qualquer lugar do campo, pode ir para qualquer direção, mas a sempre a sua distância é igual o seu **Atributo** de **Alcance**, e a sua altura a metade, arredondado para cima. **Unidades** não podem atravessar essa **Estrutura**, assim como não **Atacar** ou usar **Habilidade** contra outros do outro lado. Essas regras não se aplicam a **Ações** com **Área** ou **Local**.
 
-### Habilidade
+### Suspiros
 
-Texto.
+Talento Mágico de Vento, Movimentação.
 
-Texto.
+A astúcia do seu poder de vento é tão sagaz que as vezes escapam algumas correntes de ar mesmo que esteja conjurando um outro elemento. Sempre que você usar uma **Magia**, não importando qual **Elemento**, você e seus **Aliados** recebem 2 **Efeitos** de **Aumento** de **Velocidade**.
 
-### Habilidade
+### Tornado
 
-Texto.
+Magia de Vento, Controle, Área.
 
-Texto.
+**Precisão Normal** e **Custa** 9 pontos de **Mana**.
+
+Você gira junto de um tornado, arremessando todos os oponentes ao ar. Aplica 2 **Efeito** de **Banimento** em todos os **Oponentes** dentro de um raio igual ao seu **Alcance**. No final do **Banimento**, você pode escolher as novas posições do campo onde os **Oponentes** vão pousar.
+
+### Tropeços
+
+Talento Mágico de Terra, Controle.
+
+A disciplina do seu poder de Terra é tão rígida que as vezes escapam alguns pequenos terremotos mesmo que esteja conjurando um outro elemento. Sempre que você usar uma **Magia**, não importando qual **Elemento**, os **Oponentes** recebem 2 **Efeitos** de **Redução** de **Velocidade**.
 
 # Nível 5 (Mestre)
 
