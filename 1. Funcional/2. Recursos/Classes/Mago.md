@@ -233,6 +233,8 @@ Magia de Terra, Defensivo, Linha.
 
 Pisa no chão criando uma grande fortaleza, separando completamente o confronto. Cria uma estrutura em **Linha**, o seu início pode ser qualquer qualquer lugar do campo, pode ir para qualquer direção, mas a sempre a sua distância é igual o seu **Atributo** de **Alcance**, e a sua altura a metade, arredondado para cima. **Unidades** não podem atravessar essa **Estrutura**, assim como não **Atacar** ou usar **Habilidade** contra outros do outro lado. Essas regras não se aplicam a **Ações** com **Área** ou **Local**.
 
+Você só pode ter uma **Muralha** por vez.
+
 ### Suspiros
 
 Talento Mágico de Vento, Movimentação.
@@ -255,11 +257,37 @@ A disciplina do seu poder de Terra é tão rígida que as vezes escapam alguns p
 
 # Nível 5 (Mestre)
 
+### Corrente Marítima
+
+Magia de Vento, Recuperação, Projétil.
+
+**Precisão Normal** e **Custa** 12 pontos de **Mana**.
+
+Texto. Restaura 2 pontos de **Vida** de um **Aliado** o aplicando 2 **Efeitos** de **Regeneração**. A **Cura**, **Efeitos** e a **Distância** são dobrados para um outro **Aliado** dentro desse novo **Alcance**, e assim por diante até um máximo de três **Aliados** adicionais, sem repetir. 
+
+Pode ser usado com **Precisão Garantida** e **Custo** 6 pontos de **Mana** em **Planos de Interpretação** e em um ambiente aquático para fazer você e todos os seus **Aliados** usarem uma viagem rápida para qualquer lugar daquele ambiente (inclusive outras **Zonas** e **Regiões** conhecidas se estiverem conectadas como por exemplo em rios e mares).
+
+### Flutuar
+
+Magia de Vento, Mobilidade, Individual.
+
+**Precisão Normal** e **Custa** 8 pontos de **Mana**.
+
+Abençoa um aliado com o poder do vento, dando a capacidade de planar levemente pelo ar sem uma queda brusca. Aplica em um **Aliado** 3 **Efeitos** de **Aumento** de **Esquiva** e 9 de **Aumento** de **Velocidade**. Você recebe 3 **Efeitos** de **Desgaste**.
+
+Pode ser usado com **Precisão Garantida** e **Custo** 4 pontos de **Mana** em **Planos de Interpretação**  para fazer o **Aliado** planar, assim dando acertos **Garantidos** em **Ações Interpretativas** de **Movimentação**.
+
 ### Presença Infernal
 
 Talento Mágico de Fogo, Aura, Ofensivo.
 
-Os inimigos em sua presença ficam com uma visão turva e soam sem parar. No início do seu **Turno** sempre causa 1 ponto de **Dano** em todos os **Oponentes**, ignorando totalmente a **Defesa** e não importando a distância.
+Os inimigos em sua presença ficam com uma visão turva e soam sem parar. No início do seu **Turno** sempre causa 2 pontos de **Dano** em todos os **Oponentes**, ignorando totalmente a **Defesa** e não importando a distância. O **Dano** não escala com a **Maestria**.
+
+### Presença Invernal
+
+Talento Mágico de Água, Aura, Controle.
+
+Os inimigos em sua presença tremem e perdem a concentração aos poucos. No início do seu **Turno** os **Oponentes** sempre perdem 2 pontos de **Mana**, não importando a distância.
 
 ### Rastro de Chamas
 
@@ -269,29 +297,17 @@ Magia de Fogo, Mobilidade e Ofensivo, Individual.
 
 Em um piscar de olhos você se teletransporta para um novo local, deixando um rastro de destruição onde passou. Executa uma **Ação de Movimento** adicional, porém com a **Velocidade** somada ao **Alcance**. No trajetória, todos os **Oponente** que você passar sofrem **1d10** de **Dano**, ganhando 1 **Efeito** de **Aumento** de **Velocidade** por **Oponente** atingido.
 
-### Habilidade
+Pode ser usado com **Precisão Garantida** e **Custo** 4 pontos de **Mana** em **Planos de Interpretação** como uma **Montaria**, sendo sua **Velocidade** igual ao **Alcance** somado a **Domínio** e **Maestria**, durando até o fim o **Plano** e não causando **Dano**.
 
-Texto.
+### Túmulo de Pedra
 
-Texto.
+Magia de Pedra, Controle, Individual.
 
-### Habilidade
+**Precisão Difícil** e **Custa** 10 pontos de **Mana**.
 
-Texto.
+Convoca duas conchas de pedra prendendo uma alvo entre elas. Aplica em um **Oponente** 3 **Efeitos** de **Atordoamento**. Durante o **Atordoamento** você pode realizar **Ações Básicas** de movimento com o **Alvo**, no entanto a **Velocidade** dele agora é seu **Atributo** de **Alcance**.
 
-Texto.
-
-### Habilidade
-
-Texto.
-
-Texto.
-
-### Habilidade
-
-Texto.
-
-Texto.
+Pode ser usado com **Precisão Normal** e **Custo** 5 pontos de **Mana** em **Planos de Interpretação**  para atordoar o **Alvo** permanentemente, podendo o levar junto de você. No entanto só pode ter um dessa forma por vez e em cada jogada de **Dados** sua se errar **Criticamente** o **Alvo** é solto.
 
 # Nível 6 (Gênio)
 
