@@ -129,7 +129,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -271,24 +271,25 @@
   },
   "active": "1038307b5d261984",
   "lastOpenFiles": [
-    "1. Funcional/1. Sistema/Mecânicas/Habilidades.md",
+    "1. Funcional/1. Sistema/Mecânicas/Efeitos.md",
     "1. Funcional/2. Recursos/Classes/Mago.md",
+    "1. Funcional/1. Sistema/Mecânicas/Atributos.md",
+    "1. Funcional/1. Sistema/Mecânicas/Habilidades.md",
+    "0. Desenvolvimento/2. Material Mais Antigo/~$. Aqua.docx",
+    "0. Desenvolvimento/2. Material Mais Antigo/~$ Ventus.docx",
+    "0. Desenvolvimento/2. Material Mais Antigo/~$. Gaia.docx",
     "1. Funcional/2. Recursos/Classes/Classes.md",
     "1. Funcional/2. Recursos/Itens/Consumíveis.md",
-    "0. Desenvolvimento/2. Material Mais Antigo/~$. Gaia.docx",
     "0. Desenvolvimento/2. Material Mais Antigo/~WRL1144.tmp",
     "0. Desenvolvimento/2. Material Mais Antigo/~WRD1137.tmp",
-    "0. Desenvolvimento/2. Material Mais Antigo/~$. Aqua.docx",
     "0. Desenvolvimento/2. Material Mais Antigo/~WRL3362.tmp",
     "0. Desenvolvimento/2. Material Mais Antigo/~WRD3347.tmp",
     "0. Desenvolvimento/2. Material Mais Antigo/~WRL0278.tmp",
     "0. Desenvolvimento/2. Material Mais Antigo/~WRD0005.tmp",
     "0. Desenvolvimento/2. Material Mais Antigo/~WRL0003.tmp",
-    "0. Desenvolvimento/2. Material Mais Antigo/~WRD0002.tmp",
     "1. Funcional/2. Recursos/Classes/Ladino.md",
     "1. Funcional/2. Recursos/Classes/Guerreiro.md",
     "1. Funcional/2. Recursos/Itens/Armas.md",
-    "1. Funcional/1. Sistema/Mecânicas/Efeitos.md",
     "1. Funcional/0. Guia/1. Introdução.md",
     "1. Funcional/1. Sistema/Ficha/Ficha Base.md",
     "1. Funcional/1. Sistema/Mecânicas/Interpretação.md",
@@ -296,7 +297,6 @@
     "1. Funcional/0. Guia/2. Outras informações.md",
     "1. Funcional/0. Guia/3. Curiosidades_.md",
     "1. Funcional/2. Recursos/Itens/Equipamentos.md",
-    "1. Funcional/1. Sistema/Mecânicas/Atributos.md",
     "0. Desenvolvimento/1. Material Antigo/Recursos/Classes/Elemental.md",
     "0. Desenvolvimento/Ideias.md",
     "0. Desenvolvimento/A fazer.md",

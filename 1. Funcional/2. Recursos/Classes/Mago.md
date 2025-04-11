@@ -15,17 +15,13 @@ O controle de diversos elementos da natureza sobrecarregam a sua **Mana**, torna
 
 Quando anotar novamente o mesmo **Elemento** todas as anotações são limpas, além de sua **Maestria** e **Custo** adicional por este **Talento** serem perdidos.
 
-### Habilidade
+### Domo Líquido
 
-Texto.
+Magia de Terra, Defensivo e Recuperação, Individual.
 
-Texto.
+**Precisão Normal** e **Custa** 1 ponto de **Mana**.
 
-### Habilidade
-
-Texto.
-
-Texto.
+Você levanta uma esfera de água protetora para um aliado, além de curar as suas feridas. Em um **Aliado** adiciona 3 **Efeitos** de **Regeneração** e **Barreira**. Você recebe 2 **Efeitos** de **Desgaste**.
 
 ### Hiperfoco
 
@@ -37,7 +33,9 @@ Sua concentração é incrível quando o assunto é magia. Todo fim de seu **Tur
 
 Magia de Terra, Utilidade, Área.
 
-Manipulando pequenos grãos no chão você os manipula magicamente pelo ar, dificultando a visão de oponentes e revelando inimigos furtivos. Em uma área ao seu redor, com raio igual ao seu **Atributo** de **Alcance**, .
+**Precisão Normal** e **Custa** 2 pontos de **Mana**.
+
+Manipulando pequenos grãos no chão você os manipula magicamente pelo ar, dificultando a visão de oponentes e revelando inimigos furtivos. Em uma área ao seu redor, com raio igual ao seu **Atributo** de **Alcance**, todos **Oponentes** recebem 2 **Efeitos** de **Redução** de **Velocidade** e **Precisão**. **Oponentes** ocultos são revelados e voltam para o **Plano de Combate**, recebendo 1 de **Dano**.
 
 ### Reforço Positivo
 
@@ -53,6 +51,14 @@ Magia de Fogo, Ofensivo, Projétil.
 
 Chamas se concentram na palma da sua mão se tornando uma flecha pronta para atingir seu alvo. Dispara um **Projétil** contra um **Inimigo** causando **1d4** de **Dano**.
 
+### Vendaval
+
+Magia de Vento, Defensivo, Área.
+
+**Precisão Normal** e **Custa** 3 pontos de **Mana**.
+
+Um movimento de mão que impulsiona o ar e afasta todas as ameaças. Empurra para direção oposta todos os **Oponentes** dentro de um raio igual ao seu **Alcance**, a distância empurrada é igual a metade desse mesmo **Atributo**.
+
 # Nível 1 (Regular)
 
 ### Isqueiro Vivo
@@ -61,19 +67,25 @@ Magia de Fogo, Utilidade, Individual.
 
 **Precisão Garantida** e **Custa** 2 pontos de **Mana**.
 
-Ninguém sabe ao certo se é um golem ou uma vida, mas ele sempre quer ajudar seu dono. Cria uma pequena **Unidade** que é uma chama de luz viva, iluminando 3 metros ao seu redor. Só pode ter uma vez invocada e ela sempre te segue sem ocupar espaço no campo. Essa **Unidade** dura até o fim o **Plano** e aumenta a sua **Precisão** em 1, além de **Ações de Interpretação** sua envolvendo **Percepção** serem também aumentados em 1.
+Ninguém sabe ao certo se é um golem ou uma vida, mas ele sempre quer ajudar seu dono. Cria uma pequena **Unidade** que é uma chama de luz viva, iluminando 3 metros ao seu redor. Só pode ter uma vez invocada e ela sempre te segue sem ocupar espaço no campo.
+
+Essa **Unidade** dura até o fim o **Plano** e aumenta a sua **Precisão** em 1, além de **Ações de Interpretação** sua envolvendo **Percepção** serem também aumentados em 1.
 
 ### Pavio Curto
 
 Talento Mágico de Fogo, Ofensivo.
 
-Texto. Para **Magias de Fogo** a **Letalidade** e **Maestria** são aumentadas em 1, além dos **Custos** de **Mana** também serem reduzidos em 1. 
+Sua falta de paciência intensifica o uso do **Fogo**. Para **Magias de Fogo** a **Letalidade** e **Maestria** são aumentadas em 1, além dos **Custos** de **Mana** também serem reduzidos em 1.
 
 ### Terraformar
 
 Magia de Terra, Local e Linha, Mobilidade e Controle.
 
-Texto. Escolhe um local 
+**Precisão Normal** e **Custa** 4 pontos de **Mana**.
+
+Texto. Escolhe qualquer local, de área quadrada igual o seu **Alcance**, e depois escolha uma direção. Todas as **Unidades** daquele local são deslocadas para essa direção em uma distância igual a sua **Maestria**. **Oponentes** que atravessarem **Estruturas** ou outros **Oponentes** ambos recebem 1 **Efeito** de **Enraizamento**.
+
+Pode ser usado com **Precisão Garantida** e **Custo** 2 pontos de **Mana** em **Planos de Interpretação** como uma **Montaria** para uma ou mais **Unidades**, sendo sua **Velocidade** igual ao **Domínio** somado a **Maestria**. Dura até o fim o **Plano**.
 
 ### Habilidade
 
@@ -95,6 +107,12 @@ Texto.
 
 # Nível 2 (Entusiasta)
 
+### Pilastra
+
+Texto.
+
+Texto.
+
 ### Sopro Incendiário
 
 Magia de Fogo, Ofensivo, Cone.
@@ -102,12 +120,6 @@ Magia de Fogo, Ofensivo, Cone.
 **Precisão Normal** e **Custa** 6 pontos de **Mana**.
 
 É uma imitação quase perfeita de um bafo de dragão. Em uma área cônica, que não pode passar de metade do seu **Atributo** de **Alcance**, você assopra fogo causando **1d6** de **Dano**, e metade do valor do **Dado** como **Efeitos** de **Sangramento**, arredondado para cima.
-
-### Habilidade
-
-Texto.
-
-Texto.
 
 ### Habilidade
 
@@ -341,7 +353,9 @@ Magia de Água, Individual, Invocação.
 
 **Precisão Difícil** e **Custa** 15 pontos de **Mana**.
 
-A representação mais próxima de **Aqua**. Invoca uma **Unidade** de água em forma de uma grande serpente. Ela possui uma ficha própria como um **Jogador**, com 30 pontos de **Atributo Primário** para distribuir, além de estar sobre seu controle e poder usar todas **Magias de Água** que você tem, também tendo os **Talentos Mágicos de Água** que você tem. Dura até o fim da **Sessão** ou quando você conseguir invocar outro **Familiar** de **Mago**.
+A representação mais próxima de **Aqua**. Invoca uma **Unidade** de água em forma de uma grande serpente. Ela possui uma ficha própria como um **Jogador**, com 30 pontos de **Atributo Primário** para distribuir, além de estar sobre seu controle e poder usar todas **Magias de Água** que você tem, também tendo os **Talentos Mágicos de Água** que você tem.
+
+Dura até o fim da **Sessão** ou quando você conseguir invocar outro **Familiar** de **Mago**.
 
 ### Familiar de Fogo
 
@@ -349,7 +363,9 @@ Magia de Fogo, Individual, Invocação.
 
 **Precisão Difícil** e **Custa** 15 pontos de **Mana**.
 
-A representação mais próxima de **Ignis**. Invoca uma **Unidade** de fogo em forma de um grande dragão. Ela possui uma ficha própria como um **Jogador**, com 30 pontos de **Atributo Primário** para distribuir, além de estar sobre seu controle e poder usar todas **Magias de Fogo** que você tem, também tendo os **Talentos Mágicos de Fogo** que você tem. Dura até o fim da **Sessão** ou quando você conseguir invocar outro **Familiar** de **Mago**.
+A representação mais próxima de **Ignis**. Invoca uma **Unidade** de fogo em forma de um grande dragão. Ela possui uma ficha própria como um **Jogador**, com 30 pontos de **Atributo Primário** para distribuir, além de estar sobre seu controle e poder usar todas **Magias de Fogo** que você tem, também tendo os **Talentos Mágicos de Fogo** que você tem.
+
+Dura até o fim da **Sessão** ou quando você conseguir invocar outro **Familiar** de **Mago**.
 
 ### Familiar de Terra
 
@@ -357,7 +373,9 @@ Magia de Terra, Individual, Invocação.
 
 **Precisão Difícil** e **Custa** 15 pontos de **Mana**.
 
-A representação mais próxima de **Gaia**. Invoca uma **Unidade** de terra em forma de uma grande tartaruga. Ela possui uma ficha própria como um **Jogador**, com 30 pontos de **Atributo Primário** para distribuir, além de estar sobre seu controle e poder usar todas **Magias de Terra** que você tem, também tendo os **Talentos Mágicos de Terra** que você tem. Dura até o fim da **Sessão** ou quando você conseguir invocar outro **Familiar** de **Mago**.
+A representação mais próxima de **Gaia**. Invoca uma **Unidade** de terra em forma de uma grande tartaruga. Ela possui uma ficha própria como um **Jogador**, com 30 pontos de **Atributo Primário** para distribuir, além de estar sobre seu controle e poder usar todas **Magias de Terra** que você tem, também tendo os **Talentos Mágicos de Terra** que você tem.
+
+Dura até o fim da **Sessão** ou quando você conseguir invocar outro **Familiar** de **Mago**.
 
 ### Familiar de Vento
 
@@ -365,7 +383,9 @@ Magia de Vento, Individual, Invocação.
 
 **Precisão Difícil** e **Custa** 15 pontos de **Mana**.
 
-A representação mais próxima de **Ventus**. Invoca uma **Unidade** de vento em forma um grande humanoide. Ela possui uma ficha própria como um **Jogador**, com 30 pontos de **Atributo Primário** para distribuir, além de estar sobre seu controle e poder usar todas **Magias de Vento** que você tem, também tendo os **Talentos Mágicos de Vento** que você tem. Dura até o fim da **Sessão** ou quando você conseguir invocar outro **Familiar** de **Mago**.
+A representação mais próxima de **Ventus**. Invoca uma **Unidade** de vento em forma um grande humanoide. Ela possui uma ficha própria como um **Jogador**, com 30 pontos de **Atributo Primário** para distribuir, além de estar sobre seu controle e poder usar todas **Magias de Vento** que você tem, também tendo os **Talentos Mágicos de Vento** que você tem.
+
+Dura até o fim da **Sessão** ou quando você conseguir invocar outro **Familiar** de **Mago**.
 
 ### Habilidade
 
