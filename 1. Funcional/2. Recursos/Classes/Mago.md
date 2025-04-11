@@ -85,7 +85,7 @@ Essa **Unidade** dura até o fim o **Plano** e aumenta a sua **Precisão** em 1,
 
 Talento Mágico de Fogo, Ofensivo.
 
-Sua falta de paciência intensifica o uso do **Fogo**. Para **Magias de Fogo** a **Letalidade** e **Maestria** são aumentadas em 1, além dos **Custos** de **Mana** também serem reduzidos em 1.
+Sua falta de paciência intensifica o uso do **Fogo**. Para **Magias de Fogo** a **Letalidade** e **Maestria** são aumentadas em 1, além dos **Custos** de **Mana** desse **Tipo** também serem reduzidos em 1.
 
 ### Terraformar
 
@@ -109,17 +109,27 @@ Pode ser usado em **Planos de Interpretação** fazendo com que o **Alvo** seja 
 
 ### Paciência
 
-Talento Mágico de Água, Controle.
+Talento Mágico de Água, Utilidade.
 
-Seu excesso de paciência intensifica o uso da **Água**. Para **Magias de Água** o **Alcance** e a **Maestria** são aumentadas em 3.
+Seu excesso de paciência intensifica o uso da **Água**. **Magias de Água** conjuradas sempre restauram 1 ponto de **Vida**, além dos **Custos** de **Mana** desse **Tipo** também serem reduzidos em 1.
 
 # Nível 2 (Entusiasta)
 
 ### Pilastra
 
-Texto.
+Magia de Terra, Local, Controle e Ofensivo.
 
-Texto.
+**Precisão Normal** e **Custa** 5 pontos de **Mana**.
+
+Com um leve atraso você conjura uma série de pilastras de terra contra os seus inimigos, os ferindo e nocauteando. Escolhe um **Local** quadrado, em qualquer lugar do campo de batalha mas com medidas igual o seu **Alcance**. Apenas no seu próximo **Turno** os **Oponentes** naquele local recebem **1d4** de **Dano** e 1 **Efeito** de **Atordoamento**.
+
+### Redirecionar
+
+Magia de Vento, Controle, Individual.
+
+**Precisão Normal** e **Custa** 4 pontos de **Mana**.
+
+Conjura uma ventania brusca, redirecionando magias e ataques para outros adversários. Essa **Habilidade** pode ser usada fora de seu **Turno**, porém te aplica 2 **Efeitos** de **Desgaste** e só pode usado uma vez até voltar seu **Turno**. Você pode controlar o **Alvo** ou **Área** de uma **Habilidade** de um **Oponente**, contanto que não seja **Crítica** ou com **Alcance** de **Toque**. Essa **Habilidade** ainda deve respeitar o **Atributo** de **Alcance** da **Unidade**, além de o **Alvo** não poder ser a própria **Unidade** ou estar na sua **Área de efeito** da própria **Habilidade**.
 
 ### Seta de Gelo
 
@@ -137,23 +147,17 @@ Magia de Fogo, Ofensivo, Cone.
 
 É uma imitação quase perfeita de um bafo de dragão. Em uma área cônica, que não pode passar de metade do seu **Atributo** de **Alcance**, você assopra fogo causando **1d6** de **Dano**, e metade do valor do **Dado** como **Efeitos** de **Sangramento**, arredondado para cima.
 
-### Habilidade
+### Deslize Secundário
 
-Texto.
+Talento Mágico de Terra, Controle.
 
-Texto.
+Na sua presença o chão que sustenta seus oponentes torna-se traiçoeiro. Reduz o **Custo** de **Magias de Terra** em 1. Toda vez que um **Oponente** usar uma **Ação Principal** você pode o mover 2 metros após a **Ação**.
 
-### Habilidade
+### Pés Leves
 
-Texto.
+Talento Mágico de Vento, Mobilidade.
 
-Texto.
-
-### Habilidade
-
-Texto.
-
-Texto.
+Um vento misteriosos te afasta de todas as ameaças. Reduz o **Custo** de **Magias de Vento** em 1. Toda vez que um **Oponente** usar uma **Ação Principal** você pode se mover 2 metros após a **Ação** dele, sem consumir nenhuma de suas **Ações**.
 
 # Nível 3 (Especialista)
 
