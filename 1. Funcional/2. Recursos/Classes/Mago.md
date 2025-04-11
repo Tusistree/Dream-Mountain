@@ -413,15 +413,15 @@ O rugido do mundo em um tremor. Causa **1d10** em todos os **Oponentes** do camp
 
 ### Céu Escuro
 
-Texto.
+Talento Mágico de Vento, Ofensivo.
 
-Texto.
+O ar que você respira se torna diabólico, diminuindo o foco de seus adversários. **Oponentes** dentro de um raio igual ao seu **Alcance** tem os **Custos** de **Mana** dobrados. Não se aplica a **Chefes**.
 
 ### Chão Claro
 
-Texto.
+Talento Mágico de Terra, Recuperação.
 
-Texto.
+A terra que você pisa se torna perto do divino, aumentando a concentração de seus aliados. **Aliados** dentro de um raio igual ao seu **Alcance** tem os **Custos** de **Mana** reduzidos pela metade. Não se aplica a você.
 
 ### Familiar de Água
 
@@ -465,18 +465,6 @@ Dura até o fim da **Sessão** ou quando você conseguir invocar outro **Familia
 
 # Nível 9 (Lenda)
 
-### Maestria Elemental
-
-Texto.
-
-Texto.
-
-### Maestria Familiar
-
-Texto.
-
-Texto.
-
 ### Criar Céu
 
 Magia de Vento, Invocação, Local.
@@ -516,3 +504,15 @@ Magia de Terra, Invocação, Local.
 O poder quase divino de criar um reino. Essa **Habilidade** só pode ser usada em uma **Zona** completamente conquistada (**Chefes** e **Masmorras** concluídas, além de todos os locais visitados). O **Local** é completamente apagado e substituído por uma **Zona** de um dos 9 **Reinos** a sua escolha. Novos **Monstros**, **Itens**, **Recursos** e **Chefes** surgem desse local baseado em seu **Nível**. **Masmorras** não são criadas, mas ainda há **Oponentes** de **Elite**.
 
 A **Zona** precisa ser reconquistada para usar essa **Habilidade** novamente no mesmo **Local**. Só pode ser usada uma vez por **Sessão**.
+
+### Maestria Elemental
+
+Talento Mágico, Ofensivo.
+
+A sua instabilidade de tantos elementos da natureza diferentes finalmente foi contida. Seu **Talento Principal** de **Instabilidade** perde o **Custo** de **Mana** adicional e não é mais limpo ao repetir o mesmo **Elemento**.
+
+### Maestria Familiar
+
+Talento Mágico, Invocação.
+
+Como uma verdadeira lenda da magia você é capaz de controlar cada senhor dos elementos. Seus **Familiares** não tem mais duração, além de agora você poder ter um de cada.
