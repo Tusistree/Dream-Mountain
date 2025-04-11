@@ -363,11 +363,37 @@ Você pode ter até 3 **Vórtices**.
 
 # Nível 7 (Lorde)
 
+### Além do Céu
+
+Magia de Vento, Individual, Controle.
+
+**Precisão Garantida** e **Custa** 10 pontos de **Mana**.
+
+Arremessa ao ar seu adversário o mais alto que puder. Se o **Oponente** não for o único ou não for um **Chefe** ele recebe um **Efeito** permanente de **Banimento**. A duração é até ele ser o único do campo de batalha. Só pode haver 1 **Oponente** por vez com **Efeito** dessa **Habilidade**.
+
 ### Fogo Azul
 
 Talento Mágico de Fogo, Ofensivo.
 
 Em alguns momentos você consegue usar o fogo da sua forma mais concentrada. Nos seus **Turnos** pares as **Magias de Fogo** se tornam azuis, fazendo que quando acertem sempre sejam **Criticamente**.
+
+### Ignição Espontânea
+
+Magia de Fogo, Individual, Ofensivo.
+
+**Precisão Garantida** e **Custa** 10 pontos de **Mana**.
+
+Para lendas do fogo um estalar de dedos basta. Essa **Magia** só pode ser usada contra **Oponentes** com pontos de **Vida** inferior ao dobro do seu **Atributo** de **Maestria**. O **Oponente** é executado.
+
+### Inundar
+
+Magia de Fogo, Local, Ofensivo.
+
+**Precisão Garantida** e **Custa** 10 pontos de **Mana**.
+
+Uma catástrofe que inunda todo o cenário. Torna o campo de batalha inteiro em um ambiente aquático, onde todos os **Oponente** submersos que não possam respirar recebem 2 **Efeitos** de **Sangramento** por **Turno**. A altura do  ambiente é o dobro do seu **Alcance**. **Oponentes** em cima da inundação não são mais considerados submersos ou em ambiente aquático.
+
+**Inundar** só pode ser usada uma vez por **Sessão**.
 
 ### Poça Vermelha
 
@@ -375,29 +401,13 @@ Talento Mágico de Água, Recuperação.
 
 Em alguns momentos você consegue interpretar o sangue como água. **Oponentes** que sofrerem **Dano** deixam uma poça de sangue no chão, uma **Estrutura** única com **Marcadores** igual a metade do **Dano** que ele sofreu, arredondado para cima. Se um **Oponente** em cima de uma poça sofrer **Dano**, ao invés de criar uma nova poça de sangue a atual ira receber esses novos **Marcadores** além ter os seus atuais. **Aliados** que passarem por cima de poças de sangue podem as sacrificar para recuperar pontos de **Vida** igual aos **Marcadores** da estrutura.
 
-### Habilidade
+### Terremoto
 
-Texto.
+Magia de Terra, Local, Ofensivo.
 
-Texto.
+**Precisão Garantida** e **Custa** 10 pontos de **Mana**.
 
-### Habilidade
-
-Texto.
-
-Texto.
-
-### Habilidade
-
-Texto.
-
-Texto.
-
-### Habilidade
-
-Texto.
-
-Texto.
+O rugido do mundo em um tremor. Causa **1d10** em todos os **Oponentes** do campo de batalha, independente de onde eles estejam.
 
 # Nível 8 (Rei)
 
@@ -455,40 +465,54 @@ Dura até o fim da **Sessão** ou quando você conseguir invocar outro **Familia
 
 # Nível 9 (Lenda)
 
-### Ignição Espontânea
-
-Magia de Fogo, Individual, Ofensivo.
-
-**Precisão Garantida** e **Custa** 10 pontos de **Mana**.
-
-Para lendas do fogo um estalar de dedos basta. Essa **Magia** só pode ser usada contra **Oponentes** com pontos de **Vida** inferior ao dobro do seu **Atributo** de **Maestria**. O **Oponente** é executado.
-
-### Habilidade
+### Maestria Elemental
 
 Texto.
 
 Texto.
 
-### Habilidade
+### Maestria Familiar
 
 Texto.
 
 Texto.
 
-### Habilidade
+### Criar Céu
 
-Texto.
+Magia de Vento, Invocação, Local.
 
-Texto.
+**Precisão Garantida** e **Custa** 33 pontos de **Mana**.
 
-### Habilidade
+O poder quase divino de criar um céu. Essa **Habilidade** só pode ser usada em uma **Zona** completamente conquistada (**Chefes** e **Masmorras** concluídas, além de todos os locais visitados). O **Local** é completamente apagado e substituído por uma **Zona** de um dos 9 **Céus** a sua escolha. Novos **Monstros**, **Itens**, **Recursos** e **Chefes** surgem desse local baseado em seu **Nível**. **Masmorras** não são criadas, mas ainda há **Oponentes** de **Elite**.
 
-Texto.
+A **Zona** precisa ser reconquistada para usar essa **Habilidade** novamente no mesmo **Local**. Só pode ser usada uma vez por **Sessão**.
 
-Texto.
+### Criar Inferno
 
-### Habilidade
+Magia de Fogo, Invocação, Local.
 
-Texto.
+**Precisão Garantida** e **Custa** 33 pontos de **Mana**.
 
-Texto.
+O poder quase divino de criar um inferno. Essa **Habilidade** só pode ser usada em uma **Zona** completamente conquistada (**Chefes** e **Masmorras** concluídas, além de todos os locais visitados). O **Local** é completamente apagado e substituído por uma **Zona** de um dos 6 **Abismos** a sua escolha. Novos **Monstros**, **Itens**, **Recursos** e **Chefes** surgem desse local baseado em seu **Nível**. **Masmorras** não são criadas, mas ainda há **Oponentes** de **Elite**.
+
+A **Zona** precisa ser reconquistada para usar essa **Habilidade** novamente no mesmo **Local**. Só pode ser usada uma vez por **Sessão**.
+
+### Criar Mar
+
+Magia de Água, Invocação, Local.
+
+**Precisão Garantida** e **Custa** 33 pontos de **Mana**.
+
+O poder quase divino de criar um mar. Essa **Habilidade** só pode ser usada em uma **Zona** completamente conquistada (**Chefes** e **Masmorras** concluídas, além de todos os locais visitados). O **Local** é completamente apagado e substituído por uma **Zona** de um dos 9 **Mares** a sua escolha. Novos **Monstros**, **Itens**, **Recursos** e **Chefes** surgem desse local baseado em seu **Nível**. **Masmorras** não são criadas, mas ainda há **Oponentes** de **Elite**.
+
+A **Zona** precisa ser reconquistada para usar essa **Habilidade** novamente no mesmo **Local**. Só pode ser usada uma vez por **Sessão**.
+
+### Criar Terra
+
+Magia de Terra, Invocação, Local.
+
+**Precisão Garantida** e **Custa** 33 pontos de **Mana**.
+
+O poder quase divino de criar um reino. Essa **Habilidade** só pode ser usada em uma **Zona** completamente conquistada (**Chefes** e **Masmorras** concluídas, além de todos os locais visitados). O **Local** é completamente apagado e substituído por uma **Zona** de um dos 9 **Reinos** a sua escolha. Novos **Monstros**, **Itens**, **Recursos** e **Chefes** surgem desse local baseado em seu **Nível**. **Masmorras** não são criadas, mas ainda há **Oponentes** de **Elite**.
+
+A **Zona** precisa ser reconquistada para usar essa **Habilidade** novamente no mesmo **Local**. Só pode ser usada uma vez por **Sessão**.

@@ -1,9 +1,0 @@
-	nivel 3
-
-		↪ Convocações Gemeas
-
-			↪ A cada duas convocações uma é duplicada
-
-		↪ Passos Ecoantes
-
-			↪ Aumenta a chance de erro de oponentes
