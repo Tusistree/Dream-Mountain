@@ -6,14 +6,9 @@
 
 			↪ Diminui efeitos negativos quando submerso e aumenta a inteligência e agilidade enquanto não estiver tocando o chão
 
-		↪ Pés Leves
-
-			↪ Aumenta a velocidade e agilidade
-
 		↪ Anti Queda
 
 			↪ Não recebe dano de queda
-
 
 	nivel 2
 
@@ -28,7 +23,6 @@
 		↪ Familiar Extendido
 
 			↪ Pode aumentar o tempo de duração de unidades
-
 
 	nivel 3
 

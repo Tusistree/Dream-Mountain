@@ -161,43 +161,49 @@ Um vento misteriosos te afasta de todas as ameaças. Reduz o **Custo** de **Magi
 
 # Nível 3 (Especialista)
 
+### Baú de Ferro
+
+Magia Interpretativa de Terra, Utilidade.
+
+**Precisão Garantida** e **Custa** 4 pontos de **Mana**.
+
+Texto. Cria um baú em uma **Zona** onde todos os **Inimigos** principais já foram derrotados. **Aliados** que tocarem em um **Baú de Ferro** podem armazenar até 18 **Itens**, por indivíduo, e os consultar ou retirar em outros **Baús de Ferro**. Essa **Utilidade** só pode ocorrer com ausência de **Oponentes**.
+
 ### Criar Fogueira
 
-Magia de Fogo Interpretativa, Utilidade.
+Magia Interpretativa de Fogo, Utilidade.
 
 **Precisão Garantida** e **Custa** 4 pontos de **Mana**.
 
 Um circulo é formado a sua frente com chamas que não se apagam, e por algum motivo é aconchegante. Cria uma fogueira em uma **Zona** onde todos os **Inimigos** principais já foram derrotados, aquela se torna uma **Zona Segura**, assim os **Jogadores** podem descansar como se fosse fim e começo de **Sessão**.
 
+### Cristal de Mana
+
+Magia Interpretativa de Terra, Utilidade.
+
+**Precisão Garantida** e **Custa** 4 pontos de **Mana**.
+
+Um fragmento de mana cristalizada surge da terra, recuperando as energias de todos os aliados. Cria um cristal em uma **Zona** onde todos os **Inimigos** principais já foram derrotados. Esse cristal recupera todos os pontos de **Mana** e concede 6 **Efeitos** de **Concentração** ao **Toque**. Essa **Recuperação** só pode ocorrer com ausência de **Oponentes**, e o seu efeito começa a contagem no primeiro **Combate**.
+
 ### Faíscas
 
 Talento Mágico de Fogo, Ofensivo.
 
-Seu poder de fogo é tão instável que as vezes escapam algumas faíscas mesmo que esteja conjurando um outro elemento. Sempre que você usar uma **Magia**, não importando qual **Elemento**, um **Projétil** de **Fogo** sempre será disparado de você contra um **Oponente** aleatória e causando 1 ponto de **Dano**. Esse **Projétil** ignora completamente a **Defesa** e não se importa com a distância.
+Seu poder de fogo é tão instável que as vezes escapam algumas faíscas mesmo que esteja conjurando um outro elemento. Sempre que você usar uma **Magia**, não importando qual **Elemento**, um **Projétil** de **Fogo** sempre será disparado de você contra um **Oponente** aleatória, o causando 1 ponto de **Dano**. Esse **Projétil** ignora completamente a **Defesa**, não escala com **Maestria** e não se importa com a distância.
 
-### Habilidade
+### Gotas
 
-Texto.
+Talento Mágico de Água, Recuperação.
 
-Texto.
+A calma de seu poder de Água é tão serena que as vezes escapam algumas gotas curativas mesmo que esteja conjurando um outro elemento. Sempre que você usar uma **Magia**, não importando qual **Elemento**, um **Projétil** de **Água** sempre será disparado de você para um **Aliado** aleatório, o recuperando 2 ponto de **Vida**. Esse **Projétil** não escala com **Maestria** e não se importa com a distância.
 
-### Habilidade
+### Posto de Vento
 
-Texto.
+Magia Interpretativa de Vento, Utilidade.
 
-Texto.
+**Precisão Garantida** e **Custa** 4 pontos de **Mana**.
 
-### Habilidade
-
-Texto.
-
-Texto.
-
-### Habilidade
-
-Texto.
-
-Texto.
+Um dos métodos de transporte mágico mais requisitados. Cria uma pequena torrente de vento em uma **Zona** onde todos os **Inimigos** principais já foram derrotados. **Aliados** que tocarem em um **Posto de Vento** podem receber uma viagem rápida para outro **Posto de Vento**. Essa **Mobilidade** só pode ocorrer com ausência de **Oponentes**.
 
 # Nível 4 (Veterano)
 

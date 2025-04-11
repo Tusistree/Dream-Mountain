@@ -1,4 +1,4 @@
-//Talentos
+// Talentos
 
 	nivel 1
 
@@ -14,7 +14,6 @@
 
 			↪ criar unidades, objetos ou estruturas recupera um pouco de vida e mana
 
-
 	nivel 2
 
 		↪ Resquicios de Mana
@@ -29,7 +28,6 @@
 
 			↪ Aumenta a agilidade e velocidae perto de paredes ou estruturas
 
-
 	nivel 3
 
 		↪ Convocações Gemeas
@@ -43,4 +41,3 @@
 		↪ Passos Ecoantes
 
 			↪ Aumenta a chance de erro de oponentes
-

@@ -14,7 +14,6 @@
 
 			↪ Aumenta a velocidade e agilidade quando submerso
 
-
 	nivel 2
 
 		↪ Resitência a Sangramento
@@ -28,7 +27,6 @@
 		↪ Resistência a Fogo
 
 			↪ Recebe dano reduzido de fogo
-
 
 	nivel 3
 
