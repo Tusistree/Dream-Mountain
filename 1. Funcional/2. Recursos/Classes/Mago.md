@@ -17,7 +17,7 @@ Quando anotar novamente o mesmo **Elemento** todas as anotações são limpas, a
 
 ### Domo Líquido
 
-Magia de Terra, Defensivo e Recuperação, Individual.
+Magia de Água, Defensivo e Recuperação, Individual.
 
 **Precisão Normal** e **Custa** 1 ponto de **Mana**.
 
@@ -61,13 +61,23 @@ Um movimento de mão que impulsiona o ar e afasta todas as ameaças. Empurra par
 
 # Nível 1 (Regular)
 
+### Esfera de Folego
+
+Magia de Vento, Defensivo e Utilidade, Individual.
+
+**Precisão Normal** e **Custa** 2 pontos de **Mana**.
+
+Conjura uma pequena esfera de ar, recobrando o raciocínio do aliado ao mesmo tempo que sempre o permite respirar. Em um **Aliado** dissipa até 3 **Efeitos** de **Redução** de qualquer **Atributo**.
+
+Pode ser usado com **Precisão Garantida** em **Planos de Interpretação** fazendo com que o **Aliado** também possa respirar independente do ambiente, durando até o fim o **Plano**.
+
 ### Isqueiro Vivo
 
 Magia de Fogo, Utilidade, Individual.
 
 **Precisão Garantida** e **Custa** 2 pontos de **Mana**.
 
-Ninguém sabe ao certo se é um golem ou uma vida, mas ele sempre quer ajudar seu dono. Cria uma pequena **Unidade** que é uma chama de luz viva, iluminando 3 metros ao seu redor. Só pode ter uma vez invocada e ela sempre te segue sem ocupar espaço no campo.
+Ninguém sabe ao certo se é um golem ou uma vida, mas ele sempre quer ajudar seu dono. Cria uma pequena **Unidade** que é uma chama de luz viva, iluminando 3 metros ao seu redor. Só pode ter uma por vez invocada e ela sempre te segue sem ocupar espaço no campo.
 
 Essa **Unidade** dura até o fim o **Plano** e aumenta a sua **Precisão** em 1, além de **Ações de Interpretação** sua envolvendo **Percepção** serem também aumentados em 1.
 
@@ -83,27 +93,25 @@ Magia de Terra, Local e Linha, Mobilidade e Controle.
 
 **Precisão Normal** e **Custa** 4 pontos de **Mana**.
 
-Texto. Escolhe qualquer local, de área quadrada igual o seu **Alcance**, e depois escolha uma direção. Todas as **Unidades** daquele local são deslocadas para essa direção em uma distância igual a sua **Maestria**. **Oponentes** que atravessarem **Estruturas** ou outros **Oponentes** ambos recebem 1 **Efeito** de **Enraizamento**.
+Movimenta um bloco de terra abaixo do pé das pessoas, escolhendo movendo-se como se tivesse vida própria. Escolhe qualquer local, de área quadrada igual o seu **Alcance**, e depois escolha uma direção. Todas as **Unidades** daquele local são deslocadas para essa direção em uma distância igual a sua **Maestria**. **Oponentes** que atravessarem **Estruturas** ou outros **Oponentes** ambos recebem 1 **Efeito** de **Enraizamento**.
 
-Pode ser usado com **Precisão Garantida** e **Custo** 2 pontos de **Mana** em **Planos de Interpretação** como uma **Montaria** para uma ou mais **Unidades**, sendo sua **Velocidade** igual ao **Domínio** somado a **Maestria**. Dura até o fim o **Plano**.
+Pode ser usado com **Precisão Garantida** e **Custo** 2 pontos de **Mana** em **Planos de Interpretação** como uma **Montaria** para uma ou mais **Unidades**, sendo sua **Velocidade** igual ao **Domínio** somado a **Maestria**, durando até o fim o **Plano**.
 
-### Habilidade
+### Toque Frio
 
-Texto.
+Magia de Terra, Toque, Controle.
 
-Texto.
+**Precisão Normal** e **Custa** 4 pontos de **Mana**.
 
-### Habilidade
+Ao encostar um dedo, mesmo que pequenos instantes, você é capaz de congelar o que tocar. Adiciona 1 **Efeito** de **Atordoamento** no **Alvo**. 
 
-Texto.
+Pode ser usado em **Planos de Interpretação** fazendo com que o **Alvo** seja permanentemente **Atordoado** contanto que você mantenha contato direto.
 
-Texto.
+### Paciência
 
-### Habilidade
+Talento Mágico de Água, Controle.
 
-Texto.
-
-Texto.
+Seu excesso de paciência intensifica o uso da **Água**. Para **Magias de Água** o **Alcance** e a **Maestria** são aumentadas em 3.
 
 # Nível 2 (Entusiasta)
 
@@ -113,6 +121,14 @@ Texto.
 
 Texto.
 
+### Seta de Gelo
+
+Magia de Água, Ofensivo e Controle, Projétil.
+
+**Precisão Normal** e **Custa** 5 pontos de **Mana**.
+
+Frio e neve se concentram na palma da sua mão se tornando uma flecha pronta para atingir seu alvo. Dispara um **Projétil** contra um **Inimigo** causando 1 de **Dano**, além **1d4** de **Efeitos** de **Redução** de **Velocidade**.
+
 ### Sopro Incendiário
 
 Magia de Fogo, Ofensivo, Cone.
@@ -120,12 +136,6 @@ Magia de Fogo, Ofensivo, Cone.
 **Precisão Normal** e **Custa** 6 pontos de **Mana**.
 
 É uma imitação quase perfeita de um bafo de dragão. Em uma área cônica, que não pode passar de metade do seu **Atributo** de **Alcance**, você assopra fogo causando **1d6** de **Dano**, e metade do valor do **Dado** como **Efeitos** de **Sangramento**, arredondado para cima.
-
-### Habilidade
-
-Texto.
-
-Texto.
 
 ### Habilidade
 
