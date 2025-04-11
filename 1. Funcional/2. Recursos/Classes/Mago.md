@@ -311,6 +311,16 @@ Pode ser usado com **Precisão Normal** e **Custo** 5 pontos de **Mana** em **Pl
 
 # Nível 6 (Gênio)
 
+### Afogamento
+
+Magia de Água, Controle e Ofensivo, Individual e Local.
+
+**Precisão Difícil** e **Custa** 7 pontos de **Mana**.
+
+Você tenta usar o ambiente para afogar o oponente, mas caso não haja o ambiente ideal você o cria lentamente. Essa **Habilidade** só pode ser usada contra um **Oponente** que não seja um **Chefe**, além de ser do mesmo **Nível** ou inferior ao seu e também estar em um ambiente aquático. Executa o **Oponente**.
+
+Caso essa **Habilidade** seja usada fora de sua **Condição** principal, ela apenas causa 1 ponto de **Dano** e 3 **Efeitos** de **Redução** de **Velocidade**. Caso haja certo **Crítico** dessa forma, ou no segundo uso dessa **Habilidade**, um pequeno lago é criado em baixo do **Alvo**, um **Local** quadrado com medidas igual o seu **Alcance**, sendo considerado um ambiente aquático e reduzindo a **Velocidade** em 3 de quem estiver nele.
+
 ### Bombardeio
 
 Magia de Fogo, Mobilidade e Ofensivo, Projétil.
@@ -319,51 +329,51 @@ Magia de Fogo, Mobilidade e Ofensivo, Projétil.
 
 Em um frenesi violento você dispara um sequência incansável de disparos incendiários. Você joga conjura **1d6** **Setas de Fogo** em um **Oponente** sem gastar seus **Custos**. **Crítico** multiplica o número de **Magias** e não o **Dano**.
 
-### Habilidade
+### Cratera
 
-Texto.
+Magia de Terra, Controle, Local.
 
-Texto.
+**Precisão Difícil** e **Custa** 12 pontos de **Mana**.
 
-### Habilidade
+Com um grande tremor uma imensa cratera surge do chão engolindo seus adversários. Escolhe um **Local** quadrado, em qualquer lugar do campo de batalha mas com medidas igual o seu **Alcance**, onde os **Oponentes** recebem 6 **Efeitos** de **Sangramento**. **Unidades** não podem sair desse **Local**. Essa regra não se aplicam a **Ações** com **Área** ou **Local**.
 
-Texto.
+Você só pode ter uma **Cratera** por vez.
 
-Texto.
+### Presença Imutável
 
-### Habilidade
+Talento Mágico de Terra, Aura, Defensivo.
 
-Texto.
+Os inimigos em sua presença não ousam te contestar. Aumenta a **Defesa** em 3. Desde o início do seu **Turno** os **Oponentes** não podem te interromper, isso só ocorre em seus **Turnos** ímpares não importando a distância.
 
-Texto.
+### Presença Volátil
 
-### Habilidade
+Talento Mágico de Vento, Aura, Controle.
 
-Texto.
+Os inimigos em sua presença não conseguem te acertar. Aumenta a **Esquiva** em 1. Desde o início do **Turno** dos **Oponentes** eles tem a metade da **Precisão**, isso só ocorre em seus **Turnos** ímpares não importando a distância.
 
-Texto.
+### Vórtice
 
-### Habilidade
+Magia de Vento, Local, Ofensivo.
 
-Texto.
+**Precisão Normal** e **Custa** 10 pontos de **Mana**.
 
-Texto.
+Um furacão que surge e se mantém destruindo tudo que toca. Escolhe um **Local** quadrado, em qualquer lugar do campo de batalha mas com medidas igual o seu **Alcance**, onde causa **1d8** de **Dano** imediatamente. Você pode manter aquele **Local** gastando 3 pontos de **Mana** no começo de cada um de seus **Turnos**, assim causando **1d4** de **Dano** em **Oponentes** que estiverem em cima, além de terem a **Velocidade** reduzida em 6.
+
+Você pode ter até 3 **Vórtices**.
 
 # Nível 7 (Lorde)
 
 ### Fogo Azul
 
-Talento Mágico de Fogo, Aura, Ofensivo.
+Talento Mágico de Fogo, Ofensivo.
 
-Em alguns momentos você consegue usar o fogo da sua forma mais concentrada. Nos seus **Turnos** pares as **Magias de Fogo** se tornam azuis, fazendo que quando acertem sempre sejam criticamente.
+Em alguns momentos você consegue usar o fogo da sua forma mais concentrada. Nos seus **Turnos** pares as **Magias de Fogo** se tornam azuis, fazendo que quando acertem sempre sejam **Criticamente**.
 
-### Vórtice Ardente
+### Poça Vermelha
 
-Magia de Fogo, Local, Ofensivo.
+Talento Mágico de Água, Recuperação.
 
-**Precisão Normal** e **Custa** 10 pontos de **Mana**.
-
-Um furacão de labaredas que explode e se mantém incendiando tudo que toca. Escolhe um **Local** quadrado, em qualquer lugar do campo de batalha mas com medidas igual o seu **Alcance**, onde causa **1d8** de **Dano** imediatamente. Você pode manter aquele local incendiado gastando 3 pontos de **Mana** no começo de cada **Turno** seu, assim causando **1d4** de **Dano** em quem estiver em cima.
+Em alguns momentos você consegue interpretar o sangue como água. **Oponentes** que sofrerem **Dano** deixam uma poça de sangue no chão, uma **Estrutura** única com **Marcadores** igual a metade do **Dano** que ele sofreu, arredondado para cima. Se um **Oponente** em cima de uma poça sofrer **Dano**, ao invés de criar uma nova poça de sangue a atual ira receber esses novos **Marcadores** além ter os seus atuais. **Aliados** que passarem por cima de poças de sangue podem as sacrificar para recuperar pontos de **Vida** igual aos **Marcadores** da estrutura.
 
 ### Habilidade
 
@@ -390,6 +400,18 @@ Texto.
 Texto.
 
 # Nível 8 (Rei)
+
+### Céu Escuro
+
+Texto.
+
+Texto.
+
+### Chão Claro
+
+Texto.
+
+Texto.
 
 ### Familiar de Água
 
@@ -430,18 +452,6 @@ Magia de Vento, Individual, Invocação.
 A representação mais próxima de **Ventus**. Invoca uma **Unidade** de vento em forma um grande humanoide. Ela possui uma ficha própria como um **Jogador**, com 30 pontos de **Atributo Primário** para distribuir, além de estar sobre seu controle e poder usar todas **Magias de Vento** que você tem, também tendo os **Talentos Mágicos de Vento** que você tem.
 
 Dura até o fim da **Sessão** ou quando você conseguir invocar outro **Familiar** de **Mago**.
-
-### Habilidade
-
-Texto.
-
-Texto.
-
-### Habilidade
-
-Texto.
-
-Texto.
 
 # Nível 9 (Lenda)
 

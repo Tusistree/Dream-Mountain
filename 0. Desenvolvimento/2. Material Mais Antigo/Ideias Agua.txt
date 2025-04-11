@@ -6,37 +6,11 @@
 
 			↪ Aumenta a duração de poções e consumiveis
 
-		↪ Maestria Subáquatica
-
-			↪ aumenta o dano e cura quando submerso
-
 		↪ Natação (Água)
 
 			↪ Aumenta a velocidade e agilidade quando submerso
 
-	nivel 2
-
-		↪ Resitência a Sangramento
-
-			↪ Recebe a metade do dano e duração de sangramentos
-
-		↪ Resistência a Veneno
-
-			↪ Recebe a metade do dano e duração de venenos
-
-		↪ Resistência a Fogo
-
-			↪ Recebe dano reduzido de fogo
-
 	nivel 3
-
-		↪ Hidromancia
-
-			↪ Pode conjurar algumas habilidades sem custar mana ou fonte de água
-
-		↪ Perícia em Inundação
-
-			↪ Aumenta a chance de acerto de criação de agua
 
 		↪ Forma líquida
 

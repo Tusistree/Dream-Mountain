@@ -1,42 +1,8 @@
-// Talentos
-
-	nivel 1
-
-		↪ Resistência da Montanha
-
-			↪ Aumenta a força, além de sofrer dano reduzido
-
-		↪ Base Firme
-
-			↪ Diminui efeitos debilitantes e a chance de sofrer os mesmos
-
-		↪ Criação Empática
-
-			↪ criar unidades, objetos ou estruturas recupera um pouco de vida e mana
-
-	nivel 2
-
-		↪ Resquicios de Mana
-
-			↪ habilidades tem chance de derrubar fragmentos de mana em lugares aleatórios, pegar esses fragmentos restaura a mana e um pouco de vida.
-
-		↪ Equipamento Reforçado
-
-			↪ Fortalece qualquer objeto que tocar, aumentando suas propriedades
-
-		↪ Deslize Amigável
-
-			↪ Aumenta a agilidade e velocidae perto de paredes ou estruturas
-
 	nivel 3
 
 		↪ Convocações Gemeas
 
 			↪ A cada duas convocações uma é duplicada
-
-		↪ Implemento Metalúrgico
-
-			↪ Pode fortalecer uma habilidade de terra por metal aumentando seus efeitos
 
 		↪ Passos Ecoantes
 

@@ -1,28 +1,8 @@
-// Talentos
-
-	nivel 1
-
-		↪ Aumentar o Folego
-
-			↪ Diminui efeitos negativos quando submerso e aumenta a inteligência e agilidade enquanto não estiver tocando o chão
-
-		↪ Anti Queda
-
-			↪ Não recebe dano de queda
-
 	nivel 2
-
-		↪ Impeto Insistente
-
-			↪ Aumenta a velocidade e agilidade a cada acerto a unidades, perdendo todos os acumulos quando sofrer dano
 
 		↪ Conjuração Aleatória
 
 			↪ Tem a chance de conjurar habilidades adicionais aleatorias
-
-		↪ Familiar Extendido
-
-			↪ Pode aumentar o tempo de duração de unidades
 
 	nivel 3
 
@@ -37,4 +17,3 @@
 		↪ Forma de Ar
 
 			↪ Se dissipa na forma de um tornado, redirecionando habilidades e aumentando a velocidade
-
