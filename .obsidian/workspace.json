@@ -50,7 +50,8 @@
               "title": "Ladino"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "061f4f8f7a12a48b",
@@ -254,16 +255,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fe8ee24e662122a9",
+  "active": "78bfb77344abab1e",
   "lastOpenFiles": [
+    "1. Funcional/2. Recursos/Classes/Guerreiro.md",
+    "1. Funcional/2. Recursos/Classes/Classes.md",
     "1. Funcional/2. Recursos/Classes/Mago.md",
     "1. Funcional/1. Sistema/Mecânicas/Efeitos.md",
     "1. Funcional/1. Sistema/Mecânicas/Atributos.md",
     "1. Funcional/1. Sistema/Mecânicas/Habilidades.md",
-    "1. Funcional/2. Recursos/Classes/Guerreiro.md",
     "1. Funcional/2. Recursos/Classes/Ladino.md",
     "1. Funcional/2. Recursos/Itens/Consumíveis.md",
-    "1. Funcional/2. Recursos/Classes/Classes.md",
     "1. Funcional/0. Guia/1. Introdução.md",
     "0. Desenvolvimento/2. Material Mais Antigo/3. Marcial.txt",
     "0. Desenvolvimento/2. Material Mais Antigo/2. Proteção.txt",

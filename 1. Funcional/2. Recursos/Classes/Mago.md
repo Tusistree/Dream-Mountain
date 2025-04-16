@@ -93,9 +93,9 @@ Magia de Terra, Local e Linha, Mobilidade e Controle.
 
 **Precisão Normal** e **Custa** 4 pontos de **Mana**.
 
-Movimenta um bloco de terra abaixo do pé das pessoas, escolhendo movendo-se como se tivesse vida própria. Escolhe qualquer local, de área quadrada igual o seu **Alcance**, e depois escolha uma direção. Todas as **Unidades** daquele local são deslocadas para essa direção em uma distância igual a sua **Maestria**. **Oponentes** que atravessarem **Estruturas** ou outros **Oponentes** ambos recebem 1 **Efeito** de **Enraizamento**.
+Movimenta um bloco de terra abaixo do pé das pessoas, movendo-se como se tivesse vida própria. Escolhe qualquer local, de área quadrada igual o seu **Alcance**, e depois escolha uma direção. Todas as **Unidades** daquele local são deslocadas para essa direção em uma distância igual a sua **Maestria**. **Oponentes** que atravessarem **Estruturas** ou outros **Oponentes** ambos recebem 1 **Efeito** de **Enraizamento**.
 
-Pode ser usado com **Precisão Garantida** e **Custo** 2 pontos de **Mana** em **Planos de Interpretação** como uma **Montaria** para uma ou mais **Unidades**, sendo sua **Velocidade** igual ao **Domínio** somado a **Maestria**, durando até o fim o **Plano**.
+Pode ser usado com **Precisão Garantida** e **Custo** 2 pontos de **Mana** em **Planos de Interpretação** como uma **Montaria** para uma ou mais **Unidades**, sendo sua **Velocidade** igual ao **Domínio** somado a **Maestria**, durando até o fim do **Plano**.
 
 ### Toque Frio
 
@@ -295,9 +295,9 @@ Magia de Fogo, Mobilidade e Ofensivo, Individual.
 
 **Precisão Normal** e **Custa** 8 pontos de **Mana**.
 
-Em um piscar de olhos você se teletransporta para um novo local, deixando um rastro de destruição onde passou. Executa uma **Ação de Movimento** adicional, porém com a **Velocidade** somada ao **Alcance**. No trajetória, todos os **Oponente** que você passar sofrem **1d10** de **Dano**, ganhando 1 **Efeito** de **Aumento** de **Velocidade** por **Oponente** atingido.
+Em um piscar de olhos você se teletransporta para um novo local, deixando um rastro de destruição onde passou. Executa uma **Ação de Movimento** adicional, porém com a **Velocidade** somada ao **Alcance**. Na trajetória, todos os **Oponente** que você passar sofrem **1d10** de **Dano**, ganhando 1 **Efeito** de **Aumento** de **Velocidade** por **Oponente** atingido.
 
-Pode ser usado com **Precisão Garantida** e **Custo** 4 pontos de **Mana** em **Planos de Interpretação** como uma **Montaria**, sendo sua **Velocidade** igual ao **Alcance** somado a **Domínio** e **Maestria**, durando até o fim o **Plano** e não causando **Dano**.
+Pode ser usado com **Precisão Garantida** e **Custo** 4 pontos de **Mana** em **Planos de Interpretação** como uma **Montaria**, sendo sua **Velocidade** igual ao **Alcance** somado a **Domínio** e **Maestria**, durando até o fim do **Plano** e não causando **Dano**.
 
 ### Túmulo de Pedra
 
@@ -375,7 +375,7 @@ Arremessa ao ar seu adversário o mais alto que puder. Se o **Oponente** não fo
 
 Talento Mágico de Fogo, Ofensivo.
 
-Em alguns momentos você consegue usar o fogo da sua forma mais concentrada. Nos seus **Turnos** pares as **Magias de Fogo** se tornam azuis, fazendo que quando acertem sempre sejam **Criticamente**.
+Em alguns momentos você consegue usar o fogo da sua forma mais concentrada. Nos seus **Turnos** pares as **Magias de Fogo** se tornam azuis, fazendo que quando acertem sempre sejam **Crítico**.
 
 ### Ignição Espontânea
 
