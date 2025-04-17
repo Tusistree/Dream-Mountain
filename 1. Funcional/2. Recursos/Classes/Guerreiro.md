@@ -23,12 +23,6 @@ Habilidade Física, Controle e Ofensivo, Cone.
 
 Imitando uma fase da lua você realiza um ataque menor, empurrando seus oponentes e os incapacitando. Em uma área cônica de 3 metros, que não pode ser afetada por seu **Atributo** de **Alcance**, você realiza metade de um **Ataque** em todos os **Oponentes** atingidos, além de os mover 1 metro para a direita do **Cone**, os aplicando 2 **Efeitos** de **Redução** de **Velocidade**.
 
-### Aparar
-
-Talento Físico, Defensivo e Ofensivo.
-
-Seus reflexos afiados te dão oportunidades de defender completamente os ataques. Ao sofrer um **Ataque** com alcance de **Toque** você tem uma chance de o anular, com um arremesso de um **1d20**. É necessária uma **Precisão Crítica**, e se não tiver um **Escudo** equipado apenas metade do **Dano** e **Efeitos** será anulado.
-
 ### Defesa Simples
 
 Talento Físico, Defensivo.
@@ -55,55 +49,75 @@ Habilidade Física, Controle, Toque.
 
 **Precisão Normal** e **Custa** 2 ponto de **Mana**.
 
-Um ataque entre o queixo e o pescoço, impossibilitando a conjuração de magias ou a estabilidade de habilidades. Essa **Habilidade** só pode ser usada fora de seu **Turno**, apenas uma vez até voltar o seu **Turno** e possui 1 metro de **Alcance** adicional. Anula a **Habilidade** de um **Oponente**, se aproximando a ele.
+Um ataque entre o queixo e o pescoço, impossibilitando a conjuração de magias ou a estabilidade de habilidades. Essa **Habilidade** só pode ser usada fora de seu **Turno**, apenas uma vez até voltar o seu **Turno** e possui 1 metro de **Alcance** adicional. Anula a **Habilidade** de um **Oponente**, se aproximando dele.
+
+### Segundo Fôlego
+
+Talento Físico, Recuperação.
+
+Você consegue encontrar brechas na batalha para se recuperar. No começo de seus **Turnos** você recupera 1 ponto de **Vida**, ou 2 se estiver com metade dos pontos de **Vida** ou inferior.
 
 # Nível 1 (Regular)
 
+### Aparar
+
+Talento Físico, Defensivo e Ofensivo.
+
+Seus reflexos afiados te dão oportunidades de defender completamente os ataques. Ao sofrer um **Ataque** com alcance de **Toque** você tem uma chance de o anular, com um arremesso de um **1d20**. É necessária uma **Precisão Crítica**, e se não tiver um **Escudo** equipado apenas metade do **Dano** e **Efeitos** serão anulados.
+
+### Contra-Ataque
+
+Habilidade Física, Controle, Toque.
+
+**Precisão Normal** e **Custa** 3 pontos de **Mana**.
+
+A arte de bloquear ataques é a mesma de devolver na mesma moeda. Essa **Habilidade** só pode ser usada fora de seu **Turno**, apenas uma vez até voltar o seu **Turno** e possui 1 metro de **Alcance** adicional. Anula o **Ataque** de um **Oponente**, se aproximando dele e devolvendo o **Dano**, mas sem escalar com sua **Maestria**.
+
+Pode ser usado apenas uma vez por **Plano** com **Precisão Garantida** em **Planos de Interpretação** fazendo com que um **Ataque** feito por um **Oponente** seja anulado e não comece o **Plano de Combate**, dando ao seu grupo 1 modificador adicional em **Ações de Interpretação**.
+
+### Comando
+
+Talento Físico, Ofensivo e Utilidade.
+
+Sua liderança em combate inspira seus aliados a realizarem suas melhores ofensivas. Marca permanentemente o último **Oponente** que você acertou um **Ataque** ou **Habilidade**, se essa **Ação** acertou mais de um **Oponente** ao mesmo tempo ambos terão a marca de **Comando**. **Aliados** tem um aumento de 1 de **Ataque** e **Maestria** contra esses **Oponentes**.
+
 ### Desvantagem Tática
 
-Talento Físico, Ofensivo.
+Talento Físico, Defensivo e Ofensivo.
 
 Apenas lutas desfavoráveis podem revelar o seu valor. Aumenta o seu **Ataque** e **Defesa** em 1 para cada **Oponente** mais próximo que algum **Aliado**, esses valores adicionais não podem ser superiores a 3.
 
-### Habilidade
+### Golpe de Escudo
 
-Texto.
+Habilidade Física, Controle, Toque.
 
-Texto.
+**Precisão Normal**, requer **Escudo** e **Custa** 2 pontos de **Mana**.
 
-### Habilidade
+A mesma força para desestabilizar seus adversários com o escudo pode ser usado como uma pancada ao chão, chamando a atenção de todos. Realiza um **Ataque** no **Oponente**, porém com apenas metade do **Dano** e **Maestria**, o fazendo receber 3 **Efeitos** de **Redução** de **Ataque**, ou **Maestria** a sua escolha.
 
-Texto.
+Pode ser usado apenas uma vez por **Plano** com **Precisão Garantida** em **Planos de Interpretação** fazendo com que você comece imediatamente o **Plano de Combate**, porém com o foco de todos os **Monstros** e **NPCs** a você.
 
-Texto.
+### Estender
 
-### Habilidade
+Habilidade Física, Ofensivo e Utilidade, Toque.
 
-Texto.
+**Precisão Normal**, requer alguma **Arma** e **Custa** 2 pontos de **Mana**.
 
-Texto.
+Com pequenos avanços você consegue ter todos os adversários ao seu alcance. Realiza um **Ataque** no **Oponente**, porém se ele estiver em até 3 metros de diferença de você se aproxima dele para realizar esse **Ataque**. O mesmo ocorre para seu próximo **Ataque Básico** nesse **Turno**.
 
-### Habilidade
-
-Texto.
-
-Texto.
-
-### Habilidade
-
-Texto.
-
-Texto.
+Pode ser usado apenas uma vez por **Plano** com **Precisão Garantida** em **Planos de Interpretação** fazendo com que você comece imediatamente o **Plano de Combate**, porém posicionado a frente de qualquer **Unidade**.
 
 # Nível 2 (Entusiasta)
 
-### Habilidade
+### Investida
 
-Texto.
+Habilidade Física, Mobilidade, Individual.
 
-Texto.
+**Precisão Normal** e **Custa** 4 pontos de **Mana**.
 
-### Habilidade
+Em um ímpeto de guerra você corre contra um adversário o incapacitando. Avança em linha reta contra um **Oponente** o aplicando 1 **Efeito** de **Enraizamento**, além disso você e o **Alvo** são movidos 1 metro da direção oposta dessa **Habilidade**. o **Alcance** dessa **Habilidade** também é influenciado pela **Maestria** e **Velocidade*.
+
+### Cutilada
 
 Texto.
 

@@ -6,14 +6,6 @@
 
         ↪ Você consegue encontrar brechas na batalha para poder se recuperar, fazendo com que sempre ao receber um Ataque Básico, se caso ele tenha sido totalmente mitigado de qualquer forma, restaure 1 Pontos de Vida. Além disso recebe 1 ponto de Dano reduzido de qualquer fonte que não seja por Marcadores.
 
-    ↪ Pancada de Escudo.
-
-        ↪ Habilidade, Controle, Toque.
-
-        ↪ Requer: Escudo.
-
-        ↪ Empurra o Escudo com uma força violenta, destabilizando o inimigo, realizando um Ataque Básico nele, apenas com metade do Dano, e diminuindo o Ataque do alvo em 2 (Através de Marcadores Negativos).
-
     ↪ Insultar
 
         ↪ Habilidade, Controle, Individual.
@@ -41,7 +33,6 @@
         ↪ Talento, Interpretação.
 
         ↪ Confiando em suas habilidades você tem um modificador adicional em Superação, incrementado para dois caso haja alguém vulnerável, gravemente ferido ou aterrorizado.
-
 
 ↪ Resh (Classe 9, Regular)
 
@@ -96,7 +87,6 @@
         ↪ Talento, Interpretação.
 
         ↪ Por sempre estar lutando na linha de frente você é um exemplo de guerreiro a ser seguido, dando um modificador de Superação para todos o membros do grupo, com exceção de você que recebe dois Modificadores.
-
 
 ↪ Ayin (Classe 8, Entusiasta)
 
@@ -155,187 +145,3 @@
         ↪ Com um passado de vários combates para você feridas não são nada. Ganha dois Modificadores de Resistência, incrementado para três ao aguentar um Ataque ou Habilidade.
 
         ↪ Na primeira vez que sofrer um Ataque Básico no Plano de Combate, você pode com um acerto crítico, retornar o jogo para o Plano de Interpretação.
-
-
-↪ Samek (Classe 7, Profissional)
-
-    ↪
-
-        ↪
-
-    ↪
-
-        ↪
-
-    ↪
-
-        ↪
-
-    ↪
-
-        ↪
-
-    ↪
-
-        ↪
-
-
-↪ Kaph (Classe 6, Veterano)
-
-    ↪
-
-        ↪
-
-    ↪
-
-        ↪
-
-    ↪
-
-        ↪
-
-    ↪
-
-        ↪
-
-    ↪
-
-        ↪
-
-
-↪ Yod (Classe 5, Mestre)
-
-    ↪
-
-        ↪
-
-    ↪
-
-        ↪
-
-    ↪
-
-        ↪
-
-    ↪
-
-        ↪
-
-    ↪
-
-        ↪
-
-
-↪ Tet (Classe 4, Gênio)
-
-    ↪
-
-        ↪
-
-    ↪
-
-        ↪
-
-    ↪
-
-        ↪
-
-    ↪
-
-        ↪
-
-    ↪
-
-        ↪
-
-
-↪ Het (Classe 3, Senhor)
-
-    ↪
-
-        ↪
-
-    ↪
-
-        ↪
-
-    ↪
-
-        ↪
-
-    ↪
-
-        ↪
-
-    ↪
-
-        ↪
-
-
-↪ Zayin (Classe 2, Lenda)
-
-    ↪
-
-        ↪
-
-    ↪
-
-        ↪
-
-    ↪
-
-        ↪
-
-    ↪
-
-        ↪
-
-    ↪
-
-        ↪
-
-
-↪ Dalet (Classe 1, Rei)
-
-    ↪
-
-        ↪
-
-    ↪
-
-        ↪
-
-    ↪
-
-        ↪
-
-    ↪
-
-        ↪
-
-    ↪
-
-        ↪
-
-
-↪ Aleph (Classe 0 ou Especial, Deus)
-
-    ↪
-
-        ↪
-
-    ↪
-
-        ↪
-
-    ↪
-
-        ↪
-
-    ↪
-
-        ↪
-
-    ↪
-
-        ↪
