@@ -1,17 +1,3 @@
-↪ Shin (Classe 10 ou Básica, Novato)
-
-    ↪ Defesa Simples.
-
-        ↪ Talento, Defensivo.
-
-        ↪ Sendo experiente em combates você tem a Defesa aumentada em 2, incrementado para 4 enquanto usar alguma Arma de Duas Mãos ou ao usar duas Armas.
-
-    ↪ Desvantagem Tática.
-
-        ↪ Talento, Ofensivo.
-
-        ↪ Sempre preferindo por brigas desfavoráveis você tem o Ataque aumentado em 1 a cada dois inimigos dentro do alcance Corpo a Corpo, até o máximo de 3.  
-
     ↪ Acerto Minguante.
 
         ↪ Habilidade, Ofensivo, Toque.
@@ -43,13 +29,6 @@
         ↪ Custo: 4 Pontos de Mana, Precisão Normal (maior ou igual a 7 no d20), Uma Arma de Uma Mão equipada.
 
         ↪ Assim como uma lança você dispara sua Arma contra um inimigo, Causando o Dano Físico igual a metade do seu Ataque. A Arma usada no Custo cai no chão na posição do alvo, em caso de crítico fica presa no alvo. Quando você se aproximar da Arma ela é recuperada.
-
-    ↪ Musculatura.
-
-        ↪ Talento, Interpretação.
-
-        ↪ Por passar a vida inteira carregando Armas pesadas você desenvolveu muitos muscúlos, tendo um modificador adicional em tarefas que exigem Exercício, incrementado para dois se for carregar alguma coisa.
-
 
 ↪ Resh (Classe 9, Regular)
 

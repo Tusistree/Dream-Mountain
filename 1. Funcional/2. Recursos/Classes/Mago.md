@@ -7,7 +7,7 @@ Eles podem usar **Habilidades** para eliminar vários alvos simultâneos, contro
 
 # Nível Inicial (Novato)
 
-### Principal: Instabilidade
+### **Principal: Instabilidade**
 
 Talento Principal.
 

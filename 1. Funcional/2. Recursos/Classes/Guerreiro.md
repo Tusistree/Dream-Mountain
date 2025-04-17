@@ -7,7 +7,7 @@ Possuem a mesma quantia de **Talentos** quanto **Habilidades**, feitos para resi
 
 # Nível Inicial (Novato)
 
-### Principal: Cicatrizes
+### **Principal: Cicatrizes**
 
 Talento Principal.
 
@@ -15,49 +15,55 @@ Participar de várias lutas faz com que você sempre aprenda algo novo a cada co
 
 Para **Oponentes** do tipo **Chefe** há uma nova contagem, sendo um máximo de pontos ganhos igual ao seu **Nível**, e os distribuindo apenas entre **Defesa** e **Letalidade**.
 
-### Habilidade
+### Acerto Minguante
 
-Texto.
+Habilidade Física, Controle e Ofensivo, Cone.
 
-Texto.
+**Precisão Normal**, requer alguma **Arma** e **Custa** 1 ponto de **Mana**.
 
-### Habilidade
+Imitando uma fase da lua você realiza um ataque menor, empurrando seus oponentes e os incapacitando. Em uma área cônica de 3 metros, que não pode ser afetada por seu **Atributo** de **Alcance**, você realiza metade de um **Ataque** em todos os **Oponentes** atingidos, além de os mover 1 metro para a direita do **Cone**, os aplicando 2 **Efeitos** de **Redução** de **Velocidade**.
 
-Texto.
+### Aparar
 
-Texto.
+Talento Físico, Defensivo e Ofensivo.
 
-### Habilidade
+Seus reflexos afiados te dão oportunidades de defender completamente os ataques. Ao sofrer um **Ataque** com alcance de **Toque** você tem uma chance de o anular, com um arremesso de um **1d20**. É necessária uma **Precisão Crítica**, e se não tiver um **Escudo** equipado apenas metade do **Dano** e **Efeitos** será anulado.
 
-Texto.
+### Defesa Simples
 
-Texto.
+Talento Físico, Defensivo.
 
-### Habilidade
+Mesmo sem escudo você ainda consegue resistir a golpes. Sua **Defesa** é permanentemente aumentada em 1, ou em 2 caso você esteja com um **Escudo** equipado.
 
-Texto.
+### Golpe Crescente
 
-Texto.
+Habilidade Física, Ofensivo, Cone.
 
-### Habilidade
+**Precisão Normal**, requer alguma **Arma** e **Custa** 2 pontos de **Mana**.
 
-Texto.
+Imitando uma fase da lua você realiza um ataque poderosos empurrando seus oponentes. Em uma área cônica de 3 metros, que não pode ser afetada por seu **Atributo** de **Alcance**, você realiza um **Ataque** em todos os **Oponentes** atingidos, além de os mover 1 metro para a direita do **Cone**.
 
-Texto.
+### Musculatura
 
-### Habilidade
+Talento Físico, Defensivo e Ofensivo.
 
-Texto.
+Seu treinamento intenso o concedeu um corpo ideal para conflitos armados. Aumenta a **Vitalidade** em 1, e o seu **Ataque** é aumentado em 1 para cada **Arma** equipada.
 
-Texto.
+### Pancada
+
+Habilidade Física, Controle, Toque.
+
+**Precisão Normal** e **Custa** 2 ponto de **Mana**.
+
+Um ataque entre o queixo e o pescoço, impossibilitando a conjuração de magias ou a estabilidade de habilidades. Essa **Habilidade** só pode ser usada fora de seu **Turno**, apenas uma vez até voltar o seu **Turno** e possui 1 metro de **Alcance** adicional. Anula a **Habilidade** de um **Oponente**, se aproximando a ele.
 
 # Nível 1 (Regular)
 
-### Habilidade
+### Desvantagem Tática
 
-Texto.
+Talento Físico, Ofensivo.
 
-Texto.
+Apenas lutas desfavoráveis podem revelar o seu valor. Aumenta o seu **Ataque** e **Defesa** em 1 para cada **Oponente** mais próximo que algum **Aliado**, esses valores adicionais não podem ser superiores a 3.
 
 ### Habilidade
 

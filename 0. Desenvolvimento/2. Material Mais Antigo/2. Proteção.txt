@@ -1,11 +1,5 @@
 ↪ Shin (Classe 10 ou Básica, Novato)
 
-    ↪ Defesa Maior.
-
-        ↪ Talento, Defensivo.
-
-        ↪ Com sua especialidade em linha de frente você tem a Defesa Aumentada em 4, Incrementado para 6 enquanto usar um Escudo.
-
     ↪ Segundo Fôlego.
 
         ↪ Talento, Defensivo.
