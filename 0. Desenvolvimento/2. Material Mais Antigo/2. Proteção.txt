@@ -1,11 +1,5 @@
 ↪ Shin (Classe 10 ou Básica, Novato)
 
-    ↪ Segundo Fôlego.
-
-        ↪ Talento, Defensivo.
-
-        ↪ Você consegue encontrar brechas na batalha para poder se recuperar, fazendo com que sempre ao receber um Ataque Básico, se caso ele tenha sido totalmente mitigado de qualquer forma, restaure 1 Pontos de Vida. Além disso recebe 1 ponto de Dano reduzido de qualquer fonte que não seja por Marcadores.
-
     ↪ Insultar
 
         ↪ Habilidade, Controle, Individual.

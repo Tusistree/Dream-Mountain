@@ -18,14 +18,6 @@
 
         ↪ Sendo familiar com diversas Armas, no turno você pode Equipar e/ou Desequipar uma Arma adicional, e até uma vez no Combate também pode Equipar e/ou Desequipar uma Arma fora de seu Turno (sendo considerado uma Habilidade do Tipo Interrupção, mas sem custos ou ações).
 
-    ↪ Ataques Gêmeos.
-
-        ↪ Talento, Ofensivo.
-
-        ↪ Aumenta o Ataque em 2.
-
-        ↪ Como um inimigo só nunca é o suficiente, ao realizar um Ataque Básico usando alguma Arma você também pode realizar outro, sem consumir Ações, a uma nova unidade dentro do seu alcance Corpo a Corpo, mas esse ataque adicional causa apenas metade do Dano.
-
     ↪ Vórtice de Lâminas
 
         ↪ Habilidade, Mobilidade, Individual.
@@ -59,14 +51,6 @@
         ↪ Ganha um modificador adicional para Percepção no geral, incrementado para dois ao tentar ao usar essa Habilidade.
 
 ↪ Ayin (Classe 8, Entusiasta)
-
-    ↪ Resiliência.
-
-        ↪ Talento, Defensivo.
-
-        ↪ Aumenta a Defesa em 4.
-
-        ↪ Torna-se mais forte ao ser ferido, fazendo com que ao sofrer Dano Físico que não seja por Marcadores, aumenta o seu Ataque em 1, com um máximo de 6 por esse Talento, até o final do Combate.
 
     ↪ Precisão Militar.
 

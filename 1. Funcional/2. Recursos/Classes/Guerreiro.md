@@ -109,45 +109,55 @@ Pode ser usado apenas uma vez por **Plano** com **Precisão Garantida** em **Pla
 
 # Nível 2 (Entusiasta)
 
+### Ataques Gêmeos
+
+Habilidade Física, Ofensivo, Toque.
+
+**Precisão Normal**, requer alguma **Arma** e **Custa** 5 pontos de **Mana**.
+
+Realiza dois golpes velozes, ambos fatais. Realiza dois **Ataques** contra o **Oponente**, cada um deles escalando com a sua **Maestria** separadamente.
+
+### Competência
+
+Talento Físico, Ofensivo.
+
+Você se torna mais forte a medida da sua precisão. Toda vez que você acertar um **Ataque** ou **Habilidade** aumenta o seu **Ataque** e **Maestria** em 1 permanentemente até o fim do **Plano**. Esses valores adicionais não pode ser superiores a 3.
+
+### Cutilada
+
+Habilidade Física, Controle e Ofensivo, Toque.
+
+**Precisão Normal** e **Custa** 3 pontos de **Mana**.
+
+Um ataque sangramento usando a parte mais fina e afiada da arma. Realiza um **Ataque** no **Oponente**, porém com apenas metade do **Dano** e **Maestria**, o fazendo receber 3 **Efeitos** de **Sangramento**, ou 2 de **Desgaste** a sua escolha.
+
 ### Investida
 
 Habilidade Física, Mobilidade, Individual.
 
 **Precisão Normal** e **Custa** 4 pontos de **Mana**.
 
-Em um ímpeto de guerra você corre contra um adversário o incapacitando. Avança em linha reta contra um **Oponente** o aplicando 1 **Efeito** de **Enraizamento**, além disso você e o **Alvo** são movidos 1 metro da direção oposta dessa **Habilidade**. o **Alcance** dessa **Habilidade** também é influenciado pela **Maestria** e **Velocidade*.
+Em um ímpeto de guerra você corre contra um adversário o incapacitando. Avança em linha reta contra um **Oponente** o aplicando 1 **Efeito** de **Enraizamento**, além disso você e o **Alvo** são movidos 1 metro da direção oposta dessa **Habilidade**. o **Alcance** dessa **Habilidade** também é influenciado pela **Maestria** e **Velocidade**.
 
-### Cutilada
+### Ímpeto
 
-Texto.
+Talento Físico, Mobilidade.
 
-Texto.
+Você se torna mais veloz a medida dos seus movimentos. Toda vez que você usar uma **Ação de Movimentação** aumenta a sua **Velocidade** em 1 permanentemente até o fim do **Plano**. Esse valor adicional não pode ser superior a 6.
 
-### Habilidade
+### Resiliência
 
-Texto.
+Talento Físico, Defensivo.
 
-Texto.
-
-### Habilidade
-
-Texto.
-
-Texto.
-
-### Habilidade
-
-Texto.
-
-Texto.
-
-### Habilidade
-
-Texto.
-
-Texto.
+Você se torna mais resistente a medida dos ferimentos. Toda vez que você sofrer um **Ataque** ou **Habilidade** aumenta a sua **Defesa** em 1 permanentemente até o fim do **Plano**. Esse valor adicional não pode ser superior a 6.
 
 # Nível 3 (Especialista)
+
+### Ameaça Viva
+
+Texto.
+
+Texto.
 
 ### Abrir Defesas
 
@@ -157,13 +167,7 @@ Aumenta a Força e Agilidade em 1.
 
 O poder de seus golpes desestabilizam os oponentes, fazendo com que esses oponentes fiquem marcados. Aliados tem 1 Ponto de Dano e Maestria aumentado quando atacar ou usar habilidades contra esses oponentes.
 
-### Habilidade
-
-Texto.
-
-Texto.
-
-### Habilidade
+### Precisão Militar
 
 Texto.
 
