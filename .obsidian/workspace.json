@@ -23,7 +23,7 @@
             }
           },
           {
-            "id": "a07e093b384284e9",
+            "id": "1b72fd5e3efa39c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -268,12 +268,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a07e093b384284e9",
+  "active": "1b72fd5e3efa39c8",
   "lastOpenFiles": [
-    "1. Funcional/2. Recursos/Classes/Mago.md",
-    "1. Funcional/2. Recursos/Classes/Guerreiro.md",
     "1. Funcional/2. Recursos/Classes/Ladino.md",
+    "1. Funcional/2. Recursos/Classes/Guerreiro.md",
+    "0. Desenvolvimento/0. Rascunhos/Referências/Imagens/Pasted image 20250212170251.png",
     "1. Funcional/2. Recursos/Classes/Classes.md",
+    "1. Funcional/2. Recursos/Classes/Mago.md",
     "1. Funcional/1. Sistema/Mecânicas/Habilidades.md",
     "1. Funcional/1. Sistema/Mecânicas/Atributos.md",
     "1. Funcional/1. Sistema/Mecânicas/Efeitos.md",
@@ -307,7 +308,6 @@
     "1. Funcional/2. Recursos/Unidades/Raças Jogáveis/Mágicas/Ravari.md",
     "1. Funcional/2. Recursos/Unidades/Raças Jogáveis/Mágicas/Nufia.md",
     "Pasted image 20250330143144.png",
-    "0. Desenvolvimento/0. Rascunhos/Referências/Imagens/Pasted image 20250212170251.png",
     "Pasted image 20250106145205.png",
     "Notas/Untitled.canvas"
   ]
