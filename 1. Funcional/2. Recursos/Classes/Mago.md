@@ -2,8 +2,8 @@
 
 Eles podem usar **Habilidades** para eliminar vários alvos simultâneos, controlar situações e ajudar aliados, além de serem muito úteis para situações diversas. Suas funções podem ser:
 
-* Causar **Dano**, acompanhado de controle com diversos **Efeitos**.
-* Recuperar **Recursos**, podendo se especializar como suporte para seus aliados.
+* **Dano**: acompanhado de controle com diversos **Efeitos**.
+* **Suporte**: recuperar recursos para você e seus aliados.
 
 # Nível Inicial (Novato)
 
@@ -167,7 +167,7 @@ Magia Interpretativa de Terra, Utilidade.
 
 **Precisão Garantida** e **Custa** 4 pontos de **Mana**.
 
-Texto. Cria um baú em uma **Zona** onde todos os **Inimigos** principais já foram derrotados. **Aliados** que tocarem em um **Baú de Ferro** podem armazenar até 18 **Itens**, por indivíduo, e os consultar ou retirar em outros **Baús de Ferro**. Essa **Utilidade** só pode ocorrer com ausência de **Oponentes**.
+Uma estrutura metálica surge do chão e se abre, revelando todos os seus pertences. Cria um baú em uma **Zona** onde todos os **Inimigos** principais já foram derrotados. **Aliados** que tocarem em um **Baú de Ferro** podem armazenar até 18 **Itens**, por indivíduo, e os consultar ou retirar em outros **Baús de Ferro**. Essa **Utilidade** só pode ocorrer com ausência de **Oponentes**.
 
 ### Criar Fogueira
 

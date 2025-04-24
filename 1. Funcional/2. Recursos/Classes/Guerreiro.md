@@ -2,8 +2,8 @@ Guerreiros usam o poder misterioso da **Mana** para aumentar suas capacidades f�
 
 Possuem a mesma quantia de **Talentos** quanto **Habilidades**, feitos para resistir ou amplificar **Ataques**. Suas funções são:
 
-* Causar **Dano**, de todas as formas possíveis contra todos os tipos de oponentes.
-* Resistir a **Dano**, tendo proteção contra qualquer tipo de ameaça.
+* **Dano**: de todas as formas possíveis contra todos os tipos de oponentes.
+* **Tanque**: Resistir a **Ataques**, tendo proteção contra qualquer tipo de ameaça.
 
 # Nível Inicial (Novato)
 
@@ -155,25 +155,23 @@ Você se torna mais resistente a medida dos ferimentos. Toda vez que você sofre
 
 ### Ameaça Viva
 
-Texto.
+Talento Físico, Ofensivo.
 
-Texto.
+Sua maestria em combate faz você revidar qualquer golpe. Aumenta a **Defesa** em 3. Devolve metade do **Dano** mitigado, arredondado para cima, para seu dono, mas apenas se a fonte for com **Alcance** de **Toque**.
 
 ### Abrir Defesas
 
-Talento, Ofensivo.
+Talento Físico, Ofensivo.
 
-Aumenta a Força e Agilidade em 1.
-
-O poder de seus golpes desestabilizam os oponentes, fazendo com que esses oponentes fiquem marcados. Aliados tem 1 Ponto de Dano e Maestria aumentado quando atacar ou usar habilidades contra esses oponentes.
+O poder de seus golpes desestabilizam os oponentes, os deixando oponentes vulneráveis. Aumenta o seu **Crítico** em 1. Ao realizar um acerto **Crítico** em um **Oponente**, ele recebe uma **Marcador** até o fim do **Combate** com um máximo de 3. Você e **Aliados** tem **Crítico** aumentado contra aquele **Alvo** igual a esse **Marcador**.
 
 ### Precisão Militar
 
-Texto.
+Talento Físico, Utilidade.
 
-Texto.
+Erros não são tolerados no fronte. Aumenta a sua **Precisão** em 1. Ao errar um **Ataque** ou **Habilidade** você ganha um **Marcador** até o fim do **Combate** com um máximo de 3. Sua **Precisão** é aumentada com base nesse **Marcador**, porém ele é removido ao efetivamente acertar um **Ataque** ou **Habilidade**.
 
-### Habilidade
+### Exercer
 
 Texto.
 
