@@ -2,20 +2,19 @@
 
 Raças. ✔️
 Sistema. ✔️
+Equipamentos. ✔️
+Armas. ✔️
+Classes. ✔️
+Mago. ✔️
 
-# Pendente da Primeira Campanha
+# Fazendo
 
-Recuperar e retrabalhar material antigo da primeira sessão.
-
-* Mago.
-
-# Principal
-
-Equipamentos.
-Armas.
-Classes.
 Guerreiro.
+
+# A fazer
+
 Ladino.
+
 # Extras
 
 Materiais.
