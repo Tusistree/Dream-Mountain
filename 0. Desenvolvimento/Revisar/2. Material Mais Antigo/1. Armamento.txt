@@ -52,12 +52,6 @@
 
 ↪ Ayin (Classe 8, Entusiasta)
 
-    ↪ Precisão Militar.
-
-        ↪ Talento, Ofensivo.
-
-        ↪ Os estudos e treinamentos de combate o permitiram a ser mais preciso contra os inimigos, aumentando o seu Ataque e Chance de Crítico em 1.
-
     ↪ Devastação.
 
         ↪ Habilidade, Ofensivo, Área.

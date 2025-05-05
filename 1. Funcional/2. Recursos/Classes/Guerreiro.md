@@ -1,4 +1,4 @@
-Guerreiros usam o poder misterioso da **Mana** para aumentar suas capacidades físicas a um nível sobre-humano, fazendo com que possam ser resistentes como uma fortaleza ou tão mortais quantos armas que empunham.
+Guerreiros usam o poder misterioso da **Mana** para aumentar suas capacidades físicas a um nível sobre-humano, fazendo com que possam ser resistentes como uma fortaleza ou tão mortais quantos as próprias armas que empunham.
 
 Possuem a mesma quantia de **Talentos** quanto **Habilidades**, feitos para resistir ou amplificar **Ataques**. Suas funções são:
 
@@ -13,7 +13,7 @@ Talento Principal.
 
 Participar de várias lutas faz com que você sempre aprenda algo novo a cada conflito, aumentando sua força a medida de novas ameaças. Sempre que ganhar um **Plano de Combate** você pode escolher entre **Ataque** e **Vitalidade**, ganhando permanentemente um 1 ponto daquele **Atributo**. A quantia de pontos adicionais ganhos não pode superior a 3 vezes o seu **Nível**.
 
-Para **Oponentes** do tipo **Chefe** há uma nova contagem, sendo um máximo de pontos ganhos igual ao seu **Nível**, e os distribuindo apenas entre **Defesa** e **Letalidade**.
+Para **Oponentes** do tipo **Chefe** há uma nova contagem, sendo um máximo de pontos ganhos igual ao seu **Nível**, e os distribuindo apenas entre **Defesa** ou **Letalidade**.
 
 ### Acerto Minguante
 
@@ -55,7 +55,7 @@ Um ataque entre o queixo e o pescoço, impossibilitando a conjuração de magias
 
 Talento Físico, Recuperação.
 
-Você consegue encontrar brechas na batalha para se recuperar. No começo de seus **Turnos** você recupera 1 ponto de **Vida**, ou 2 se estiver com metade dos pontos de **Vida** ou inferior.
+Você consegue encontrar brechas na batalha para se recuperar. No começo de seus **Turnos** você recupera 1 ponto de **Vida**, ou 2 se estiver com metade dos pontos de **Vida** ou inferior, arredondado para baixo.
 
 # Nível 1 (Regular)
 
@@ -63,7 +63,7 @@ Você consegue encontrar brechas na batalha para se recuperar. No começo de seu
 
 Talento Físico, Defensivo e Ofensivo.
 
-Seus reflexos afiados te dão oportunidades de defender completamente os ataques. Ao sofrer um **Ataque** com alcance de **Toque** você tem uma chance de o anular, com um arremesso de um **1d20**. É necessária uma **Precisão Crítica**, e se não tiver um **Escudo** equipado apenas metade do **Dano** e **Efeitos** serão anulados.
+Seus reflexos são afiados ao ponto de te dar oportunidades para se defender completamente dos ataques. Ao sofrer um **Ataque** com alcance de **Toque** você tem uma chance de o anular, com um arremesso de um **1d20**. É necessária uma **Precisão Crítica**, e se não tiver um **Escudo** equipado apenas metade do **Dano** e **Efeitos** serão anulados.
 
 ### Contra-Ataque
 
@@ -153,35 +153,39 @@ Você se torna mais resistente a medida dos ferimentos. Toda vez que você sofre
 
 # Nível 3 (Especialista)
 
+### Abrir Defesas
+
+Talento Físico, Ofensivo.
+
+O poder de seus golpes desestabilizam os oponentes, os deixando vulneráveis. Aumenta o seu **Crítico** em 1. Ao realizar um acerto **Crítico** em um **Oponente**, ele recebe uma **Marcador** até o fim do **Combate** com um máximo de 3. Você e **Aliados** tem **Crítico** aumentado contra aquele **Alvo** igual a esse **Marcador**.
+
 ### Ameaça Viva
 
 Talento Físico, Ofensivo.
 
 Sua maestria em combate faz você revidar qualquer golpe. Aumenta a **Defesa** em 3. Devolve metade do **Dano** mitigado, arredondado para cima, para seu dono, mas apenas se a fonte for com **Alcance** de **Toque**.
 
-### Abrir Defesas
+### Exercer
 
-Talento Físico, Ofensivo.
+Habilidade Física Interpretativa, Utilidade, Individual.
 
-O poder de seus golpes desestabilizam os oponentes, os deixando oponentes vulneráveis. Aumenta o seu **Crítico** em 1. Ao realizar um acerto **Crítico** em um **Oponente**, ele recebe uma **Marcador** até o fim do **Combate** com um máximo de 3. Você e **Aliados** tem **Crítico** aumentado contra aquele **Alvo** igual a esse **Marcador**.
+**Precisão Normal** e **Custa** 3 pontos de **Mana**.
+
+Anos de treinamento o fizeram uma máquina para qualquer atividade física. Garante um acerto na próxima **Ação de Interpretação** que envolva **Exercício** ou **Mobilidade** neste **Plano**, ainda há o lançamento de **Dado** para possibilidade de **Crítico**.
+
+### Intimidação
+
+Habilidade Física Interpretativa, Controle, Individual.
+
+**Precisão Normal** e **Custa** 3 pontos de **Mana**.
+
+Texto.
 
 ### Precisão Militar
 
 Talento Físico, Utilidade.
 
 Erros não são tolerados no fronte. Aumenta a sua **Precisão** em 1. Ao errar um **Ataque** ou **Habilidade** você ganha um **Marcador** até o fim do **Combate** com um máximo de 3. Sua **Precisão** é aumentada com base nesse **Marcador**, porém ele é removido ao efetivamente acertar um **Ataque** ou **Habilidade**.
-
-### Exercer
-
-Texto.
-
-Texto.
-
-### Habilidade
-
-Texto.
-
-Texto.
 
 ### Habilidade
 
@@ -416,3 +420,6 @@ Texto.
 Texto.
 
 Texto.
+
+block
+cleave
