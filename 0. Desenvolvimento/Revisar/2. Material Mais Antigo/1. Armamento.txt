@@ -1,23 +1,3 @@
-    ↪ Arremesso de Arma.
-
-        ↪ Habilidade, Ofensivo, Projétil.
-
-        ↪ Requer: Arma, Alcance de 10 metros.
-
-        ↪ Custo: 4 Pontos de Mana, Precisão Normal (maior ou igual a 7 no d20), Uma Arma de Uma Mão equipada.
-
-        ↪ Assim como uma lança você dispara sua Arma contra um inimigo, Causando o Dano Físico igual a metade do seu Ataque. A Arma usada no Custo cai no chão na posição do alvo, em caso de crítico fica presa no alvo. Quando você se aproximar da Arma ela é recuperada.
-
-↪ Resh (Classe 9, Regular)
-
-    ↪ Combate Versátil.
-
-        ↪ Talento, Utilidade.
-
-        ↪ Aumenta a Força e Agilidade em 1.
-
-        ↪ Sendo familiar com diversas Armas, no turno você pode Equipar e/ou Desequipar uma Arma adicional, e até uma vez no Combate também pode Equipar e/ou Desequipar uma Arma fora de seu Turno (sendo considerado uma Habilidade do Tipo Interrupção, mas sem custos ou ações).
-
     ↪ Vórtice de Lâminas
 
         ↪ Habilidade, Mobilidade, Individual.
@@ -32,46 +12,6 @@
 
         ↪ Assim como o uso de uma habilidade, Vórtice de Lâminas pode ser desativado tanto no começo quanto no fim do Turno, mas sem consumir alguma ação.
 
-    ↪ Salto Triunfal
-
-        ↪ Habilidade, Mobilidade, Individual.
-
-        ↪ Requer: Arma de Duas Mãos, Alcance 1d12 (o dobro no caso de crítico).
-
-        ↪ Custo: 7 Pontos de Mana, Precisão Garantida (sem arremesso de dados).
-
-        ↪ Prepara-se para realizar um grande pulo, saltando até um alvo e realizando um Ataque Básico, também o aplicando 1d6 de Marcadores de Lentidão.
-
-    ↪ Reconhecer Armas.
-
-        ↪ Talento, Interpretação.
-
-        ↪ Com muito estudo e uso de diversas Armas você ganhou a habilidade de reconhecer qualquer uma, não importan onde esteja, podendo assim realizar um teste de Percepção para saber quantas Armas o alvo possui e quais são.
-
-        ↪ Ganha um modificador adicional para Percepção no geral, incrementado para dois ao tentar ao usar essa Habilidade.
-
-↪ Ayin (Classe 8, Entusiasta)
-
-    ↪ Devastação.
-
-        ↪ Habilidade, Ofensivo, Área.
-
-        ↪ Requer: Arma de Duas Mãos, Alcance 5 metros.
-
-        ↪ Custo: 8 Pontos de Mana, Precisão Garantida (sem arremesso de dados).
-
-        ↪ Com uma força colossal você golpeia o chão, reduzindo a Defesa dos oponentes ao redor em 1d8 (em Marcadores).
-
-    ↪ Grito de Coragem.
-
-        ↪ Habilidade, Suporte, Individual.
-
-        ↪ Requer: Alcance de 5 metros + o Atributo de Comunicação.
-
-        ↪ Custo: 7 Pontos de Mana, Precisão Garantida (sem arremesso de dados).
-
-        ↪ Inspira seu aliado a superar suas fraquezas, realizando nele uma Dissipação Fraca em seus Marcadores Negativos, ele também recebe 2 Marcadores de Força.
-
     ↪ Sequência de Cortes.
 
         ↪ Habilidade, Ofensivo, Toque.
@@ -81,11 +21,3 @@
         ↪ Custo: 5 Pontos de Mana, Precisão Normal (maior ou igual a 7 no d20).
 
         ↪ A próxima vez que você realizar um Ataque Básico nesse turno, é realizado um Ataque Básico adicional, ambos ignorando um 1d6 de Defesa do Alvo (de forma Individual).
-
-    ↪ Ameaça Viva.
-
-        ↪ Talento, Interpretação.
-
-        ↪ De tantos combates vencidos você emite uma aura de hostilidade para qualquer que querer te desafiar, aumentando a Intimidação em um, incrementado para dois se o alvo já estiver seno hostil com seu grupo.
-
-        ↪ No começo de um combate realiza um teste de Intimidação, se houver um acerto crítico e tiver mais de um oponente, um dos oponentes fogem daquele combate com medo (não participando).

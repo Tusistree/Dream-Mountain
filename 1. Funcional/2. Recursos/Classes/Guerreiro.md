@@ -127,7 +127,7 @@ Você se torna mais forte a medida da sua precisão. Toda vez que você acertar 
 
 Habilidade Física, Controle e Ofensivo, Toque.
 
-**Precisão Normal** e **Custa** 3 pontos de **Mana**.
+**Precisão Normal**, requer alguma **Arma** e **Custa** 3 pontos de **Mana**.
 
 Um ataque sangramento usando a parte mais fina e afiada da arma. Realiza um **Ataque** no **Oponente**, porém com apenas metade do **Dano** e **Maestria**, o fazendo receber 3 **Efeitos** de **Sangramento**, ou 2 de **Desgaste** a sua escolha.
 
@@ -177,9 +177,9 @@ Anos de treinamento o fizeram uma máquina para qualquer atividade física. Gara
 
 Habilidade Física Interpretativa, Controle, Individual.
 
-**Precisão Normal** e **Custa** 3 pontos de **Mana**.
+**Precisão Normal** e **Custa** 5 pontos de **Mana**.
 
-Texto.
+Você consegue expressar todas as atrocidades que quer cometer com alguém apenas no olhar. Assusta e inutiliza um **Alvo**, fazendo ele correr e não participar do **Combate**. Só pode ser usado uma vez por **Plano**, e apenas contra **Alvos** com nível semelhante ou inferior ao seu e sem ser **Chefes**. Acerto **Crítico** assusta até 3 **Alvos** de uma vez.
 
 ### Precisão Militar
 
@@ -187,83 +187,91 @@ Talento Físico, Utilidade.
 
 Erros não são tolerados no fronte. Aumenta a sua **Precisão** em 1. Ao errar um **Ataque** ou **Habilidade** você ganha um **Marcador** até o fim do **Combate** com um máximo de 3. Sua **Precisão** é aumentada com base nesse **Marcador**, porém ele é removido ao efetivamente acertar um **Ataque** ou **Habilidade**.
 
-### Habilidade
+### Reconhecer Equipamento
 
-Texto.
+Habilidade Física Interpretativa, Utilidade, Toque.
 
-Texto.
+**Precisão Garantida** e **Custa** 2 pontos de **Mana**.
+
+Seus estudos sobre armas e armaduras te concedeu a capacidade de extrair o máximo de cada ferramenta. Aumenta a **Precisão** de sua próxima ação **Percepção** em 2, mas apenas quando relacionado a **Equipamentos**. Essa **Habilidade** também pode ser usada para aumentar cada **Atributo** de um **Equipamento** em 1, permanentemente mas apenas uma vez para cada **Item** com nome único (todos os **Itens** com um nome reconhecido também vão receber esse aumento). 
 
 # Nível 4 (Veterano)
 
-### Habilidade
+### Devastação
 
-Texto.
+Habilidade Física, Ofensivo, Área.
 
-Texto.
+**Precisão Normal**, requer alguma **Arma** e **Custa** 5 pontos de **Mana**.
 
-### Habilidade
+Dilacera todos os adversários em sua vista com um golpe circular. Realiza um **Ataque** em todos os **Oponentes** dentro de um raio igual ao seu **Ataque**, recebendo 2 **Efeitos** de **Aumento** de **Letalidade**.
 
-Texto.
+### Dualidade
 
-Texto.
+Talento Físico, Defensivo e Ofensivo.
 
-### Habilidade
+Para você defesa e ataque são duas faces da mesma moeda. No início de um **Combate** você pode escolher entre **Defesa** ou **Letalidade**, aumentando em 6 esse **Atributo** permanentemente até o fim daquele **Plano**.
 
-Texto.
+### Guarda Conjunta
 
-Texto.
+Talento Físico, Defensivo.
 
-### Habilidade
+Sua liderança é passada através de uma formação imbatível. Enquanto equipado com um **Escudo**, **Aliados** dentro de um **Alcance** igual a metade da sua **Vitalidade**, arredondado para cima, recebem 1 **Aumento** de **Defesa** para cada **Aliado** sobre esse **Efeito**. Você também recebe esse **Aumento**, mas não faz parte da contagem.
 
-Texto.
+### Indomável
 
-Texto.
+Talento Físico, Defensivo.
 
-### Habilidade
+Sua resistência a condições extremas é elevada a além do limite. Sua **Tolerância** a **Efeitos** é duplicada, e seus **Atributos** não podem ser inferiores a 6 (a menos que os **Atributos** base sejam inferiores).
 
-Texto.
+### Salto Triunfal
 
-Texto.
+Habilidade Física, Controle, Área.
 
-### Habilidade
+**Precisão Normal**, **Custa** 5 pontos de **Mana**.
 
-Texto.
+Um pulo alto, atacando todos na aterrisagem. Dentro de um raio igual ao seu **Ataque** salta para aquela direção, realizando um **Ataque** em todos os **Oponentes** dentro de um raio de 3 metros da nova posição. 
 
-Texto.
+### Vanguarda
+
+Habilidade Física, Controle, Área.
+
+**Precisão Normal**, requer **Escudo** e **Custa** 6 pontos de **Mana**.
+
+Uma batida de escudo no chão que chama a atenção de todos os adversários. Em um raio igual a sua **Vitalidade** força todos os **Oponentes** a só poderem se movimentar em sua direção, atacar ou usar **Habilidades** com você como **Alvo**, até o seu próximo **Turno**.
 
 # Nível 5 (Mestre)
 
-### Habilidade
+### Arremesso de Arma
 
 Texto.
 
 Texto.
 
-### Habilidade
+### Combate Versátil
 
 Texto.
 
 Texto.
 
-### Habilidade
+### Descontrole
 
 Texto.
 
 Texto.
 
-### Habilidade
+### Escudos Gêmeos
 
 Texto.
 
 Texto.
 
-### Habilidade
+### Exemplo
 
 Texto.
 
 Texto.
 
-### Habilidade
+### Inspiração
 
 Texto.
 
@@ -271,13 +279,13 @@ Texto.
 
 # Nível 6 (Gênio)
 
-### Habilidade
+### Bloqueio de Corpo
 
 Texto.
 
 Texto.
 
-### Habilidade
+### Transposição
 
 Texto.
 
@@ -420,6 +428,3 @@ Texto.
 Texto.
 
 Texto.
-
-block
-cleave
