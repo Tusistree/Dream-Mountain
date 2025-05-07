@@ -114,7 +114,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -256,10 +256,10 @@
   },
   "active": "ae7853c917af9692",
   "lastOpenFiles": [
-    "1. Funcional/1. Sistema/Mecânicas/Habilidades.md",
-    "1. Funcional/2. Recursos/Classes/Guerreiro.md",
     "1. Funcional/2. Recursos/Classes/0. Classes.md",
+    "1. Funcional/2. Recursos/Classes/Guerreiro.md",
     "1. Funcional/1. Sistema/Mecânicas/Interpretação.md",
+    "1. Funcional/1. Sistema/Mecânicas/Habilidades.md",
     "1. Funcional/2. Recursos/Classes/Mago.md",
     "1. Funcional/1. Sistema/Ficha/Ficha Base.md",
     "0. Desenvolvimento/Lista de Afazeres.md",

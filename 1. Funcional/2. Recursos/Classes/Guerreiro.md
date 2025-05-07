@@ -243,39 +243,53 @@ Uma batida de escudo no chão que chama a atenção de todos os adversários. Em
 
 ### Arremesso de Arma
 
-Texto.
+Habilidade Física, Ofensivo, Projétil.
 
-Texto.
+**Precisão Normal**, requer alguma **Arma** e **Custa** 6 pontos de **Mana**.
+
+Muitos não conseguem explicar como em cada arremesso suas armas sempre retornam magicamente para a sua mão. Arremessa sua **Arma** em um **Oponente** dentro do **Alcance**, causando o **Dano** apenas como se tivesse aquele **Equipamento** como **Arma**. Pode atingir até mais dois **Oponentes** dentro do seu **Alcance**, fazendo com que a **Arma** retorne equipada em sua **Mão** no final do trajeto.
+
+Pode ser usado com **Precisão Garantida** e **Custo** 3 pontos de **Mana** em **Planos de Interpretação** para arremessar sua **Arma** e ela voltar para sua **Mão**, podendo coletar **Itens** a distância, ou até começar um **Combate** já causando seu **Ataque** inteiro em até 3 **Oponentes**, independente da distância.
 
 ### Combate Versátil
 
-Texto.
+Talento Físico, Utilidade.
 
-Texto.
+Cada arma é escolhida a dedo para cada situação. Aumenta a **Defesa** e **Letalidade** em 2. Você pode desequipar e equipar até duas **Armas** ou **Equipamentos** sem consumir uma **Ação Principal** no seu **Turno**.
 
 ### Descontrole
 
-Texto.
+Habilidade Física, Defensivo e Ofensivo, Individual.
 
-Texto.
+**Precisão Normal**, **Custa** 4 pontos de **Mana**.
+
+Um estado de fúria, esquecendo completamente toda disciplina e anos de treino, confiando apenas na sua força e ódio. Entra em um outro **Estado**, se silenciando permanentemente e não podendo usar **Itens** como **Ação**. Nesse **Estado** você recebe metade do **Dano** e **Efeitos** por **Habilidades** e **Itens**, além de sempre no fim do seu **Turno** realizar um **Ataque** básico, sem consumir **Ação**, e todos os seus **Ataques** atingirem todos os **Oponentes** dentro do **Alcance**. Esse estado **Custa** 2 pontos de **Mana** cada começo de turno para se manter, e pode ser desativado optando por não pagar o **Custo** adicional.
+
+Pode ser usado com **Precisão Garantida** e **Custo** 2 pontos de **Mana** em **Planos de Interpretação** para também entrar nesse **Estado**, porém também ganhando 5 de **Crítico** em **Ações de Interpretação** envolvendo **Intimidação**. No começo de **Combate** se esse **Estado** já estiver ativo ele não pode ser desativado no seu primeiro **Turno**.
 
 ### Escudos Gêmeos
 
-Texto.
+Habilidade Física, Defensivo, Individual.
 
-Texto.
+**Precisão Normal**, requer **Escudo** e **Custa** 8 pontos de **Mana**.
+
+Convivência é necessária para a resistência no fronte. Escolhe um **Aliado**, independente da distância, fazendo com que você e ele recebam um **Aumento** de 2 de **Defesa**, suas **Defesas** sejam somadas e depois dividas igualmente até o fim do **Combate**.
+
+Pode ser usado com **Precisão Garantida** e **Custo** 4 pontos de **Mana** em **Planos de Interpretação** para usar esta **Habilidade** em um **Aliado**, tendo esse **Efeito** até o fim da **Sessão** ao invés de só do **Combate**.
+
+Pode ser desativado a qualquer momento em seu **Turno** e só pode haver uma **Instância** ativada por vez.
 
 ### Exemplo
 
-Texto.
+Talento Físico, Ofensivo e Utilidade.
 
-Texto.
+Um golpe bem acertado é como uma aula para seus aliados. Aumenta o **Crítico** e **Defesa** em 1. Quando você realizar o seu primeiro acerto **Crítico** em um **Plano** você pode escolher um **Aliado**. A próxima **Ação Principal** ou **Ataque** dele também terá acerto **Crítico**.
 
 ### Inspiração
 
-Texto.
+Talento Físico, Mobilidade e Utilidade.
 
-Texto.
+Cada passo seu é tático, inspirando seus aliados a fazerem o mesmo. Ao usar sua **Ação de Movimento** um **Aliado** fora do **Turno** dele também pode realizar uma **Ação de Movimento**, porém se locomovendo apenas uma distância metade do valor original.
 
 # Nível 6 (Gênio)
 
@@ -317,7 +331,7 @@ Texto.
 
 # Nível 7 (Lorde)
 
-### Habilidade
+### Sequência de Golpes
 
 Texto.
 
