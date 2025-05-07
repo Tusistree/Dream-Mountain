@@ -295,41 +295,65 @@ Cada passo seu é tático, inspirando seus aliados a fazerem o mesmo. Ao usar su
 
 ### Bloqueio de Corpo
 
-Texto.
+Talento Físico, Controle e Mobilidade.
 
-Texto.
+Ninguém pode passar por você. Aumenta a **Velocidade** em 3. Se algum **Oponente** usar alguma **Ação** que envolva **Movimentação** e passe em um **Alcance** dentro de um raio igual a sua **Velocidade**, você pode se movimentar em direção a ele, mesmo que fora de seu **Turno**, anulando essa **Ação**. Só pode ocorrer 2 vezes por **Oponente**.
+
+### Contenção
+
+Habilidade Física, Defensivo, Individual.
+
+**Precisão Normal**, requer **Escudo** e **Custa** 4 pontos de **Mana**.
+
+Sua guarda pode defender, além de ataques letais, a grandes feitiços. Fora de seu **Turno** anula qualquer **Ação** que tenha você como **Alvo** ou afetado pela **Área de Efeito**. Recebe 2 **Efeitos** de **Desgaste**.
+
+### Executar
+
+Habilidade Física, Ofensivo, Toque.
+
+**Precisão Garantida**, requer alguma **Arma** e **Custa** 5 pontos de **Mana**.
+
+Um golpe limpo que decapita o seu adversário. Essa **Habilidade** só pode ser usada em **Monstros** ou **NPCs** com um **Nível** inferior ao seu. Executa o **Alvo**. Pode também ser usado em **Oponentes** com um quarto dos pontos de **Vida**, independente do **Nível** ou seu **Tipo** de **Unidade**.
+
+### Pisão
+
+Habilidade Física, Controle, Área.
+
+**Precisão Garantida**, **Custa** 5 pontos de **Mana**.
+
+Um passo forte que cria uma pequena cratera no chão, desestabilizando os oponentes e os arrastando até você. Realiza um **Ataque** em todos os **Oponentes** dentro de um raio igual ao seu **Alcance**, porém com metade do **Dano**. o **Alvos** atingidos recebem 1 **Efeito** Atordoamento e são movidos a você até o **Alcance** de **Toque**. Recebe 2 **Efeitos** de **Desgaste**.
+
+### Retaliação
+
+Talento Físico, Mobilidade e Ofensivo.
+
+Sua vingança sempre é cumprida. Aumenta a **Defesa** e **Letalidade** em 2. Toda vez que você sofrer um **Ataque** ou **Habilidade** você pode se mover para o **Alvo** que é a fonte, independente da distância, e o realizar um **Ataque**, mas ainda com **Precisão Normal**. Só pode ocorrer uma vez por **Plano**, porém é recuperado o uso quando você realizar um acerto **Crítico**.
 
 ### Transposição
 
-Texto.
+Talento Físico, Ofensivo.
 
-Texto.
-
-### Habilidade
-
-Texto.
-
-Texto.
-
-### Habilidade
-
-Texto.
-
-Texto.
-
-### Habilidade
-
-Texto.
-
-Texto.
-
-### Habilidade
-
-Texto.
-
-Texto.
+O impacto de seus golpes ecoa em tremores, ferindo adversários próximos. Aumenta o **Ataque** em 3. Seus **Ataques** causam metade do **Dano** em **Oponentes** até um raio de 6 metros do **Alvo** atingido. Um **Oponente** não pode sofrer dano de múltiplas **Transposições** com a mesma **Ação**. Acerto **Crítico** dobra o raio e o **Dano** se torna integral.
 
 # Nível 7 (Lorde)
+
+### Aura da Barbárie
+
+Texto.
+
+Texto.
+
+### Aura da Fortaleza
+
+Texto.
+
+Texto.
+
+### Aura do Império
+
+Texto.
+
+Texto.
 
 ### Sequência de Golpes
 
@@ -337,31 +361,13 @@ Texto.
 
 Texto.
 
-### Habilidade
+### Superar
 
 Texto.
 
 Texto.
 
-### Habilidade
-
-Texto.
-
-Texto.
-
-### Habilidade
-
-Texto.
-
-Texto.
-
-### Habilidade
-
-Texto.
-
-Texto.
-
-### Habilidade
+### Suprimir
 
 Texto.
 
@@ -369,13 +375,13 @@ Texto.
 
 # Nível 8 (Rei)
 
-### Habilidade
+### Escudo ou Manto
 
 Texto.
 
 Texto.
 
-### Habilidade
+### Quebrar
 
 Texto.
 
@@ -407,7 +413,7 @@ Texto.
 
 # Nível 9 (Lenda)
 
-### Habilidade
+### Superioridade
 
 Texto.
 
