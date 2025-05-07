@@ -113,8 +113,7 @@
               "title": "0. Classes"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -254,19 +253,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ae7853c917af9692",
+  "active": "f61ace7f3a6a45cc",
   "lastOpenFiles": [
-    "1. Funcional/2. Recursos/Unidades/Raças Jogáveis/Primordiais/Helyr.md",
     "1. Funcional/2. Recursos/Classes/Guerreiro.md",
+    "1. Funcional/1. Sistema/Mecânicas/Efeitos.md",
+    "1. Funcional/2. Recursos/Classes/Mago.md",
     "1. Funcional/2. Recursos/Classes/0. Classes.md",
     "1. Funcional/1. Sistema/Mecânicas/Habilidades.md",
-    "1. Funcional/1. Sistema/Mecânicas/Atributos.md",
     "1. Funcional/1. Sistema/Mecânicas/Interpretação.md",
-    "1. Funcional/2. Recursos/Classes/Mago.md",
+    "1. Funcional/1. Sistema/Mecânicas/Atributos.md",
+    "1. Funcional/2. Recursos/Unidades/Raças Jogáveis/Primordiais/Helyr.md",
     "1. Funcional/1. Sistema/Ficha/Ficha Base.md",
     "0. Desenvolvimento/Lista de Afazeres.md",
     "0. Desenvolvimento/Ideias.md",
-    "1. Funcional/1. Sistema/Mecânicas/Efeitos.md",
     "1. Funcional/2. Recursos/Classes/Ladino.md",
     "0. Desenvolvimento/Revisar",
     "1. Funcional/0. Guia/1. Introdução.md",

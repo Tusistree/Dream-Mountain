@@ -339,39 +339,45 @@ O impacto de seus golpes ecoa em tremores, ferindo adversários próximos. Aumen
 
 ### Aura da Barbárie
 
-Texto.
+Talento Físico, Ofensivo, Aura.
 
-Texto.
+Assim como as vilas do extremo norte o conjunto é o coração da pilhagem. Aumenta a sua **Letalidade** em 3. **Aliados**, independente da distância, ganham um terço da sua **Letalidade**, arredondado para cima. Em múltiplas fontes dessa mesma **Aura** prevalece apenas a com maior valor.
 
 ### Aura da Fortaleza
 
-Texto.
+Talento Físico, Defensivo, Aura.
 
-Texto.
+A unidade do fronte sempre compartilha sua resistência. Aumenta a sua **Defesa** em 3. **Aliados**, independente da distância, ganham um terço da sua **Defesa**, arredondado para cima. Em múltiplas fontes dessa mesma **Aura** prevalece apenas a com maior valor.
 
 ### Aura do Império
 
-Texto.
+Talento Físico, Ofensivo, Aura.
 
-Texto.
+Assim como a guarda imperial você treinou exaustivamente para acertar os pontos mais fracos dos seus adversários. Aumenta seu **Crítico** em 1. **Aliados**, independente da distância, ganham um terço do seu **Crítico**, arredondado para cima. Em múltiplas fontes dessa mesma **Aura** prevalece apenas a com maior valor.
 
 ### Sequência de Golpes
 
-Texto.
+Habilidade Física, Ofensivo, Toque.
 
-Texto.
+**Precisão Normal**, requer alguma **Arma** e **Custa** 12 pontos de **Mana**.
+
+Realiza vários ataques fatais contra o alvo. Realiza 1d6 **Ataques** contra o **Oponente**, cada um deles escalando com a sua **Maestria** separadamente.
 
 ### Superar
 
-Texto.
+Habilidade Física, Utilidade, Individual.
 
-Texto.
+**Precisão Normal**, **Custa** 8 pontos de **Mana**.
+
+Você consegue se libertar de qualquer limitação, seja mágica ou física. Aplica uma **Dissipação Forte** a si mesmo em todos os **Efeitos Negativos**, podendo ser usado mesmo **Inutilizado**. A cada **Plano** pode ser usada pelo menos uma vez fora de seu **Turno**.
 
 ### Suprimir
 
-Texto.
+Habilidade Física, Defensivo, Toque.
 
-Texto.
+**Precisão Normal**, requer **Escudo** e **Custa** 8 pontos de **Mana**.
+
+Um golpe sangrento, ferindo tanto você quanto o adversário, o assuntando com a insanidade. Você pode sacrificar até metade dos seus pontos de **Vida** atual, arredondado para baixo, para causar como **Dano** ao **Oponente**, recebendo 1 **Efeito** de **Medo**. Acerto **Crítico** não dobra o **Dano**, mas aplica o **Medo** em todos **Oponentes**, independente da distância.
 
 # Nível 8 (Rei)
 
@@ -413,13 +419,13 @@ Texto.
 
 # Nível 9 (Lenda)
 
+### Punho de Titã
+
+Texto.
+
+Texto.
+
 ### Superioridade
-
-Texto.
-
-Texto.
-
-### Habilidade
 
 Texto.
 
