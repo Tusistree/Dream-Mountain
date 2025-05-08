@@ -37,7 +37,7 @@ Habilidade Física, Ofensivo, Cone.
 
 Imitando uma fase da lua você realiza um ataque poderosos empurrando seus oponentes. Em uma área cônica de 3 metros, que não pode ser afetada por seu **Atributo** de **Alcance**, você realiza um **Ataque** em todos os **Oponentes** atingidos, além de os mover 1 metro para a direita do **Cone**.
 
-### Musculatura
+### Punho Firme
 
 Talento Físico, Defensivo e Ofensivo.
 
@@ -381,37 +381,37 @@ Um golpe sangrento, ferindo tanto você quanto o adversário, o assuntando com a
 
 # Nível 8 (Rei)
 
+### Absorção
+
+Texto.
+
+Texto.
+
 ### Escudo ou Manto
 
 Texto.
 
 Texto.
 
-### Quebrar
+### Estandarte da Agilidade
 
 Texto.
 
 Texto.
 
-### Habilidade
+### Estandarte da Força
 
 Texto.
 
 Texto.
 
-### Habilidade
+### Estandarte da Inteligência
 
 Texto.
 
 Texto.
 
-### Habilidade
-
-Texto.
-
-Texto.
-
-### Habilidade
+### Musculatura
 
 Texto.
 
@@ -419,7 +419,13 @@ Texto.
 
 # Nível 9 (Lenda)
 
-### Punho de Titã
+### Cicatrização Completa
+
+Texto.
+
+Texto.
+
+### Duelo
 
 Texto.
 
@@ -431,13 +437,7 @@ Texto.
 
 Texto.
 
-### Habilidade
-
-Texto.
-
-Texto.
-
-### Habilidade
+### Quebrar
 
 Texto.
 
