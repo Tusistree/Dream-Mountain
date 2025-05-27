@@ -27,7 +27,7 @@
       {
         "id": "567b93c057d38370",
         "type": "tabs",
-        "dimension": 50.52585451358458,
+        "dimension": 50.52585451358457,
         "children": [
           {
             "id": "f61ace7f3a6a45cc",
@@ -253,12 +253,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ae7853c917af9692",
+  "active": "f61ace7f3a6a45cc",
   "lastOpenFiles": [
-    "1. Funcional/2. Recursos/Classes/Mago.md",
     "1. Funcional/2. Recursos/Classes/Guerreiro.md",
-    "1. Funcional/2. Recursos/Classes/0. Classes.md",
+    "1. Funcional/2. Recursos/Classes/Mago.md",
     "1. Funcional/1. Sistema/Mecânicas/Efeitos.md",
+    "1. Funcional/2. Recursos/Classes/0. Classes.md",
     "1. Funcional/1. Sistema/Mecânicas/Habilidades.md",
     "1. Funcional/1. Sistema/Mecânicas/Interpretação.md",
     "1. Funcional/1. Sistema/Mecânicas/Atributos.md",

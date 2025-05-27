@@ -203,13 +203,13 @@ Habilidade Física, Ofensivo, Área.
 
 **Precisão Normal**, requer alguma **Arma** e **Custa** 5 pontos de **Mana**.
 
-Dilacera todos os adversários em sua vista com um golpe circular. Realiza um **Ataque** em todos os **Oponentes** dentro de um raio igual ao seu **Ataque**, recebendo 2 **Efeitos** de **Aumento** de **Letalidade**.
+Dilacera todos os adversários em sua vista com um golpe circular. Realiza um **Ataque** em todos os **Oponentes** dentro de um raio igual ao seu **Alcance**, recebendo 2 **Efeitos** de **Aumento** de **Letalidade**.
 
 ### Dualidade
 
 Talento Físico, Defensivo e Ofensivo.
 
-Para você defesa e ataque são duas faces da mesma moeda. No início de um **Combate** você pode escolher entre **Defesa** ou **Letalidade**, aumentando em 6 esse **Atributo** permanentemente até o fim daquele **Plano**.
+Para você defesa e ataque são duas faces da mesma moeda. No início de um **Combate** você pode escolher entre **Defesa** ou **Letalidade**, aumentando em 4 esse **Atributo** permanentemente até o fim daquele **Plano**.
 
 ### Guarda Conjunta
 
@@ -313,7 +313,7 @@ Habilidade Física, Ofensivo, Toque.
 
 **Precisão Garantida**, requer alguma **Arma** e **Custa** 5 pontos de **Mana**.
 
-Um golpe limpo que decapita o seu adversário. Essa **Habilidade** só pode ser usada em **Monstros** ou **NPCs** com um **Nível** inferior ao seu. Executa o **Alvo**. Pode também ser usado em **Oponentes** com um quarto dos pontos de **Vida**, independente do **Nível** ou seu **Tipo** de **Unidade**.
+Um golpe limpo que decapita o seu adversário. Essa **Habilidade** só pode ser usada em **Monstros** ou **NPCs** com dois **Níveis** inferiores ao seu. Executa o **Alvo**. Pode também ser usado em **Oponentes** com um quinto dos pontos de **Vida**, independente do **Nível** ou seu **Tipo** de **Unidade**.
 
 ### Pisão
 
@@ -361,7 +361,7 @@ Habilidade Física, Ofensivo, Toque.
 
 **Precisão Normal**, requer alguma **Arma** e **Custa** 12 pontos de **Mana**.
 
-Realiza vários ataques fatais contra o alvo. Realiza 1d6 **Ataques** contra o **Oponente**, cada um deles escalando com a sua **Maestria** separadamente.
+Realiza vários ataques fatais contra o alvo. Realiza 1d6 **Ataques** contra o **Oponente**.
 
 ### Superar
 
