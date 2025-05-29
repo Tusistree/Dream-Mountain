@@ -1,6 +1,6 @@
 # O que é Dream Mountain?
 
-É um **RPG de Mesa** baseado em um universo fictício sobre uma **Montanha que realiza desejos**. A proposta é ser um jogo que possa ter várias modalidades como histórias, lutas, aventuras, enigmas e entre outros, com foco na diversidade de estratégias, estilos de jogo e personagem.
+É um **RPG de Mesa** baseado em um universo fictício sobre uma **Montanha que realiza desejos**. A proposta é ser um jogo que possa ter várias modalidades como histórias, lutas, aventuras, enigmas e entre outros, com foco na diversidade de estratégias, estilos de jogo e personagens.
 
 O jogo é feito para poder incentivar qualquer pessoa a jogar a sua própria maneira, dando recursos para isso, seja habilidades estranhas para personagens exóticos ou itens sérios para fichas mais bem construídas.
 
@@ -30,7 +30,7 @@ As **Ações Interpretativas** podem ser qualquer uma baseadas na **Imaginação
 * Um **Jogador** pode tentar convencer a todos que atravessou aquele obstáculo graças ao seu nível de **Exercício**.
 * Um **Jogador** também pode tentar convencer a todos que atravessou aquele mesmo obstáculo graças ao seu nível de **Mobilidade**.
 
-Qualquer **Ação** realizada que seja do **Plano de Combate** ou caso algum evento indesejado ocorra, esse plano pode ser quebrado e todo o grupo movido para o **Plano de Combate**.
+Qualquer **Ação** realizada que seja do **Plano de Combate** ou caso algum evento indesejado ocorra, esse plano pode ser quebrado e todo o grupo inteiro é movido para o **Plano de Combate**.
 
 # Plano de Combate
 
@@ -63,9 +63,11 @@ O personagem pode ser criado sobrescrevendo ou clonando a [[Ficha Base]], para c
 
 **Atributos**: onde há informações relevantes tanto para **Interpretação** quanto para **Combate**. Todos os personagens começam no **Nível** 1. O primeiro passo é distribuir pontos de **Atributo Primário**, assim ganhando os seus valores como **Vida** e **Mana**. O que cada um dos **Atributos** fazem pode ser consultado em [[Atributos]]. São 9 pontos iniciais para distribuir, mas cada **Atributo Primário** já possui 3 pontos base, além de não poderem passar de um máximo de 9 na criação de **Ficha**.
 
-**Itens**: um personagem novo tem direito a alguns **Itens** de **Nível 0**, sendo a sua escolha 2 **Armas**, 3 **Equipamentos** e 9 **Consumíveis**. Além disso **Jogadores** tem um inventário de apenas de 3 espaços de **Item**, onde ficam **Armas** e **Equipamentos** desequipados, e também onde seus **Consumíveis** irão automaticamente. O inventário pode ser expandido com **Mochilas**.
+**Itens**: um personagem novo tem direito a alguns **Itens** de **Nível 0**, sendo a sua escolha 2 [[Ferramentas]], 3 [[Equipamentos]] e 9 [[Consumíveis]]. Além disso **Jogadores** tem um inventário de apenas de 3 espaços de **Item**, onde ficam **Armas** e **Equipamentos** desequipados, e também onde seus **Consumíveis** irão automaticamente. O inventário pode ser expandido com **Mochilas**.
 
-**Habilidades e Talentos**: primeiro você escolha uma das [[0. Classes]]. todas as **Habilidades** e **Talentos** da sua **Classe** ficam nessa sessão. Novos personagens sempre tem tudo de **Nível** 0 da sua **Classe**, porém podem escolher apenas 1 **Habilidade** ou **Talento** de **Nível** 1 para ter além dessas.
+**Habilidades e Talentos**: primeiro você escolha uma das [[Classes]]. todas as **Habilidades** e **Talentos** da sua **Classe** ficam nessa sessão. Novos personagens sempre tem tudo de **Nível** 0 da sua **Classe**, porém podem escolher apenas 1 **Habilidade** ou **Talento** de **Nível** 1 para ter além dessas.
+
+Para qualquer dúvida há a [[Ficha Exemplo]], sendo um personagem funcional e genérico, podendo ser usado como referência na criação ou como o seu próprio **Personagem**.
 
 # Progressão
 
@@ -75,10 +77,10 @@ Os **Jogadores** vão sempre evoluir 1 **Nível** ao derrotar um **Chefe** de me
 
 **Além do Nível**: grandes feitos na **Interpretação** podem resultar em aumentos permanentes em **Atributos**, ou até mesmo a subida de **Nível**. Alguns eventos **Interpretativos** podem ter o mesmo peso que uma luta de **Chefe**.
 
-**Recompensas Maiores**: um **Chefe** derrotado sempre concede 3 **Itens** jogando **1d20** para cada um deles. A falha **Crítica** resulta em um **Item** de 1 **Nível** abaixo dele. Acerto **Crítico** resulta em um **Item** de 1 **Nível** acima dele. Valores normais são sempre um **Item** do mesmo **Nível** do **Chefe**. Essas jogadas de **Dados** não podem ser influenciadas (a não ser que seja um efeito muito especifico para esse caso).
+**Recompensas Maiores**: um **Chefe** derrotado sempre concede 3 **Itens** arremessando **1d20** para cada um deles. A falha **Crítica** resulta em um **Item** de 1 **Nível** abaixo dele. Acerto **Crítico** resulta em um **Item** de 1 **Nível** acima dele. Valores normais são sempre um **Item** do mesmo **Nível** do **Chefe**. Essas jogadas de **Dados** não podem ser influenciadas (a não ser que seja um efeito muito especifico para esse caso).
 
 **Recompensas Médias**: **Inimigos** de **Elite** podem assim como um **Chefe** conceder **Itens** de 1 **Nível** superior no **Crítico**, porem só dão 1 **Item** por derrota, além de só tiverem **Saque** com jogadas de 15 no **d20** para cima. Essas jogadas de **Dados** não podem ser influenciadas (a não ser que seja um efeito muito especifico para esse caso).
 
-**Recompensas Menores**: **Inimigos** normais podem conceder **Itens** do mesmo **Nível** deles apenas com um **Crítico**. Erro **Crítico** faz com que todos os **Saques** de **Inimigos** normais não possam ser mais pegos nessa **Vitória**. Essas jogadas de **Dados** podem ser influenciados por peculiaridades, como por exemplo **Efeitos** e **Atributos Secundários**
+**Recompensas Menores**: **Inimigos** normais podem conceder **Itens** do mesmo **Nível** deles apenas com um **Crítico**. Erro **Crítico** faz com que todos os **Saques** de **Inimigos** normais não possam ser mais gerados nessa **Vitória**. Essas jogadas de **Dados** podem ser influenciados por peculiaridades, como por exemplo **Efeitos** e **Atributos Secundários**
 
 **Aleatoriedade da Recompensa**: é decidido em **1d6** se o **Item** será uma **Arma** (1-2), **Consumível** (3-4) ou **Equipamento** (5-6). No caso de **Consumível** a recompensa é sempre triplicada, ou dobrada caso seja um de **Nível** 8 e única se de **Nível** 9.

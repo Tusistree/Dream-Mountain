@@ -1,4 +1,4 @@
-As **Habilidades** são o coração de **Dream Mountain**, graças ao fator de serem **Ações Especiais** que podem ser feitas tanto por **Jogadores**, **NPCs**, **Monstros** e até objetos como **Itens** e **Estruturas**. No entanto essa **Ações** possuem certos padrões e regras.
+As **Habilidades** são o coração de personagens em **Dream Mountain**, graças ao fator de serem **Ações Especiais** que podem ser feitas tanto por **Jogadores**, **NPCs**, **Monstros** e até objetos como **Itens** e **Estruturas**. No entanto essa **Ações** possuem certos padrões e regras.
 
 # Dissipação
 
@@ -20,7 +20,8 @@ Caso um **Efeito** seja **Único** e não se enquadre na documentação de [[Efe
 
 As **Habilidades** sempre possuem algumas características que influencia em sua execução. Podem ser desde o seu **Tipo**, **Área de Efeito**, **Dano** ou **Precisão**. Esses **Traços** são os que definem a forma que essas habilidades devem ser interpretadas ou usadas.
 
-**Tipo**. Significa o que é **Habilidade** o a que grupo ela pertence. Elas podem ser diversas como:
+#### Tipo
+Significa o que é **Habilidade** o a que grupo ela pertence. Elas podem ser diversas como:
 
 * **Ofensivo**: ferir ou atacar algo.
 * **Defensivo**: proteger algo.
@@ -30,7 +31,8 @@ As **Habilidades** sempre possuem algumas características que influencia em sua
 * **Utilidade**: oferecer soluções alternativas.
 * **Invocação**: criar a partir de algo ou do nada.
 
-**Área de Efeito**. É como a **Habilidade** será aplicada, assim como quem irá receber o **Dano** e os **Efeitos**:
+#### Área de Efeito
+É como a **Habilidade** será aplicada, assim como quem irá receber o **Dano** e os **Efeitos**:
 
 * **Toque**: também conhecido como **Alcance** **Corpo a Corpo**, é aplicada a um **Alvo** ao lado do **Usuário**.
 * **Projétil**: a **Habilidade** é um disparo que alcança o **Alvo**.
@@ -41,7 +43,8 @@ As **Habilidades** sempre possuem algumas características que influencia em sua
 * **Local**: escolhe uma área quadrada para aplicar a **Habilidade**, porém aquele local continua aplicando o **Dano** e os **Efeitos** por diversos **Turnos**.
 * **Aura**: todas as unidades são afetadas, podendo ou não ter uma distância do **Usuário**, e os efeitos são aplicados uma vez a cada **Turno**.
 
-**Precisão**. É a dificuldade para acertar a **Habilidade**, podendo variar entre:
+#### Precisão
+É a dificuldade para acertar a **Habilidade**, podendo variar entre:
 
 * **Garantida**: sem arremesso de **Dados**.
 * **Normal**: maior ou igual a 7 no **d20**.

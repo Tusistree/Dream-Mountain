@@ -6,7 +6,7 @@
 
 Equipamento, Pulsos.
 
-Talvez seja caro, talvez seja falsificado, e ninguém consegue dar um valor exato para essa pulseira. Aumenta o **Domínio** e **Maestria** em 1.
+Talvez seja caro, talvez seja falsificado, e ninguém consegue dar um valor exato. Aumenta o **Domínio** e **Maestria** em 1.
 
 ### Chapéu de Palha
 

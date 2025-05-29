@@ -14,6 +14,8 @@ Guerreiro.
 # A fazer
 
 Ladino.
+Outras Informações.
+Ficha Exemplo.
 
 # Extras
 

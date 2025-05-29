@@ -1,12 +1,12 @@
 **Classe** é a profissão de um **Personagem**, definindo quem ele é, o que pode fazer e suas funções. Suas **Habilidades** e **Talentos** são definidos pela **Classe**, sendo recomendável alguns **Itens** e **Atributos** para o melhor rendimento dessa profissão.
 
-As **Classes** são divididas em 3 grandes **Aspectos**:
+As **Classes** são divididas em 3 grandes características divinas, chamadas de **Aspectos**:
 
 1. **Força**: representa o poder e a violência, seu ápice é a Onipotência.
 2. **Agilidade**: representa a velocidade e a persuasão, seu ápice é a Onipresença.
 3. **Inteligência**: representa o pensamento e a lógica, seu ápice é a Onisciência.
 
-Os 3 representam aspectos divinos quando em sua eficiência máxima, ou seja um grupo de **Jogadores** completo, cada um em uma profissão diferente representam a perfeição.
+Os 3 representam partes de um ser divino quando em sua eficiência máxima, ou seja um grupo de **Jogadores** completo, cada um em uma **Classe** diferente, representam a perfeição.
 
 # Funções
 
@@ -16,15 +16,15 @@ Além dos 3 grandes **Aspectos** existem funções que a **Classe** pode desempe
 2. **Dano**: atacar e finalizar adversários.
 3. **Suporte**: utilidade e recuperação de recursos.
 
-Uma **Classe** de qualquer **Aspecto** pode desempenhar qualquer papel, porém na maioria dos casos as **Classes** de **Força** cumprem a **Função** de **Tanque**, **Agilidade** de **Dano** e **Inteligência** de **Suporte**. Porém há exceções, como **Aspectos** cobrindo funções diferentes do projetado, além de que todas as **Classes** podem sempre cumprir a **Função** de **Dano** para permitir a independência de um **Jogador**.
+Uma **Classe** de qualquer **Aspecto** pode também desempenhar qualquer papel, porém na maioria dos casos as **Classes** de **Força** cumprem a **Função** de **Tanque**, **Agilidade** de **Dano** e **Inteligência** de **Suporte**. Porém há exceções, como **Aspectos** cobrindo funções diferentes do projetado, além de que todas as **Classes** podem sempre cumprir a **Função** de **Dano** para permitir a independência de um **Jogador**.
 
 # Classes Disponíveis
 
 Atualmente há 3 **Classes** básicas:
 
-1. [[Guerreiro]]: **Aspecto** da **Força**, cumpre as **Funções** de **Dano** e **Tanque**.
-2. [[Ladino]]: **Aspecto** da **Agilidade**, com apenas a **Função** de **Dano**.
-3. [[Mago]]: **Aspecto** da **Inteligência**, cumpre as **Funções** de **Dano** e **Suporte**
+1. [[Guerreiro]]: **Classe** de **Força**, cumpre as **Funções** de **Dano** e **Tanque**.
+2. [[Ladino]]: **Classe** de **Agilidade**, com apenas a **Função** de **Dano**.
+3. [[Mago]]: **Classe** de **Inteligência**, cumpre as **Funções** de **Dano** e **Suporte**
 
 # Evolução
 
