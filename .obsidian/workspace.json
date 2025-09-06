@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Funcional/Lista de Afazeres.md",
+                "file": "1. Funcional/2. Recursos/Itens/Consumíveis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lista de Afazeres"
+              "title": "Consumíveis"
             }
           }
         ]
@@ -153,6 +153,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -163,6 +164,9 @@
   },
   "active": "6da2676db2eaccec",
   "lastOpenFiles": [
+    "1. Funcional/2. Recursos/Classes/Base/Mago.md",
+    "1. Funcional/2. Recursos/Itens/Consumíveis.md",
+    "1. Funcional/Lista de Afazeres.md",
     "1. Funcional/Ideias.md",
     "1. Funcional/1. Sistema/Mecânicas/Atributos.md",
     "1. Funcional.zip",
@@ -171,16 +175,13 @@
     "1. Funcional/1. Sistema/Mecânicas/Efeitos.md",
     "1. Funcional/2. Recursos/Itens/Ferramentas.md",
     "1. Funcional/2. Recursos/Itens/Equipamentos.md",
-    "1. Funcional/2. Recursos/Itens/Consumíveis.md",
     "1. Funcional/2. Recursos/Classes/Classes.md",
-    "1. Funcional/2. Recursos/Classes/Base/Mago.md",
     "1. Funcional/2. Recursos/Classes/Base/Ladino.md",
     "1. Funcional/2. Recursos/Classes/Base/Guerreiro.md",
     "1. Funcional/1. Sistema/Ficha/Ficha Exemplo.md",
     "1. Funcional/1. Sistema/Ficha/Ficha Base.md",
     "1. Funcional/0. Guia/Outras informações.md",
     "1. Funcional/0. Guia/Introdução.md",
-    "1. Funcional/Lista de Afazeres.md",
     "1. Funcional/2. Recursos/Unidades/Raças Jogáveis/Raças Jogáveis.md",
     "1. Funcional/2. Recursos/Unidades/Raças Jogáveis/Primordiais/Cael.md",
     "1. Funcional/2. Recursos/Classes/Base",
