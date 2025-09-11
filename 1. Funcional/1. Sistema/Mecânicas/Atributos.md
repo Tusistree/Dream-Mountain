@@ -6,20 +6,22 @@ Cada ponto de um dos **Atributos Primários** correspondem a:
 
 1. **Alcance**: 1 metro de alcance adicional em **Ações** (exceto por **Alcance** de **Toque**).
 2. **Ataque**: 1 ponto de **Dano** da **Unidade**.
-3. **Domínio**: 3 pontos de **Mana** máxima.
+3. **Domínio**: 5 pontos de **Mana** máxima.
 4. **Maestria**: 1 ponto de **Dano Adicional** e **Cura Adicional** em **Habilidades**.
 5. **Velocidade**: 1 metro de distância a percorrer por turno.
-6. **Vitalidade**: 6 pontos de **Vida** máxima.
+6. **Vitalidade**: 5 pontos de **Vida** máxima.
 
 Os **Secundários** até o momento correspondem a:
 
-1. **Carisma**: 1 ponto de **Dano Adicional** de **Ataques** e **Habilidades** de **Unidades** controladas.
-2. **Crítico**: 1 de redução no **d20** para **Acertos Críticos** (apenas para **Combate**).
-3. **Defesa**: 1 de redução no **Dano** sofrido pelo o usuário.
-4. **Esquiva**: 1 de redução na **Precisão** em **Ações** de **Oponentes** contra o usuário (apenas para **Combate**).
-5. **Precisão**: 1 de aumento na **Precisão** de **Ações de Combate**.
-6. **Letalidade**: ignora 1 ponto de **Defesa** de **Oponentes**.
+1. **Crítico**: 1 de redução no **d20** para **Acertos Críticos** (apenas para **Combate**).
+2. **Defesa**: 1 de redução no **Dano** sofrido pelo o usuário.
+3. **Esquiva**: 1 de redução na **Precisão** em **Ações** de **Oponentes** contra o usuário (apenas para **Combate**).
+4. **Letalidade**: ignora 1 ponto de **Defesa** de **Oponentes**.
+5. **Liderança**: 1 ponto de **Dano Adicional** de **Ataques** e **Habilidades** de **Unidades** controladas.
+6. **Precisão**: 1 de aumento na **Precisão** de **Ações de Combate**.
 
 # Vantagem Inicial
 
-Personagens baseados em **Força** começam com 1 **Atributo** adicional em **Ataque**, **Defesa** e **Vitalidade**. O mesmo ocorre para **Agilidade** (**Alcance**, **Esquiva** e **Velocidade**) e **Inteligência** (**Domínio**, **Maestria** e **Precisão**). Uma pequena ajuda simbólica para impulsionar novos personagens em seus papéis.
+Personagens baseados em **Força** começam com 1 **Atributo** adicional em **Ataque**, **Defesa** e **Vitalidade**. O mesmo ocorre para **Agilidade** (**Alcance**, **Esquiva** e **Velocidade**) e **Inteligência** (**Domínio**, **Maestria** e **Precisão**).
+
+Uma pequena ajuda simbólica para impulsionar novos personagens em seus papéis.

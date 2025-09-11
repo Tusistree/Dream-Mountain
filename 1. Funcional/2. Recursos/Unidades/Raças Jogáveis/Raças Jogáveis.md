@@ -17,7 +17,7 @@ Por sua existência de certa forma ser planejada, esses **Povos** são um dos ma
 
 Os **Povos Mágicos** são criaturas com origem incerta na maioria dos casos, e por viverem regiões inóspitas e extremamente hostis desenvolveram habilidades criativas para sobreviver. Em grande parte são encontrado no **Reino dos Monstros**, mas podem ser vistos em várias partes do mundo.
 
-Por sua existência não ser planejada, esses **Povos** por viverem lugares inusitados criaram culturas e costumes que são considerados primitivas ou exótica pelos demais seres. Entre eles há:
+Por sua existência não ser planejada, esses **Povos** ao viverem em lugares inusitados criaram culturas e costumes que são considerados primitivas ou exótica pelos demais seres. Entre eles há:
 
 * [[Kehara]], são grandes yetis de comportamento dócil, porém extremamente violentos quando feridos. 
 * [[Nodonte]], são centauros dracônicos, sempre em busca de se adaptar a qualquer adversidade.

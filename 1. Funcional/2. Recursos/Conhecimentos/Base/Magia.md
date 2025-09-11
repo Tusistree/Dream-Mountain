@@ -5,6 +5,8 @@ Eles podem usar **Habilidades** para destruir vários alvos simultâneos, contro
 * **Dano**: acompanhado de controle com diversos **Efeitos**.
 * **Suporte**: recuperar recursos para você e seus aliados.
 
+**Aspecto** da **Força**, ou seja possui 1 **Modificador** nas suas modalidades de [[Interpretação]], além de 1 ponto adicional nos [[Atributos]] de **Ataque**, **Defesa** e **Vitalidade**.
+
 # Nível Inicial (Novato)
 
 ### **Principal: Instabilidade**
