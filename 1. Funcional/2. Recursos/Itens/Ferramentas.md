@@ -18,7 +18,7 @@ Um amontoado de tábuas de madeira que por coincidência dá um bom escudo. Aume
 
 Arma de Duas Mãos, Espada.
 
-Uma arma que suas feridas contam sua história. Aumenta o **Ataque** em 9, mas perde 1 de **Precisão** e erros **Críticos** reduzem permanentemente o **Ataque** desse **Item** em 1.
+Uma arma que suas feridas contam sua história. Aumenta o **Ataque** em 10, mas perde 2 de **Precisão** e erros **Críticos** reduzem permanentemente o **Ataque** desse **Item** em 2.
 
 ### Estilingue
 
@@ -30,7 +30,7 @@ Uma ferramenta que treina futuros atiradores. Consome **Munição** para realiza
 
 Arma de Uma Mão, Tomo.
 
-As páginas que sobraram ainda são bem úteis. Aumenta o **Domínio** em 3, a primeira **Habilidade** usada em um **Plano de Combate** custa **1d4** de **Mana** a menos.
+As páginas que sobraram ainda são bem úteis. Aumenta o **Domínio** em 2, a primeira **Habilidade** usada em um **Plano de Combate** custa **1d4** de **Mana** a menos.
 
 ### Machadinha
 
@@ -44,7 +44,7 @@ Um pequeno machado para cortar lenha. Aumenta o **Ataque** em 2 e a **Velocidade
 
 Arma de Uma Mão, Espada.
 
-Muito comum entre os gatunos ao emboscar. Aumenta o **Ataque** em 4 e a **Velocidade** em 2. **Ataques** concedem 1 **Moeda de Cobre**.
+Muito comum entre os gatunos ao emboscar. Aumenta o **Ataque** em 5 e a **Velocidade** em 2. **Ataques** concedem 1 **Moeda de Cobre**.
 
 ### Arco do Caçador
 
@@ -56,25 +56,25 @@ Um arco simples para caça. Aumenta **Ataque**, **Alcance** e **Velocidade** em 
 
 Arma de Uma Mão, Escudo.
 
-Cobre não é o melhor material, mas ainda salva vidas. Aumenta a **Defesa** em 3, além de reduzir em **1d6** o **Dano** recebido, exceto por **Efeitos**.
+Cobre não é o melhor material, mas ainda salva vidas. Aumenta a **Defesa** em 2, além de reduzir em **1d6** o **Dano** recebido, exceto por **Efeitos**.
 
 ### Forcado do Fazendeiro
 
 Arma de Duas Mãos, Lança.
 
-Muito útil para fazenda e a caça de bruxas. Aumenta o **Ataque** em 9. Toda vez que acertar um **Ataque** ou **Habilidade** com **Alcance** de **Toque**, você ganha 2 **Efeitos** de **Concentração**.
+Muito útil para fazenda e a caça de bruxas. Aumenta o **Ataque** em 5. Toda vez que acertar um **Ataque** ou **Habilidade** com **Alcance** de **Toque**, você ganha 2 **Efeitos** de **Concentração**.
 
 ### Grimório do Bruxo Aprendiz
 
 Arma de Uma Mão, Tomo.
 
-Há muito conhecimento do oculto, mas os rabiscos de seu antigo dono dificultam a leitura. Aumenta a **Maestria** em 6 e o **Domínio** em 3.
+Há muito conhecimento do oculto, mas os rabiscos de seu antigo dono dificultam a leitura. Aumenta a **Maestria** em 5 e o **Domínio** em 2.
 
 ### Machado Cego
 
 Arma de Duas Mãos.
 
-As vezes é afiado e as vezes não. Aumenta o **Ataque** em 15, mas perde 1 de **Precisão**.
+As vezes é afiado e as vezes não. Aumenta o **Ataque** em 15, mas perde 2 de **Precisão**.
 
 # Nível 2 (Incomum)
 
@@ -82,13 +82,13 @@ As vezes é afiado e as vezes não. Aumenta o **Ataque** em 15, mas perde 1 de *
 
 Arma de Duas Mãos, Longo Alcance, Arco.
 
-Sua estrutura extensa e acabamentos no alongamento permitem disparos a grandes distâncias. Aumenta **Ataque**, **Alcance** e **Velocidade** em 3. Consome **Munição** para realizar seus **Ataques** a distância. Ganha 2 **Efeitos** de **Aumento** de **Alcance** para cada acerto.
+Sua estrutura extensa e acabamentos no alongamento permitem disparos a grandes distâncias. Aumenta **Ataque**, **Alcance** e **Velocidade** em 2. Consome **Munição** para realizar seus **Ataques** a distância. Ganha 2 **Efeitos** de **Aumento** de **Alcance** para cada acerto.
 
 ### Cetro do Incendiário
 
 Arma de Uma Mão, Cetro.
 
-Puro ódio concentrado como chamas em apenas uma ferramenta. Aumenta a **Maestria** em 9, e mais 6 caso para **Habilidades** do **Tipo** **Ofensivo**.
+Puro ódio concentrado como chamas em apenas uma ferramenta. Aumenta a **Maestria** em 10, e mais 5 caso para **Habilidades** do **Tipo** **Ofensivo**.
 
 ### Cutelo Ensanguentado
 
@@ -106,7 +106,7 @@ Quem golpeia sua placa de metal costuma a sentir os próprios ossos. Aumenta a *
 
 Arma de Duas Mãos, Lança.
 
-Usado por guardas reais esta arma brilha no combate a média distância. Aumenta o **Ataque** em 12 e a **Velocidade** em 3. **Alcance** de **Toque** é ampliado em 1 para **Ações de Combate**.
+Usado por guardas reais esta arma brilha no combate a média distância. Aumenta o **Ataque** em 10 e a **Velocidade** em 4. **Alcance** de **Toque** é ampliado em 1 para **Ações de Combate**.
 
 ### Tambor do Xamã
 
@@ -120,31 +120,31 @@ Quem escuta suas histórias costumam ver palavras se tornando reais. Ao realizar
 
 Arma de Uma Mão, Cetro.
 
-Mesmo encontrado no fundo do mar, está arma ainda pulsa um poder nobre. Aumenta a **Maestria** em 9 e o **Domínio** em 6. Sempre que uma **Habilidade** sua colocar um **Efeito Positivo** em um **Aliado**, ao invés disso coloca 1 **Efeito** adicional.
+Mesmo encontrado no fundo do mar, está arma ainda pulsa um poder nobre. Aumenta a **Maestria** em 10 e o **Domínio** em 5. Sempre que uma **Habilidade** sua colocar um **Efeito Positivo** em um **Aliado**, ao invés disso coloca 1 **Efeito** adicional.
 
 ### Besta Anti-Gigantes
 
 Arma de Duas Mãos, Longo Alcance, Arco e Diversos.
 
-É lento, mas sempre acerta em cheio o seu alvo. Aumenta **Ataque**, **Alcance** em 6, porém reduz a **Velocidade** em 3. Consome **Munição** para realizar seus **Ataques** a distância. Sempre que acerta realiza **Críticos**, mas também te aplica 2 **Efeitos** de **Desarme**.
+É lento, mas sempre acerta em cheio o seu alvo. Aumenta **Ataque**, **Alcance** em 5, porém reduz a **Velocidade** em 2. Consome **Munição** para realizar seus **Ataques** a distância. Sempre que acerta realiza **Críticos**, mas também te aplica 2 **Efeitos** de **Desarme**.
 
 ### Chicote do Aventureiro
 
 Arma de uma Mão, Diversos.
 
-Prático para roubar artefatos. Aumenta o **Velocidade** em 6. Você pode realizar **Ações** com **Toque** de **Alcance** dentro de 6 metros.
+Prático para roubar artefatos. Aumenta o **Velocidade** em 5. Você pode realizar **Ações** com **Toque** de **Alcance** dentro de 5 metros.
 
 ### Escudo de Prata
 
 Arma de Uma Mão, Escudo.
 
-Quem golpeia sua placa de metal costuma a sentir os próprios ossos. Aumenta a **Defesa** em 6 e a **Esquiva** em 1. Reduz em **1d6** o **Dano** recebido, exceto por **Efeitos**, também o curando nesse mesmo valor.
+Quem golpeia sua placa de metal costuma a sentir os próprios ossos. Aumenta a **Defesa** em 5 e a **Esquiva** em 1. Reduz em **1d6** o **Dano** recebido, exceto por **Efeitos**, também o curando nesse mesmo valor.
 
 ### Machado do Bárbaro
 
 Arma de Duas Mãos, Machado.
 
-Mesmo sem nenhuma forma de se defender os bárbaros são os últimos a cair. Aumenta o **Ataque** e **Vitalidade** em 9, além da **Defesa** em 3.
+Mesmo sem nenhuma forma de se defender os bárbaros são os últimos a cair. Aumenta o **Ataque** e **Vitalidade** em 10, além da **Defesa** em 2.
 
 ### Punhal do Pântano Nevoeiro
 
@@ -158,19 +158,19 @@ No pântano serve para tudo, tudo mesmo. Aumenta o **Alcance**, **Ataque**, **Do
 
 Arma Encantada de Duas Mãos, Longo Alcance, Arco e Diversos.
 
-Uma aljava, repleta de feitiços, que ao apontar com os dedos a flecha voa e acerta o seu alvo. Aumenta o **Ataque** em 12. Diferente de **Arcos**, este não consome **Munição** para realizar seus **Ataques**, e são independentes da distância. Você pode usar **Munição** para aplicar suas peculiaridades, mas caso não use os seus **Ataques** tem **Precisão** aumentada em 3 e **Crítico** em 1.
+Uma aljava, repleta de feitiços, que ao apontar com os dedos a flecha voa e acerta o seu alvo. Aumenta o **Ataque** em 10. Diferente de **Arcos**, este não consome **Munição** para realizar seus **Ataques**, e são independentes da distância. Você pode usar **Munição** para aplicar suas peculiaridades, mas caso não use os seus **Ataques** tem **Precisão** aumentada em 2 e **Crítico** em 1.
 
 ### Foice da Necrópole Central
 
 Arma Encantada de Duas Mãos, Lança.
 
-Inscrições do **Reino dos Mortos** fizeram esta arma ceifar todos em seu caminho. Aumenta o **Ataque** em 18, a **Velocidade** em 3 e o **Crítico** em 1. **Alcance** de **Toque** é ampliado em 2 para **Ações de Combate**, além de **Ataques Básicos** também serem causados em todos os **Oponentes** dentro do **Alcance**.
+Inscrições do **Reino dos Mortos** fizeram esta arma ceifar todos em seu caminho. Aumenta o **Ataque** em 15, a **Velocidade** em 2 e o **Crítico** em 1. **Alcance** de **Toque** é ampliado em 2 para **Ações de Combate**, além de **Ataques Básicos** também serem causados em todos os **Oponentes** dentro do **Alcance**.
 
 ### Cetro Profano
 
 Arma Encantada de Uma Mão, Cetro.
 
-Encantamentos malignos fizeram que os ferimentos causados por essa arma nunca cicatrizem. Aumenta a **Maestria** em 12, **Domínio** em 9, **Alcance** em 6, **Precisão** em 3 e **Crítico** em 1. **Oponentes** só podem recuperar metade dos pontos de **Vida** que recuperariam originalmente, arredondado para baixo.
+Encantamentos malignos fizeram que os ferimentos causados por essa arma nunca cicatrizem. Aumenta a **Maestria** em 10, **Domínio** em 8, **Alcance** em 6, **Precisão** em 4 e **Crítico** em 2. **Oponentes** só podem recuperar metade dos pontos de **Vida** que recuperariam originalmente, arredondado para baixo.
 
 ### Lâmina Circense
 
@@ -182,7 +182,7 @@ Palhaços de circo sempre dão um jeito de acertar as contas, ou falham miserave
 
 Arma Encantada de Uma Mão, Tomo.
 
-Esse livro simpático costuma te alertar sobre o que você não sabe. Este **Item** pode jogar como um **NPC** sobre seu controle em **Planos de Interpretação**. Aumenta o **Domínio** e a **Maestria** em 6. Você pode escolher uma **Habilidade** de seu **Nível** que não tenha aprendido e, Até o fim do **Plano**, usá-la normalmente.
+Esse livro simpático costuma te alertar sobre o que você não sabe. Este **Item** pode jogar como um **NPC** sobre seu controle em **Planos de Interpretação**. Aumenta o **Domínio** e a **Maestria** em 5. Você pode escolher uma **Habilidade** de seu **Nível** que não tenha aprendido e, Até o fim do **Plano**, usá-la normalmente.
 
 ### Vanguarda dos Lamentos
 
@@ -202,31 +202,31 @@ A visão de quem sobe as montanhas é invejada, alguns até diriam que é magia.
 
 Arma Mágica de Uma Mão, Tomo.
 
-A estamina de quem explora cada canto do mundo impressiona, alguns até diriam que é magia. Enquanto este **Item** estiver equipado o seu **Atributo** de **Alcance** é dobrado.
+A estamina de quem explora cada canto do mundo impressiona, alguns até diriam que é magia. Enquanto este **Item** estiver equipado o seu **Atributo** de **Velocidade** é dobrado.
 
 ### Punhal Etéreo
 
 Arma Mágica de Uma Mão, Espada.
 
-É desse mundo e ao mesmo tempo não, capaz de ferir tanto a alma quanto o corpo. Aumenta o **Ataque** e a **Velocidade** em 9, além do **Crítico** em 1, porém metade do **Dano** causado por estar **Arma** é feito na **Mana** do **Oponente** primeiro.
+É desse mundo e ao mesmo tempo não, capaz de ferir tanto a alma quanto o corpo. Aumenta o **Ataque** e a **Velocidade** em 10, além do **Crítico** em 1, porém metade do **Dano** causado por estar **Arma** é feito na **Mana** do **Oponente** primeiro.
 
 ### Magiespada
 
 Arma Mágica de Duas Mão, Espada.
 
-Conseguiram ensinar magias para uma arma. Aumenta o **Ataque** para 27 e o **Domínio** para 9. No início de um **Combate** você pode anotar uma **Habilidade** de um **Aliado**. Acertos **Críticos** podem usar essa **Habilidade**, ainda respeitando seus **Custos** e **Condições**.
+Conseguiram ensinar magias para uma arma. Aumenta o **Ataque** para 25 e o **Domínio** para 10. No início de um **Combate** você pode anotar uma **Habilidade** de um **Aliado**. Acertos **Críticos** podem usar essa **Habilidade**, ainda respeitando seus **Custos** e **Condições**.
 
 ### Varinha Sanguinomante
 
 Arma Mágica de Uma Mão, Cetro e Diversos.
 
-Magos costumam dizer que sentem suas energias roubadas perto dessa arma nefasta. Aumenta o **Alcance**, **Domínio** e **Maestria** em 9. Toda vez um **Oponente** usar um **Habilidade** ele perde vida igual a metade do **Custo** de **Mana**, arredondado para baixo.
+Magos costumam dizer que sentem suas energias roubadas perto dessa arma nefasta. Aumenta o **Alcance**, **Domínio** e **Maestria** em 10. Toda vez um **Oponente** usar um **Habilidade** ele perde vida igual a metade do **Custo** de **Mana**, arredondado para baixo.
 
 ### Tirania Mágica
 
 Arma Mágica de Uma Mão, Escudo.
 
-A arte de repelir feitiços em um escudo. Aumenta a **Defesa** em 9 e a **Esquiva** em 3. Reduz o **Dano** sofrido por **Habilidades** em um terço, arredondado para baixo, devolvendo essa quantia contra o **Agressor**.
+A arte de repelir feitiços em um escudo. Aumenta a **Defesa** em 10 e a **Esquiva** em 2. Reduz o **Dano** sofrido por **Habilidades** em um quarto, arredondado para baixo, devolvendo essa quantia contra o **Agressor**.
 
 # Nível 6 (Rúnico)
 
@@ -234,25 +234,25 @@ A arte de repelir feitiços em um escudo. Aumenta a **Defesa** em 9 e a **Esquiv
 
 Arma Rúnica de Duas Mãos, Longo Alcance, Arco.
 
-O melhor jeito de caçar uma fera é tendo uma. Aumenta o **Ataque** e o **Alcance** em 12. Consome **Munição** para realizar seus **Ataques** a distância. Sempre que derrotar um **Monstro** você pode o anotar. Acertos **Críticos** invocam uma cópia do **Monstro** na frente do **Oponente** atingido, e o turno da **Unidade** é logo após o seu.
+O melhor jeito de caçar uma fera é tendo uma. Aumenta o **Ataque** e o **Alcance** em 15. Consome **Munição** para realizar seus **Ataques** a distância. Sempre que derrotar um **Monstro** você pode o anotar. Acertos **Críticos** invocam uma cópia do **Monstro** na frente do **Oponente** atingido, e o turno da **Unidade** é logo após o seu.
 
 ### Brasão Anulador
 
 Arma Rúnica de Uma Mão, Escudo.
 
-Através das runas o ferreiros chegaram muito perto da invencibilidade. Aumenta a **Defesa** em 12 e a **Esquiva** em 3. Ao sofrer **Dano** de um **Ataque** você pode jogar **1d20**, se o valor for superior ao **1d20** de **Precisão** do **Oponente** você recebe apenas metade do **Dano** e **Efeitos**. Para **Ações** com **Precisão Garantida** é necessário um **Crítico** para as reduzir.
+Através das runas o ferreiros chegaram muito perto da invencibilidade. Aumenta a **Defesa** em 10 e a **Esquiva** em 2. Ao sofrer **Dano** de um **Ataque** você pode jogar **1d20**, se o valor for superior ao **1d20** de **Precisão** do **Oponente** você recebe apenas metade do **Dano** e **Efeitos**. Para **Ações** com **Precisão Garantida** é necessário um **Crítico** para as reduzir.
 
 ### Gládio dos Dois Tempos
 
 Arma Rúnica de Duas Mãos, Espada.
 
-O primeiro acerto pode até errar, mas nunca o segundo. Aumenta o **Ataque** e a **Velocidade** em 21. Se o seu **Turno** for par, contando apenas com você, está **Arma** ganha 99 de **Letalidade**.
+O primeiro acerto pode até errar, mas nunca o segundo. Aumenta o **Ataque** e a **Velocidade** em 20. Se o seu **Turno** for par, contando apenas com você, está **Arma** ganha 99 de **Letalidade**.
 
 ### Grimório Perturbado
 
 Arma Rúnica de Uma Mão, Tomo.
 
-Esse livro simpático costuma fazer o que bem entender. Este **Item** pode jogar como um **NPC** sobre seu controle em **Planos de Interpretação**. Aumenta o **Domínio** em 30. No início de seu **Turno** uma **Habilidade** sua é conjurada de forma aleatória. Você pode escolher como ela feita, paga seus **Custos** e **Condições**, mas não consome a **Ação Principal**. 
+Esse livro simpático costuma fazer o que bem entender. Este **Item** pode jogar como um **NPC** sobre seu controle em **Planos de Interpretação**. Aumenta o **Domínio** em 20. No início de seu **Turno** uma **Habilidade** sua é conjurada de forma aleatória. Você pode escolher como ela feita, paga seus **Custos** e **Condições**, mas não consome a **Ação Principal**. 
 
 ### Quebra-magos
 
@@ -264,7 +264,7 @@ O primeiro uso estratégico das armas rúnicas era manter sobre o controle os ma
 
 Arma Rúnica de Uma Mão, Espada.
 
-Esse punhal foi feito por um mestre a fim de ensinar seus alunos através da repetição. Aumenta todos os **Atributos Primários** em 3. Esta **Arma** memoriza sempre a última **Habilidade** usada por você, e a usa em acertos **Críticos**, respeitando seus **Custos** e **Condições**.
+Esse punhal foi feito por um mestre a fim de ensinar seus alunos através da repetição. Aumenta todos os **Atributos Primários** em 2. Esta **Arma** memoriza sempre a última **Habilidade** usada por você, e a usa em acertos **Críticos**, respeitando seus **Custos** e **Condições**.
 
 # Nível 7 (Lendário)
 
@@ -272,19 +272,19 @@ Esse punhal foi feito por um mestre a fim de ensinar seus alunos através da rep
 
 Arma Lendária de Duas Mãos, Longo Alcance, Diversos.
 
-Esse milagre da engenharia é uma lenda viva. Essa **Arma** pode consumir **Munição** de **Arco**. Aumenta o **Ataque** e o **Alcance** em 15. Consome **Munição** para realizar seus **Ataques** a distância. Pode realizar um **Ataque Básico** adicional por **Turno**.
+Esse milagre da engenharia é uma lenda viva. Essa **Arma** pode consumir **Munição** de **Arco**. Aumenta o **Ataque** e o **Alcance** em 20. Consome **Munição** para realizar seus **Ataques** a distância. Pode realizar um **Ataque Básico** adicional por **Turno**.
 
 ### Égide do Supremo
 
 Arma Lendária de Uma Mão, Escudo.
 
-O poder do supremo é de nunca se surpreender. Aumenta a **Defesa** em 16 e a **Esquiva** em 4. A primeira vez que for sofrer uma **Habilidade** a anote e a anule completamente. Isso não pode ocorrer com **Habilidades** já anotados, e todas as anotações são perdidas ao fim do **Combate**.
+O poder do supremo é de nunca se surpreender. Aumenta a **Defesa** em 15 e a **Esquiva** em 5. A primeira vez que for sofrer uma **Habilidade** a anote e a anule completamente. Isso não pode ocorrer com **Habilidades** já anotados, e todas as anotações são perdidas ao fim do **Combate**.
 
 ### Evangelho do Arcebispo
 
 Arma Lendária de Uma Mão, Tomo.
 
-O arcebispo sempre cura as enfermidades dos necessitados. Aumenta o **Domínio** em 21. No fim do seu turno sempre aplica uma **Dissipação Normal** nos **Efeitos Negativos** de todos os **Aliados**.
+O arcebispo sempre cura as enfermidades dos necessitados. Aumenta o **Domínio** em 20. No fim do seu turno sempre aplica uma **Dissipação Normal** nos **Efeitos Negativos** de todos os **Aliados**.
 
 ### Florete da Perfeição
 
@@ -296,13 +296,13 @@ Temido e amado por todos os duelistas. Aumenta todos os **Atributos** **Primári
 
 Arma Lendária de Uma Mão, Espada.
 
-Um fogo que não queima, mas que transcende todo os princípios da luz. Ao invés dessa **Arma** causar **Dano**, você recebe **Efeitos** de **Aumento** de **Velocidade** na mesma quantia.
+Um fogo que não queima, mas que transcende todo os princípios da luz. Ao invés dessa **Arma** causar **Dano**, você pode receber **Efeitos** de **Aumento** de **Velocidade** na mesma quantia do **Dano** causado.
 
 ### Sabre de Gelo
 
 Arma Lendária de Uma Mão, Espada.
 
-Um frio que não congela, mas que para tudo a sua volta. Ao invés dessa **Arma** causar **Dano**, o **Oponente** recebe **Efeitos** de **Aumento** de **Velocidade** na mesma quantia.
+Um frio que não congela, mas que para tudo a sua volta. Ao invés dessa **Arma** causar **Dano**, você pode fazer o **Oponente** receber **Efeitos** de **Redução** de **Velocidade** na mesma quantia do **Dano** causado.
 
 # Nível 8 (Divino)
 
@@ -310,25 +310,25 @@ Um frio que não congela, mas que para tudo a sua volta. Ao invés dessa **Arma*
 
 Arma de duas Mãos Divina, Monstro e Espada.
 
-O primeiro mago de guerra um dia o nomeou de "Bolha". Aumenta o **Ataque** em 59. Enquanto com este **Item** equipado ou em seu **Inventário**, você pode controlar um **Monstro Divino**, **Voador** e **Aquático**, que pode usar qualquer **Habilidade** da classe **Mago**. Ele tem os mesmos **Atributos** **Primários** e **Secundários** que seu dono, além de ao morrer só ficar inativo até o fim da **Sessão**.
+O primeiro mago de guerra um dia o nomeou de "Bolha". Aumenta o **Ataque** em 50. Enquanto com este **Item** equipado ou em seu **Inventário**, você pode controlar um **Monstro Divino**, **Voador** e **Aquático**, que pode usar qualquer **Habilidade** do **Conhecimento** de **Magia**. Ele tem os mesmos **Atributos** **Primários** e **Secundários** que seu dono, além de ao morrer só ficar inativo até o fim da **Sessão**.
 
 ### Ego dos Mil Segredos
 
 Arma de duas Mãos Divina, Monstro e Cetro.
 
-Arma e mascote do último diretor de magia. Aumenta a **Maestria** em 59. Enquanto com este **Item** equipado ou em seu **Inventário**, você pode controlar um **Monstro Divino**, **Terrestre** e **Voador**, que pode usar qualquer **Habilidade** da classe **Mago**. Ele tem os mesmos **Atributos** **Primários** e **Secundários** que seu dono, além de ao morrer só ficar inativo até o fim da **Sessão**.
+Arma e mascote do último diretor de magia. Aumenta a **Maestria** em 50. Enquanto com este **Item** equipado ou em seu **Inventário**, você pode controlar um **Monstro Divino**, **Terrestre** e **Voador**, que pode usar qualquer **Habilidade** do **Conhecimento** de **Magia**. Ele tem os mesmos **Atributos** **Primários** e **Secundários** que seu dono, além de ao morrer só ficar inativo até o fim da **Sessão**.
 
 ### Ego do Rei Exilado
 
 Arma de duas Mãos Divina, Monstro e Lança.
 
-Um aberração do submundo criado junto de um exilado do deserto. Aumenta todos os **Atributos Primários** em 9. Enquanto com este **Item** equipado ou em seu **Inventário**, você pode controlar um **Monstro Divino**, **Terrestre** e **Submerso**, que pode usar qualquer **Habilidade** da classe **Mago**. Ele tem os mesmos **Atributos** **Primários** e **Secundários** que seu dono, além de ao morrer só ficar inativo até o fim da **Sessão**.
+Um aberração do submundo criado junto de um exilado do deserto. Aumenta todos os **Atributos Primários** em 10. Enquanto com este **Item** equipado ou em seu **Inventário**, você pode controlar um **Monstro Divino**, **Terrestre** e **Submerso**, que pode usar qualquer **Habilidade** do **Conhecimento** de **Astúcia**. Ele tem os mesmos **Atributos** **Primários** e **Secundários** que seu dono, além de ao morrer só ficar inativo até o fim da **Sessão**.
 
 ### Ego do Verdadeiro Herdeiro
 
 Arma de duas Mãos Divina, Longo Alcance, Monstro e Arco.
 
-O verdadeiro rei do mundo em uma arma. Aumenta todos os **Atributos** **Primários** e **Secundários** em 4, e pode realizar **Ataques** a distância. Enquanto com este **Item**, equipado ou em seu **Inventário**, você pode controlar um **Monstro Divino** e **Terrestre** que pode usar qualquer **Habilidade** da classe **Mago**. Ele tem os mesmos **Atributos** **Primários** e **Secundários** que seu dono, além de ao morrer só ficar inativo até o fim da **Sessão**.
+O verdadeiro rei do mundo em uma arma. Aumenta todos os **Atributos** **Primários** e **Secundários** em 5, e pode realizar **Ataques** a distância. Enquanto com este **Item**, equipado ou em seu **Inventário**, você pode controlar um **Monstro Divino** e **Terrestre** que pode usar qualquer **Habilidade** do **Conhecimento** de **Guerra**. Ele tem os mesmos **Atributos** **Primários** e **Secundários** que seu dono, além de ao morrer só ficar inativo até o fim da **Sessão**.
 
 ### O Machado-que-grita
 
@@ -340,7 +340,7 @@ Esta aberração costuma implorar por dor e sofrimento enquanto se anexa ao hosp
 
 Arma Divina de Duas Mãos, Lança.
 
-As leis das trevas são muito simples, o demônio é quem segura seu tridente. Aumenta todos os **Atributos** **Primários** e **Secundários** em 3. Seus acertos **Críticos** finalizam o alvo se for um **NPC** ou **Monstro**, com exceção de **Chefes**.
+As leis das trevas são muito simples, o demônio é quem segura seu tridente. Aumenta todos os **Atributos** **Primários** e **Secundários** em 3. Seus acertos **Críticos** finalizam o alvo imediatamente se for um **NPC** ou **Monstro**, com exceção de **Chefes**.
 
 # Nível 9 (Eterno)
 
@@ -348,13 +348,13 @@ As leis das trevas são muito simples, o demônio é quem segura seu tridente. A
 
 Arma Eterna de Duas Mãos, Longo Alcance, Arco.
 
-A frieza do **Deus das Riquezas** torna a fraqueza de deus inimigos em seu maior tesouro. Não precisa de **Munição**. **Ataques** e **Habilidades** podem ser feitos independente da distância. O  primeiro **Ataque** desta **Arma** causa **Dano** adicional equivalente ao total de suas **Moedas de Ouro** (ou equivalente em caso de conversão de outras **Moedas**). **Inimigos** derrotados por esta **Arma** viram um amontoado de **Moedas de Ouro** igual ao seu nível vezes **1d6**.
+A frieza do **Deus das Riquezas** torna a fraqueza de deus inimigos em seu maior tesouro. Não precisa de **Munição**. **Ataques** e **Habilidades** podem ser feitos independente da distância. O  primeiro **Ataque** desta **Arma** causa **Dano** adicional equivalente ao total de suas **Moedas de Ouro** (ou equivalente em caso de conversão de outras **Moedas**). **Inimigos** derrotados por esta **Arma** viram um amontoado de **Moedas de Ouro** igual ao seu nível vezes **1d4**.
 
 ### Assassina de Deuses
 
 Arma Eterna de Duas Mãos, Lança.
 
-Os deuses deram aos escravos a única forma de os derrotar, assim os humanos sempre teriam humildade com os humilhados. Só pode ser desequipado na sua **Morte**, além desse **Item** desequipar todos os outros e não permitir equipar mais nada. **Ataques** matam instantaneamente os **Inimigos**.
+Os deuses deram aos escravos a única forma de os derrotar, assim os humanos sempre teriam humildade com os humilhados. Só pode ser desequipado na sua **Morte**, além desse **Item** desequipar todos os outros e não permitir equipar mais nada. **Ataques** matam instantaneamente os **Inimigos**, com exceção de **Chefes** de **Nível 9**.
 
 ### Livro da Morte
 
@@ -372,7 +372,7 @@ A origem da criação em apenas algumas páginas. Você pode escolher um **Monst
 
 Arma Eterna de Uma Mão, Tomo.
 
-Alguns dizem que o conhecimento deste livro custam a vida. Enquanto equipado com este **Item** você pode usar todas as **Habilidades** bem definidas. Ao desequipar este **Item** o usuário invoca uma **Raide** de **Nível** 9.
+Alguns dizem que o conhecimento deste livro custam a vida. Enquanto equipado com este **Item** você pode usar todas as **Habilidades** bem definidas. Ao desequipar este **Item** o usuário invoca uma **Raide** única de **Nível** 9.
 
 ### Rosa dos Quatro Ventos
 
