@@ -24,7 +24,7 @@ Mesmo tendo apenas uma asa os **Cael** ainda podem planar e pousar com seguranç
 
 Habilidade, Mobilidade, Individual. **Precisão Garantida**.
 
-A força da garras e de sua única asa é o suficiente para um **Cael** saltar grandes distâncias. Você salta uma distância em metros igual ao seu **Nível**, **Oponentes** no **Alcance** de **Toque** são afastados a direção oposta pela mesma distância. A primeira **Ação** que não for de **Movimento** faz você **Pousar** imediatamente. Enquanto estiver no céu por essa **Habilidade** aumenta a **Esquiva** em um valor igual a **Diferença** entre você e o **Chão**.
+A força da garras e de sua única asa é o suficiente para um **Cael** saltar grandes distâncias. Você salta uma distância em metros igual ao seu **Nível**, **Oponentes** no **Alcance** de **Toque** são afastados a direção oposta pela mesma distância. A primeira **Ação** que não for de **Movimento** faz você **Pousar** imediatamente. Enquanto estiver no céu por essa **Habilidade** aumenta a **Esquiva** em um valor igual a **Diferença** entre você e o **Chão**, além de cair 1 metro por **Turno**.
 
 ### Benzer
 

@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c6f6ca5a67106ed9",
+        "id": "ab708b91476cedbd",
         "type": "tabs",
         "children": [
           {
-            "id": "69297cf3a7cbd179",
+            "id": "8d8050717deb7814",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Funcional/1. Sistema/Ficha/Ficha Exemplo.md",
+                "file": "1. Funcional/Lista de Afazeres.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ficha Exemplo"
+              "title": "Lista de Afazeres"
             }
           }
         ]
@@ -162,37 +162,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "69297cf3a7cbd179",
+  "active": "8d8050717deb7814",
   "lastOpenFiles": [
-    "1. Funcional/2. Recursos/Itens/Equipamentos.md",
-    "1. Funcional/1. Sistema/Ficha/Ficha Exemplo.md",
+    "1. Funcional/Ideias.md",
+    "1. Funcional/2. Recursos/Unidades/Raças Jogáveis/Mágicas/Upel.md",
+    "1. Funcional/2. Recursos/Unidades/Raças Jogáveis/Mágicas/Ravari.md",
     "1. Funcional/0. Guia/Introdução.md",
+    "1. Funcional/1. Sistema/Mecânicas/Atributos.md",
+    "1. Funcional/2. Recursos/Unidades/Raças Jogáveis/Mágicas/Nufia.md",
+    "1. Funcional/1. Sistema/Mecânicas/Habilidades.md",
+    "1. Funcional/1. Sistema/Mecânicas/Interpretação.md",
+    "1. Funcional/2. Recursos/Unidades/Raças Jogáveis/Mágicas/Nodonte.md",
+    "1. Funcional/2. Recursos/Unidades/Raças Jogáveis/Mágicas/Kehara.md",
+    "1. Funcional/2. Recursos/Unidades/Raças Jogáveis/Primordiais/Elfos.md",
+    "1. Funcional/2. Recursos/Unidades/Raças Jogáveis/Primordiais/Cael.md",
+    "1. Funcional/Lista de Afazeres.md",
+    "1. Funcional/2. Recursos/Unidades/Raças Jogáveis/Primordiais/Helyr.md",
+    "1. Funcional/2. Recursos/Unidades/Raças Jogáveis/Primordiais/Humanos.md",
     "1. Funcional/1. Sistema/Ficha/Ficha Base.md",
     "1. Funcional/2. Recursos/Unidades/Raças Jogáveis/Raças Jogáveis.md",
-    "1. Funcional/2. Recursos/Unidades/Raças Jogáveis/Mágicas/Upel.md",
-    "1. Funcional/0. Guia/Outras informações.md",
-    "1. Funcional/2. Recursos/Conhecimentos/Base/Guerra.md",
     "1. Funcional/2. Recursos/Conhecimentos/Base/Magia.md",
+    "1. Funcional/1. Sistema/Ficha/Ficha Exemplo.md",
+    "1. Funcional/0. Guia/Outras informações.md",
     "1. Funcional/2. Recursos/Conhecimentos/Base/Astúcia.md",
-    "1. Funcional/1. Sistema/Mecânicas/Atributos.md",
-    "1. Funcional/1. Sistema/Mecânicas/Interpretação.md",
+    "1. Funcional/2. Recursos/Conhecimentos/Base/Guerra.md",
     "1. Funcional/2. Recursos/Itens/Ferramentas.md",
-    "1. Funcional/2. Recursos/Conhecimentos/Conhecimentos.md",
-    "1. Funcional/1. Sistema/Mecânicas/Habilidades.md",
-    "1. Funcional/1. Sistema/Mecânicas/Efeitos.md",
-    "1. Funcional/2. Recursos/Classes/Conhecimentos.md",
-    "1. Funcional/2. Recursos/Classes",
+    "1. Funcional/2. Recursos/Itens/Equipamentos.md",
     "1. Funcional/2. Recursos/Itens/Consumíveis.md",
-    "1. Funcional/2. Recursos/Classes/Base/Mago.md",
-    "1. Funcional/Lista de Afazeres.md",
-    "1. Funcional/Ideias.md",
+    "1. Funcional/2. Recursos/Conhecimentos/Conhecimentos.md",
+    "1. Funcional/2. Recursos/Classes",
     "1. Funcional.zip",
-    "1. Funcional/2. Recursos/Classes/Base/Ladino.md",
-    "1. Funcional/2. Recursos/Classes/Base/Guerreiro.md",
-    "1. Funcional/2. Recursos/Unidades/Raças Jogáveis/Primordiais/Cael.md",
     "1. Funcional/2. Recursos/Classes/Base",
-    "1. Funcional/2. Recursos/Unidades/Raças Jogáveis/Primordiais/Humanos.md",
-    "1. Funcional/2. Recursos/Unidades/Raças Jogáveis/Primordiais/Helyr.md",
     "0. Desenvolvimento/Revisar",
     "0. Desenvolvimento/Revisar/0. Rascunhos/Referências/Imagens/Pasted image 20250212170251.png",
     "0. Desenvolvimento/Revisar/2. Material Mais Antigo/3. Marcial.txt",

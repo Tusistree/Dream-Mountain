@@ -12,12 +12,12 @@
 
 Talento, Defensivo.
 
-A medida que é ferido, o corpo de um **Nodonte** gera mais escamas para aumentar sua sobrevivência. Ao sofrer **Dano** recebe metade daquele dano, pós mitigado, de [[Efeitos]] de **Barreira**, porém você não pode equipar nada abaixo do **Cinto**.
+A medida que é ferido, o corpo de um **Nodonte** gera mais escamas para aumentar sua sobrevivência, embora seu corpo quadrupede o impeça de usar alguns equipamentos. Ao sofrer **Dano** recebe metade daquele dano, pós mitigado, de [[Efeitos]] de **Barreira**, porém você não pode equipar nada abaixo do **Cinto**.
 ### Adaptação Cultural
 
 Talento Interpretativo, Utilidade.
 
-Em busca de integrar a qualquer sociedade, os **Nodonte** estão disposto a se adaptar a qualquer trabalho. Você pode escolher uma **Raça** e um tipo de **Ação de Interpretação**, você ganha **1** ponto de **Precisão** e **Crítico** em **Ações de Interpretação** sobre aquela **Raça** ou **Modalidade**. 
+Em busca de integrar a qualquer sociedade, os **Nodonte** estão disposto a se adaptar a qualquer trabalho. Você pode escolher uma **Raça** e um tipo de **Ação de Interpretação**, você ganha **1** ponto de **Precisão** e **Crítico** em **Ações de Interpretação** sobre aquela **Raça** e **Modalidade**. 
 
 ### Forma Ancestral
 

@@ -3,17 +3,17 @@
 Raças. ✔️
 Sistema. ✔️
 Equipamentos. ✔️
-Armas. ✔️
-Classes. ✔️
-Mago. ✔️
+Ferramentas. ✔️
+Conhecimentos. ✔️
+Magias. ✔️
 
 # Fazendo
 
-Guerreiro.
+Guerra.
 
 # A fazer
 
-Ladino.
+Astúcia.
 Outras Informações.
 Ficha Exemplo.
 

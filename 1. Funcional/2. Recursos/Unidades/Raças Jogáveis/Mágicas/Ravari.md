@@ -16,7 +16,7 @@ Ao negar a mente, um **Ravari** está mais próximo de seus instintos primitivos
 * **Mamífero**: Valores concedidos por **Ataque** e **Vitalidade** são dobrados, mas os de **Domínio** e **Maestria** são divididos pela metade, arredondado para baixo.
 * **Réptil**: Valores concedidos por **Alcance** e **Velocidade** são dobrados, mas os de **Domínio** e **Maestria** são divididos pela metade, arredondado para baixo.
 
-Esse **Talento** é desativado ao equipar **Itens** que não sejam **Armas** acima do **Cinto**.
+Esse **Talento** é desativado ao equipar **Itens** que não sejam **Ferramentas** acima do **Cinto**.
 
 ### Mestre das Feras
 
@@ -24,7 +24,7 @@ Talento Interpretativo, Invocação.
 
 Um **Ravari** sempre caça junto de sua fera leal. Começa a **Campanha** com uma **Unidade** do tipo **Monstro** de mesmo **Nível** que você.
 
-Essa **Unidade** sobe de nível junto ao de seu **Dono**, pode ser qualquer criatura de médio ou pequeno porte, além de ter uma ficha própria, porém apenas com os **Atributos Primários** de **Ataque**, **Velocidade** e **Vitalidade**. Esses **Atributos**, assim como de um **Jogador** ou **NPC**, já começam com valor mínimo de 3, mas há 9 pontos para distribuir.
+Essa **Unidade** sobe de nível junto ao de seu **Dono**, pode ser qualquer criatura de médio ou pequeno porte, além de ter uma ficha própria, porém apenas com os **Atributos Primários** de **Ataque**, **Velocidade** e **Vitalidade**. Esses **Atributos**, assim como de um **Jogador** ou **NPC**, já começam com valor mínimo de 2, mas há 10 pontos para distribuir.
 
 ### Brutalizar
 
@@ -40,4 +40,4 @@ Habilidade Interpretativa, Utilidade, Individual. **Precisão Garantida**.
 
 Só pode ser usada uma vez por **Plano**.
 
-A bestialidade de um **Ravari** concede ele a habilidade de poder entender e se comunicar com os **Monstros**. Ao ativar essa **Habilidade** a sua próxima **Ação de Interpretação** que envolva **Monstros** terá o dobro dos seus modificadores, ou aumentado em 1 caso não haja nenhum.
+A bestialidade de um **Ravari** concede ele a habilidade de poder entender e se comunicar com os **Monstros**. Ao ativar essa **Habilidade** a sua próxima **Ação de Interpretação** que envolva **Monstros** terá o dobro dos seus modificadores, ou aumentado em 2 caso não haja nenhum.

@@ -30,7 +30,7 @@ Só poder ser uma vez por **Sessão** ou após **Descansar** em um local seguro.
 
 O **Alcance Base** é igual ao seu **Nível**. **Precisão Garantida**.
 
-Um **Upel** pode reverter uma situação negativa para uma positiva usando a abstração sinistra de seu ser. Rouba metade de cada **Efeito Positivo**, arredondado para baixo, de todos os **Oponentes** ao seu redor, e também redistribui metade de cada **Efeito Negativo** seu entre eles a sua escolha, também arrendado para baixo.
+Um **Upel** pode reverter uma situação negativa para uma positiva usando a abstração sinistra de seu ser. Rouba metade de cada **Efeito Positivo**, arredondado para baixo, de todos os **Oponentes** ao seu redor, e também redistribui metade de cada **Efeito Negativo** seu entre eles a sua escolha, também arrendado para baixo. A distância é baseado em seu **Alcance**.
 
 ### Atributo-Morfose
 
@@ -38,4 +38,4 @@ Habilidade Interpretativa, Utilidade, Individual. **Precisão Garantida**.
 
 Só poder ser uma vez por **Sessão** ou após **Descansar** em um local seguro.
 
-O corpo de um **Upel** pode se remodelar conforme suas necessidades. Você zera todos os seus pontos de **Atributo** e pode redistribui-los. Se aplica a tanto a **Atributos** **Primários** quanto **Secundários**, mas não com os originários de itens ou efeitos.
+O corpo de um **Upel** pode se remodelar conforme suas necessidades. Você zera todos os seus pontos de **Atributo** e pode redistribui-los. Se aplica apenas a **Atributos** **Primários**, porém não com os originários de itens ou efeitos. O mesmo ocorre com **Talentos** e **Habilidades**, porém ainda dentro do mesmo **Conhecimento**.

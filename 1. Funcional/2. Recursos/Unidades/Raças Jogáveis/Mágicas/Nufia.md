@@ -12,7 +12,7 @@
 
 Talento, Defensivo.
 
-Arcanistas e intelectuais são os alvos preferidos das trapaças de um **Nufia**. Você não pode receber **Dano** **Crítico** de **Habilidades**, ele é feito da forma original, além disso a **Precisão** de **Habilidades** é reduzida em um valor igual metade do seu **Nível**, arredondado para cima.
+Arcanistas e intelectuais são os alvos preferidos das trapaças de um **Nufia**. Você não pode receber **Dano** **Crítico** de **Habilidades**, ele é feito da forma original, além disso a **Precisão** de **Habilidades** contra você é reduzida em um valor igual metade do seu **Nível**, arredondado para cima.
 
 ### Afinidade Mágica
 
@@ -32,4 +32,4 @@ Habilidade Interpretativa, Utilidade. **Precisão Garantida**.
 
 Só pode ser usada uma vez por **Plano**.
 
-Sendo mestres do truques, um **Nufia** sempre consegue fazer com que algum detalhe passe despercebido. Ao ativar essa **Habilidade** a sua próxima **Ação de Interpretação** que envolva **Trapaça** tem **Acerto Crítico** garantido.
+Sendo mestres do truques, um **Nufia** sempre consegue fazer com que algum detalhe passe despercebido. Ao ativar essa **Habilidade** a sua próxima **Ação de Interpretação** que envolva **Persuasão** tem **Acerto Crítico** garantido.
