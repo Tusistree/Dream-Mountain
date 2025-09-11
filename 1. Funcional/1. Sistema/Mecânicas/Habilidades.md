@@ -1,19 +1,19 @@
-As **Habilidades** são o coração de personagens em **Dream Mountain**, graças ao fator de serem **Ações Especiais** que podem ser feitas tanto por **Jogadores**, **NPCs**, **Monstros** e até objetos como **Itens** e **Estruturas**. No entanto essa **Ações** possuem certos padrões e regras.
+As **Habilidades** são o coração de personagens em **Dream Mountain**, graças ao fator de serem **Ações Especiais** que podem ser feitas tanto por **Jogadores**, **NPCs**, **Monstros** e até por objetos como **Itens** e **Estruturas**. No entanto essa **Ações** possuem certos padrões e regras.
 
 # Dissipação
 
 É muito comum uma **Habilidade** aplicar [[Efeitos]], tanto **Positivos** quanto **Negativos**. No entanto, esses mesmos **Efeitos** também podem ser anulados por outras **Habilidades**. No processo de **Dissipação** a fonte causadora decide o que e quanto vai ser removido, mas com certos limites:
 
-* **Dissipação Fraca**: Remove **Efeitos** de **Interpretação** ou **Não-Debilitante**, além de inferiores.
+* **Dissipação Fraca**: Remove **Efeitos** de **Interpretação** ou **Não-Debilitante**.
 * **Dissipação Normal**: Remove **Efeitos** de **Combate** ou **Debilitantes**, além de inferiores.
 * **Dissipação Forte**: Remove **Efeitos** de **Tolerância** ou **Inutilizantes**, além de inferiores.
-* **Dissipação Verdadeira**: Remove qualquer **Efeito** de qualquer **Nível**, além de inferiores.
+* **Dissipação Verdadeira**: Remove qualquer **Efeito** de qualquer **Nível**.
 
 Caso um **Efeito** seja **Único** e não se enquadre na documentação de [[Efeitos]], a **Dissipação** segue essas regras:
 
 * **Dissipação Fraca**: Remove **Efeitos** de **Nível** 3 ou inferior.
 * **Dissipação Normal**: Remove **Efeitos** de **Nível** 6 ou inferior.
-* **Dissipação Forte**: Remove **Efeitos** de**Nível** 9 ou inferior.
+* **Dissipação Forte**: Remove **Efeitos** de **Nível** 9 ou inferior.
 * **Dissipação Verdadeira**: Remove qualquer **Efeito** de qualquer **Nível**.
 
 # Traço
@@ -21,15 +21,15 @@ Caso um **Efeito** seja **Único** e não se enquadre na documentação de [[Efe
 As **Habilidades** sempre possuem algumas características que influencia em sua execução. Podem ser desde o seu **Tipo**, **Área de Efeito**, **Dano** ou **Precisão**. Esses **Traços** são os que definem a forma que essas habilidades devem ser interpretadas ou usadas.
 
 #### Tipo
-Significa o que é **Habilidade** o a que grupo ela pertence. Elas podem ser diversas como:
+Significa o que é **Habilidade** ou a que grupo ela pertence. Elas podem ser diversas como:
 
-* **Ofensivo**: ferir ou atacar algo.
-* **Defensivo**: proteger algo.
-* **Mobilidade**: mover-se ou movimentar algo.
-* **Controle**: reduzir as características de algo.
+* **Ofensivo**: ferir ou atacar.
+* **Defensivo**: proteger.
+* **Mobilidade**: mover-se.
+* **Controle**: reduzir as características.
 * **Recuperação**: recuperar algo perdido.
 * **Utilidade**: oferecer soluções alternativas.
-* **Invocação**: criar a partir de algo ou do nada.
+* **Invocação**: criar a partir de algo do nada.
 
 #### Área de Efeito
 É como a **Habilidade** será aplicada, assim como quem irá receber o **Dano** e os **Efeitos**:

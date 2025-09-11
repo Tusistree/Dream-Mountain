@@ -20,7 +20,7 @@ Personagens baseados em **Inteligência** possuem vantagem nas seguintes modalid
 
 # Modificadores
 
-Como mencionado anteriormente, as [[Classes]] possuem vantagens na **Ações de Interpretação** baseado no seu **Aspecto** principal, mas o que seriam essas vantagens?
+[[Conhecimentos]] fazem o personagem receber vantagens na **Ações de Interpretação** baseado no seu **Aspecto** principal, mas o que seriam essas vantagens?
 
 Modificadores impactam diretamente na **Precisão** das **Ações de Interpretação** (mais detalhes em [[Habilidades]]), quanto maior for o modificador, também será maior o valor adicional somado no arremesso de **Dados**.
 
@@ -28,4 +28,6 @@ Modificadores impactam diretamente na **Precisão** das **Ações de Interpreta�
 
 # Vantagem Inicial
 
-Personagens baseados em **Força** começam com 1 **Modificador** adicional em cada uma de suas modalidades (**Exercício**, **Presença** e **Superação**). O mesmo ocorre para **Agilidade** (**Criação**, **Mobilidade** e **Persuasão**) e **Inteligência** (**Leitura**, **Percepção** e **Solução**). Uma pequena ajuda simbólica para impulsionar novos personagens em seus papéis.
+Personagens baseados em **Força** começam com 1 **Modificador** adicional em cada uma de suas modalidades (**Exercício**, **Presença** e **Superação**). O mesmo ocorre para **Agilidade** (**Criação**, **Mobilidade** e **Persuasão**) e **Inteligência** (**Leitura**, **Percepção** e **Solução**).
+
+Uma pequena ajuda simbólica para impulsionar novos personagens em seus papéis.

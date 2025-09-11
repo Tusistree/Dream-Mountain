@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "49a7415f08fcd1c2",
+        "id": "1ea4de1699716a8e",
         "type": "tabs",
         "children": [
           {
-            "id": "6da2676db2eaccec",
+            "id": "1b965b26ef171f2e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Funcional/2. Recursos/Itens/Consumíveis.md",
+                "file": "1. Funcional/0. Guia/Introdução.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Consumíveis"
+              "title": "Introdução"
             }
           }
         ]
@@ -162,26 +162,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6da2676db2eaccec",
+  "active": "1b965b26ef171f2e",
   "lastOpenFiles": [
-    "1. Funcional/2. Recursos/Classes/Base/Mago.md",
+    "1. Funcional/1. Sistema/Mecânicas/Interpretação.md",
+    "1. Funcional/2. Recursos/Conhecimentos/Conhecimentos.md",
+    "1. Funcional/1. Sistema/Mecânicas/Habilidades.md",
+    "1. Funcional/1. Sistema/Mecânicas/Efeitos.md",
+    "1. Funcional/0. Guia/Introdução.md",
+    "1. Funcional/2. Recursos/Classes/Conhecimentos.md",
+    "1. Funcional/2. Recursos/Classes",
     "1. Funcional/2. Recursos/Itens/Consumíveis.md",
+    "1. Funcional/2. Recursos/Classes/Base/Mago.md",
     "1. Funcional/Lista de Afazeres.md",
     "1. Funcional/Ideias.md",
     "1. Funcional/1. Sistema/Mecânicas/Atributos.md",
     "1. Funcional.zip",
-    "1. Funcional/1. Sistema/Mecânicas/Interpretação.md",
-    "1. Funcional/1. Sistema/Mecânicas/Habilidades.md",
-    "1. Funcional/1. Sistema/Mecânicas/Efeitos.md",
     "1. Funcional/2. Recursos/Itens/Ferramentas.md",
     "1. Funcional/2. Recursos/Itens/Equipamentos.md",
-    "1. Funcional/2. Recursos/Classes/Classes.md",
     "1. Funcional/2. Recursos/Classes/Base/Ladino.md",
     "1. Funcional/2. Recursos/Classes/Base/Guerreiro.md",
     "1. Funcional/1. Sistema/Ficha/Ficha Exemplo.md",
     "1. Funcional/1. Sistema/Ficha/Ficha Base.md",
     "1. Funcional/0. Guia/Outras informações.md",
-    "1. Funcional/0. Guia/Introdução.md",
     "1. Funcional/2. Recursos/Unidades/Raças Jogáveis/Raças Jogáveis.md",
     "1. Funcional/2. Recursos/Unidades/Raças Jogáveis/Primordiais/Cael.md",
     "1. Funcional/2. Recursos/Classes/Base",
@@ -195,7 +197,6 @@
     "0. Desenvolvimento/Revisar/2. Material Mais Antigo/1. Artilharia.txt",
     "0. Desenvolvimento/2. Material Mais Antigo/~WRL0929.tmp",
     "0. Desenvolvimento/2. Material Mais Antigo/~WRD0925.tmp",
-    "0. Desenvolvimento/2. Material Mais Antigo/~WRL1507.tmp",
     "1. Funcional/0. Guia/3. Curiosidades_.md",
     "0. Desenvolvimento/Revisar/1. Material Antigo/Recursos/Classes/Elemental.md",
     "BLOCKAR HARD CAMP.md",

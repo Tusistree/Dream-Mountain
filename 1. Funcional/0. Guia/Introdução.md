@@ -1,6 +1,6 @@
 # O que é Dream Mountain?
 
-É um **RPG de Mesa** baseado em um universo fictício sobre uma **Montanha que realiza desejos**. A proposta é ser um jogo que possa ter várias modalidades como histórias, lutas, aventuras, enigmas e entre outros, com foco na diversidade de estratégias, estilos de jogo e personagens.
+É um **RPG de Mesa** baseado em um universo fictício sobre uma **Montanha que realiza desejos**. A proposta é de um jogo onde há várias modalidades como histórias, lutas, aventuras, enigmas e entre outros, com foco na diversidade de estratégias, estilos de jogo e personagens.
 
 O jogo é feito para poder incentivar qualquer pessoa a jogar a sua própria maneira, dando recursos para isso, seja habilidades estranhas para personagens exóticos ou itens sérios para fichas mais bem construídas.
 
@@ -65,7 +65,7 @@ O personagem pode ser criado sobrescrevendo ou clonando a [[Ficha Base]], para c
 
 **Itens**: um personagem novo tem direito a alguns **Itens** de **Nível 0**, sendo a sua escolha 2 [[Ferramentas]], 3 [[Equipamentos]] e 9 [[Consumíveis]]. Além disso **Jogadores** tem um inventário de apenas de 3 espaços de **Item**, onde ficam **Armas** e **Equipamentos** desequipados, e também onde seus **Consumíveis** irão automaticamente. O inventário pode ser expandido com **Mochilas**.
 
-**Habilidades e Talentos**: primeiro você escolha uma das [[Classes]]. todas as **Habilidades** e **Talentos** da sua **Classe** ficam nessa sessão. Novos personagens sempre tem tudo de **Nível** 0 da sua **Classe**, porém podem escolher apenas 1 **Habilidade** ou **Talento** de **Nível** 1 para ter além dessas.
+**Habilidades e Talentos**: primeiro você escolha uma das [[1. Funcional/2. Recursos/Classes/Conhecimentos]]. todas as **Habilidades** e **Talentos** da sua **Classe** ficam nessa sessão. Novos personagens sempre tem tudo de **Nível** 0 da sua **Classe**, porém podem escolher apenas 1 **Habilidade** ou **Talento** de **Nível** 1 para ter além dessas.
 
 Para qualquer dúvida há a [[Ficha Exemplo]], sendo um personagem funcional e genérico, podendo ser usado como referência na criação ou como o seu próprio **Personagem**.
 
