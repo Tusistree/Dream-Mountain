@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b1074bfc6a723f95",
+        "id": "da413e4f5b2d501e",
         "type": "tabs",
         "children": [
           {
-            "id": "ea5978642a2cba2b",
+            "id": "f2782554fe926d3e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Funcional/2. Recursos/Conhecimentos/Base/Magia.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Magia"
+              "title": "New tab"
             }
           }
         ]
@@ -162,11 +158,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ea5978642a2cba2b",
+  "active": "f2782554fe926d3e",
   "lastOpenFiles": [
+    "1. Funcional/2. Recursos/Conhecimentos/Base/Magia.md",
     "1. Funcional/2. Recursos/Conhecimentos/Base/Astúcia.md",
     "1. Funcional/2. Recursos/Conhecimentos/Base/Guerra.md",
-    "1. Funcional/2. Recursos/Conhecimentos/Base/Magia.md",
     "1. Funcional/0. Guia/Introdução.md",
     "Untitled.base",
     "1. Funcional/2. Recursos/Itens/Ferramentas.md",
