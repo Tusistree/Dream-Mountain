@@ -49,7 +49,7 @@ Um feitiço bem executado sempre refresca a mente. Quando seus pontos de **Mana*
 
 Magia de Fogo, Ofensivo, Projétil.
 
-**Precisão Normal** e **Custa** 3 pontos de **Mana**.
+**Precisão Normal** e **Custa** 2 pontos de **Mana**.
 
 Chamas se concentram na palma da sua mão se tornando uma flecha pronta para atingir seu alvo. Dispara um **Projétil** contra um **Inimigo** causando **1d4** de **Dano**.
 
@@ -57,7 +57,7 @@ Chamas se concentram na palma da sua mão se tornando uma flecha pronta para ati
 
 Magia de Vento, Defensivo, Área.
 
-**Precisão Normal** e **Custa** 3 pontos de **Mana**.
+**Precisão Normal** e **Custa** 2 pontos de **Mana**.
 
 Um movimento de mão que impulsiona o ar e afasta todas as ameaças. Empurra para direção oposta todos os **Oponentes** dentro de um raio igual ao seu **Alcance**, a distância empurrada é igual a metade desse mesmo **Atributo**, arredondado para cima.
 
@@ -79,7 +79,7 @@ Magia de Fogo, Utilidade, Individual.
 
 **Precisão Garantida** e **Custa** 2 pontos de **Mana**.
 
-Ninguém sabe ao certo se é um golem ou alguma forma de vida, mas ele sempre quer ajudar seu dono. Cria uma pequena **Unidade** que é uma chama de luz viva, iluminando 3 metros ao seu redor. Só pode ter uma por vez invocada e ela sempre te segue sem ocupar espaço no campo.
+Ninguém sabe ao certo se é um golem ou alguma forma de vida, mas ele sempre quer ajudar seu dono. Cria uma pequena **Unidade** que é uma chama de luz viva, iluminando 5 metros ao seu redor. Só pode ter uma por vez invocada e ela sempre te segue sem ocupar espaço no campo.
 
 Essa **Unidade** dura até o fim o **Plano** e aumenta a sua **Precisão** em 1, além de suas **Ações de Interpretação** envolvendo **Percepção** também ser aumentado a sua **Precisão** em 1.
 
@@ -143,7 +143,7 @@ Conjura uma ventania brusca, redirecionando magias e ataques para outros advers�
 
 Magia de Água, Ofensivo e Controle, Projétil.
 
-**Precisão Normal** e **Custa** 6 pontos de **Mana**.
+**Precisão Normal** e **Custa** 5 pontos de **Mana**.
 
 Frio e neve se concentram na palma da sua mão se tornando uma flecha pronta para atingir seu alvo. Dispara um **Projétil** contra um **Inimigo** causando 1 de **Dano**, além **1d2** de **Efeitos** de **Redução** de **Velocidade**.
 
@@ -151,7 +151,7 @@ Frio e neve se concentram na palma da sua mão se tornando uma flecha pronta par
 
 Magia de Fogo, Ofensivo, Cone.
 
-**Precisão Normal** e **Custa** 6 pontos de **Mana**.
+**Precisão Normal** e **Custa** 5 pontos de **Mana**.
 
 É uma imitação quase perfeita de um bafo de dragão, incendiando quem atinge. Em uma área cônica, que não pode passar de metade do seu **Atributo** de **Alcance**, você assopra fogo causando **1d6** de **Dano**, e metade do valor do **Dado** como **Efeitos** de **Sangramento**, arredondado para cima.
 
@@ -169,7 +169,7 @@ Magia Interpretativa de Terra, Utilidade.
 
 **Precisão Garantida** e **Custa** 4 pontos de **Mana**.
 
-Uma estrutura metálica surge do chão e se abre, revelando todos os seus pertences. Cria um baú em uma **Zona** onde todos os **Inimigos** principais já foram derrotados. **Aliados** que tocarem em um **Baú de Ferro** podem armazenar até 18 **Itens**, por indivíduo, e os consultar ou retirar em outros **Baús de Ferro**. Essa **Utilidade** só pode ocorrer com ausência de **Oponentes**.
+Uma estrutura metálica surge do chão e se abre, revelando todos os seus pertences. Cria um baú em uma **Zona** onde todos os **Inimigos** principais já foram derrotados. **Aliados** que tocarem em um **Baú de Ferro** podem armazenar até 20 **Itens**, por indivíduo, e os consultar ou retirar em outros **Baús de Ferro**. Essa **Utilidade** só pode ocorrer com ausência de **Oponentes**.
 
 ### Criar Fogueira
 
@@ -185,7 +185,7 @@ Magia Interpretativa de Água, Utilidade.
 
 **Precisão Garantida** e **Custa** 4 pontos de **Mana**.
 
-Um fragmento de gelo cristalizado surge da água, recuperando as energias de todos os aliados. Cria um cristal em uma **Zona** onde todos os **Inimigos** principais já foram derrotados. Esse cristal recupera todos os pontos de **Mana** e concede 6 **Efeitos** de **Concentração** ao **Toque**. Essa **Recuperação** só pode ocorrer com ausência de **Oponentes**, e o seu efeito começa a contagem no primeiro **Combate**.
+Um fragmento de gelo cristalizado surge da água, recuperando as energias de todos os aliados. Cria um cristal em uma **Zona** onde todos os **Inimigos** principais já foram derrotados. Esse cristal recupera todos os pontos de **Mana** e concede 5 **Efeitos** de **Concentração** ao **Toque**. Essa **Recuperação** só pode ocorrer com ausência de **Oponentes**, e o seu efeito começa a contagem no primeiro **Combate**.
 
 ### Faíscas
 
@@ -263,19 +263,19 @@ A disciplina do seu poder de Terra é tão rígida que as vezes escapam alguns p
 
 Magia de Vento, Recuperação, Projétil.
 
-**Precisão Normal** e **Custa** 12 pontos de **Mana**.
+**Precisão Normal** e **Custa** 10 pontos de **Mana**.
 
 Uma corrente de água que cura os aliados, sendo também um meio de locomoção no mar. Restaura 2 pontos de **Vida** de um **Aliado** o aplicando 2 **Efeitos** de **Regeneração**. A **Cura**, **Efeitos** e a **Distância** são dobrados para um outro **Aliado** dentro desse novo **Alcance**, e assim por diante até um máximo de dois **Aliados** adicionais, sem repetir. A **Maestria** não é duplicada. Você recebe 3 **Efeitos** de **Desgaste**.
 
-Pode ser usado com **Precisão Garantida** e **Custo** 6 pontos de **Mana** em **Planos de Interpretação** e em um ambiente aquático para fazer você e todos os seus **Aliados** usarem uma viagem rápida para qualquer lugar daquele ambiente (inclusive outras **Zonas** e **Regiões** conhecidas se estiverem conectadas como por exemplo em rios e mares).
+Pode ser usado com **Precisão Garantida** e **Custo** 5 pontos de **Mana** em **Planos de Interpretação** e em um ambiente aquático para fazer você e todos os seus **Aliados** usarem uma viagem rápida para qualquer lugar daquele ambiente (inclusive outras **Zonas** e **Regiões** conhecidas se estiverem conectadas como por exemplo em rios e mares).
 
 ### Flutuar
 
 Magia de Vento, Mobilidade, Individual.
 
-**Precisão Normal** e **Custa** 9 pontos de **Mana**.
+**Precisão Normal** e **Custa** 10 pontos de **Mana**.
 
-Abençoa um aliado com o poder do vento, dando a capacidade de planar levemente pelo ar sem uma queda brusca. Aplica em um **Aliado** 3 **Efeitos** de **Aumento** de **Esquiva** e 9 de **Aumento** de **Velocidade**. Você recebe 3 **Efeitos** de **Desgaste**.
+Abençoa um aliado com o poder do vento, dando a capacidade de planar levemente pelo ar sem uma queda brusca. Aplica em um **Aliado** 2 **Efeitos** de **Aumento** de **Esquiva** e 10 de **Aumento** de **Velocidade**. Você recebe 4 **Efeitos** de **Desgaste**.
 
 Pode ser usado com **Precisão Garantida** e **Custo** 4 pontos de **Mana** em **Planos de Interpretação**  para fazer o **Aliado** planar, assim dando acertos **Garantidos** em **Ações Interpretativas** de **Movimentação**, ainda há arremesso de **Dado** para possibilidade de **Crítico**.
 
@@ -283,7 +283,7 @@ Pode ser usado com **Precisão Garantida** e **Custo** 4 pontos de **Mana** em *
 
 Talento Mágico de Fogo, Aura, Ofensivo.
 
-Os inimigos em sua presença ficam com uma visão turva e soam sem parar. No início do seu **Turno** sempre causa 3 pontos de **Dano** em todos os **Oponentes**, ignorando totalmente a **Defesa** e não importando a distância. O **Dano** não escala com a **Maestria**.
+Os inimigos em sua presença ficam com uma visão turva e soam sem parar. No início do seu **Turno** sempre causa 2 pontos de **Dano** em todos os **Oponentes**, ignorando totalmente a **Defesa** e não importando a distância. O **Dano** não escala com a **Maestria**.
 
 ### Presença Invernal
 
@@ -305,9 +305,9 @@ Pode ser usado com **Precisão Garantida** e **Custo** 4 pontos de **Mana** em *
 
 Magia de Pedra, Controle, Individual.
 
-**Precisão Difícil** e **Custa** 12 pontos de **Mana**.
+**Precisão Difícil** e **Custa** 10 pontos de **Mana**.
 
-Convoca duas conchas de pedra prendendo uma alvo entre elas. Aplica em um **Oponente** 3 **Efeitos** de **Atordoamento**. Durante o **Atordoamento** você pode realizar **Ações Básicas** de movimento com o **Alvo**, no entanto a **Velocidade** dele agora é seu **Atributo** de **Alcance**.
+Convoca duas conchas de pedra prendendo uma alvo entre elas. Aplica em um **Oponente** 2 **Efeitos** de **Atordoamento**. Durante o **Atordoamento** você pode realizar **Ações Básicas** de movimento com o **Alvo**, no entanto a **Velocidade** dele agora é seu **Atributo** de **Alcance**.
 
 Pode ser usado com **Precisão Normal** e **Custo** 6 pontos de **Mana** em **Planos de Interpretação**  para atordoar o **Alvo** permanentemente, podendo o levar junto de você. No entanto você só pode ter um **Alvo** dessa forma por vez e nas suas jogadas de **Dados** se errar **Criticamente** o **Alvo** é solto.
 
@@ -321,13 +321,13 @@ Magia de Água, Controle e Ofensivo, Individual e Local.
 
 Você tenta usar o ambiente para afogar o oponente, mas caso não haja o ambiente ideal você o cria lentamente. Essa **Habilidade** só pode ser usada contra um **Oponente** que não seja um **Chefe**, além de ser do mesmo **Nível** ou inferior ao seu e também estar em um ambiente aquático. Executa o **Oponente**.
 
-Caso essa **Habilidade** seja usada fora de sua **Condição** principal, ela apenas causa 1 ponto de **Dano** e 2 **Efeitos** de **Redução** de **Velocidade**. Caso haja certo **Crítico** dessa forma, ou no segundo uso dessa **Habilidade**, um pequeno lago é criado em baixo do **Alvo**, um **Local** quadrado com medidas igual o seu **Alcance**, sendo considerado um ambiente aquático e reduzindo a **Velocidade** em 3 de quem estiver nele.
+Caso essa **Habilidade** seja usada fora de sua **Condição** principal, ela apenas causa 1 ponto de **Dano** e 2 **Efeitos** de **Redução** de **Velocidade**. Caso haja certo **Crítico** dessa forma, ou no segundo uso dessa **Habilidade**, um pequeno lago é criado em baixo do **Alvo**, um **Local** quadrado com medidas igual o seu **Alcance**, sendo considerado um ambiente aquático e reduzindo a **Velocidade** em 5 de quem estiver nele.
 
 ### Bombardeio
 
 Magia de Fogo, Mobilidade e Ofensivo, Projétil.
 
-**Precisão Normal** e **Custa** 12 pontos de **Mana**.
+**Precisão Normal** e **Custa** 10 pontos de **Mana**.
 
 Em um frenesi violento você dispara um sequência incansável de disparos incendiários. Você joga conjura **1d6** **Setas de Fogo** em um **Oponente** sem gastar seus **Custos**. **Crítico** multiplica o número de **Magias** e não o **Dano**. Se o alvo for eliminado, o resto das **Magias** são direcionados a um novo **Alvo**, independente da distância.
 
@@ -335,9 +335,9 @@ Em um frenesi violento você dispara um sequência incansável de disparos incen
 
 Magia de Terra, Controle, Local.
 
-**Precisão Difícil** e **Custa** 12 pontos de **Mana**.
+**Precisão Difícil** e **Custa** 10 pontos de **Mana**.
 
-Com um grande tremor uma imensa cratera surge do chão engolindo seus adversários. Escolhe um **Local** quadrado, em qualquer lugar do campo de batalha mas com medidas igual o seu **Alcance**, onde os **Oponentes** recebem 6 **Efeitos** de **Sangramento**. **Unidades** não podem sair desse **Local**. Essa regra não se aplicam a **Ações** com **Área** ou **Local**.
+Com um grande tremor uma imensa cratera surge do chão engolindo seus adversários. Escolhe um **Local** quadrado, em qualquer lugar do campo de batalha mas com medidas igual o seu **Alcance**, onde os **Oponentes** recebem 5 **Efeitos** de **Sangramento**. **Unidades** não podem sair desse **Local**. Essa regra não se aplicam a **Ações** com **Área** ou **Local**.
 
 Você só pode ter uma **Cratera** por vez.
 
@@ -345,7 +345,7 @@ Você só pode ter uma **Cratera** por vez.
 
 Talento Mágico de Terra, Aura, Defensivo.
 
-Os inimigos em sua presença não ousam te contestar. Aumenta a **Defesa** em 3. Desde o início do seu **Turno** os **Oponentes** não podem te interromper, isso só ocorre em seus **Turnos** ímpares não importando a distância.
+Os inimigos em sua presença não ousam te contestar. Aumenta a **Defesa** em 4. Desde o início do seu **Turno** os **Oponentes** não podem te interromper, isso só ocorre em seus **Turnos** ímpares não importando a distância.
 
 ### Presença Volátil
 
@@ -357,9 +357,9 @@ Os inimigos em sua presença não conseguem te acertar. Aumenta a **Esquiva** em
 
 Magia de Vento, Local, Ofensivo.
 
-**Precisão Normal** e **Custa** 12 pontos de **Mana**.
+**Precisão Normal** e **Custa** 14 pontos de **Mana**.
 
-Um furacão que surge e se mantém destruindo tudo que toca. Escolhe um **Local** quadrado, em qualquer lugar do campo de batalha mas com medidas igual o seu **Alcance**, onde causa **1d8** de **Dano** imediatamente. Você pode manter aquele **Local** gastando 3 pontos de **Mana** no começo de cada um de seus **Turnos**, assim causando **1d4** de **Dano** em **Oponentes** que estiverem em cima, além de terem a **Velocidade** reduzida em 6.
+Um furacão que surge e se mantém destruindo tudo que toca. Escolhe um **Local** quadrado, em qualquer lugar do campo de batalha mas com medidas igual o seu **Alcance**, onde causa **1d8** de **Dano** imediatamente. Você pode manter aquele **Local** gastando 4 pontos de **Mana** no começo de cada um de seus **Turnos**, assim causando **1d4** de **Dano** em **Oponentes** que estiverem em cima, além de terem a **Velocidade** reduzida em 5.
 
 Você pode ter até 3 **Vórtices**.
 
@@ -369,7 +369,7 @@ Você pode ter até 3 **Vórtices**.
 
 Magia de Vento, Individual, Controle.
 
-**Precisão Garantida** e **Custa** 18 pontos de **Mana**.
+**Precisão Garantida** e **Custa** 20 pontos de **Mana**.
 
 Arremessa ao ar seu adversário o mais alto que puder. Se o **Oponente** não for o único ou não for um **Chefe** ele recebe um **Efeito** permanente de **Banimento**. A duração é até ele ser o único do campo de batalha. Só pode haver 1 **Oponente** por vez com **Efeito** dessa **Habilidade**.
 
@@ -383,7 +383,7 @@ Em alguns momentos você consegue usar o fogo da sua forma mais concentrada. Nos
 
 Magia de Fogo, Individual, Ofensivo.
 
-**Precisão Garantida** e **Custa** 18 pontos de **Mana**.
+**Precisão Garantida** e **Custa** 20 pontos de **Mana**.
 
 Para lendas do fogo um estalar de dedos basta. Essa **Magia** só pode ser usada contra **Oponentes** com pontos de **Vida** inferior ao dobro do seu **Atributo** de **Maestria**. O **Oponente** é executado.
 
@@ -391,11 +391,11 @@ Para lendas do fogo um estalar de dedos basta. Essa **Magia** só pode ser usada
 
 Magia de Fogo, Local, Ofensivo.
 
-**Precisão Garantida** e **Custa** 18 pontos de **Mana**.
+**Precisão Garantida** e **Custa** 20 pontos de **Mana**.
 
 Uma catástrofe que inunda todo o cenário. Torna o campo de batalha inteiro em um ambiente aquático, onde todos os **Oponente** submersos que não possam respirar recebem 2 **Efeitos** de **Sangramento** por **Turno**. A altura do ambiente é o dobro do seu **Alcance**. **Oponentes** em cima da inundação não são mais considerados submersos ou em ambiente aquático.
 
-**Inundar** só pode ser usada uma vez por **Sessão**, o nível da água é reduzida pela metade em cada **Turno** seu, sempre sendo finalizado se for inferior a 3 metros de altura.
+**Inundar** só pode ser usada uma vez por **Sessão**, o nível da água é reduzida pela metade em cada **Turno** seu, sempre sendo finalizado se for inferior a 5 metros de altura.
 
 ### Poça Vermelha
 
@@ -407,7 +407,7 @@ Em alguns momentos você consegue interpretar o sangue como água. **Oponentes**
 
 Magia de Terra, Local, Ofensivo.
 
-**Precisão Garantida** e **Custa** 21 pontos de **Mana**.
+**Precisão Garantida** e **Custa** 20 pontos de **Mana**.
 
 O rugido do mundo em um tremor. Causa **1d10** em todos os **Oponentes** do campo de batalha, independente de onde eles estejam.
 
@@ -417,7 +417,7 @@ O rugido do mundo em um tremor. Causa **1d10** em todos os **Oponentes** do camp
 
 Magia de Água, Individual, Invocação.
 
-**Precisão Difícil** e **Custa** 21 pontos de **Mana**.
+**Precisão Difícil** e **Custa** 20 pontos de **Mana**.
 
 A representação mais próxima de **Aqua**. Invoca uma **Unidade** de água em forma de uma grande serpente. Ela possui uma ficha própria como um **Jogador**, com 30 pontos de **Atributo Primário** para distribuir, além de estar sobre seu controle e poder usar todas **Magias de Água** que você tem, também tendo os **Talentos Mágicos de Água** que você tem.
 
@@ -427,7 +427,7 @@ Dura até o fim da **Sessão** ou quando você conseguir invocar outro **Familia
 
 Magia de Fogo, Individual, Invocação.
 
-**Precisão Difícil** e **Custa** 21 pontos de **Mana**.
+**Precisão Difícil** e **Custa** 20 pontos de **Mana**.
 
 A representação mais próxima de **Ignis**. Invoca uma **Unidade** de fogo em forma de um grande dragão. Ela possui uma ficha própria como um **Jogador**, com 30 pontos de **Atributo Primário** para distribuir, além de estar sobre seu controle e poder usar todas **Magias de Fogo** que você tem, também tendo os **Talentos Mágicos de Fogo** que você tem.
 
@@ -437,7 +437,7 @@ Dura até o fim da **Sessão** ou quando você conseguir invocar outro **Familia
 
 Magia de Terra, Individual, Invocação.
 
-**Precisão Difícil** e **Custa** 21 pontos de **Mana**.
+**Precisão Difícil** e **Custa** 20 pontos de **Mana**.
 
 A representação mais próxima de **Gaia**. Invoca uma **Unidade** de terra em forma de uma grande tartaruga. Ela possui uma ficha própria como um **Jogador**, com 30 pontos de **Atributo Primário** para distribuir, além de estar sobre seu controle e poder usar todas **Magias de Terra** que você tem, também tendo os **Talentos Mágicos de Terra** que você tem.
 
@@ -447,7 +447,7 @@ Dura até o fim da **Sessão** ou quando você conseguir invocar outro **Familia
 
 Magia de Vento, Individual, Invocação.
 
-**Precisão Difícil** e **Custa** 21 pontos de **Mana**.
+**Precisão Difícil** e **Custa** 20 pontos de **Mana**.
 
 A representação mais próxima de **Ventus**. Invoca uma **Unidade** de vento em forma um grande humanoide. Ela possui uma ficha própria como um **Jogador**, com 30 pontos de **Atributo Primário** para distribuir, além de estar sobre seu controle e poder usar todas **Magias de Vento** que você tem, também tendo os **Talentos Mágicos de Vento** que você tem.
 

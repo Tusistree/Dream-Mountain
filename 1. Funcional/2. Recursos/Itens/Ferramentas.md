@@ -258,7 +258,7 @@ Esse livro simpático costuma fazer o que bem entender. Este **Item** pode jogar
 
 Arma Rúnica de Uma Mão, Machado.
 
-O primeiro uso estratégico das armas rúnicas era manter sobre o controle os magos. Aumenta o **Ataque** em 18, porém todo o seu **Dano** causado por qualquer fonte é feito na **Mana** ao invés da **Vida**. Se subtrair a **Mana** para 0 ou menos o **Alvo** sobre 1 **Efeito** de **Banimento**. 
+O primeiro uso estratégico das armas rúnicas era manter sobre o controle os magos. Aumenta o **Ataque** em 20, porém todo o seu **Dano** causado por qualquer fonte é feito na **Mana** ao invés da **Vida**. Se subtrair a **Mana** para 0 ou menos o **Alvo** sobre 1 **Efeito** de **Banimento**. 
 
 ### Punhal do Eterno Aprendiz
 

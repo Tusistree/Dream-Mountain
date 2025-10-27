@@ -73,7 +73,7 @@ Para qualquer dúvida há a [[Ficha Exemplo]], sendo um personagem funcional e g
 
 Os **Jogadores** vão sempre evoluir 1 **Nível** ao derrotar um **Chefe** de mesmo **Nível** deles, ou 2 **Níveis** caso esse **Oponente** seja de **Nível** mais elevado.
 
-**Ao subir de Nível**: o **Jogador** recebe mais 5 pontos de **Atributo Primário** para distribuir, além de pontos de **Conhecimento** que podem gastar para aprender **Habilidades** e **Talentos**. Os pontos de **Conhecimento** recebidos são sempre igual ao seu **Nível**, assim como custo "compra" de uma **Habilidade** ou **Talento** é também do **Nível** dela. Não é possível economizar pontos ao subir de **Nível**, sendo obrigado a gastar todos se possível.
+**Ao subir de Nível**: o **Jogador** recebe mais 5 pontos de **Atributo Primário** para distribuir, além de pontos de **Conhecimento** que podem gastar para aprender **Habilidades** e **Talentos**. Os pontos de **Conhecimento** recebidos são sempre igual ao seu **Nível**, assim como custo "compra" de uma **Habilidade** ou **Talento** é também do **Nível** dela. É possível economizar pontos ao subir de **Nível**, porém só podem ser gastos em **Habilidades** e **Talentos** com **Nível** semelhante ou inferior ao seu.
 
 **Além do Nível**: grandes feitos na **Interpretação** podem resultar em aumentos permanentes em **Atributos**, ou até mesmo a subida de **Nível**. Alguns eventos **Interpretativos** podem ter o mesmo peso que uma luta de **Chefe**.
 
