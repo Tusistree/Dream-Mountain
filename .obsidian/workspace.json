@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "43d0aef03e401444",
+        "id": "e62d252e9761c527",
         "type": "tabs",
         "children": [
           {
-            "id": "0aeabc538b6e0da5",
+            "id": "d0ee9a9c7c00edfc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "0. Desenvolvimento/Temp/Level 1/Oponentes 4.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Oponentes 4"
             }
           }
         ]
@@ -158,16 +162,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "37ac9f35bf4fca65",
+  "active": "d0ee9a9c7c00edfc",
   "lastOpenFiles": [
+    "0. Desenvolvimento/Temp/Level 1/Oponentes 3.md",
+    "0. Desenvolvimento/Temp/Level 1/Oponentes 4.md",
+    "0. Desenvolvimento/Temp/Level 1/Oponentes 2.md",
+    "0. Desenvolvimento/Temp/Level 1/Chefe 1.md",
+    "0. Desenvolvimento/Temp/Level 1/Oponentes 1.md",
+    "1. Funcional/2. Recursos/Itens/Consumíveis.md",
+    "1. Funcional/Lista de Afazeres.md",
+    "[Magia.md",
+    "1. Funcional/Ideias.md",
     "1. Funcional/0. Guia/Introdução.md",
     "1. Funcional/0. Guia/Outras informações.md",
-    "1. Funcional/Ideias.md",
-    "1. Funcional/Lista de Afazeres.md",
+    "0. Desenvolvimento/Temp/Level 1/Oponentes 5.md",
+    "1. Funcional/2. Recursos/Conhecimentos/Base/Magia.md",
+    "1. Funcional/2. Recursos/Conhecimentos/Conhecimentos.md",
+    "1. Funcional/1. Sistema/Ficha/Ficha Exemplo.md",
+    "1. Funcional/1. Sistema/Ficha/Ficha Base.md",
     "1. Funcional/2. Recursos/Unidades/Raças Jogáveis/Raças Jogáveis.md",
     "1. Funcional/2. Recursos/Itens/Ferramentas.md",
     "1. Funcional/2. Recursos/Itens/Equipamentos.md",
-    "1. Funcional/2. Recursos/Itens/Consumíveis.md",
     "1. Funcional/2. Recursos/Unidades/Raças Jogáveis/Mágicas/Upel.md",
     "1. Funcional/2. Recursos/Unidades/Raças Jogáveis/Mágicas/Kehara.md",
     "1. Funcional/2. Recursos/Unidades/Raças Jogáveis/Mágicas/Nodonte.md",
@@ -175,18 +190,7 @@
     "1. Funcional/2. Recursos/Unidades/Raças Jogáveis/Mágicas/Ravari.md",
     "1. Funcional/2. Recursos/Unidades/Raças Jogáveis/Primordiais/Cael.md",
     "1. Funcional/2. Recursos/Unidades/Raças Jogáveis/Primordiais/Humanos.md",
-    "1. Funcional/2. Recursos/Unidades/Raças Jogáveis/Primordiais/Helyr.md",
-    "1. Funcional/2. Recursos/Unidades/Raças Jogáveis/Primordiais/Elfos.md",
-    "1. Funcional/2. Recursos/Conhecimentos/Conhecimentos.md",
-    "1. Funcional/2. Recursos/Conhecimentos/Base/Magia.md",
-    "1. Funcional/2. Recursos/Conhecimentos/Base/Guerra.md",
-    "1. Funcional/2. Recursos/Conhecimentos/Base/Astúcia.md",
-    "0. Desenvolvimento/Random.md",
     "Untitled.base",
-    "0. Desenvolvimento/Revisar/1. Material Antigo/Recursos/Geografia/2. Mares.md",
-    "0. Desenvolvimento/Revisar/0. Rascunhos/Recursos Base/Classe Genérica.md",
-    "1. Funcional/1. Sistema/Mecânicas/Atributos.md",
-    "1. Funcional/1. Sistema/Mecânicas/Habilidades.md",
     "1. Funcional/2. Recursos/Classes",
     "1. Funcional.zip",
     "1. Funcional/2. Recursos/Classes/Base",
