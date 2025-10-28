@@ -1,11 +1,11 @@
 No **Conhecimento** da **Guerra** o poder misterioso da **Mana** é usado para aumentar suas capacidades físicas a um nível sobre-humano, fazendo com que possam ser resistentes como uma fortaleza ou tão mortais quantos as próprias armas que empunham.
 
-Possuem a mesma quantia de **Talentos** quanto **Habilidades**, feitos para resistir ou amplificar **Ataques**. Suas funções são:
+Possuem a mesma quantia de **Talentos** quanto **Habilidades**, feitos para resistir ou amplificar **Ataques**. Suas funções são:
 
-* **Dano**: de todas as formas possíveis contra todos os tipos de oponentes.
-* **Tanque**: Resistir a **Ataques**, tendo proteção contra qualquer tipo de ameaça.
+- **Dano**: de todas as formas possíveis contra todos os tipos de oponentes.
+- **Tanque**: Resistir a **Ataques**, tendo proteção contra qualquer tipo de ameaça.
 
-**Aspecto** da **Força**, ou seja possui 1 **Modificador** nas suas modalidades de [[Interpretação]], além de 1 ponto adicional nos [[Atributos]] de **Ataque**, **Defesa** e **Vitalidade**.
+É do **Aspecto** da **Força**, ou seja possui 1 **Modificador** nas suas modalidades de [[Interpretação]], além de 1 ponto adicional nos [[Atributos]] de **Ataque**, **Defesa** e **Vitalidade**.
 
 # Nível Inicial (Novato)
 

@@ -5,7 +5,7 @@ Eles podem usar **Habilidades** para destruir vários alvos simultâneos, contro
 * **Dano**: acompanhado de controle com diversos **Efeitos**.
 * **Suporte**: recuperar recursos para você e seus aliados.
 
-**Aspecto** da **Inteligência**, ou seja possui 1 **Modificador** nas suas modalidades de [[Interpretação]], além de 1 ponto adicional nos [[Atributos]] de **Domínio**, **Maestria** e **Precisão**.
+É do **Aspecto** da **Inteligência**, ou seja possui 1 **Modificador** nas suas modalidades de [[Interpretação]], além de 1 ponto adicional nos [[Atributos]] de **Domínio**, **Maestria** e **Precisão**.
 
 # Nível Inicial (Novato)
 

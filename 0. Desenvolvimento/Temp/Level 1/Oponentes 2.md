@@ -17,7 +17,7 @@ Irmão inteligente, responsável pela logística e estratégia. É elegante ao m
 * Sempre que um dos irmão se movimentar o outro também pode.
 # Odran Wickloo
 
-Irmão burro, responsável pelo trabalho sujo. Rosto desfigurado e não fala na compreensível
+Irmão burro, responsável pelo trabalho sujo. Rosto desfigurado e não fala nada compreensível
 
 **Atributos**:
 * **Alcance**: 3

@@ -1,11 +1,5 @@
 ↪ Shin (Classe 10 ou Básica, Novato)
 
-    ↪ Ângulo de Disparo.
-
-        ↪ Talento, Ofensivo.
-
-        ↪ Em busca de uma melhor mira você sente melhor quando isolado, fazendo que você tenha a Agilidade aumentada em 1, incrementado para 2 se não tiver nenhuma outra unidade próxima no raio de 6 metros.
-
     ↪ Sequência de Tiros.
 
         ↪ Habilidade, Ofensivo, Projétil.
@@ -39,24 +33,6 @@
         ↪ Caso não consuma, cria apenas um pequeno chão falso, que causa 1 Marcador de Enraizamento em quem acionar.
 
         ↪ Armadilhas só ficam prontas no seu próximo turno depois de armadas.
-
-    ↪ Ricochete.
-
-        ↪ Habilidade, Ofensivo, Individual.
-
-        ↪ Requer: Arma de Longo Alcance.
-
-        ↪ Custo: 5 Pontos de Mana, Precisão Garantida (sem arremesso de dados).
-
-        ↪ Se concentra ao máximo em dois alvos, a próxima vez que realizar um Ataque Básico a Longa Distância ele também é realizado nesse outro alvo, ainda respeitando a distância original do ataque (do alvo para o novo alvo).
-
-    ↪ Tiro de Aviso.
-
-        ↪ Talento, Interpretação.
-
-        ↪ Com uma precisão anormal você faz um disparo perto de alguém, bem próximo de seu rosto, o ameaçando.
-
-        ↪ Você tem Intimidação aumentada em um, incrementado para dois caso seja em uma Ação que envolva uma Arma de Longo Alcance. 
 
     ↪ Desarmar Armadilha.
 
