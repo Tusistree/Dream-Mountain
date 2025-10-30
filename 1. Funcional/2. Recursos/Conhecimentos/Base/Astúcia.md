@@ -61,25 +61,25 @@ Você se concentra em dois inimigos enquanto pensa em uma trajetória para os ac
 
 # Nível 1 (Regular)
 
-### Habilidade
+### Afastar
 
 Texto.
 
 Texto.
 
-### Habilidade
+### Ajustar Mira
 
 Texto.
 
 Texto.
 
-### Habilidade
+### Sinalizador
 
 Texto.
 
 Texto.
 
-### Habilidade
+### Disparo de Contusão
 
 Texto.
 
