@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "913b2bd991d74a1a",
+        "id": "8b12dee88b097ef5",
         "type": "tabs",
         "children": [
           {
-            "id": "35110f83f15f923b",
+            "id": "a3394b6b93fb0573",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0. Desenvolvimento/Revisar/1. Material Antigo/Recursos/Classes/Marcial.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Marcial"
+              "title": "New tab"
             }
           }
         ]
@@ -162,8 +158,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "35110f83f15f923b",
+  "active": "37ac9f35bf4fca65",
   "lastOpenFiles": [
+    "1. Funcional/Ideias.md",
+    "1. Funcional/2. Recursos/Conhecimentos/Base/Guerra.md",
+    "1. Funcional/2. Recursos/Conhecimentos/Base/Astúcia.md",
+    "1. Funcional/1. Sistema/Mecânicas/Atributos.md",
+    "1. Funcional/1. Sistema/Mecânicas/Efeitos.md",
+    "1. Funcional/1. Sistema/Mecânicas/Habilidades.md",
+    "1. Funcional/2. Recursos/Conhecimentos/Base/Magia.md",
+    "1. Funcional/2. Recursos/Itens/Ferramentas.md",
+    "1. Funcional/2. Recursos/Conhecimentos/Conhecimentos.md",
+    "0. Desenvolvimento/Revisar/1. Material Antigo/Recursos/Classes/Marcial.md",
     "0. Desenvolvimento/Revisar/1. Material Antigo/Recursos/Classes/Necromancia.md",
     "0. Desenvolvimento/Revisar/1. Material Antigo/Recursos/Classes/Primal.md",
     "0. Desenvolvimento/Revisar/1. Material Antigo/Recursos/Classes/Proteção.md",
@@ -178,18 +184,8 @@
     "0. Desenvolvimento/Revisar/1. Material Antigo/Recursos/Classes/Doma.md",
     "0. Desenvolvimento/Revisar/1. Material Antigo/Recursos/Classes/Exploração.md",
     "0. Desenvolvimento/Revisar/1. Material Antigo/Recursos/Classes/Forja.md",
-    "0. Desenvolvimento/Revisar/1. Material Antigo/Recursos/Classes/Marcial.md",
     "0. Desenvolvimento/Revisar/1. Material Antigo/Recursos/Criaturas/Notas.md",
-    "1. Funcional/2. Recursos/Conhecimentos/Base/Magia.md",
-    "1. Funcional/2. Recursos/Conhecimentos/Base/Guerra.md",
-    "1. Funcional/2. Recursos/Conhecimentos/Base/Astúcia.md",
     "0. Desenvolvimento/Revisar/1. Material Antigo/Recursos/Classes/Coleção.md",
-    "1. Funcional/Lista de Afazeres.md",
-    "1. Funcional/Ideias.md",
-    "0. Desenvolvimento/Temp/Level 1/Oponentes 2.md",
-    "0. Desenvolvimento/Temp/Level 1/Oponentes 3.md",
-    "0. Desenvolvimento/Temp/Level 1/Oponentes 4.md",
-    "0. Desenvolvimento/Temp/Level 1/Chefe 1.md",
     "Untitled.base",
     "1. Funcional/2. Recursos/Classes",
     "1. Funcional.zip",
