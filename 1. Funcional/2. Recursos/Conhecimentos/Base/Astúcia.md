@@ -31,7 +31,7 @@ Habilidade Física, Ofensivo, Toque.
 Em lutas reais a honra é apenas uma limitação. Realiza um **Ataque** contra o **Oponente**. Se a última **Ação Principal** ou **Ataque** do **Alvo** foi de uma direção **Oposta** de onde você realizou **Apunhalar** o **Dano** é aumentado pela **Metade** e o **Custo de Mana** é restituído.
 ### Degolar
 
-Habilidade Física, Ofensivo, Toque.
+Habilidade Física, Controle, Toque.
 
 **Precisão Normal**, requer alguma **Arma** e **Custa** 2 pontos de **Mana**.
 
@@ -89,7 +89,7 @@ Habilidade Física, Controle, Projétil.
 
 **Precisão Normal**, requer alguma **Arma de Longo Alcance** e **Custa** 4 pontos de **Mana**.
 
-Um disparo não letal para nocautear seus oponentes. Realiza um **Ataque** que causa 1 **Efeito** de **Atordoamento** se foi a primeira vez que você acertou aquele **Oponente** com essa **Habilidade**, ou 3 **Efeitos** de **Redução** de **Velocidade**.
+Um disparo não letal para nocautear seus oponentes. Realiza um **Ataque** que causa 1 **Efeito** de **Atordoamento** se foi a primeira vez que você acertou aquele **Oponente** com essa **Habilidade**, ou **1d4** **Efeitos** de **Redução** de **Velocidade**.
 
 Pode ser usado apenas uma vez em **Planos de Interpretação** fazendo com que você colo que um 1 **Efeito** de **Sono** no **Alvo** até o fim do **Plano**.
 
@@ -115,41 +115,49 @@ Pode ser usado apenas uma vez por **Plano** com **Precisão Garantida** em **Pla
 
 # Nível 2 (Entusiasta)
 
-### Habilidade
+### Arremesso de Itens
 
-Texto.
+Talento Físico, Utilidade.
 
-Texto.
+Pode ser um grogue ou veneno. Quando você for usar um **Consumível**, você pode ao invés disso o arremessar em um **Alvo** aplicando seus **Efeitos** nele. A distância do arremesso é igual a seu **Alcance**.
 
-### Habilidade
+### Cortar Tendão
 
-Texto.
+Habilidade Física, Controle, Toque.
 
-Texto.
+**Precisão Normal**, requer alguma **Arma** e **Custa** 2 pontos de **Mana**.
 
-### Habilidade
+A fraqueza de um corredor é o seu calcanhar. Realiza um **Ataque** contra o **Oponente**, porém com apenas metade do **Dano**, aplicando **1d4** **Efeitos** de **Redução** de **Velocidade**.
 
-Texto.
+### Disparo de Precisão
 
-Texto.
+Habilidade Física, Mobilidade e Utilidade, Projétil.
 
-### Habilidade
+**Precisão Garantida**, requer alguma **Arma de Longo Alcance** e **Custa** 4 pontos de **Mana**.
 
-Texto.
+Sem erros. Realiza um **Ataque**, porém pode ser usado como uma **Ação de Combate** (além de também poder ser **Principal**).
 
-Texto.
+### Golpe Oportuno 
 
-### Habilidade
+Talento Físico, Ofensivo.
 
-Texto.
+Apenas assegurando o trabalho. Ao causar **Dano**, que não seja de **Efeitos**, em um **Oponente** que tenha sofrido **Dano** de outro **Aliado** seu, faz com que você use metade desse **Dano** como um adicional.
 
-Texto.
+### Passo Oculto
 
-### Habilidade
+Habilidade Mágica, Mobilidade.
 
-Texto.
+**Precisão Normal** e **Custa** 3 pontos de **Mana**.
 
-Texto.
+Sumiço como um truque de mágica. Você sai do **Plano de Combate** para o **Plano de Interpretação** sem ser visto por inimigos. A primeira **Ação** cancela o **Passo Oculto** no final do turno. Esse **Efeito Único** pode ser anulado com uma **Dissipação Fraca** ou sofrer **Dano**.
+
+### Sequência de Disparos
+
+Habilidade Física, Mobilidade e Utilidade, Projétil.
+
+**Precisão Normal**, requer alguma **Arma de Longo Alcance** e **Custa** 2 + 3 pontos de **Mana** para cada **Munição**.
+
+Se tem é para usar. Realiza um **Ataque**, porém também causando **Dano** adicional igual a **1d4** vezes o **Dano** da **Munição** (consumindo essa quantia de **Munição**).
 
 # Nível 3 (Especialista)
 

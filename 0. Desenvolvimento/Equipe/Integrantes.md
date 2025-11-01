@@ -3,7 +3,7 @@
 **Tenho:**
 Versatilidade;
 Criatividade;
-Habilidade de escrita (enredo a worldbuilding).
+Escrita (enredo a worldbuilding).
 
 **Não tenho:**
 Conhecimento Técnico.

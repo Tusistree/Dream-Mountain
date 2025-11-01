@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8b12dee88b097ef5",
+        "id": "98ea3e9a7e515244",
         "type": "tabs",
         "children": [
           {
-            "id": "a3394b6b93fb0573",
+            "id": "aa705338553daa5b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -158,17 +158,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "37ac9f35bf4fca65",
+  "active": "aa705338553daa5b",
   "lastOpenFiles": [
-    "1. Funcional/Ideias.md",
-    "1. Funcional/2. Recursos/Conhecimentos/Base/Guerra.md",
+    "0. Desenvolvimento/Equipe/Integrantes Opcionais.md",
+    "0. Desenvolvimento/Equipe/Integrantes.md",
     "1. Funcional/2. Recursos/Conhecimentos/Base/Astúcia.md",
+    "1. Funcional/2. Recursos/Unidades/Raças Jogáveis/Primordiais/Elfos.md",
+    "1. Funcional/2. Recursos/Itens/Consumíveis.md",
+    "1. Funcional/2. Recursos/Conhecimentos/Conhecimentos.md",
+    "1. Funcional/2. Recursos/Conhecimentos/Base/Guerra.md",
+    "0. Desenvolvimento/Equipe",
+    "1. Funcional/Ideias.md",
     "1. Funcional/1. Sistema/Mecânicas/Atributos.md",
     "1. Funcional/1. Sistema/Mecânicas/Efeitos.md",
     "1. Funcional/1. Sistema/Mecânicas/Habilidades.md",
     "1. Funcional/2. Recursos/Conhecimentos/Base/Magia.md",
     "1. Funcional/2. Recursos/Itens/Ferramentas.md",
-    "1. Funcional/2. Recursos/Conhecimentos/Conhecimentos.md",
     "0. Desenvolvimento/Revisar/1. Material Antigo/Recursos/Classes/Marcial.md",
     "0. Desenvolvimento/Revisar/1. Material Antigo/Recursos/Classes/Necromancia.md",
     "0. Desenvolvimento/Revisar/1. Material Antigo/Recursos/Classes/Primal.md",
@@ -182,10 +187,6 @@
     "0. Desenvolvimento/Revisar/1. Material Antigo/Recursos/Classes/Cultivo.md",
     "0. Desenvolvimento/Revisar/1. Material Antigo/Recursos/Classes/Elemental.md",
     "0. Desenvolvimento/Revisar/1. Material Antigo/Recursos/Classes/Doma.md",
-    "0. Desenvolvimento/Revisar/1. Material Antigo/Recursos/Classes/Exploração.md",
-    "0. Desenvolvimento/Revisar/1. Material Antigo/Recursos/Classes/Forja.md",
-    "0. Desenvolvimento/Revisar/1. Material Antigo/Recursos/Criaturas/Notas.md",
-    "0. Desenvolvimento/Revisar/1. Material Antigo/Recursos/Classes/Coleção.md",
     "Untitled.base",
     "1. Funcional/2. Recursos/Classes",
     "1. Funcional.zip",
@@ -196,7 +197,6 @@
     "0. Desenvolvimento/Revisar/2. Material Mais Antigo/2. Proteção.txt",
     "0. Desenvolvimento/Revisar/2. Material Mais Antigo/1. Armamento.txt",
     "0. Desenvolvimento/Revisar/2. Material Mais Antigo/1. Artilharia.txt",
-    "0. Desenvolvimento/2. Material Mais Antigo/~WRL0929.tmp",
     "Untitled.canvas",
     "Pasted image 20250330143144.png",
     "Pasted image 20250106145205.png",
