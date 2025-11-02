@@ -11,10 +11,14 @@
             "id": "aa705338553daa5b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "0. Desenvolvimento/Auxílio/Git.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Git"
             }
           }
         ]
@@ -160,6 +164,10 @@
   },
   "active": "aa705338553daa5b",
   "lastOpenFiles": [
+    "Leia me.md",
+    "0. Desenvolvimento/Auxílio/Git.md",
+    "0. Desenvolvimento/Auxílio",
+    "1. Funcional/0. Guia/Introdução.md",
     "0. Desenvolvimento/Equipe/Integrantes Opcionais.md",
     "0. Desenvolvimento/Equipe/Integrantes.md",
     "1. Funcional/2. Recursos/Conhecimentos/Base/Astúcia.md",
@@ -184,9 +192,6 @@
     "0. Desenvolvimento/Revisar/1. Material Antigo/Recursos/Classes/Armamento.md",
     "0. Desenvolvimento/Revisar/1. Material Antigo/Recursos/Classes/Artilharia.md",
     "0. Desenvolvimento/Revisar/1. Material Antigo/Recursos/Classes/Composição.md",
-    "0. Desenvolvimento/Revisar/1. Material Antigo/Recursos/Classes/Cultivo.md",
-    "0. Desenvolvimento/Revisar/1. Material Antigo/Recursos/Classes/Elemental.md",
-    "0. Desenvolvimento/Revisar/1. Material Antigo/Recursos/Classes/Doma.md",
     "Untitled.base",
     "1. Funcional/2. Recursos/Classes",
     "1. Funcional.zip",
@@ -196,7 +201,6 @@
     "0. Desenvolvimento/Revisar/2. Material Mais Antigo/3. Marcial.txt",
     "0. Desenvolvimento/Revisar/2. Material Mais Antigo/2. Proteção.txt",
     "0. Desenvolvimento/Revisar/2. Material Mais Antigo/1. Armamento.txt",
-    "0. Desenvolvimento/Revisar/2. Material Mais Antigo/1. Artilharia.txt",
     "Untitled.canvas",
     "Pasted image 20250330143144.png",
     "Pasted image 20250106145205.png",
