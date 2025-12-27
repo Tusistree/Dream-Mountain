@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "db54ba63a82a40f7",
+        "id": "11ef8ea6dc6ce237",
         "type": "tabs",
         "children": [
           {
-            "id": "b71d5d0105194c46",
+            "id": "77bd956b8327b931",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desenvolvimento/Equipe/Integrantes.md",
+                "file": "Funcional/Guia/Introdução.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Integrantes"
+              "title": "Introdução"
             }
           }
         ]
@@ -162,34 +162,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b71d5d0105194c46",
+  "active": "77bd956b8327b931",
   "lastOpenFiles": [
-    "Desenvolvimento/Equipe/Integrantes Opcionais.md",
-    "Desenvolvimento/Equipe/Integrantes.md",
-    "Desenvolvimento/Feedback/Sessão Japão 1 e 2.md",
-    "Desenvolvimento/Revisar/1. Material Antigo/Recursos/Classes/Artilharia.md",
-    "Desenvolvimento/Revisar/1. Material Antigo/Recursos/Classes/Alquimia.md",
-    "Desenvolvimento/Revisar/1. Material Antigo/Recursos/Classes/Sagrado.md",
-    "Desenvolvimento/Revisar/1. Material Antigo/Recursos/Classes/Trapaça.md",
-    "Desenvolvimento/Revisar/1. Material Antigo/Recursos/Classes/Composição.md",
-    "Desenvolvimento/Revisar/1. Material Antigo/Recursos/Classes/Cultivo.md",
-    "Desenvolvimento/Revisar/1. Material Antigo/Recursos/Classes/Doma.md",
-    "Desenvolvimento/Revisar/1. Material Antigo/Recursos/Classes/Exploração.md",
-    "Desenvolvimento/Revisar/1. Material Antigo/Recursos/Classes/Marcial.md",
-    "Desenvolvimento/Revisar/1. Material Antigo/Recursos/Classes/Necromancia.md",
-    "Desenvolvimento/Revisar/1. Material Antigo/Recursos/Classes/Primal.md",
-    "Desenvolvimento/Revisar/1. Material Antigo/Recursos/Classes/Forja.md",
-    "Desenvolvimento/Revisar/1. Material Antigo/Recursos/Classes/Arcano.md",
-    "Desenvolvimento/Revisar/1. Material Antigo/Recursos/Classes/Elemental.md",
-    "Desenvolvimento/Revisar/1. Material Antigo/Recursos/Classes/Construção.md",
-    "Funcional/Guia/Introdução.md",
-    "Desenvolvimento/Auxílio/Git.md",
-    "Desenvolvimento/Auxílio/Ideias.md",
-    "Desenvolvimento/Auxílio/Lista de Afazeres.md",
+    "Funcional/Guia/Outras informações.md",
+    "Funcional/Recursos/Conhecimentos/Conhecimentos.md",
+    "Funcional/Recursos/Conhecimentos/Base/Astúcia.md",
+    "Funcional/Recursos/Conhecimentos/Base/Guerra.md",
+    "Funcional/Recursos/Conhecimentos/Base/Magia.md",
+    "Funcional/Recursos/Itens/Ferramentas.md",
+    "Funcional/Recursos/Itens/Equipamentos.md",
+    "Funcional/Recursos/Itens/Consumíveis.md",
+    "Funcional/Recursos/Unidades/Raças Jogáveis/Mágicas/Kehara.md",
+    "Funcional/Recursos/Unidades/Raças Jogáveis/Mágicas/Nodonte.md",
+    "Funcional/Recursos/Unidades/Raças Jogáveis/Mágicas/Nufia.md",
+    "Funcional/Recursos/Unidades/Raças Jogáveis/Mágicas/Ravari.md",
+    "Funcional/Recursos/Unidades/Raças Jogáveis/Mágicas/Upel.md",
+    "Funcional/Recursos/Unidades/Raças Jogáveis/Primordiais/Cael.md",
+    "Funcional/Recursos/Unidades/Raças Jogáveis/Primordiais/Elfos.md",
+    "Funcional/Recursos/Unidades/Raças Jogáveis/Primordiais/Helyr.md",
+    "Funcional/Recursos/Unidades/Raças Jogáveis/Primordiais/Humanos.md",
+    "Funcional/Recursos/Unidades/Raças Jogáveis/Raças Jogáveis.md",
+    "Funcional/Sistema/Ficha/Ficha Exemplo.md",
+    "Funcional/Sistema/Ficha/Ficha Base.md",
+    "Funcional/Sistema/Mecânicas/Atributos.md",
     "Funcional/Sistema/Mecânicas/Interpretação.md",
     "Funcional/Sistema/Mecânicas/Habilidades.md",
-    "Funcional/Recursos/Conhecimentos/Base/Guerra.md",
     "Funcional/Sistema/Mecânicas/Efeitos.md",
+    "Funcional/Sistema/Regras/Notas.md",
+    "Leia me.md",
     "Desenvolvimento/Feedback",
     "Funcional/Sistema/Regras",
     "Desenvolvimento/Auxílio",
