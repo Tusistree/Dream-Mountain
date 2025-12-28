@@ -71,7 +71,7 @@ Seus reflexos são afiados ao ponto de te dar oportunidades para se defender com
 
 Habilidade Física, Controle, Toque.
 
-**Precisão Normal** e **Custa** 5 pontos de **Mana**.
+**Precisão Normal** e **Custa** 6 pontos de **Mana**.
 
 A arte de bloquear ataques é a mesma de devolver na mesma moeda. Essa **Habilidade** só pode ser usada fora de seu **Turno**, apenas uma vez até voltar o seu **Turno** e possui 1 metro de **Alcance** adicional. Anula o **Ataque** de um **Oponente**, se aproximando dele e devolvendo o **Dano**, mas sem escalar com sua **Maestria**.
 
@@ -93,7 +93,7 @@ Apenas lutas desfavoráveis podem revelar o seu valor. Aumenta o seu **Ataque** 
 
 Habilidade Física, Controle, Toque.
 
-**Precisão Normal**, requer **Escudo** e **Custa** 5 pontos de **Mana**.
+**Precisão Normal**, requer **Escudo** e **Custa** 6 pontos de **Mana**.
 
 A mesma força para desestabilizar seus adversários com o escudo pode ser usado como uma pancada ao chão, chamando a atenção de todos. Realiza um **Ataque** no **Oponente**, porém com apenas metade do **Dano** e **Maestria**, o fazendo receber 2 **Efeitos** de **Redução** de **Ataque**, ou **Maestria** a sua escolha.
 
@@ -103,7 +103,7 @@ Pode ser usado apenas uma vez por **Plano** com **Precisão Garantida** em **Pla
 
 Habilidade Física, Ofensivo e Utilidade, Toque.
 
-**Precisão Normal**, requer alguma **Arma** e **Custa** 5 pontos de **Mana**.
+**Precisão Normal**, requer alguma **Arma** e **Custa** 6 pontos de **Mana**.
 
 Com pequenos avanços você consegue ter todos os adversários ao seu alcance. Realiza um **Ataque** no **Oponente**, porém se ele estiver em até 2 metros de diferença de você se aproxima dele para realizar esse **Ataque**. O mesmo ocorre para seu próximo **Ataque Básico** nesse **Turno**.
 
@@ -115,7 +115,7 @@ Pode ser usado apenas uma vez por **Plano** com **Precisão Garantida** em **Pla
 
 Habilidade Física, Ofensivo, Toque.
 
-**Precisão Normal**, requer alguma **Arma** e **Custa** 11 pontos de **Mana**.
+**Precisão Normal**, requer alguma **Arma** e **Custa** 12 pontos de **Mana**.
 
 Realiza dois golpes velozes, ambos fatais. Realiza dois **Ataques** contra o **Oponente**, cada um deles escalando com a sua **Maestria** separadamente.
 
@@ -129,7 +129,7 @@ Você se torna mais forte a medida da sua precisão. Toda vez que você acertar 
 
 Habilidade Física, Controle e Ofensivo, Toque.
 
-**Precisão Normal**, requer alguma **Arma** e **Custa** 5 pontos de **Mana**.
+**Precisão Normal**, requer alguma **Arma** e **Custa** 7 pontos de **Mana**.
 
 Um ataque sangramento usando a parte mais fina e afiada da arma. Realiza um **Ataque** no **Oponente**, porém com apenas metade do **Dano** e **Maestria**, o fazendo receber 2 **Efeitos** de **Sangramento**, ou 2 de **Desgaste** a sua escolha.
 
@@ -179,7 +179,7 @@ Anos de treinamento o fizeram uma máquina para qualquer atividade física. Gara
 
 Habilidade Física Interpretativa, Controle, Individual.
 
-**Precisão Normal** e **Custa** 11 pontos de **Mana**.
+**Precisão Normal** e **Custa** 12 pontos de **Mana**.
 
 Você consegue expressar todas as atrocidades que quer cometer com alguém apenas no olhar. Assusta e inutiliza um **Alvo**, fazendo ele correr e não participar do **Combate**. Só pode ser usado uma vez por **Plano**, e apenas contra **Alvos** com nível semelhante ou inferior ao seu e sem ser **Chefes**. Acerto **Crítico** assusta até 5 **Alvos** de uma vez.
 
@@ -229,7 +229,7 @@ Sua resistência a condições extremas é elevada a além do limite. Sua **Tole
 
 Habilidade Física, Controle, Área.
 
-**Precisão Normal**, **Custa** 11 pontos de **Mana**.
+**Precisão Normal**, **Custa** 13 pontos de **Mana**.
 
 Um pulo alto, atacando todos na aterrisagem. Dentro de um raio igual ao seu **Ataque** salta para aquela direção, realizando um **Ataque** em todos os **Oponentes** dentro de um raio de 5 metros da nova posição. 
 
@@ -237,7 +237,7 @@ Um pulo alto, atacando todos na aterrisagem. Dentro de um raio igual ao seu **At
 
 Habilidade Física, Controle, Área.
 
-**Precisão Normal**, requer **Escudo** e **Custa** 11 pontos de **Mana**.
+**Precisão Normal**, requer **Escudo** e **Custa** 13 pontos de **Mana**.
 
 Uma batida de escudo no chão que chama a atenção de todos os adversários. Em um raio igual a sua **Vitalidade** força todos os **Oponentes** a só poderem se movimentar em sua direção, atacar ou usar **Habilidades** com você como **Alvo**, até o seu próximo **Turno**.
 
@@ -247,7 +247,7 @@ Uma batida de escudo no chão que chama a atenção de todos os adversários. Em
 
 Habilidade Física, Ofensivo, Projétil.
 
-**Precisão Normal**, requer alguma **Arma** e **Custa** 11 pontos de **Mana**.
+**Precisão Normal**, requer alguma **Arma** e **Custa** 14 pontos de **Mana**.
 
 Muitos não conseguem explicar como em cada arremesso suas armas sempre retornam magicamente para a sua mão. Arremessa sua **Arma** em um **Oponente** dentro do **Alcance**, causando o **Dano** apenas como se tivesse aquele **Equipamento** como **Arma**. Pode atingir até mais dois **Oponentes** dentro do seu **Alcance**, fazendo com que a **Arma** retorne equipada em sua **Mão** no final do trajeto.
 
@@ -263,7 +263,7 @@ Cada arma é escolhida a dedo para cada situação. Aumenta a **Defesa** e **Let
 
 Habilidade Física, Defensivo e Ofensivo, Individual.
 
-**Precisão Normal**, **Custa** 10 pontos de **Mana**.
+**Precisão Normal**, **Custa** 15 pontos de **Mana**.
 
 Um estado de fúria, esquecendo completamente toda disciplina e anos de treino, confiando apenas na sua força e ódio. Entra em um outro **Estado**, se silenciando permanentemente e não podendo usar **Itens** como **Ação**. Nesse **Estado** você recebe metade do **Dano** e **Efeitos** por **Habilidades** e **Itens**, além de sempre no fim do seu **Turno** realizar um **Ataque** básico, sem consumir **Ação**, e todos os seus **Ataques** atingirem todos os **Oponentes** dentro do **Alcance**. Esse estado **Custa** 2 pontos de **Mana** cada começo de turno para se manter, e pode ser desativado optando por não pagar o **Custo** adicional.
 
@@ -273,7 +273,7 @@ Pode ser usado com **Precisão Garantida** e **Custo** 2 pontos de **Mana** em *
 
 Habilidade Física, Defensivo, Individual.
 
-**Precisão Normal**, requer **Escudo** e **Custa** 19 pontos de **Mana**.
+**Precisão Normal**, requer **Escudo** e **Custa** 20 pontos de **Mana**.
 
 Convivência é necessária para a resistência no fronte. Escolhe um **Aliado**, independente da distância, fazendo com que você e ele recebam um **Aumento** de 2 de **Defesa**, suas **Defesas** sejam somadas e depois dividas igualmente até o fim do **Combate**.
 
@@ -305,7 +305,7 @@ Ninguém pode passar por você. Aumenta a **Velocidade** em 2. Se algum **Oponen
 
 Habilidade Física, Defensivo, Individual.
 
-**Precisão Normal**, requer **Escudo** e **Custa** 10 pontos de **Mana**.
+**Precisão Normal**, requer **Escudo** e **Custa** 15 pontos de **Mana**.
 
 Sua guarda pode defender, além de ataques letais, a grandes feitiços. Fora de seu **Turno** anula qualquer **Ação** que tenha você como **Alvo** ou afetado pela **Área de Efeito**. Recebe 2 **Efeitos** de **Desgaste**.
 
@@ -313,7 +313,7 @@ Sua guarda pode defender, além de ataques letais, a grandes feitiços. Fora de 
 
 Habilidade Física, Ofensivo, Toque.
 
-**Precisão Garantida**, requer alguma **Arma** e **Custa** 11 pontos de **Mana**.
+**Precisão Garantida**, requer alguma **Arma** e **Custa** 15 pontos de **Mana**.
 
 Um golpe limpo que decapita o seu adversário. Essa **Habilidade** só pode ser usada em **Monstros** ou **NPCs** com dois **Níveis** inferiores ao seu. Executa o **Alvo**. Pode também ser usado em **Oponentes** com um quinto dos pontos de **Vida**, independente do **Nível** ou seu **Tipo** de **Unidade**.
 
@@ -321,7 +321,7 @@ Um golpe limpo que decapita o seu adversário. Essa **Habilidade** só pode ser 
 
 Habilidade Física, Controle, Área.
 
-**Precisão Garantida**, **Custa** 11 pontos de **Mana**.
+**Precisão Garantida**, **Custa** 15 pontos de **Mana**.
 
 Um passo forte que cria uma pequena cratera no chão, desestabilizando os oponentes e os arrastando até você. Realiza um **Ataque** em todos os **Oponentes** dentro de um raio igual ao seu **Alcance**, porém com metade do **Dano**. o **Alvos** atingidos recebem 1 **Efeito** Atordoamento e são movidos a você até o **Alcance** de **Toque**. Recebe 2 **Efeitos** de **Desgaste**.
 
@@ -369,7 +369,7 @@ Realiza vários ataques fatais contra o alvo. Realiza 1d6 **Ataques** contra o *
 
 Habilidade Física, Utilidade, Individual.
 
-**Precisão Normal**, **Custa** 19 pontos de **Mana**.
+**Precisão Normal**, **Custa** 21 pontos de **Mana**.
 
 Você consegue se libertar de qualquer limitação, seja mágica ou física. Aplica uma **Dissipação Forte** a si mesmo em todos os **Efeitos Negativos**, podendo ser usado mesmo **Inutilizado**. A cada **Plano** pode ser usada pelo menos uma vez fora de seu **Turno**.
 
@@ -377,7 +377,7 @@ Você consegue se libertar de qualquer limitação, seja mágica ou física. Apl
 
 Habilidade Física, Defensivo, Toque.
 
-**Precisão Normal**, requer **Escudo** e **Custa** 19 pontos de **Mana**.
+**Precisão Normal**, requer **Escudo** e **Custa** 21 pontos de **Mana**.
 
 Um golpe sangrento, ferindo tanto você quanto o adversário, o assuntando com a insanidade. Você pode sacrificar até metade dos seus pontos de **Vida** atual, arredondado para baixo, para causar como **Dano** ao **Oponente**, recebendo 1 **Efeito** de **Medo**. Acerto **Crítico** não dobra o **Dano**, mas aplica o **Medo** em todos **Oponentes**, independente da distância.
 
