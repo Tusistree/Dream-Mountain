@@ -26,14 +26,14 @@ Quanto mais silencioso o local, melhor é a mira. Aumenta o seu **Precisão** em
 
 Habilidade Física, Ofensivo, Toque.
 
-**Precisão Normal**, requer alguma **Arma** e **Custa** 2 pontos de **Mana**.
+**Precisão Normal**, requer alguma **Arma** e **Custa** 5 pontos de **Mana**.
 
 Em lutas reais a honra é apenas uma limitação. Realiza um **Ataque** contra o **Oponente**. Se a última **Ação Principal** ou **Ataque** do **Alvo** foi de uma direção **Oposta** de onde você realizou **Apunhalar** o **Dano** é aumentado pela **Metade** e o **Custo de Mana** é restituído.
 ### Degolar
 
 Habilidade Física, Controle, Toque.
 
-**Precisão Normal**, requer alguma **Arma** e **Custa** 2 pontos de **Mana**.
+**Precisão Normal**, requer alguma **Arma** e **Custa** 5 pontos de **Mana**.
 
 Uma forma educada de pedir silêncio. Realiza um **Ataque** contra o **Oponente**, porém com apenas metade do **Dano**. A ultima **Habilidade** usada por aquele **Alvo** não pode ser usada novamente até o seu próximo **Turno**.
 
@@ -41,7 +41,7 @@ Uma forma educada de pedir silêncio. Realiza um **Ataque** contra o **Oponente*
 
 Habilidade Física, Ofensivo, Projétil.
 
-**Precisão Difícil**, requer alguma **Arma de Longo Alcance** e **Custa** 3 pontos de **Mana**.
+**Precisão Difícil**, requer alguma **Arma de Longo Alcance** e **Custa** 5 pontos de **Mana**.
 
 Um disparo para o alto para deixar todos atentos. Consome uma de qualquer **Munição**, mas sem realizar um **Ataque**. Causa 1 **Efeito** de **Enraizamento** em todos os **Oponentes** dentro do seu **Alcance**, ou **Medo** se houver um **Crítico**. Não pode ser usado no mesmo **Combate** depois de um acerto.
 
@@ -55,7 +55,7 @@ Seus movimentos são breves e sempre deixam uma lembrança. Quando em **Moviment
 
 Habilidade Física, Ofensivo, Projétil.
 
-**Precisão Normal**, requer alguma **Arma de Longo Alcance** e **Custa** 2 pontos de **Mana**.
+**Precisão Normal**, requer alguma **Arma de Longo Alcance** e **Custa** 5 pontos de **Mana**.
 
 Você se concentra em dois inimigos enquanto pensa em uma trajetória para os acertar com apenas uma munição. Realiza um **Ataque** que rebate e acerta um **Alvo** adicional com o dobro do **Alcance**. O primeiro **d20** define a efetividade dos dois **Ataques**.
 
@@ -65,7 +65,7 @@ Você se concentra em dois inimigos enquanto pensa em uma trajetória para os ac
 
 Habilidade Física, Controle, Toque.
 
-**Precisão Normal** e **Custa** 3 pontos de **Mana**.
+**Precisão Normal** e **Custa** 7 pontos de **Mana**.
 
 Espaço é ideal para um atirador. Realiza um **Ataque** contra o **Oponente** com apenas metade do **Dano**, porém o afastando 3 metros para qualquer direção a partir de você.
 
@@ -87,7 +87,7 @@ Talento Físico, Utilidade.
 
 Habilidade Física, Controle, Projétil.
 
-**Precisão Normal**, requer alguma **Arma de Longo Alcance** e **Custa** 4 pontos de **Mana**.
+**Precisão Normal**, requer alguma **Arma de Longo Alcance** e **Custa** 7 pontos de **Mana**.
 
 Um disparo não letal para nocautear seus oponentes. Realiza um **Ataque** que causa 1 **Efeito** de **Atordoamento** se foi a primeira vez que você acertou aquele **Oponente** com essa **Habilidade**, ou **1d4** **Efeitos** de **Redução** de **Velocidade**.
 
@@ -97,7 +97,7 @@ Pode ser usado apenas uma vez em **Planos de Interpretação** fazendo com que v
 
 Habilidade Física, Controle, Toque.
 
-**Precisão Improvável** e **Custa** 2 pontos de **Mana**.
+**Precisão Improvável** e **Custa** 7 pontos de **Mana**.
 
 Achado não é roubado. Tenta roubar um **Item** a sua escolha do **Alvo**, porém as **Ferramentas** em uso dele apenas com acerto **Crítico** (Acertos garantem uma checagem da descrição de todos **Itens** equipados e armazenados no **Inventário** ou **Mochila**).
 
@@ -107,7 +107,7 @@ Pode ser usado apenas uma vez por **Plano** com **Precisão Normal** em **Planos
 
 Habilidade Física, Mobilidade e Utilidade, Projétil.
 
-**Precisão Normal**, requer alguma **Arma de Longo Alcance** e **Custa** 5 pontos de **Mana**.
+**Precisão Normal**, requer alguma **Arma de Longo Alcance** e **Custa** 7 pontos de **Mana**.
 
 Um disparo com uma luz tão forte que faz alguns se questionarem se é uma magia ou não. Dispara em um local, consumindo 1 **Munição** e não causando **Dano**, fazendo com que todos os **Aliados** possam se mover neste **Turno** em linha reta para aquela direção, dentro de suas próprias **Velocidades**. Não é possível usar essa **Habilidade** mais de uma vez nesse **Combate**.
 
@@ -125,7 +125,7 @@ Pode ser um grogue ou veneno. Quando você for usar um **Consumível**, você po
 
 Habilidade Física, Controle, Toque.
 
-**Precisão Normal**, requer alguma **Arma** e **Custa** 2 pontos de **Mana**.
+**Precisão Normal**, requer alguma **Arma** e **Custa** 10 pontos de **Mana**.
 
 A fraqueza de um corredor é o seu calcanhar. Realiza um **Ataque** contra o **Oponente**, porém com apenas metade do **Dano**, aplicando **1d4** **Efeitos** de **Redução** de **Velocidade**.
 
@@ -133,7 +133,7 @@ A fraqueza de um corredor é o seu calcanhar. Realiza um **Ataque** contra o **O
 
 Habilidade Física, Mobilidade e Utilidade, Projétil.
 
-**Precisão Garantida**, requer alguma **Arma de Longo Alcance** e **Custa** 4 pontos de **Mana**.
+**Precisão Garantida**, requer alguma **Arma de Longo Alcance** e **Custa** 10 pontos de **Mana**.
 
 Sem erros. Realiza um **Ataque**, porém pode ser usado como uma **Ação de Combate** (além de também poder ser **Principal**).
 
@@ -147,7 +147,7 @@ Apenas assegurando o trabalho. Ao causar **Dano**, que não seja de **Efeitos**,
 
 Habilidade Mágica, Mobilidade.
 
-**Precisão Normal** e **Custa** 3 pontos de **Mana**.
+**Precisão Normal** e **Custa** 10 pontos de **Mana**.
 
 Sumiço como um truque de mágica. Você sai do **Plano de Combate** para o **Plano de Interpretação** sem ser visto por inimigos. A primeira **Ação** cancela o **Passo Oculto** no final do turno. Esse **Efeito Único** pode ser anulado com uma **Dissipação Fraca** ou sofrer **Dano**.
 
@@ -155,7 +155,7 @@ Sumiço como um truque de mágica. Você sai do **Plano de Combate** para o **Pl
 
 Habilidade Física, Mobilidade e Utilidade, Projétil.
 
-**Precisão Normal**, requer alguma **Arma de Longo Alcance** e **Custa** 2 + 3 pontos de **Mana** para cada **Munição**.
+**Precisão Normal**, requer alguma **Arma de Longo Alcance** e **Custa** 5 + 2 pontos de **Mana** para cada **Munição**.
 
 Se tem é para usar. Realiza um **Ataque**, porém também causando **Dano** adicional igual a **1d4** vezes o **Dano** da **Munição** (consumindo essa quantia de **Munição**).
 
